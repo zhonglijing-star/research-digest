@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "topics": [
     {
       "id": "governance",
@@ -67,6 +67,33 @@
   ],
   "articles": [
     {
+      "id": "doi:10.5281/zenodo.23316414",
+      "title": "Data and code for: Who wins depends on who judges: re-grading published LoCoMo and LongMemEval answers of agent memory systems",
+      "abstract": "Verdicts, labels, tables and code for a study of how published long-term memory leaderboards for LLM agents depend on the LLM judge. The 47,253 unique answers that vendors and third parties published for 50 answer sets (36 LoCoMo, 14 LongMemEval-S; 10 memory products and 9 baselines) were re-graded by a grid of 20 judge configurations (gpt-4o-mini, gpt-4.1-mini and gpt-5-mini on both benchmarks, gpt-4o on LongMemEval-S only, each with five prompts): 737,115 verdicts. A reference judge (gpt-5.4, reasoning effort low) graded 5,000 of the answers under the same five prompts: 25,000 verdicts. 250 disputed answers carry three-way labels (CORRECT, PARTIAL, WRONG) from an LLM annotator in two independent blind passes; these are model labels, not human labels. Question, gold and answer texts and raw judge replies are not included, because they belong to the benchmark authors and the vendors or can quote them. Every key resolves to the public source files listed with URL, commit and SHA-256 in code/manifest.json, and the included code rebuilds the aligned answers. See README.md.",
+      "authors": "Vitalii Cherepanov",
+      "published": "2026-10-12",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23316414",
+      "arxiv_id": "",
+      "kind": "dataset",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23316414",
+      "oa_url": "https://doi.org/10.5281/zenodo.23316414",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及agent memory",
+      "fetched_at": "2026-10-13T17:35:42.854438+00:00",
+      "digest_day": "2026-10-14",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
       "id": "arxiv:2606.24322",
       "title": "Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees",
       "abstract": "LLM agents increasingly rely on persistent long-term memory, which creates a critical vulnerability that we study here: memory poisoning. An adversary can store untrusted content in one session that later steers a consequential action, such as a payment, a setting change, or data exfiltration, in a future session. Existing defenses base a memory item's authority to act on either its content (detection or trust-scoring) or its derivation history (lineage). We show that both signals are malleable. An attacker can launder an untrusted origin through three channels specific to LLM agents: the agent's own summarization, a trusted-tool echo, and manufactured corroboration. Each makes the content look benign and breaks or flips its derivation edge to ``trusted.'' We formalize malleability for the memory write-retrieve-act pipeline and prove a machine-checked separation theorem. No content- or lineage-based defense is sound under laundering (T1), write-time origin binding is necessary (T2), and non-malleable origin-bound authority with Sybil-resistant corroboration-gated elevation is sufficient (T3). Our construction, TMA-NM (Tamper-evident Memory Authority, Non-Malleable), instantiates non-malleable information-flow control (IFC) for LLM-agent memory. A cross-defense, cross-attack, and cross-model benchmark over eight frontier models shows that existing defenses fail exactly where the theory predicts (up to 68% laundering attack-success), while TMA-NM reaches 0% attack success on both direct and laundering attacks across all models and channels, at full legitimate utility. We release the benchmark, harness, and machine-checked TLA+ models to support reproducibility.",
@@ -88,8 +115,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 70
     },
@@ -115,10 +142,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1609/aies.v9i1.43167",
+      "title": "Identifying Harm in Personalized, Generative AI Systems Requires User-Centered Auditing at the Interaction Level",
+      "abstract": "Personalized, generative AI systems increasingly adapt their behavior to individual users over time, fundamentally changing model behavior. While existing auditing approaches have been effective at surfacing harms in non-personalized contexts, they often rely on static, simulated evaluations and definitions of harm that aggregate across broad, group categories. In this position paper, we argue that such approaches can fail to capture emergent harms in personalized generative AI systems, where harms surface through interpretations of ongoing interaction and evolve with user history. We identify three presuppositions underlying many harm auditing paradigms: that harms can be (1) specified outside real-world interaction, (2) defined non-pluralistically within groups, and (3) treated as static. One might argue that personalized systems could simply learn definitions of what constitutes harm to individual users through repeated interactions. However, we argue that attempts to surface user harms through deeper personalization risk imposing asymmetric burdens of labor and privacy on marginalized users. Consequently, we propose reframing understandings of harm as adaptive, user- and community-centered processes, and outline design directions that shift auditing from retrospective evaluation toward infrastructures that support ongoing articulation of harm in interaction. Our work highlights the need for auditing and design practices that better reflect the pluralistic and evolving nature of harm understanding in personalized generative AI systems.",
+      "authors": "Hannah Cha",
+      "published": "2026-10-11",
+      "venue": "Proceedings of the AAAI/ACM Conference on AI Ethics and Society",
+      "doi": "10.1609/aies.v9i1.43167",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ojs.aaai.org/index.php/AIES/article/download/43167/50727",
+      "oa_url": "https://ojs.aaai.org/index.php/AIES/article/download/43167/50727",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及personalization、individual user",
+      "fetched_at": "2026-10-13T17:35:46.024273+00:00",
+      "digest_day": "2026-10-14",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.3389/fimmu.2026.1983838",
@@ -169,10 +223,37 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.1145/3805696.3847128",
+      "title": "Applications of Generative AI for Advancing Scientific Content Production, Evaluation and Dissemination",
+      "abstract": "Generative AI is becoming part of how scientific content is being produced, evaluated and communicated. Large language models (LLMs) can write science news, simulate readers, retrieve evidence, generate scientific hypotheses, write code, and execute research workflows. These capabilities create opportunities for accelerating scientific discovery and broadening access to scientific information, but they also introduce risks related to hallucination and trustworthiness. This doctoral dissertation studies how generative AI can support scientific content production and dissemination, while preserving trust, comprehension, and replicability. The completed work includes three components: (1) detecting LLM-generated science news through SANews and GFS, (2) evaluating science communication through reader learning using KnowledgeGain and LLMSim, and (3) benchmarking LLM agents for research replication with ReplicatorBench and ReplicatorAgent. The proposed work extends these directions toward learning-optimized science news generation, MESH for multimodal evidence-grounded hypothesis generation, and MERIT, a simulation-grounded framework for evaluating autonomous AI co-scientists and hypothesis testing in computational materials discovery. The overarching goal is to develop evaluation methods and AI systems that make scientific outputs not only fluent and scalable, but also grounded, useful, and interpretable.",
+      "authors": "Dominik Soós",
+      "published": "2026-10-12",
+      "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+      "doi": "10.1145/3805696.3847128",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3805696.3847128",
+      "oa_url": "https://doi.org/10.1145/3805696.3847128",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-10-13T17:35:48.970984+00:00",
+      "digest_day": "2026-10-14",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.5281/zenodo.23305618",
@@ -217,14 +298,14 @@
         "OpenAlex"
       ],
       "url": "https://arxiv.org/pdf/2607.23519",
-      "oa_url": "https://arxiv.org/pdf/2607.23519",
+      "oa_url": "https://ojs.aaai.org/index.php/AIES/article/download/43160/50720",
       "topic_ids": [
         "personalization"
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-13T06:39:52.497972+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:46.024273+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -304,8 +385,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -331,8 +412,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -358,8 +439,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -385,8 +466,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -412,19 +493,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:39:52.481962+00:00",
-      "digest_day": "2026-10-13",
+      "fetched_at": "2026-10-13T17:35:45.090467+00:00",
+      "digest_day": "2026-10-14",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-13T06:40:01.480304+00:00",
+  "last_refresh": "2026-10-13T17:35:54.201025+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-13T06:39:49.461501+00:00",
-    "finished": "2026-10-13T06:40:01.481050+00:00",
+    "started": "2026-10-13T17:35:38.598840+00:00",
+    "finished": "2026-10-13T17:35:54.201375+00:00",
     "sources": {
-      "OpenAlex": 5,
+      "OpenAlex": 4,
       "Crossref": 0,
       "arXiv": 8
     },
@@ -438,5 +519,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-13T14:40:01.486500+08:00"
+  "generated_at": "2026-10-14T01:35:54.205537+08:00"
 }
