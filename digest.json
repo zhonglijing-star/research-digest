@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-13",
+  "topics": [
+    {
+      "id": "governance",
+      "label": "长期记忆治理",
+      "query": "AI agent long-term memory governance privacy control",
+      "terms": [
+        "memory governance",
+        "memory privacy",
+        "memory control",
+        "memory lifecycle",
+        "forgetting policy",
+        "user control"
+      ]
+    },
+    {
+      "id": "memory",
+      "label": "智能体长期记忆",
+      "query": "agent long-term memory",
+      "terms": [
+        "agent memory",
+        "long-term memory",
+        "memory management",
+        "memory retrieval",
+        "continual learning"
+      ]
+    },
+    {
+      "id": "personalization",
+      "label": "用户建模与个性化",
+      "query": "user modeling personalized AI agents",
+      "terms": [
+        "user modeling",
+        "user model",
+        "personalization",
+        "personalisation",
+        "preference learning",
+        "individual user"
+      ]
+    },
+    {
+      "id": "research",
+      "label": "自动科研智能体",
+      "query": "autonomous research agents scientific discovery",
+      "terms": [
+        "research agent",
+        "scientific discovery",
+        "automated research",
+        "AI scientist",
+        "literature review"
+      ]
+    },
+    {
+      "id": "productivity",
+      "label": "生产力增强",
+      "query": "AI agents productivity human collaboration",
+      "terms": [
+        "AI productivity",
+        "AI-enabled productivity",
+        "human-AI collaboration",
+        "personal assistant",
+        "task automation",
+        "AI workflow"
+      ]
+    }
+  ],
+  "articles": [],
+  "last_refresh": null,
+  "refresh": {
+    "running": false,
+    "started": null,
+    "finished": null,
+    "sources": {},
+    "error": null
+  },
+  "configured_sources": [
+    "OpenAlex",
+    "Crossref",
+    "arXiv"
+  ],
+  "semantic_scholar_enabled": false,
+  "hosted": true,
+  "pending_first_run": true,
+  "generated_at": "2026-10-13T10:00:19.681565+08:00"
+}

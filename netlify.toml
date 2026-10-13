@@ -1,0 +1,7 @@
+[build]
+  publish = "site"
+
+[[headers]]
+  for = "/digest.json"
+  [headers.values]
+    Cache-Control = "public, max-age=300, must-revalidate"

@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f4ef">
+  <title>知研 · 每日文献简报</title>
+  <link rel="stylesheet" href="/styles.css?v=3">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="/" aria-label="知研首页">
+        <span class="brand-mark"><span></span><span></span><span></span></span>
+        <span class="brand-name">知研<span class="brand-en">FIELDNOTES</span></span>
+      </a>
+      <div class="side-section-label">工作区</div>
+      <button class="nav-item active" data-view="digest"><span class="nav-icon">▤</span>今日简报 <span class="nav-count" id="nav-count">—</span></button>
+      <button class="nav-item" data-view="saved"><span class="nav-icon">☆</span>我的标记 <span class="nav-count" id="saved-count">0</span></button>
+      <div class="side-section-label topics-label">研究方向</div>
+      <div id="side-topics" class="side-topics"></div>
+      <div class="sidebar-bottom">
+        <div class="local-status"><span class="status-dot"></span><span id="deployment-label">正在连接</span><span class="local-lock">⌑</span></div>
+        <p id="deployment-note">每日简报加载中</p>
+        <button class="sidebar-settings" id="sources-button"><span>◎</span> 数据源与设置</button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="breadcrumbs"><span>研究工作区</span><span class="crumb-slash">/</span><strong>每日简报</strong></div>
+        <div class="top-actions"><span class="today-date" id="today-date"></span><button class="avatar" aria-label="本地研究者">研</button></div>
+      </header>
+
+      <section class="hero">
+        <div class="hero-copy">
+          <div class="eyebrow"><span class="eyebrow-line"></span> YOUR DAILY RESEARCH BRIEF</div>
+          <h1>让重要的研究，<br><em>自然浮现。</em></h1>
+          <p>追踪记忆治理、可修正的用户模型与个人生产力研究，支持智能体在授权范围内理解目标和决策偏好。</p>
+        </div>
+        <div class="hero-note">
+          <div class="note-orbit"><span></span><span></span><span></span><b>知</b></div>
+          <div><div class="note-label">简报生成方式</div><p>综合多个开放学术索引<br>按主题相关性与反馈排序</p></div>
+        </div>
+      </section>
+
+      <section class="summary-row" aria-label="简报概览">
+        <div class="summary-card featured-summary"><div class="summary-icon">✳</div><div><span class="summary-kicker">今日收录</span><strong id="summary-total">—</strong><small>篇候选研究</small></div><span class="summary-arrow">↗</span></div>
+        <div class="summary-card"><div class="summary-icon coral">◌</div><div><span class="summary-kicker">预印本</span><strong id="summary-preprints">—</strong><small>篇尚未正式发表</small></div></div>
+        <div class="summary-card"><div class="summary-icon blue">⌁</div><div><span class="summary-kicker">已发表</span><strong id="summary-published">—</strong><small>评审状态以来源标注为准</small></div></div>
+        <div class="summary-card update-card"><div class="summary-icon green">↻</div><div><span class="summary-kicker">最近同步</span><strong id="summary-updated">待同步</strong><small id="summary-sources">连接开放学术来源</small></div></div>
+      </section>
+
+      <section class="digest-section">
+        <div class="section-heading"><div><div class="section-kicker">THE READING LIST</div><h2>今日文献 <span id="results-total">0</span></h2></div><button id="refresh-button" class="refresh-button"><span class="refresh-symbol">↻</span> 立即更新</button></div>
+        <div class="toolbar">
+          <label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="搜索标题、摘要、作者或 DOI" autocomplete="off"><kbd>⌘ K</kbd></label>
+          <div class="toolbar-filters"><label class="select-wrap"><span>排序</span><select id="sort-select"><option value="relevance">相关性优先</option><option value="newest">最新发布</option></select></label><span class="toolbar-divider"></span><label class="select-wrap"><span>类型</span><select id="type-select"><option value="all">全部类型</option><option value="preprint">预印本</option><option value="published">已发表</option><option value="unknown">状态未知</option></select></label></div>
+        </div>
+        <div id="topic-pills" class="topic-pills"></div>
+        <div id="refresh-banner" class="refresh-banner" hidden><span class="spinner"></span><span>正在从开放学术来源汇集最新研究…首次检索可能需要一点时间</span></div>
+        <div id="error-banner" class="error-banner" hidden></div>
+        <div id="paper-list" class="paper-list"></div>
+        <div id="empty-state" class="empty-state" hidden><div class="empty-symbol">⌕</div><h3>这里还没有匹配的论文</h3><p>试试更宽泛的关键词，或切换研究方向。</p></div>
+        <div class="list-footnote"><span class="footnote-star">✳</span> 相关性分数根据标题、摘要和你的反馈动态整理，不代表论文质量判断。</div>
+      </section>
+      <footer class="footer"><span id="footer-title">知研 · 本地科研文献简报</span><span id="footer-note">开放元数据 · 可追溯来源 · 每日更新</span></footer>
+    </main>
+  </div>
+
+  <dialog id="settings-dialog" class="settings-dialog">
+    <form method="dialog" class="dialog-head"><div><div class="section-kicker">CONFIGURATION</div><h2>数据源与设置</h2></div><button class="close-button" aria-label="关闭">×</button></form>
+    <div class="settings-content"><p class="dialog-intro">文献由开放学术元数据接口检索。简报通常每日更新一次。</p>
+      <div class="source-list" id="source-list"></div>
+      <div class="setting-callout"><strong id="settings-mode-title">运行方式</strong><p id="settings-mode-copy">简报运行方式加载中。</p></div>
+    </div>
+    <form method="dialog" class="dialog-footer"><button class="secondary-button">关闭</button></form>
+  </dialog>
+  <script src="/app.js?v=4" defer></script>
+</body>
+</html>
