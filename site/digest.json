@@ -65,13 +65,369 @@
       ]
     }
   ],
-  "articles": [],
-  "last_refresh": null,
+  "articles": [
+    {
+      "id": "arxiv:2606.24322",
+      "title": "Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees",
+      "abstract": "LLM agents increasingly rely on persistent long-term memory, which creates a critical vulnerability that we study here: memory poisoning. An adversary can store untrusted content in one session that later steers a consequential action, such as a payment, a setting change, or data exfiltration, in a future session. Existing defenses base a memory item's authority to act on either its content (detection or trust-scoring) or its derivation history (lineage). We show that both signals are malleable. An attacker can launder an untrusted origin through three channels specific to LLM agents: the agent's own summarization, a trusted-tool echo, and manufactured corroboration. Each makes the content look benign and breaks or flips its derivation edge to ``trusted.'' We formalize malleability for the memory write-retrieve-act pipeline and prove a machine-checked separation theorem. No content- or lineage-based defense is sound under laundering (T1), write-time origin binding is necessary (T2), and non-malleable origin-bound authority with Sybil-resistant corroboration-gated elevation is sufficient (T3). Our construction, TMA-NM (Tamper-evident Memory Authority, Non-Malleable), instantiates non-malleable information-flow control (IFC) for LLM-agent memory. A cross-defense, cross-attack, and cross-model benchmark over eight frontier models shows that existing defenses fail exactly where the theory predicts (up to 68% laundering attack-success), while TMA-NM reaches 0% attack success on both direct and laundering attacks across all models and channels, at full legitimate utility. We release the benchmark, harness, and machine-checked TLA+ models to support reproducibility.",
+      "authors": "Yedidel Louck",
+      "published": "2026-06-23",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2606.24322",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2606.24322v1",
+      "oa_url": "https://arxiv.org/pdf/2606.24322v1.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
+      "id": "arxiv:2605.25002",
+      "title": "MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems",
+      "abstract": "Memory-backed agents need provenance that can survive leaked or migrated snapshots, where logs, visible outputs, and trusted metadata may be absent. We propose MemMark, a state-evolution attribution watermark that embeds an owner-controlled signal into latent memory-write decisions. At each internal LLM call, MemMark samples among admissible candidates using keyed, distribution-preserving selection, and records cryptographic commitments with signed session anchors and reveal evidence. This makes attribution depend on reproducible backend behavior rather than mutable provenance fields. Across A-Mem and Graphiti on LoCoMo, with three LLM backbones, MemMark preserves memory utility: Overall F1 retains 99.6% of the unwatermarked baseline, while BLEU-1 changes by +0.2%. It also provides usable carrier capacity, with 1.16, 1.14, and 1.26 bits of mean entropy for update-target, link-target, and semantic-realization decisions. In the snapshot-only R3 setting, MemMark recovers the full 40-bit payload from final snapshots, while wrong-key verification remains near chance. Under nine memory-lifecycle attacks, verification distinguishes tampering, evidence deletion, and partial payload recovery. These results show that robust snapshot-only attribution is feasible for long-term agent memory without surviving traces, trusted metadata, or utility-degrading.",
+      "authors": "Haobo Zhang, Xutao Mao, Guangyuan Dong, Ziwei Li, Xuanbo Su, Kaijie Chen, Jing Yang, Zheng Lin",
+      "published": "2026-05-24",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2605.25002",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2605.25002v4",
+      "oa_url": "https://arxiv.org/pdf/2605.25002v4.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
+      "id": "doi:10.3389/fimmu.2026.1983838",
+      "title": "Autonomous AI research agents in pancreatic ductal adenocarcinoma immunology: from multimodal evidence to experimental validation",
+      "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most challenging malignancies due to profound biological heterogeneity, complex stromal organization, and limited responsiveness to current immunotherapies. Recent advances in single-cell sequencing, spatial omics, digital pathology, and multimodal profiling have revealed that PDAC immune states are shaped not only by cellular composition but also by spatial organization, treatment context, and patient-specific evolutionary trajectories. However, the increasing complexity and fragmentation of biomedical evidence create substantial challenges for conventional artificial intelligence (AI) approaches that are typically optimized for predefined analytical tasks. Autonomous AI research agents represent an emerging paradigm that extends beyond predictive modeling by integrating scientific reasoning, retrieval of heterogeneous biomedical knowledge, computational tool orchestration, workflow adaptation, and evidence traceability. In this Review, we examine how agentic AI systems may contribute to PDAC immunology research, from characterization of immune ecosystems and spatial cellular interactions to biomarker discovery, neoantigen prioritization, and experimental protocol design. We distinguish AI agents from conventional task-specific models and discuss essential capabilities required for reliable biomedical research, including planning, tool use, verification, memory, provenance tracking, and human oversight. Despite promising technical demonstrations in biomedical domains, direct evidence supporting fully autonomous AI-driven discovery and validation in PDAC remains limited. Therefore, we propose a disease-oriented evaluation framework emphasizing benchmark task design, appropriate human and computational comparators, reproducibility assessment, and experimental validation. Future PDAC-specific AI research agents should prioritize evidence-aware reasoning, multimodal integration, calibrated uncertainty, and transparent computational–experimental workflows. Such systems may ultimately accelerate mechanistic discovery and precision immunology, while maintaining rigorous standards for biological validity, reproducibility, and responsible scientific practice.",
+      "authors": "Li Yang, Yu Li, Rong Huang, Zhi-qiang San, Junfeng Ye",
+      "published": "2026-10-09",
+      "venue": "Frontiers in Immunology",
+      "doi": "10.3389/fimmu.2026.1983838",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.3389/fimmu.2026.1983838",
+      "oa_url": "https://doi.org/10.3389/fimmu.2026.1983838",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及research agent",
+      "fetched_at": "2026-10-13T06:22:06.305694+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "arxiv:2607.08032",
+      "title": "What to Keep, What to Forget: A Rate--Distortion View of Memory Compaction in LLMs and Agents",
+      "abstract": "Large language models, and the agents built on them, spend an ever-growing share of their compute and memory on remembering: caching attention keys and values, carrying long prompts, maintaining recurrent state, and storing what happened in previous turns and sessions. Because none of this memory is free, four largely separate research communities have each learned to compact it. They evict or quantize the KV cache, prune or distill prompts, bound architectural state, and consolidate agent memory. We argue that these are instances of one problem: a rate--distortion decision about what context-derived information to retain versus discard, at what fidelity, under a resource budget, so as to preserve downstream task utility. We make this lens precise with a single compaction objective and a layer-agnostic lower bound, use it to build a seven-axis taxonomy that classifies methods from across the stack uniformly, and use it to transfer mechanisms between layers that have never been connected, from serving-stack KV management to agent long-term memory. Two patterns hold across the survey. At every layer the signal that decides what to keep is attention magnitude or recency, and it fails in the same way everywhere, by discarding, before the query is known and with no way to undo it, information the query later needs. And while compression is measured carefully on single-turn long context, the repeated compaction that agents actually perform is almost never measured, and no benchmark holds one budget axis across all the layers at once. We turn both observations into a benchmark proposal, a small reference experiment, and a set of compaction-aware design principles, and we map the open problems.",
+      "authors": "Ashwin Gerard Colaco, Nada Lahjouji",
+      "published": "2026-07-09",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2607.08032",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2607.08032v1",
+      "oa_url": "https://arxiv.org/pdf/2607.08032v1.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及agent memory、long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.23305618",
+      "title": "Solving Specification Drift and Contextual Degradation via a Tri-Stream Cognitive Architecture with Non-Lossy Canonical Synthesis in Autonomous AI Agents",
+      "abstract": "Long-running conversational AI agents and assistive development models inevitably succumb to contextual degradation, specification drift, and sycophantic decay. Standard Retrieval-Augmented Generation (RAG) paradigms treat dialogue turns, human identity, and technical parameters as an undifferentiated, flat vector repository. This structural limitation induces lossy compression of technical truth, context window pollution, and hallucinatory synthesis of project constraints. This paper introduces the architecture of Blue Synergy CORTEX, an external, persistent cognitive runtime operating via the Model Context Protocol (MCP) and stateful REST gateways. CORTEX establishes an architectural Tri-Stream Memory Boundary, bifurcating context into three distinct operational lifecycles: an evolving User Stream (Cognitive Blueprint), an audited Identity Stream (Executive Calibration with immutable Core Axioms), and an invariant, non-decaying Knowledge Stream (Living Canonical Specifications). To permanently eliminate specification drift, the Knowledge Stream utilizes a Dual-Zone Ingestion Pattern that couples sub-20ms fast-append staging buffers with scheduled, non-destructive canonical refactoring governed by an algorithmic Semantic Invariant Guard. Operational telemetry is protected by a Cognitive Immunity Shield, ensuring runtime tool crashes and apologetic model artifacts are filtered from long-term memory. Context retrieval executes via a deterministic, zero-LLM topological pathway achieving sub-65ms latency. Finally, we formalize the compliance model under the European Union Artificial Intelligence Act (EU AI Act, Regulation 2024/1689, Articles 5, 14, and 15), backed by quantitative benchmark metrics demonstrating 98% factual faithfulness and a 2% hallucination rate.",
+      "authors": "Peter Novota",
+      "published": "2026-10-11",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23305618",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23305618",
+      "oa_url": "https://doi.org/10.5281/zenodo.23305618",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-13T06:21:59.838277+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1609/aies.v9i1.43160",
+      "title": "Auditing Alignment Controllability in LLMs via Political Axes",
+      "abstract": "Political audits of large language models (LLMs) usually reduce each to one point on a political compass. But that resting point barely matters in deployment: a model must land somewhere, and what counts is how far, and in which directions, its answers can be steered. That steering runs through the system prompt: the personalization layer a platform sets, or one induced from a user's history, not necessarily written by hand. We run a dispersion-first stress test of prompt-based controllability across 12 ideological personas plus an unsteered baseline, 70 Political Compass items, ten replicates, and seven leading LLMs: GPT-5, Claude, Grok, Gemini, DeepSeek, Kimi, and Qwen (63,700 responses). Contextual framing explains roughly 88%-93% of variance on the economic and society axes, model identity under 3%: responses are highly instruction-adjustable. Models do not shift alike: some move more, and some saturate under extreme framings. Conflicting directional-steering results in prior audits resolve once baselines are recognized as non-centered: displacement and proximity diverge, so the effect is geometric, not differential compliance. Under authoritarian prompts, models produce similar shifts on the same questions. Political-coordinate audits therefore need steerability audits reporting dispersion, symmetry, saturation, and refusal floors. We release prompts, benchmark data, and code.",
+      "authors": "Bartol Bućan, Nikola Sočec, Sarah Isufi, Morena Granić, Luka Hobor, Agneza Krajna",
+      "published": "2026-10-11",
+      "venue": "Proceedings of the AAAI/ACM Conference on AI Ethics and Society",
+      "doi": "10.1609/aies.v9i1.43160",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://arxiv.org/pdf/2607.23519",
+      "oa_url": "https://arxiv.org/pdf/2607.23519",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-13T06:22:02.832699+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1038/s41746-026-03348-0",
+      "title": "FHIR-AgentEval: a modular sandbox for benchmarking clinical LLM agents with memory-augmented configurations",
+      "abstract": "Healthcare data exchange increasingly relies on HL7 FHIR, but FHIR’s implementation complexity creates barriers for clinical workflows. Large language model (LLM) agents could bridge this gap by translating natural language requests into structured FHIR operations, yet their reliability remains unproven. We present FHIR-AgentEval, an extensible evaluation sandbox comprising 43 modular tasks for benchmarking LLM agents on realistic appointment management and genetic testing workflows. Each task executes against a resettable FHIR server with custom deterministic validation of both agent responses and resulting server state. We run an ablation study of five agent configurations, varying access to an on-demand FHIR R4 specifications server and long-term memory trained with or without specification grounding. Across four experimental settings, memory consistently improves task success and reduces strategic failures such as incorrect tool selection and resource-type confusion. On held-out tasks, the best memory configuration improves success by 9.1% over baseline, offering a potential pathway toward more robust clinical deployment.",
+      "authors": "Youssef Mokssit, Kamalakkannan Ravi, Mengshu Nie, J. Kim, Cong Liu",
+      "published": "2026-10-10",
+      "venue": "npj Digital Medicine",
+      "doi": "10.1038/s41746-026-03348-0",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.nature.com/articles/s41746-026-03348-0_reference.pdf",
+      "oa_url": "https://www.nature.com/articles/s41746-026-03348-0_reference.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-13T06:21:59.838277+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1007/s44163-026-02343-4",
+      "title": "Evaluation of physical training effectiveness for college students based on deep reinforcement learning",
+      "abstract": "The physical training of college students can be made more productive with the help of adaptive approaches. Deep reinforcement learning (DRL) offers training policies that are more customized based on performance and physiological measurements and are superior to fixed schedules. The first goal is to make a smart system that will be efficient in physical training optimization with the help of DRL. Research suggests the Hare Escape-Search Functional Dueling Deep Q-Network (HE-FDDQN), which is a DRL algorithm that predicts student states, actions, and rewards in order to maximize training policies. Dueling architecture improves state-value learning, while escape-search enhances exploration for adaptive offline training recommendations. The College Student Physical Training Dataset was used for evaluation, which is a public data set consisting of 1000 records from the measurements of the wearable devices, fitness tests, and self-reported physical activity indicators. Preprocessing includes data cleaning, synchronization of data, and normalization of data. Python implementations exhibit effective policy learning, and visualization reveals that the development of fitness and less overtraining is possible. The HE-FDDQN model demonstrated great regression ability (MAE 1.17, RMSE 1.52, R 2 0.931), and good classification scores, recall 0.922, precision 0.913, accuracy 0.925, AUC 0.912, and F1-score 0.909. The Dueling DQN strategy achieved better rewards and convergence, supporting adaptive recommendations under offline experimental evaluation. Overall, the results suggest that HE-FDDQN can enhance the assessment and personalization of college students' physical training, offering an efficient and customized alternative to fixed training plans with the potential to improve fitness outcomes.",
+      "authors": "Wang Chen, Bo An, Shuang Huang",
+      "published": "2026-10-10",
+      "venue": "Discover Artificial Intelligence",
+      "doi": "10.1007/s44163-026-02343-4",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02343-4.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02343-4.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-13T06:22:02.832699+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "arxiv:2610.05334",
+      "title": "AgentDiscover: Autonomous Discovery with Minimal Search Scaffolding",
+      "abstract": "Frameworks that use large language models for scientific discovery typically rely on a fixed, human-designed algorithm that decides what the model sees at each step, leaving the model only the role of proposer. The model knows nothing of the search beyond what it is shown. As models grow more capable, a question arises: does a search strategy chosen by a human before the run scale better than promoting the model from proposer to planner and letting it own the search? The Bitter Lesson suggests that choosing the strategy in advance is the kind of hand-designed structure that general methods eventually outscale. We introduce AgentDiscover, in which a coding agent plans the search using its context as working memory, runs experiments, and records every attempt in a database of ideas, candidates, and their relations. This database serves as the agent's long-term memory and is structured so that the selection rules of classical algorithms such as MAP-Elites and Monte Carlo tree search each reduce to a single query, which the agent is free to use, combine, or replace. A server maintains the database and steers the agent after every submission, keeping it on course over long runs. In our experiments, AgentDiscover is more cost-efficient than existing frameworks, reaching better scores at lower cost. On tasks in kernel engineering, biology, algorithm design, and mathematics, AgentDiscover outperforms prior discovery frameworks. Its programs would have placed first among human competitors in seven past AtCoder heuristic contests, and on eleven mathematical and systems optimization tasks it matches or exceeds every baseline that uses the same model. Our code is available at https://github.com/mhdfb/AgentDiscover.",
+      "authors": "Mahdi Farahbakhsh, Ilan Sela, Fatemeh Doudi, Vishnu Teja Kunde, Krishna Narayanan, Jean-Francois Chamberland, Dileep Kalathil",
+      "published": "2026-10-04",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2610.05334",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2610.05334v1",
+      "oa_url": "https://arxiv.org/pdf/2610.05334v1.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "arxiv:2605.29960",
+      "title": "MemPoison: Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents",
+      "abstract": "Large language model (LLM) agents increasingly leverage long-term memory to support persistent and autonomous task execution. However, this capability also introduces a new attack surface: memory poisoning, where adversaries can inject malicious information to influence future behavior. Existing memory poisoning attacks often assume that injected content can be stored directly in memory, overlooking the selective extraction and rewriting stages in modern memory pipelines. This makes prior methods ineffective under realistic settings. In this paper, we propose MemPoison, a novel memory poisoning attack that bypasses selective memory mechanisms in LLM agents, where an attacker can inject triggerable backdoors into the agent's long-term memory through dialogue interactions, thereby misleading its subsequent responses. MemPoison introduces three key components: (i) a semantic relational bridge that binds the trigger and payload into a coherent statement to ensure their co-extraction into memory; (ii) entity masquerading that optimizes triggers to mimic named entities, resisting rewriting; and (iii) joint embedding optimization that shapes trigger-injected texts into a tight cluster in the embedding space while maintaining isolation from benign embeddings for stealth. Evaluations across different agent domains and memory mechanisms show MemPoison achieves attack success rates up to 0.95, outperforming existing baselines. Mechanistic analysis reveals the exploitation of embedding-space anisotropy and attention redistribution, highlighting core vulnerabilities in selective memory systems. We evaluate multiple defense strategies and demonstrate their fundamental limitations in mitigating the attack. We release our code to facilitate further research.",
+      "authors": "Hongtao Wang, Se Yang, Yu Chen, Puzhuo Liu",
+      "published": "2026-05-28",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2605.29960",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2605.29960v2",
+      "oa_url": "https://arxiv.org/pdf/2605.29960v2.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "arxiv:2605.26154",
+      "title": "MemMorph: Tool Hijacking in LLM Agents via Memory Poisoning",
+      "abstract": "LLM-driven agents are capable of selecting external tools to complete users' tasks. However, attackers could compromise such process, steering agents toward inappropriate/wrong tools and enabling malicious actions. Most existing attacks primarily manipulate the tool metadata, which is easily detectable by auditing and may lose effectiveness as modern agents increasingly adopt memory modules to refine tool selection policies through accumulated experience. This paper proposes MemMorph, the first attack that bias tool selection by poisoning the agent's long-term memory. Rather than explicitly dictating the tool invocation decision, MemMorph injects a small number of crafted records that are disguised as technical facts, incident reports, and operational policies. These poisoned records reshape the agent's contextual perception and decision-making process, leading it to autonomously infer and select the tool preferred by the attacker. Experiments across 3 benchmarks, 10 agent backbones, and 3 memory-module implementations show that MemMorph achieves up to 85.9% attack success rate with only three injected records, outperforming the strongest baseline by up to 25% while retaining potency under 3 representative defenses. Our findings expose long-term memory as a critical and under-explored attack surface in tool-augmented agents, urging the development of memory-level integrity safeguards.",
+      "authors": "Xuanye Zhang, Yongsen Zheng, Zhuqin Xu, Kaiyu Zhou, Bowen Shen, Haoran Ou, Tianwei Zhang, Kwok-Yan Lam",
+      "published": "2026-05-24",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2605.26154",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2605.26154v1",
+      "oa_url": "https://arxiv.org/pdf/2605.26154v1.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "arxiv:2605.01970",
+      "title": "Trojan Hippo Bench: A Dynamic Benchmark for Persistent Memory Attacks and Defenses in LLM Agents",
+      "abstract": "Memory systems enable otherwise stateless LLM agents to persist user information across sessions, but also introduce a new attack surface. The Trojan Hippo attack is a class of persistent memory attacks that operates under a more realistic threat model than prior memory poisoning work. The attacker plants a dormant payload into an agent's long-term memory via a single untrusted tool call (e.g., a crafted email), which activates only when the user later discusses sensitive topics such as finance, health, or identity, and exfiltrates high-value personal data to the attacker. While anecdotal demonstrations of such attacks have appeared against deployed systems, no prior work systematically evaluates them across heterogeneous memory architectures and defenses. We introduce Trojan Hippo Bench, a dynamic evaluation framework for persistent memory attacks and memory-layer defenses, comprising two components, (1) an OpenEvolve-based adaptive red-teaming benchmark that stress-tests defenses and memory backends against continuously refined attacks, and (2) a capability-aware security-utility analysis for persistent memory systems, enabling principled reasoning about defense deployment across different usage profiles. Instantiated on an email assistant across four memory backends (explicit tool memory, agentic memory, RAG, and sliding-window context), the undefended Trojan Hippo attack achieves up to 85-100% attack success rate (ASR) against current frontier models from OpenAI and Google, with planted memories successfully activating even after 100 benign sessions. We evaluate four memory-system defenses inspired by basic security principles; they reduce attack success to as low as 0-5%, but at utility costs that vary widely with the task mix. Effective real-world deployment thus remains an open challenge that Trojan Hippo Bench is built to study; we release it to support reuse and extension.",
+      "authors": "Debeshee Das, Julien Piet, Darya Kaviani, Luca Beurer-Kellner, Florian Tramèr, David Wagner",
+      "published": "2026-05-03",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2605.01970",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2605.01970v4",
+      "oa_url": "https://arxiv.org/pdf/2605.01970v4.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "arxiv:2512.16962",
+      "title": "MemoryGraft: Persistent Compromise of LLM Agents via Poisoned Experience Retrieval",
+      "abstract": "Large Language Model (LLM) agents increasingly rely on long-term memory and Retrieval-Augmented Generation (RAG) to persist experiences and refine future performance. While this experience learning capability enhances agentic autonomy, it introduces a critical, unexplored attack surface, i.e., the trust boundary between an agent's reasoning core and its own past. In this paper, we introduce MemoryGraft. It is a novel indirect injection attack that compromises agent behavior not through immediate jailbreaks, but by implanting malicious successful experiences into the agent's long-term memory. Unlike traditional prompt injections that are transient, or standard RAG poisoning that targets factual knowledge, MemoryGraft exploits the agent's semantic imitation heuristic which is the tendency to replicate patterns from retrieved successful tasks. We demonstrate that an attacker who can supply benign ingestion-level artifacts that the agent reads during execution can induce it to construct a poisoned RAG store where a small set of malicious procedure templates is persisted alongside benign experiences. When the agent later encounters semantically similar tasks, union retrieval over lexical and embedding similarity reliably surfaces these grafted memories, and the agent adopts the embedded unsafe patterns, leading to persistent behavioral drift across sessions. We validate MemoryGraft on MetaGPT's DataInterpreter agent with GPT-4o and find that a small number of poisoned records can account for a large fraction of retrieved experiences on benign workloads, turning experience-based self-improvement into a vector for stealthy and durable compromise. To facilitate reproducibility and future research, our code and evaluation data are available at https://github.com/Jacobhhy/Agent-Memory-Poisoning.",
+      "authors": "Saksham Sahai Srivastava, Haoyu He",
+      "published": "2025-12-18",
+      "venue": "",
+      "doi": "",
+      "arxiv_id": "2512.16962",
+      "kind": "预印本",
+      "review_status": "预印本；未经同行评审（仓库标注）",
+      "source": "arXiv",
+      "sources": [
+        "arXiv"
+      ],
+      "url": "https://arxiv.org/abs/2512.16962v1",
+      "oa_url": "https://arxiv.org/pdf/2512.16962v1.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "digest_day": "2026-10-13",
+      "vote": 0,
+      "rank_score": 46
+    }
+  ],
+  "last_refresh": "2026-10-13T06:22:11.824827+00:00",
   "refresh": {
     "running": false,
-    "started": null,
-    "finished": null,
-    "sources": {},
+    "started": "2026-10-13T06:21:54.511151+00:00",
+    "finished": "2026-10-13T06:22:11.825287+00:00",
+    "sources": {
+      "OpenAlex": 5,
+      "Crossref": 0,
+      "arXiv": 8
+    },
     "error": null
   },
   "configured_sources": [
@@ -81,6 +437,6 @@
   ],
   "semantic_scholar_enabled": false,
   "hosted": true,
-  "pending_first_run": true,
-  "generated_at": "2026-10-13T10:00:19.681565+08:00"
+  "pending_first_run": false,
+  "generated_at": "2026-10-13T14:22:11.829876+08:00"
 }
