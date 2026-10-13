@@ -1,0 +1,61 @@
+name: Daily research digest
+
+on:
+  schedule:
+    # 01:17 China Standard Time (UTC+8). GitHub may start scheduled jobs later.
+    - cron: "17 17 * * *"
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - "site/digest.json"
+      - "work/**"
+      - "README.md"
+      - "netlify.toml"
+      - ".gitignore"
+
+concurrency:
+  group: daily-research-digest
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Restore API response cache
+        uses: actions/cache@v4
+        with:
+          path: work/digest.sqlite3
+          key: digest-db-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            digest-db-${{ runner.os }}-
+
+      - name: Retrieve papers and build daily snapshot
+        run: python build_digest.py
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
+
+      - name: Commit updated digest for Netlify deployment
+        run: |
+          if git diff --quiet -- site/digest.json; then
+            echo "Daily digest is unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/digest.json
+          git commit -m "Update daily research digest"
+          git push
