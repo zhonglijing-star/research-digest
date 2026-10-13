@@ -88,7 +88,7 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 70
@@ -115,7 +115,7 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 70
@@ -142,7 +142,7 @@
       ],
       "relevance": 58,
       "reason": "标题涉及research agent",
-      "fetched_at": "2026-10-13T06:22:06.305694+00:00",
+      "fetched_at": "2026-10-13T06:23:01.551944+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 58
@@ -169,7 +169,7 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 58
@@ -196,7 +196,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:21:59.838277+00:00",
+      "fetched_at": "2026-10-13T06:22:55.547280+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -223,7 +223,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-13T06:22:02.832699+00:00",
+      "fetched_at": "2026-10-13T06:22:58.551496+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -250,7 +250,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:21:59.838277+00:00",
+      "fetched_at": "2026-10-13T06:22:55.547280+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -277,7 +277,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-13T06:22:02.832699+00:00",
+      "fetched_at": "2026-10-13T06:22:58.551496+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -304,7 +304,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -331,7 +331,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -358,7 +358,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -385,7 +385,7 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
@@ -412,17 +412,17 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-13T06:22:01.906715+00:00",
+      "fetched_at": "2026-10-13T06:22:58.535574+00:00",
       "digest_day": "2026-10-13",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-13T06:22:11.824827+00:00",
+  "last_refresh": "2026-10-13T06:23:07.534395+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-13T06:21:54.511151+00:00",
-    "finished": "2026-10-13T06:22:11.825287+00:00",
+    "started": "2026-10-13T06:22:55.513953+00:00",
+    "finished": "2026-10-13T06:23:07.535276+00:00",
     "sources": {
       "OpenAlex": 5,
       "Crossref": 0,
@@ -438,5 +438,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-13T14:22:11.829876+08:00"
+  "generated_at": "2026-10-13T14:23:07.540767+08:00"
 }
