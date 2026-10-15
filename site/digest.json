@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "topics": [
     {
       "id": "governance",
@@ -67,6 +67,33 @@
   ],
   "articles": [
     {
+      "id": "doi:10.5281/zenodo.23371367",
+      "title": "CreatorMemBench v1.0: A Lifecycle Benchmark for Mutable Creator-Agent Memory",
+      "abstract": "CreatorMemBench v1.0 contains 20 synthetic creator timelines and 160 checkpoints for evaluating mutable long-term memory in creator agents. The benchmark covers stable identity, scoped preferences, multi-session composition, transient noise, updates, forgetting, retention, and resurrection. The archive includes separated inputs and gold criteria, a strict semantic scoring protocol, an offline aggregation script, a prediction schema, a license, and SHA-256 checksums. It contains no production conversations, account identifiers, credentials, proprietary service code, endpoint identifiers, or raw internal traces.",
+      "authors": "Zhiquan Zou, Jiaqi Liu, Yunlong Dong, Qi Zhao",
+      "published": "2026-10-14",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23371367",
+      "arxiv_id": "",
+      "kind": "dataset",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23371367",
+      "oa_url": "https://doi.org/10.5281/zenodo.23371367",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及agent memory",
+      "fetched_at": "2026-10-15T17:45:59.551595+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
       "id": "arxiv:2610.17763",
       "title": "Memory Echo in Single-Agent Long-Term Memory: Lifecycle Evaluation and Provenance-Guided Mitigation",
       "abstract": "Long-term memory supports agents across sessions. Repeated retrieval and write-back can let one historical claim occupy multiple retrieval positions and influence current answers without independent evidence. Existing work examines retrieval, updating, and question answering, leaving same-source record accumulation and post-correction persistence underexplored. Motivated by research in social cognition and memory psychology on repeated exposure, retrieval, and revision, we define \\emph{Memory Echo} as the excess retrieval exposure gained by historical information from the same source without additional independent evidence, and introduce MEchoBench to evaluate its emergence, correction resistance, persistence, and effect on answers. To address this phenomenon, we introduce the Family--Provenance--Authority framework (FPA). Specifically, FPA selects one representative per source family, conditions the eligibility of old records for the answer context on verified corrections, and constrains final answers with authoritative evidence. In paired replay on 190 fixed questions across four memory frameworks, FPA raises accuracy from 0.825 to 0.920 with DeepSeek V4 Flash and from 0.782 to 0.916 with Kimi K2.6; mean Decision Contamination Effect falls from 0.106 to 0.030 and from 0.109 to 0.038, respectively. These results show that agent memory can preserve traceable history without allowing repeated historical information to govern current decisions. The code is available at https://github.com/OrcasSam/memory-echo-benchmark.",
@@ -88,8 +115,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 70
     },
@@ -142,8 +169,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 70
     },
@@ -169,10 +196,91 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.3389/fonc.2026.1885312",
+      "title": "Artificial intelligence and anti-cancer drugs: advancing discovery, personalization, and precision oncology",
+      "abstract": "Artificial intelligence (AI) is changing the way we discover anticancer drugs. It tackles the problems of traditional methods, such as prolonged timelines for drug development, higher costs, and substantial inter-patient heterogeneity. This review explains how AI is applied throughout the cancer drug pipeline. This includes target identification, virtual screening of compounds, molecular docking, and predicting pharmacokinetics. We explore how machine learning models speed up hit-to-lead optimization, improve clinical trial design by stratifying patients, and allow for real-time toxicity monitoring. A key focus is on integrating AI with multi-omics data, including proteomics, genomics, transcriptomics, and metabolomics, to support precision oncology and personalized treatments. We address important validation challenges, like model interpretability, data quality, and regulatory issues that must be solved before AI can be widely used in clinics. By summarizing current evidence and targeting research gaps, this review offers a clear view of how AI is enhancing the discovery, personalization, and validation of anticancer treatments.",
+      "authors": "Faizan ul Haque Nagrami, Pahchan Shukla, Ruchi Yadav, Jyoti Prakash",
+      "published": "2026-10-13",
+      "venue": "Frontiers in Oncology",
+      "doi": "10.3389/fonc.2026.1885312",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1885312/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2026.1885312/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-10-15T17:46:05.186680+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1145/3834765",
+      "title": "Explanation User Interfaces: A Systematic Literature Review",
+      "abstract": "Artificial Intelligence is one of the major technological advancements of this century, bearing incredible potential for users through AI-powered applications and tools in numerous domains. Being often black-box (i.e., its decision-making process is unintelligible), developers typically resort to eXplainable Artificial Intelligence (XAI) techniques to interpret the behavior of AI models to produce systems that are transparent, fair, reliable, and trustworthy. However, presenting explanations to the user is not trivial and is often left as a secondary aspect of the system’s design process, leading to AI systems that are not useful to end-users. This paper presents a Systematic Literature Review on Explanation User Interfaces (XUIs) to gain a deeper understanding of the solutions and design guidelines employed in the academic literature to effectively present explanations to users. To improve the contribution and real-world impact of this survey, we also present a platform to support Human-cEnteRed developMent of Explainable user interfaceS (HERMES) and guide practitioners and scholars in the design and evaluation of XUIs.",
+      "authors": "Eleonora Cappuccio, Andrea Esposito, Francesco Greco, Giuseppe Desolda, Rosa Lanzilotti, Salvatore Rinzivillo",
+      "published": "2026-10-13",
+      "venue": "ACM Computing Surveys",
+      "doi": "10.1145/3834765",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3834765",
+      "oa_url": "https://doi.org/10.1145/3834765",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及literature review",
+      "fetched_at": "2026-10-15T17:46:08.949240+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.3389/fped.2026.1943478",
+      "title": "Case Report: Neonatal ultra-severe hemolytic anemia complicated by pulmonary hypertension induced by compound heterozygous variants in the KLF1 gene and literature review",
+      "abstract": "Objective To investigate the clinical characteristics, genotypic profiles, and diagnostic/therapeutic strategies for congenital hemolytic anemia induced by compound heterozygous variants in the KLF1 gene. Methods We retrospectively analyzed the clinical data of a neonate who presented primarily with ultra-severe anemia, elevated direct bilirubin, and pulmonary hypertension. Whole-exome sequencing (WES) was utilized for variant identification, followed by a comprehensive review of literature. Results The patient, a female neonate, developed severe anemia within 10 h of birth, accompanied by rapidly progressing hyperbilirubinemia (predominantly direct hyperbilirubinemia). Bedside echocardiography revealed a patent ductus arteriosus (PDA) and pulmonary hypertension. Trio-WES identified pathogenic compound heterozygous variants in the KLF1 gene: c.519_525dup (p.Gly176ArgfsTer179) and c.1012C > A (p.Pro338Thr). Following multiple red blood cell transfusions and mechanical ventilatory support, the infant's condition stabilized. During a 24-month follow-up, the patient exhibited transfusion-dependent anemia. Conclusion For neonates presenting with unexplained (Coombs/DAT-negative) severe hemolytic anemia, particularly when complicated by pulmonary hypertension and atypical cholestasis, early genetic testing should be performed to rule out KLF1 -related diseases.",
+      "authors": "Yunzhi Liu, Dejian Yuan, Yanxing Lv, Biwen Huang, Lanqiu Hu, Yongjiang Jiang",
+      "published": "2026-10-13",
+      "venue": "Frontiers in Pediatrics",
+      "doi": "10.3389/fped.2026.1943478",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2026.1943478/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2026.1943478/pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及literature review",
+      "fetched_at": "2026-10-15T17:46:08.949240+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1609/aies.v9i1.43167",
@@ -250,10 +358,172 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.2118/234185-ms",
+      "title": "A Multi-Agent AI Optimization System for Improving Rig Utilization and Production Gains in the Burgan Field",
+      "abstract": "Abstract Scheduling a fleet of workover rigs across a mature giant field requires balancing production objectives against a dense web of operational constraints: artificial lift readiness, material availability, location doability, site and pad access, and rig–well compatibility. In the Greater Burgan complex, this forward planning has historically been built and maintained manually in the well delivery management (WDM) system, an in-house rig-scheduling application in which of the order of ten stakeholder teams continuously record and revise workover activities and their constraints. Across a typical year, the programme spans on the order of 500 workover wells and roughly 40 active rigs; distributing that fleet across the candidate wells and their ordered sequences yields a combinatorial space of astronomical size, on the order of hundreds of septillions of feasible arrangements and beyond, that cannot be searched by hand. This paper describes the design, deployment, and field evaluation of a multi-agent artificial intelligence (AI) scheduling system introduced by the Operator's Integration Excellence team to optimize the 90-day forward plan across the full workover operation of approximately 40 rigs and 200 workover wells. The system decomposes scheduling across cooperating agents: data preprocessing, rig–well resource matching, constraint validation, schedule optimization by a genetic algorithm adapted to the Operator's scheduling rules and operating over short- and long-term memory, execution monitoring, and feedback, with a human-in-the-loop review and approval workflow retained throughout. Planners select one of two objective modes (maximize production gain or meet a specified production target) while the optimizer enforces stability rules that protect active and next-scheduled jobs, group multi-well sites, and honor rig–well compatibility. Performance was evaluated by comparing manually prepared schedules against system-optimized schedules over identical planning inputs and, separately, through historical validation (backtesting) over rolling 90-day look-back windows. To respect data-confidentiality requirements, production results are reported in normalized form and absolute volumes are withheld. In a field-wide evaluation, the optimized schedule increased the projected 90-day production gain by 16% over the manual baseline, an advantage that compounded across the horizon, while fleet-average rig idle time fell by 46% and schedule preparation collapsed from about ten days of manual coordination to minutes of computation. The paper presents the constraint taxonomy and scheduling logic in transferable form and outlines an ongoing extension to new-drill planning, where injector–producer relationships, injection timing, and rig-contract capability introduce additional considerations.",
+      "authors": "Shayma Faisal AlSaffar, Hussain Hashim Shuber, Mohamad Rami Mostafa Amcha, Lasha Targamadze, Muhammad Nasir Ibrahim",
+      "published": "2026-10-14",
+      "venue": "SPE Annual Technical Conference and Exhibition",
+      "doi": "10.2118/234185-ms",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.2118/234185-ms",
+      "oa_url": "",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-15T17:45:59.551595+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23357580",
+      "title": "Parallel-World Adaptive Self-Memory and Shared-Memory Switching for Large Language Models",
+      "abstract": "Large language model (LLM) agents increasingly rely on external memory to support long-term interaction, task continuity, experience reuse, and collaborative problem-solving. However, existing memory architectures often emphasize individual memory management, shared memory repositories, or predefined collaboration strategies. These approaches leave an important design question: how can multiple memory perspectives generated by the same model coexist with memories maintained by heterogeneous models, while the system adaptively determines when to operate independently and when to exchange information? This paper proposes Parallel-World Adaptive Self-Memory and Shared-Memory Switching (PW-ASMS), a unified framework that combines parallel memory worlds, adaptive self-memory, shared-memory collaboration, and cross-model memory integration. Parallel memory worlds are created by assigning different memory orientations to instances of the same underlying model. Each world independently selects, organizes, updates, and retrieves experiences according to its designated orientation. A dynamic controller subsequently determines whether an agent should rely on its own memory, exchange information with other parallel worlds, consult a shared memory repository, or combine these operations. The framework also supports heterogeneous LLMs whose memories can contribute complementary information to a common collaborative process. The proposed architecture consists of parallel memory worlds, individual memory stores, a governed shared memory layer, a memory evaluation module, and an adaptive switching controller. A utility-based decision mechanism considers task relevance, information novelty, confidence, memory consistency, communication cost, privacy constraints, and expected downstream benefit. The framework is designed to reduce unnecessary information exchange while preserving opportunities for collaborative knowledge acquisition. We formulate research questions, operational procedures, evaluation metrics, and experimental comparisons to assess its effectiveness. The paper provides a conceptual and methodological foundation for investigating adaptive memory organization in multi-agent LLM systems; its effectiveness remains to be established empirically.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-10-14",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23357580",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23357580",
+      "oa_url": "https://doi.org/10.5281/zenodo.23357580",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及memory management",
+      "fetched_at": "2026-10-15T17:45:59.551595+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.20944/preprints202610.1247.v1",
+      "title": "In-Parameter Learning: Why Lifelong AI Systems Need More Than Longer Context",
+      "abstract": "AI agents are increasingly expected to interact with changing users, tools, and environments over extended periods of time. However, current systems remain largely static: their parameters are fixed during deployment, while new experiences, domain knowledge, corrections, and behavioral adaptations are handled primarily through external memory management and in-context learning. In this position paper, we focus on lifelong AI: AI systems that can continually learn from their long-term experience throughout an extended deployment lifetime. This position paper argues that existing in-context mechanisms are insufficient for lifelong AI, and advocate In-Parameter Learning (IPL) as a necessary complement to In-Context Learning (ICL), referring to mechanisms that allow a deployed model to continually and safely update its parameters during use. More broadly, we aim to renew the community’s attention to in-parameter learning and to recalibrate the overly optimistic expectations placed on in-context learning alone. Our central claim is that future lifelong AI systems should be built around a hybrid paradigm: in-context learning for immediate, provisional, and reversible information, and in-parameter learning for durable, cumulative, and generalizable growth.",
+      "authors": "Yiding Wang, Haotong Yang, Pingzhi Tang, Shijia Kang, Cai Zhou, Chenglin Zhu",
+      "published": "2026-10-14",
+      "venue": "Preprints.org",
+      "doi": "10.20944/preprints202610.1247.v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.20944/preprints202610.1247.v1",
+      "oa_url": "https://doi.org/10.20944/preprints202610.1247.v1",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及memory management",
+      "fetched_at": "2026-10-15T17:45:59.551595+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23357202",
+      "title": "Adaptive Switching between Autonomous and Collaborative Exploration for Multiple Large Language Models",
+      "abstract": "Multiple large language models (LLMs) can explore complex problem spaces independently or collaboratively. Autonomous exploration allows each model to develop distinct hypotheses, investigate alternative solution paths, and reduce premature convergence caused by shared assumptions. Collaborative exploration enables models to exchange findings, identify complementary information, resolve disagreements, and construct solutions using distributed knowledge. However, consistently relying on either exploration mode may limit problem-solving effectiveness. Permanent autonomous exploration can produce redundant investigations and prevent useful knowledge exchange, whereas permanent collaborative exploration can encourage premature consensus, correlated errors, and the suppression of unconventional ideas. This paper proposes Adaptive Switching between Autonomous and Collaborative Exploration for Multiple Large Language Models (ASACE), a framework in which multiple LLM agents dynamically switch between independent exploration and collaborative exploration according to the evolving characteristics of the task. Rather than prescribing a fixed collaboration schedule, ASACE evaluates exploration progress, estimated information gain, inter-agent disagreement, search redundancy, solution quality, and computational cost to determine the appropriate exploration mode at each decision point. The framework incorporates autonomous exploration, selective knowledge exchange, collaborative exploration, outcome evaluation, and adaptive mode selection into a unified iterative process. A mode-selection mechanism is formulated to balance exploration diversity, collective learning, solution quality, and resource efficiency. The framework also introduces an optional hysteresis mechanism to reduce unstable switching between exploration modes. This paper formalizes the proposed framework, presents its algorithmic procedure, discusses implementation strategies, and develops an experimental protocol for evaluating its effectiveness. Comparisons with permanently autonomous, permanently collaborative, and fixed-schedule hybrid baselines are proposed across reasoning, mathematical problem-solving, software engineering, scientific discovery, and search tasks. The central hypothesis is that adaptive switching can improve the balance between independent discovery and collective knowledge utilization when task conditions vary over time. The paper provides a research framework and testable hypotheses rather than claiming experimentally established improvements. Its contribution is the explicit formulation of exploration-mode selection as a dynamic control problem for multi-LLM systems.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-10-14",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23357202",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23357202",
+      "oa_url": "https://doi.org/10.5281/zenodo.23357202",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-10-15T17:46:08.949240+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3389/fnut.2026.1957211",
+      "title": "From plausible menus to trustworthy nutrition: a risk-proportionate VALID-Diet framework for artificial intelligence-generated dietary advice",
+      "abstract": "Generative artificial intelligence can produce menus, recipes, shopping lists, and dietary explanations that appear individualized and clinically informed. Fluency alone, however, provides little evidence of nutritional accuracy, safety, feasibility, or benefit. We propose VALID-Diet, a staged framework for evaluating systems that generate actionable dietary recommendations as sociotechnical interventions. Its domains are Verification of nutritional targets and composition; Adversarial safety and boundary testing; Linkage between user inputs and recommendation changes; Implementation feasibility and inclusion; and Documentation, versioning, and reproducibility. Stage 0 defines intended use, input integrity, and a structured risk profile based on harm severity, exposure, autonomy, reversibility, and enforceable oversight. Stage 1 separates target validity, menu achievement, and arithmetic agreement and, for integrated systems, tests retrieval, calculation, and generation as distinct components. Stage 2 evaluates safety, substantive personalization, feasibility, and inclusion using pre-specified case blueprints. Stage 3 evaluates human oversight, workflow utility, and prospective outcomes only after earlier gates are passed. A retrospective worked application to a published retrieval-augmented personalized-nutrition system illustrates risk assignment and progression decisions. VALID-Diet is not a regulatory standard or consensus guideline; it is a testable proposal intended to align research claims with evidentiary strength.",
+      "authors": "Jingyi Xu, Weina Xing, Lili Jia, Xi Li, Qijia Zhang, Wei Yang",
+      "published": "2026-10-13",
+      "venue": "Frontiers in Nutrition",
+      "doi": "10.3389/fnut.2026.1957211",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1957211/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1957211/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-15T17:46:05.186680+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1186/s42269-026-01507-7",
+      "title": "Multidrug- and rifampicin-resistant tuberculosis in the post-BPaLM era: from genomic resistance prediction to precision treatment, therapeutic failure and transmission control — a comprehensive review",
+      "abstract": "Abstract Background Multidrug- and rifampicin-resistant tuberculosis (MDR/RR-TB) remains a leading cause of death from antimicrobial resistance. The six-month, all-oral regimen of bedaquiline, pretomanid, linezolid and moxifloxacin (BPaLM) has transformed care. It is shorter, safer and more effective than earlier regimens. Yet its long-term success is fragile. Resistance to the newest drugs is already emerging, and access to fast, accurate resistance testing is uneven. Objective This review examines how genomic resistance prediction, precision treatment, the management of therapeutic failure and transmission control can be joined into a single, practical framework for the post-BPaLM era. Methods We conducted a comprehensive narrative review. We searched five databases and hand-searched key references, WHO guidance and pivotal trials. We then purposively synthesized 47 authenticated sources. They spanned randomized trials, genomic and bioinformatic studies, molecular epidemiology, mechanistic work and World Health Organization (WHO) guidance. Results BPaLM achieves favorable outcomes in about 89% of patients, against roughly half with older regimens. Whole-genome and targeted sequencing can predict resistance for much of the drug panel, although genotype–phenotype concordance is still incomplete for several newer drugs. Bedaquiline resistance, driven mainly by Rv0678 variants, and its cross-resistance with clofazimine are the most pressing threats. Linezolid toxicity still limits treatment and calls for dose personalization and monitoring. Genomic surveillance can detect transmission clusters early and feed data back into stewardship. Machine learning adds value, with the strongest current evidence in resistance prediction. Conclusion We propose a closed loop for the post-BPaLM era. Rapid sequencing should guide personalized regimens. Toxicity and resistance should be watched in real time. Genomic surveillance should protect the new drugs at the population level. Equity of access must underpin all of it.",
+      "authors": "Mohan Bilikallahalli Sannathimmappa, Vinod Nambiar",
+      "published": "2026-10-13",
+      "venue": "Bulletin of the National Research Centre/Bulletin of the National Research Center",
+      "doi": "10.1186/s42269-026-01507-7",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1186/s42269-026-01507-7.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1186/s42269-026-01507-7.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-15T17:46:05.186680+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.1145/3805696.3847128",
@@ -277,8 +547,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-14T17:50:01.464051+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:08.949240+00:00",
+      "digest_day": "2026-10-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.31181/dma412026190",
+      "title": "Digital Twins as Socio-Technical Decision Systems: A Comparative Systematic Review of Supply Chain Management and Healthcare",
+      "abstract": "Digital Twin (DT) technology is rapidly evolving from a digital representation of physical assets into a decision-support infrastructure that integrates real-time data, analytics, and simulation. However, existing research remains fragmented across application domains, limiting understanding of how DTs enable decision-making under different socio-technical conditions. This study presents a systematic literature review and decision-centric comparative analysis of DT applications in two contrasting decision environments: Supply Chain Management (SCM) and healthcare. Following a Systematic Literature Review (SLR) protocol, 193 peer-reviewed studies (95 SCM and 98 healthcare) were identified, screened, and synthesized across six analytical dimensions: application domains, technological integration, decision-making levels, business value, stakeholder involvement, and implementation challenges. The findings reveal fundamentally different decision logics despite a shared technological foundation based on Internet of Things (IoT), Artificial Intelligence (AI), and cloud computing. SCM-DTs primarily support coordination, optimization, resilience, and organizational scalability, whereas healthcare-DTs emphasize personalization, patient safety, and ethical governance under stringent regulatory constraints. Building on these findings, the study proposes a decision-centric comparative framework and a value–complexity perspective suggesting that value realization is increasingly associated with technological, organizational, and governance complexity as DT ecosystems mature. The paper advances the conceptualization of DTs as socio-technical decision systems and provides practical guidance for researchers, managers, and policymakers seeking responsible and effective digital transformation.",
+      "authors": "Yehia Ibrahim Alzoubi, Shahnawaz Muhammed, Atık Kulakli",
+      "published": "2026-10-12",
+      "venue": "Decision Making Advances",
+      "doi": "10.31181/dma412026190",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.dma-journal.org/index.php/dema/article/download/190/85",
+      "oa_url": "https://www.dma-journal.org/index.php/dema/article/download/190/85",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-10-15T17:46:08.949240+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -412,8 +709,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -439,8 +736,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -466,8 +763,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -493,8 +790,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -520,23 +817,23 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-14T17:49:53.225616+00:00",
-      "digest_day": "2026-10-15",
+      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
+      "digest_day": "2026-10-16",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-14T17:50:10.759859+00:00",
+  "last_refresh": "2026-10-15T17:46:13.781131+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-14T17:48:00.402684+00:00",
-    "finished": "2026-10-14T17:50:10.760439+00:00",
+    "started": "2026-10-15T17:45:55.169320+00:00",
+    "finished": "2026-10-15T17:46:13.781502+00:00",
     "sources": {
-      "OpenAlex": 4,
+      "OpenAlex": 12,
       "Crossref": 0,
       "arXiv": 9
     },
-    "error": "arXiv: arXiv request failed: TimeoutError"
+    "error": null
   },
   "configured_sources": [
     "OpenAlex",
@@ -546,5 +843,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-15T01:50:10.768810+08:00"
+  "generated_at": "2026-10-16T01:46:13.787684+08:00"
 }
