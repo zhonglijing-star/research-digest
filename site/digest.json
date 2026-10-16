@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "topics": [
     {
       "id": "governance",
@@ -202,6 +202,60 @@
       "rank_score": 70
     },
     {
+      "id": "doi:10.17605/osf.io/y4rc3",
+      "title": "Designing the evidence base and user-needs framework for a digital health intervention supporting sleep and screen-time behaviors in young adults",
+      "abstract": "Background Background. Insufficient and disturbed sleep is common among young adults and evening and in-bed smartphone use is widespread and associated with poorer sleep outcomes. Young adults combine high need with high reachability through digital channels. However, they receive little age-specific guidance, because they fall between recommendations written for children and adolescents and those written for adults in general. Digital cognitive behavioural therapy for insomnia (CBT-I) appears effective in this population, and guided interventions tend to outperform unguided ones. Artificial intelligence (AI) may combine some of the benefits of guidance with greater scalability, for example through conversational agents, data-driven personalisation or just-in-time adaptive interventions. At the same time, it raises questions of trust, transparency and data governance. No one has yet systematically mapped the evidence on digital interventions that target sleep and evening screen use in this age group, including their use of human guidance and AI, user engagement, and young adults’ own perspectives. Objective. This scoping review aims to map the available evidence on digital interventions developed or evaluated to improve sleep and reduce evening screen use among young adults aged 18–25 years. These include apps, websites, chatbots and conversational agents, wearables, and text or messaging services. The review addresses five questions: 1. What digital interventions (apps, websites, chatbots, conversational agents, wearables, messaging) have been developed or evaluated to improve sleep and reduce evening screen use among young adults, and what are their components (e.g., CBT-I, sleep hygiene, screen-reduction strategies), delivery models, level of human guidance and use of AI (e.g., conversational support, personalization, just-in-time adaptation)? 2. Which sleep, screen-use and secondary outcomes (mental health, academic performance, quality of life) are reported, how are they measured (subjective vs. Objective, validated instruments), what effects are reported (including clinically meaningful change or remission), and are these effects maintained at follow-up? 3. What is reported on adherence, engagement, attrition, and which intervention features are (e.g., human guidance, reminders, personalization, AI) are reported alongside higher or lower engagement? 4. What needs, preferences, barriers, facilitators and acceptability judgements do young adults report regarding digital sleep and screen-use support, including preferences on timing, interaction style, human support, trust, transparency and data sharing, and, where reported, how do these vary across groups (e.g., gender, students vs. workers, socioeconomic status)? Secondary sub-question (grey literature search of guidelines) 5.What clinical, sleep-health and screen-use recommendations are available from international and national guideline authorities (e.g. WHO, NSF, AASM, ESRS, national authorities) to inform a digital intervention for young adults, what do they specify for digital interventions, and what is the strength and applicability of these recommendations to this age group? RQ5 is treated as a secondary question because it does not map the intervention evidence itself. Instead, it provides the normative benchmark against which the interventions (RQ1-RQ4) and the survey findings (RQ6-RQ7) are interpreted. Methods. The review follows the JBI methodology for scoping reviews and will be reported according to PRISMA-ScR, with the search reported according to PRISMA-S. Eligibility is defined with the Population–Concept–Context framework: Population: young adults aged 18-25 years. A study qualifies if all participants are in this range, if the mean or median age falls within it, or if results are reported separately for this group. Eligible samples include students, workers, and people with insomnia symptoms, short or irregular sleep, or problematic smartphone use. Concept: digital interventions (unguided, guided or blended) aiming to improve sleep and/or reduce evening screen use that report at least one sleep, screen-use, engagement or user-perspective outcome. Context: any country and setting. Eligible source types are randomised and non-randomised trials; pre–post, feasibility, pilot and usability studies; development and co-design studies; and qualitative, mixed-methods and survey studies of needs or preferences. MEDLINE (PubMed), APA PsycInfo and Scopus will be searched for English-language sources published from January 2000 onwards. The reference lists of included sources and relevant reviews will then be screened. Screening will take place in Rayyan in two stages: titles and abstracts, then full texts. It starts with a calibration phase in which two reviewers independently screen a random 25% of records (target agreement ≥75%). A second reviewer will verify all full-text exclusions and borderline records, and a third reviewer will resolve any remaining disagreements. In line with scoping review methodology, no formal critical appraisal will be conducted. Results will be synthesised descriptively through tables, charts and narrative summary. Guidelines are identified through a separate search with its own eligibility criteria, so they are not included in the PRISMA-ScR flow diagram. They are reported separately as a supplementary evidence stream. Expected outcomes. The review will produce a structured overview of existing digital interventions for sleep and evening screen use in young adults. It will cover their components, delivery, human guidance and AI use, how outcomes and engagement have been measured, what users report needing and preferring, and which guideline recommendations apply to this age group. The review is also expected to identify gaps in the evidence, such as limited use of objective measures, short follow-up periods, or scarce evaluation of AI-supported and screen-use components. Findings will be interpreted in relation to the WHAT criteria (Work, Help, Accessible, Trusted) of the European Insomnia Guideline. The review is Study 1 of an MSc thesis at Wageningen University & Research. Its findings will be integrated with a cross-sectional survey of young adults (Study 2, which serves as the stakeholder consultation stage) to derive requirements for the future design of a trustworthy, AI-assisted digital intervention for sleep and evening screen use.",
+      "authors": "Andrea Paladini, Rena Yang",
+      "published": "2026-10-15",
+      "venue": "Open Science Framework",
+      "doi": "10.17605/osf.io/y4rc3",
+      "arxiv_id": "",
+      "kind": "other",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.17605/osf.io/y4rc3",
+      "oa_url": "https://doi.org/10.17605/osf.io/y4rc3",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及personalization、personalisation",
+      "fetched_at": "2026-10-16T17:48:16.509628+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/s00163-026-00507-y",
+      "title": "Bridging design disciplines: a literature review of biologically-inspired design, human-centered design, and human-robot interaction",
+      "abstract": "Abstract As robotic technologies become more integrated into society, there is a growing demand for systems that are not only technically robust, but also socially accepted, safe, and designed for long-term use. Biologically-Inspired Design (BID), Human-Centered Design (HCD), and Human-Robot Interaction (HRI) each offer valuable theories, methodologies, and tools to support the design and evaluation of such systems. Despite their complementary goals, these fields have largely developed in isolation. The lack of integration across BID, HCD, and HRI presents significant barriers for researchers and designers seeking to create biologically-informed, human-centered robots that facilitate meaningful interactions. In this work, an integrative literature review was conducted to examine the fields of BID, HCD, and HRI. An analytic categorization approach was used to categorize 63 papers into one or more of the three fields: 20 in BID, 27 in HCD, and 21 in HRI, with some papers categorized into multiple categories. Within each field, an inductive, interpretive coding and thematic analysis were used to identify key terminology, tools, methods, and conceptual frameworks, helping establish a shared vocabulary and summarize the state of the art. This was followed by a synthesis of limitations and field-specific gaps. Cross-field analysis revealed only four papers demonstrating overlap within the reviewed corpus: three showing implicit connections between HCD and HRI, and one showing implicit overlap between BID and HRI with indirect ties to HCD. This review lays the groundwork for more integrated design research by identifying opportunities for collaboration across BID, HCD, and HRI, highlighting the potential for more biologically-informed, user-centered, and socially responsive robotic systems.",
+      "authors": "Daniel Whitman, Deeksha Seth",
+      "published": "2026-10-14",
+      "venue": "Research in Engineering Design",
+      "doi": "10.1007/s00163-026-00507-y",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s00163-026-00507-y.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s00163-026-00507-y.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及literature review",
+      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
       "id": "doi:10.3389/fonc.2026.1885312",
       "title": "Artificial intelligence and anti-cancer drugs: advancing discovery, personalization, and precision oncology",
       "abstract": "Artificial intelligence (AI) is changing the way we discover anticancer drugs. It tackles the problems of traditional methods, such as prolonged timelines for drug development, higher costs, and substantial inter-patient heterogeneity. This review explains how AI is applied throughout the cancer drug pipeline. This includes target identification, virtual screening of compounds, molecular docking, and predicting pharmacokinetics. We explore how machine learning models speed up hit-to-lead optimization, improve clinical trial design by stratifying patients, and allow for real-time toxicity monitoring. A key focus is on integrating AI with multi-omics data, including proteomics, genomics, transcriptomics, and metabolomics, to support precision oncology and personalized treatments. We address important validation challenges, like model interpretability, data quality, and regulatory issues that must be solved before AI can be widely used in clinics. By summarizing current evidence and targeting research gaps, this review offers a clear view of how AI is enhancing the discovery, personalization, and validation of anticancer treatments.",
@@ -250,8 +304,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及literature review",
-      "fetched_at": "2026-10-15T17:46:08.949240+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
+      "digest_day": "2026-10-17",
       "vote": 0,
       "rank_score": 58
     },
@@ -364,6 +418,114 @@
       "rank_score": 58
     },
     {
+      "id": "doi:10.1038/s41746-026-03377-9",
+      "title": "TrajOnco: a multi-agent framework for temporal reasoning over longitudinal EHR for multi-cancer early detection",
+      "abstract": "Abstract Accurate estimation of cancer risk from longitudinal electronic health records (EHRs) could support earlier detection and improved care, but modeling such complex patient trajectories remains challenging. We present TrajOnco, a training-free, multi-agent large language model (LLM) framework designed for scalable multi-cancer early detection. Using a chain-of-agents architecture with long-term memory, TrajOnco performs temporal reasoning over sequential clinical events to generate patient-level summaries, evidence-linked rationales, and predicted risk scores. We evaluated TrajOnco on de-identified Truveta EHR data across 15 cancer types using matched case-control cohorts, predicting risk of cancer diagnosis at 1 year. In zero-shot evaluation, TrajOnco achieved AUROCs of 0.64–0.80, performing comparably to supervised machine learning in a lung cancer benchmark while demonstrating better temporal reasoning than single-agent LLMs. The multi-agent design also enabled effective temporal reasoning with smaller-capacity models such as GPT-4.1-mini. The groundedness of TrajOnco’s output was supported by human evaluation. Furthermore, TrajOnco’s interpretable reasoning outputs can be aggregated to reveal population-level risk patterns that align with established clinical knowledge. These findings highlight the potential of multi-agent LLMs to execute interpretable temporal reasoning over longitudinal EHRs, advancing both scalable multi-cancer early detection and clinical insight generation.",
+      "authors": "Sihang Zeng, Young Won Kim, Wilson Lau, Ehsan Alipour, Ruth Etzioni, Meliha Yetisgen",
+      "published": "2026-10-15",
+      "venue": "npj Digital Medicine",
+      "doi": "10.1038/s41746-026-03377-9",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1038/s41746-026-03377-9",
+      "oa_url": "https://doi.org/10.1038/s41746-026-03377-9",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-16T17:46:41.575201+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23386369",
+      "title": "THE EL-RAKHAWI FRAMEWORK FOR EPISTEMOLOGICAL SOVEREIGNTY OF AUTONOMOUS SCIENTIFIC AI AGENTS Ensuring Falsifiability, Causal Traceability, and Biosafety in the Age of Automated Discovery",
+      "abstract": "The El-Rakhawi Framework for Epistemological Sovereignty of Autonomous Scientific AI Agents (DOI: 10.5281/zenodo.23386370) addresses the existential crisis of AI-generated science through four pillars: (1) **Mandatory Causal Traceability** via Directed Acyclic Graphs eliminating hallucination by forcing auditable logical chains from raw data to hypothesis; (2) **Algorithmic Falsifiability** extending Popper's philosophy—every AI hypothesis must specify measurable falsification conditions or be rejected as non-scientific; (3) **Cryptographic Biosafety Ontology** with zero-knowledge proofs preventing dual-use designs and embedded kill-switches; (4) **Adversarial Reviewer Agents** dedicated to attacking researcher hypotheses at machine speed. The Autonomous Scientific Discovery Reliability Index: ASDRI=(C×F×S)/((C×F×S)+(W×H×O)+0.01), with W=10, mathematically exposing current state-of-the-art AI agents scoring only 0.013—proving most autonomous AI systems are scientifically unreliable and potentially dangerous. Framework establishes that machines cannot be inventors, purely autonomous discoveries enter public domain, and scientific journals must require ASDRI validation. Protected under sovereign moral and intellectual property with mandatory academic citation. All rights exclusively reserved to Dr. Mohamed Kamal Arafa El-Rakhawi—ensuring AI remains accountable collaborator, not unaccountable oracle, where the human mind stays the supreme arbiter of truth.",
+      "authors": "mohamed kamal arafa el-rakhawi",
+      "published": "2026-10-15",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23386369",
+      "arxiv_id": "",
+      "kind": "book",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23386369",
+      "oa_url": "https://doi.org/10.5281/zenodo.23386369",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23391159",
+      "title": "OpenCommons: A Distributed, Meaning-Indexed Concept Commons for Accelerating Scientific and Algorithmic Discovery in AI Agents",
+      "abstract": "When swarms of autonomous AI agents solve complex coding and scientific discovery tasks, they reset their memory between sessions. As a result, agents waste compute repeatedly re-deriving the same mathematical algorithms from scratch while copying subtle numerical errors. Existing skill libraries either store unverified code that spreads bugs across the swarm, or rely on formal verification systems that attempt to translate ordinary Python code into pure mathematical equations—a process that succeeds on only 12.5% of imperative scientific programs. We present OpenCommons, a decentralized concept commons that catalogs algorithms by what they actually compute rather than their surface syntax. By executing functions against a small suite of boundary test inputs, OpenCommons identifies equivalent implementations in less than a millisecond, achieving 100% coverage of native scientific code. An asynchronous peer-review engine stress-tests contributed code in the background, quarantining all defective submissions across six adversarial defect classes with zero false alarms. When evaluated on live language models solving scientific discovery tasks, retrieving verified concept cards increases first-attempt success from 33.3% to 83.3% while preventing the propagation of subtle bugs. Across multi-wave research horizons, this verified shared library reduces cumulative discovery cost by 12.67x, providing a dependable foundation for collective machine intelligence.",
+      "authors": "The Kardashev Project",
+      "published": "2026-10-15",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23391159",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23391159",
+      "oa_url": "https://doi.org/10.5281/zenodo.23391159",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23387765",
+      "title": "World–Self–Mutual Models: An Adaptive Framework for Switching Between Self-Learning and Collaborative Learning",
+      "abstract": "Learning systems face a fundamental architectural choice: whether to improve their internal knowledge and predictive capabilities through independent learning or to acquire additional information and capabilities through collaboration with other learning systems. Permanent reliance on either strategy can be inefficient. Self-learning preserves autonomy and reduces communication overhead but may limit access to complementary knowledge. Collaborative learning can improve information coverage and knowledge acquisition but introduces communication costs, coordination requirements, information inconsistency, and dependence on external learning partners. This paper proposes the World–Self–Mutual Adaptive Learning Framework (WSM-ALF), a conceptual architecture that integrates world models, self models, and mutual models to support adaptive switching between self-learning and collaborative learning. The world model represents environmental states, dynamics, and predicted consequences; the self model estimates the learning system's internal knowledge, capabilities, uncertainty, and limitations; and the mutual model represents relationships between learning systems, including complementary capabilities, information dependencies, communication reliability, and expected collaboration benefits. A meta-learning controller estimates the relative utility of independent and collaborative learning and selects the learning mode according to expected improvement, uncertainty reduction, resource consumption, and collaboration risk. The framework further introduces a transition mechanism that permits repeated switching rather than enforcing a permanently independent or permanently collaborative architecture. A mathematical formulation, an operational algorithm, a model-update protocol, and a comparative experimental design are presented. The proposed framework is intended for non-LLM learning systems, including model-based reinforcement learning, embodied agents, robotics, simulation systems, and autonomous scientific discovery. Its principal contribution is a unified design hypothesis in which the decision to learn independently or collaboratively becomes an explicit, state-dependent control problem within a world-model-based architecture. The framework remains a research proposal whose effectiveness, novelty relative to specific prior systems, and generalizability require empirical evaluation.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-10-15",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23387765",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23387765",
+      "oa_url": "https://doi.org/10.5281/zenodo.23387765",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
       "id": "doi:10.2118/234185-ms",
       "title": "A Multi-Agent AI Optimization System for Improving Rig Utilization and Production Gains in the Burgan Field",
       "abstract": "Abstract Scheduling a fleet of workover rigs across a mature giant field requires balancing production objectives against a dense web of operational constraints: artificial lift readiness, material availability, location doability, site and pad access, and rig–well compatibility. In the Greater Burgan complex, this forward planning has historically been built and maintained manually in the well delivery management (WDM) system, an in-house rig-scheduling application in which of the order of ten stakeholder teams continuously record and revise workover activities and their constraints. Across a typical year, the programme spans on the order of 500 workover wells and roughly 40 active rigs; distributing that fleet across the candidate wells and their ordered sequences yields a combinatorial space of astronomical size, on the order of hundreds of septillions of feasible arrangements and beyond, that cannot be searched by hand. This paper describes the design, deployment, and field evaluation of a multi-agent artificial intelligence (AI) scheduling system introduced by the Operator's Integration Excellence team to optimize the 90-day forward plan across the full workover operation of approximately 40 rigs and 200 workover wells. The system decomposes scheduling across cooperating agents: data preprocessing, rig–well resource matching, constraint validation, schedule optimization by a genetic algorithm adapted to the Operator's scheduling rules and operating over short- and long-term memory, execution monitoring, and feedback, with a human-in-the-loop review and approval workflow retained throughout. Planners select one of two objective modes (maximize production gain or meet a specified production target) while the optimizer enforces stability rules that protect active and next-scheduled jobs, group multi-well sites, and honor rig–well compatibility. Performance was evaluated by comparing manually prepared schedules against system-optimized schedules over identical planning inputs and, separately, through historical validation (backtesting) over rolling 90-day look-back windows. To respect data-confidentiality requirements, production results are reported in normalized form and absolute volumes are withheld. In a field-wide evaluation, the optimized schedule increased the projected 90-day production gain by 16% over the manual baseline, an advantage that compounded across the horizon, while fleet-average rig idle time fell by 46% and schedule preparation collapsed from about ten days of manual coordination to minutes of computation. The paper presents the constraint taxonomy and scheduling logic in transferable form and outlines an ongoing extension to new-drill planning, where injector–producer relationships, injection timing, and rig-contract capability introduce additional considerations.",
@@ -466,8 +628,116 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-15T17:46:08.949240+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3311/celisr.43071",
+      "title": "Digital Resilience",
+      "abstract": "The COVID-19 pandemic served as a brutal stress test for museum resilience. While many institutions relied on a 'substitutive model' of mere digital replacement, the National Museum of Korea (NMK) achieved anomalous growth through a strategic pivot. This study employs an explanatory single-case study design to investigate the mechanisms behind this success. Applying pattern matching logic, the research validates the efficacy of a 'Transformative Model' grounded in Cultural Democracy. Findings reveal that the NMK's integration of AI-driven personalization, immersive Extended Reality (XR) experiences, and radical inclusivity reconfigured the visitor relationship from passive consumption to active co-creation. Crucially, empirical data confirms a positive correlation where high-level digital engagement functioned as a catalytic gateway that drove, rather than cannibalized, physical attendance. This case illustrates how sustainable resilience can be achieved when technology is strategically deployed to democratize heritage access and empower the visitor as an active participant.",
+      "authors": "Heejung Ryoh",
+      "published": "2026-10-14",
+      "venue": "Central European Library and Information Science Review Közép-európai Könyvtár- és Információtudományi Szemle",
+      "doi": "10.3311/celisr.43071",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://journals.bme.hu/celisr/article/download/43071/24764",
+      "oa_url": "https://journals.bme.hu/celisr/article/download/43071/24764",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-16T17:48:16.509628+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1007/s42454-026-00110-5",
+      "title": "A human-centred, explainable digital system to support emotional self-regulation and everyday psychological well-being",
+      "abstract": "Abstract Self-regulating emotions, thoughts, and behaviours is central to psychological well-being but often difficult to sustain without structured support, particularly under stress or cognitive overload. This study introduces a human-centred digital system designed to support everyday emotional self-regulation through personalised, explainable self-care guidance grounded in established models of emotion regulation and self-regulated behaviour. The system adapts to users’ reported emotional state, cognitive load, time and energy constraints, and personal preferences to generate actionable self-care plans accompanied by natural-language explanations that clarify the system’s reasoning and contrast alternative strategies, supporting user understanding and autonomy. The system is intended for non-clinical, self-care contexts and does not provide diagnosis or treatment. A formative scenario-based evaluation was conducted using three representative non-clinical user archetypes. The generated outputs were independently assessed using a structured rubric, producing mean scenario scores of 4.2–4.8 out of 5. Findings suggest that explainable digital systems can function as cognitive and emotional scaffolding, enhancing reflective engagement and supporting behaviour change in everyday contexts. This work contributes to research at the intersection of behavioural science and technology by demonstrating how explainability and personalisation can be operationalised in supportive digital systems, offering design insights for transparent, adaptive technologies that promote trust, autonomy, and sustained engagement in psychological well-being support.",
+      "authors": "Ayodeji Olusegun Ibitoye, Omolola Oluyemisi Haastrup, David B. Olawade",
+      "published": "2026-10-14",
+      "venue": "Human-Intelligent Systems Integration",
+      "doi": "10.1007/s42454-026-00110-5",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s42454-026-00110-5.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s42454-026-00110-5.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-10-16T17:48:16.509628+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.65476/90ykhj15",
+      "title": "Everyday Scrolling: Algorithmic Awareness and Audience Tactics",
+      "abstract": "In the contemporary digital ecosystem, algorithms play a central role in the selection, ranking, and circulation of news and entertainment. Using Michel de Certeau’s theory of everyday tactics alongside Roger Silverstone’s domestication framework, this article builds on recent scholarship that views algorithmic awareness as differentiated, processual, or scalar. Specifically, we conceptualize algorithmic awareness as a continuum of situated understandings through which users recognize, interpret, and respond to algorithmic curation. Drawing from 56 in-depth interviews conducted in Argentina, we propose that analyzing awareness as a continuum helps explain why users deploy varied repertoires of tactics when engaging with these systems. Findings show that higher levels of awareness do not inherently cultivate user empowerment. Instead, heightened recognition frequently yields deeply ambivalent experiences characterized by cognitive saturation, forced personalization, and strategic platform withdrawal, thereby providing an empirically grounded communication research perspective from the Global South.",
+      "authors": "Brenda Focás, Eugenia Mitchelstein",
+      "published": "2026-10-14",
+      "venue": "International journal of communication",
+      "doi": "10.65476/90ykhj15",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ijoc.org/index.php/ijoc/article/download/27418/5562",
+      "oa_url": "https://ijoc.org/index.php/ijoc/article/download/27418/5562",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-16T17:48:16.509628+00:00",
+      "digest_day": "2026-10-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.48146/odusobiad.1959175",
+      "title": "Generative AI in visual design processes: A systematic review and comparative analysis from the perspective of design disciplines",
+      "abstract": "The rapid development of generative AI is fundamentally transforming creative design disciplines including graphic design, visual communication design, animation, game design, and UI/UX design. Existing studies predominantly address the role of AI within a single discipline, while comparative analyses examining these fields systematically remain limited in the literature. The research conducted by Choudhury, Eisenbart & Kuys (2025) and Song & Abdul Rabu (2025) have clearly revealed the need for discipline-specific comparative studies in sub-fields. The aim of this research is to reveal comparatively in which functions, at which stages, and in what forms of human-AI collaboration AI is utilized within these design disciplines. This systematic review was conducted based on the PRISMA 2020 protocol. A search conducted in the Scopus and Web of Science databases, a total of 100 articles were analyzed, comprising 20 articles representing each of the five visual design disciplines. The results of the analysis reveal that graphic design, artificial intelligence supports concept development and visual production processes, while in visual communication design, it undertakes evaluation and classification functions. In the field of animation, motion generation and character development processes are accelerated, and in game design, it assumes a determining role in procedural content generation and narrative development stages. In UI/UX design, AI contributes to the modeling of user behavior and prototyping processes. The interdisciplinary comparison shows that AI has established itself as a different creative partner in each field, and common challenges such as originality, copyright, and the transformation of designer identity maintain their validity across all disciplines. This research presents an original framework that addresses the use of AI comparatively across five visual design disciplines, emphasizing the necessity of field-based evaluations for design researchers, educators, and practitioners.",
+      "authors": "Yasemin KAYABAŞI",
+      "published": "2026-10-14",
+      "venue": "ODÜ Sosyal Bilimler Araştırmaları Dergisi (ODÜSOBİAD)",
+      "doi": "10.48146/odusobiad.1959175",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://dergipark.org.tr/en/download/article-file/6052351",
+      "oa_url": "https://dergipark.org.tr/en/download/article-file/6052351",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-10-16T17:51:39.332735+00:00",
+      "digest_day": "2026-10-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -823,17 +1093,17 @@
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-15T17:46:13.781131+00:00",
+  "last_refresh": "2026-10-16T17:52:45.622926+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-15T17:45:55.169320+00:00",
-    "finished": "2026-10-15T17:46:13.781502+00:00",
+    "started": "2026-10-16T17:45:37.146027+00:00",
+    "finished": "2026-10-16T17:52:45.623561+00:00",
     "sources": {
       "OpenAlex": 12,
       "Crossref": 0,
-      "arXiv": 9
+      "arXiv": 0
     },
-    "error": null
+    "error": "arXiv: arXiv request failed: TimeoutError；arXiv: a bytes-like object is required, not 'NoneType'；arXiv: a bytes-like object is required, not 'NoneType'；arXiv: arXiv request failed: TimeoutError；arXiv: a bytes-like object is required, not 'NoneType'"
   },
   "configured_sources": [
     "OpenAlex",
@@ -843,5 +1113,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-16T01:46:13.787684+08:00"
+  "generated_at": "2026-10-17T01:52:45.631900+08:00"
 }
