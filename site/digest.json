@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "topics": [
     {
       "id": "governance",
@@ -67,6 +67,33 @@
   ],
   "articles": [
     {
+      "id": "doi:10.55041/ijcope.v2i10.092",
+      "title": "ScholarForge AI: An Open, Multi-Agent RAG Platform for Automated Research Paper Analysis",
+      "abstract": "The growing volume of scientific literature has made research-paper analysis increasingly time-consuming for students, researchers, and academicians. Tasks such as literature review generation, methodology understanding, research gap identification, citation formatting, and trend discovery often require substantial manual effort. To address these challenges, this paper presents ScholarForge AI, an open, multi-agent Retrieval-Augmented Generation (RAG) platform designed to automate research-paper analysis and transform scholarly documents into actionable research intelligence. The proposed system integrates Large Language Models (LLMs), LangGraph-based multi-agent orchestration, ChromaDB vector storage, a Neo4j knowledge graph, and Natural Language Processing (NLP) techniques to support intelligent document processing. Research papers in PDF format are processed using PyMuPDF and EasyOCR, then chunked and embedded with the BAAI/bge-small-en-v1.5 sentence transformer model for semantic retrieval. The platform includes specialized agents for literature review generation, methodology analysis, research gap detection, trend analysis, research idea generation, citation formatting, interactive question answering and difficulty prediction. In addition, a research difficulty predictor classifies papers as Easy, Medium, or Hard, while the knowledge graph visualizes relationships among papers, authors, keywords, methods, and topics. Experimental results show that ScholarForge AI improves the efficiency of literature survey preparation, supports accurate gap identification, and provides context-aware research recommendations. Built entirely on open-source technologies, the platform offers a scalable and accessible solution for academic research support.",
+      "authors": "Shravasti Chaudhari, Akansha Mahore, Tanmay Ranotkar, Shravan Ningot, Dr. Maithili S. Deshmukh",
+      "published": "2026-10-16",
+      "venue": "International Journal of Creative and Open Research in Engineering and Management",
+      "doi": "10.55041/ijcope.v2i10.092",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ijcope.org/wp-content/uploads/2026/10/ScholarForge-AI-An-Open-Multi-Agent-RAG-Platform-for-Automated-Research-Paper-Analysis.pdf",
+      "oa_url": "https://ijcope.org/wp-content/uploads/2026/10/ScholarForge-AI-An-Open-Multi-Agent-RAG-Platform-for-Automated-Research-Paper-Analysis.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及automated research",
+      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
+      "digest_day": "2026-10-18",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
       "id": "doi:10.5281/zenodo.23371367",
       "title": "CreatorMemBench v1.0: A Lifecycle Benchmark for Mutable Creator-Agent Memory",
       "abstract": "CreatorMemBench v1.0 contains 20 synthetic creator timelines and 160 checkpoints for evaluating mutable long-term memory in creator agents. The benchmark covers stable identity, scoped preferences, multi-session composition, transient noise, updates, forgetting, retention, and resurrection. The archive includes separated inputs and gold criteria, a strict semantic scoring protocol, an offline aggregation script, a prediction schema, a license, and SHA-256 checksums. It contains no production conversations, account identifiers, credentials, proprietary service code, endpoint identifiers, or raw internal traces.",
@@ -115,8 +142,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 70
     },
@@ -169,8 +196,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 70
     },
@@ -196,8 +223,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 70
     },
@@ -223,8 +250,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及personalization、personalisation",
-      "fetched_at": "2026-10-16T17:48:16.509628+00:00",
-      "digest_day": "2026-10-17",
+      "fetched_at": "2026-10-17T19:27:08.767789+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 58
     },
@@ -250,8 +277,62 @@
       ],
       "relevance": 58,
       "reason": "标题涉及literature review",
-      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
-      "digest_day": "2026-10-17",
+      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
+      "digest_day": "2026-10-18",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1016/j.jss.2026.113142",
+      "title": "LLM-based multi-agent systems for code generation: A multi-vocal literature review",
+      "abstract": "Large Language Models (LLMs) have enabled multi-agent systems to perform autonomous code generation for complex tasks. Despite the recent growth in research and industrial applications in this area, there is little work on synthesizing evidence from both academic and industrial sources to capture the current state of research on LLM-based multi-agent systems for code generation. To this end, we conducted a Multi-Vocal Literature Review (MLR), combining insights from both academia and industry, including peer-reviewed studies and grey literature. The aim of this study is to systematically synthesize and analyze existing knowledge on LLM-based multi-agent systems for code generation. Specifically, the review examines the motivations for their use, employed benchmarks and models, key challenges, proposed solutions, and potential directions for future research. We selected and reviewed 114 studies, and the key findings are: (1) the identified reasons for adopting multi-agent systems for code generation were classified into nine categories; (2) the models and evaluation benchmarks utilized across the studies were systematically analyzed to provide a structured overview of commonly adopted LLM configurations and assessment practices; (3) the reported challenges and corresponding solutions were synthesized into seven main categories and 26 subcategories; and (4) future research directions were identified and organized into six main categories and 18 subcategories. The results of this MLR will assist researchers and practitioners in pursuing further studies and supporting the real-world adoption of multi-agent systems in industrial settings.",
+      "authors": "Zeeshan Rasheeda, Muhammad Waseema, Kai-Kristian Kemella, Mika Saari, Pekka Abrahamsson",
+      "published": "2026-10-14",
+      "venue": "Journal of Systems and Software",
+      "doi": "10.1016/j.jss.2026.113142",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1016/j.jss.2026.113142",
+      "oa_url": "https://doi.org/10.1016/j.jss.2026.113142",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及literature review",
+      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
+      "digest_day": "2026-10-18",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.70508/1hd5c672",
+      "title": "Human-AI Collaboration and Organizational Adaptation: Insights from Knowledge Workers in Banten, Indonesia",
+      "abstract": "This qualitative descriptive study explores how Human-AI collaboration shapes organizational adaptation among knowledge workers in Banten, Indonesia. Using multi-case inquiry with 20 purposively selected participants comprising knowledge workers, middle managers, senior managers, and digital transformation leaders, this research employed semi-structured interviews, organizational document analysis, and observation protocols. Thematic analysis revealed four critical patterns: (1) AI integration reshapes collaborative workflows through augmentation rather than replacement; (2) knowledge work transformation emerges through new competency demands and skill reconfiguration; (3) organizational learning accelerates through human-AI knowledge co-creation; and (4) adaptive organizational practices evolve through dynamic capability reconfiguration. The study contributes theoretically by extending dynamic capability theory, organizational adaptation theory, and knowledge-based view through an emerging economy lens, demonstrating that Human-AI collaboration functions as a mechanism for organizational adaptation when complemented by deliberate knowledge management systems, adaptive leadership, and human-centric learning cultures. Practically, findings offer strategic guidance for organizational leaders, human resource managers, and policymakers navigating AI-driven transformation in knowledge-intensive sectors. This research uniquely addresses the gap between AI adoption studies and organizational adaptation processes, providing nuanced understanding of Human-AI collaboration in an emerging economy context where institutional support and digital literacy remain evolving. The novelty lies in positioning Human-AI collaboration as central to organizational adaptation rather than treating it as a peripheral technological implementation concern, with particular relevance to organizations in Southeast Asian emerging markets.",
+      "authors": "Danish Akbar Firdausy Asbari",
+      "published": "2026-10-14",
+      "venue": "Indonesian Journal of Management and Economic Research.",
+      "doi": "10.70508/1hd5c672",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ejournal.ayasophia.org/index.php/IJOMER/article/download/346/162",
+      "oa_url": "https://ejournal.ayasophia.org/index.php/IJOMER/article/download/346/162",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及human-AI collaboration",
+      "fetched_at": "2026-10-17T19:27:15.674338+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 58
     },
@@ -412,10 +493,37 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.6084/m9.figshare.34584513",
+      "title": "Governed AI Delivery: An Implementation Profile of the Local Multi-Agent Coordination Protocol (LMCP) — Lifecycle, Stage Gates, Clickable Test Rigs, Human Decisions and the Control Set, from Claudia and SafeSpaces",
+      "abstract": "An implementation profile of the Local Multi-Agent Coordination Protocol (LMCP). LMCP says, as numbered requirements, how a task ledger coordinates AI agents and people on one shared codebase; this profile says how an organisation runs governed AI-driven delivery on top of it.It covers the lifecycle of a piece of work (idea, design, development, deployment, testing, demonstration and independent verification), the gate at each step with its deliverable and quality bar, test rigs that drive the real clickable product, the points where a person must decide or validate, and the surrounding control set: skills, conduct rules, design standards, lessons learnt, the source map, documentation, version control, deploy controls, the task ledger, long-term memory and file locking.Grounded in two real implementations: Claudia (11 projects, 909 ledger tasks) supplies the structure, and SafeSpaces (8,200 ledger tasks, 27 agents, 878 rig manifests and an independent Verifier Agent) the depth of enforcement. Every control is stated as a requirement and rated per implementation from live evidence gathered on 3 October 2026.Central finding: a control that is not enforced by the machine is advisory, and advisory controls drift. The profile therefore states, for every control, where it must be enforced. The Claudia gaps were remediated the same day by moving each rule into the machine, which exposed three further hidden failures.Preprint, not peer-reviewed. Companion: LMCP v3.1 (10.6084/m9.figshare.33437977) and the LMCP implementation guide (10.6084/m9.figshare.34052535).",
+      "authors": "Jolyon Grace",
+      "published": "2026-10-16",
+      "venue": "Figshare",
+      "doi": "10.6084/m9.figshare.34584513",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.6084/m9.figshare.34584513",
+      "oa_url": "https://doi.org/10.6084/m9.figshare.34584513",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-17T19:27:05.698831+00:00",
+      "digest_day": "2026-10-18",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.1038/s41746-026-03377-9",
@@ -466,8 +574,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
-      "digest_day": "2026-10-17",
+      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -493,8 +601,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
-      "digest_day": "2026-10-17",
+      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -520,8 +628,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-16T17:49:30.558033+00:00",
-      "digest_day": "2026-10-17",
+      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
+      "digest_day": "2026-10-18",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.4018/ijmbl.424747",
+      "title": "Evaluating the Effectiveness of an AI-Assisted Personalized Learning Pathway in Mobile-Supported Online Physical Education",
+      "abstract": "This study evaluates the effectiveness of an AI-assisted personalized learning pathway in mobile-supported online physical education. To overcome issues of homogeneous content and delayed feedback, a system integrating cognitive knowledge, physical fitness, and motor skills was developed. Reinforcement learning dynamically adapted learning pathways, while edge-based computer vision enabled real-time feedback on low-end mobile devices. A randomized controlled trial with 120 students over eight weeks compared the proposed system to conventional video-based instruction. Results showed low inference latency (34.8 ms) and a 61.2% reduction in movement variability. NASA-TLX scores revealed lower mental demand and frustration, with high learner engagement. The findings highlight the effectiveness of AI-assisted personalization and mobile feedback in improving learning outcomes and experiences in online physical education.",
+      "authors": "Xia Wan, Libing Fu",
+      "published": "2026-10-15",
+      "venue": "International Journal of Mobile and Blended Learning",
+      "doi": "10.4018/ijmbl.424747",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.igi-global.com/ViewTitle.aspx?TitleId=424747&isxn=9798337386553",
+      "oa_url": "https://www.igi-global.com/ViewTitle.aspx?TitleId=424747&isxn=9798337386553",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-17T19:27:08.767789+00:00",
+      "digest_day": "2026-10-18",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.16951/trendbusecon.1959160",
+      "title": "Post-Purchase Emotional Collapse: LLM-Assisted Analysis of Online Consumer Complaint Narratives",
+      "abstract": "Online shopping environments involve interactions shaped by trust, responsiveness, speed, and personalization. When post-purchase service failures occur, customer reactions may extend beyond dissatisfaction to cumulative emotional disruption, including regret, frustration, exhaustion, perceived betrayal, and trust erosion. Despite extensive research on service failure and complaint behavior, limited attention has been given to progressive emotional breakdowns across digital consumption journeys. Addressing this gap, the study introduces post-purchase emotional collapse (PPEC), defined as a cumulative emotional breakdown resulting from repeated service failures and unresolved negative experiences across customer touchpoints. Using a qualitative content analysis design, the study analyzes 1,000 consumer complaints from sikayetvar.com via Large Language Model (LLM)-assisted emotional coding, touchpoint identification, metaphor analysis, and narrative classification, with human validation on a subsample. Findings suggest delivery failures as the most frequently coded rupture point, with anger, disappointment, and regret as the most frequently coded primary emotions. Complaint narratives include metaphors of deception, battle, and destruction, which are compatible with a reading of cumulative deterioration. The study contributes by conceptualizing PPEC and illustrating the potential and the limits of LLM-assisted qualitative analysis in consumer research; it also offers managerial implications for emotionally responsive complaint management systems.",
+      "authors": "Eren Temel",
+      "published": "2026-10-15",
+      "venue": "Trends in Business and Economics",
+      "doi": "10.16951/trendbusecon.1959160",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://dergipark.org.tr/en/download/article-file/6052281",
+      "oa_url": "https://dergipark.org.tr/en/download/article-file/6052281",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-17T19:27:08.767789+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -736,8 +898,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-10-16T17:51:39.332735+00:00",
-      "digest_day": "2026-10-17",
+      "fetched_at": "2026-10-17T19:27:15.674338+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -979,8 +1141,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -1006,8 +1168,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -1033,8 +1195,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -1060,8 +1222,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -1087,23 +1249,23 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-15T17:46:03.097160+00:00",
-      "digest_day": "2026-10-16",
+      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
+      "digest_day": "2026-10-18",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-16T17:52:45.622926+00:00",
+  "last_refresh": "2026-10-17T19:27:18.292498+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-16T17:45:37.146027+00:00",
-    "finished": "2026-10-16T17:52:45.623561+00:00",
+    "started": "2026-10-17T19:27:01.950008+00:00",
+    "finished": "2026-10-17T19:27:18.292975+00:00",
     "sources": {
       "OpenAlex": 12,
       "Crossref": 0,
-      "arXiv": 0
+      "arXiv": 9
     },
-    "error": "arXiv: arXiv request failed: TimeoutError；arXiv: a bytes-like object is required, not 'NoneType'；arXiv: a bytes-like object is required, not 'NoneType'；arXiv: arXiv request failed: TimeoutError；arXiv: a bytes-like object is required, not 'NoneType'"
+    "error": null
   },
   "configured_sources": [
     "OpenAlex",
@@ -1113,5 +1275,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-17T01:52:45.631900+08:00"
+  "generated_at": "2026-10-18T03:27:18.302899+08:00"
 }
