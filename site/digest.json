@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "topics": [
     {
       "id": "governance",
@@ -67,6 +67,33 @@
   ],
   "articles": [
     {
+      "id": "doi:10.5281/zenodo.23435386",
+      "title": "Reciprocal Miscalibration in Personalized AI Correction. User model fidelity persuasive fit and feedback over time",
+      "abstract": "Persistent AI agents can condition advice and correction on disclosures, histories, and inferred preferences. Apparent personalization fit is insufficient evidence of calibration. A system may misrepresent its user while the user poorly distinguishes accurate from inaccurate advice; their coexistence is termed dual miscalibration. Reciprocal miscalibration is a narrower hypothesis: representation-conditioned outputs affect behaviour, that behaviour updates the operative representation, and the updated state sustains or worsens both representation error and miscalibrated human reliance. The framework separates user-model fidelity, contextual representation fit, perceived fit, persuasive efficacy, and advice accuracy. An accurate record of a false user belief remains distinct from endorsing that belief as true. Performative prediction, preference pollution, persuasion profiling, distributed cognition, narrative railroading, and human-AI feedback research supply direct antecedents. The contribution is an operational refinement of these problems for conversational correction, with falsifiable propositions and interventions on representation updating and correction. Feedback to the human about independently checked outcomes is distinguished from behaviour fed back into the system. A factorial study tests immediate effects; a longitudinal intervention tests reciprocal reinforcement. Appropriate reliance additionally depends on payoffs, checking costs, relative competence, and learning opportunities. Neither reciprocity nor the benefit of the proposed controls has been established by this conceptual synthesis.",
+      "authors": "Luiza Scurtu",
+      "published": "2026-10-17",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23435386",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23435386",
+      "oa_url": "https://doi.org/10.5281/zenodo.23435386",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及user model",
+      "fetched_at": "2026-10-18T19:27:16.439013+00:00",
+      "digest_day": "2026-10-19",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
       "id": "doi:10.55041/ijcope.v2i10.092",
       "title": "ScholarForge AI: An Open, Multi-Agent RAG Platform for Automated Research Paper Analysis",
       "abstract": "The growing volume of scientific literature has made research-paper analysis increasingly time-consuming for students, researchers, and academicians. Tasks such as literature review generation, methodology understanding, research gap identification, citation formatting, and trend discovery often require substantial manual effort. To address these challenges, this paper presents ScholarForge AI, an open, multi-agent Retrieval-Augmented Generation (RAG) platform designed to automate research-paper analysis and transform scholarly documents into actionable research intelligence. The proposed system integrates Large Language Models (LLMs), LangGraph-based multi-agent orchestration, ChromaDB vector storage, a Neo4j knowledge graph, and Natural Language Processing (NLP) techniques to support intelligent document processing. Research papers in PDF format are processed using PyMuPDF and EasyOCR, then chunked and embedded with the BAAI/bge-small-en-v1.5 sentence transformer model for semantic retrieval. The platform includes specialized agents for literature review generation, methodology analysis, research gap detection, trend analysis, research idea generation, citation formatting, interactive question answering and difficulty prediction. In addition, a research difficulty predictor classifies papers as Easy, Medium, or Hard, while the knowledge graph visualizes relationships among papers, authors, keywords, methods, and topics. Experimental results show that ScholarForge AI improves the efficiency of literature survey preparation, supports accurate gap identification, and provides context-aware research recommendations. Built entirely on open-source technologies, the platform offers a scalable and accessible solution for academic research support.",
@@ -88,8 +115,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及automated research",
-      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:20.378607+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 70
     },
@@ -142,8 +169,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 70
     },
@@ -196,8 +223,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 70
     },
@@ -223,10 +250,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "OpenAlex:https://openalex.org/W7222860663",
+      "title": "Testing Personalization in LLM-Based Mental Health Support: A Proposed Experimental Design for College Students",
+      "abstract": "Rising student mental health demand has outpaced campus counseling capacity. This paper proposes a 2x2 between-subjects experimental design to test whether a personalized LLM-based chatbot, grounded in just-in-time adaptive intervention principles and cognitive load theory, provides better short-term anxiety reduction than a standard chatbot across stress and neutral contexts. The personalized chatbot uses wearable stress data, sleep quality, self-reported overwhelm, and support preferences to select between low-load and elaborative support paths. The design contributes a practical framework for evaluating personalization in AI-driven mental health tools and informs scalable, responsible institutional deployment.",
+      "authors": "Tchalim P Agninoube, Greg Williams",
+      "published": "2026-10-16",
+      "venue": "Digital Commons - URI (University of Rhode Island)",
+      "doi": "",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://digitalcommons.uri.edu/context/dba_scholars_conference/article/1032/viewcontent/Testing_Personalization_in_LLM_Based_Mental_Health_Support__A_Proposed_Experimental_Design_for_College_Students_Agninoube___William_DBASC.pdf",
+      "oa_url": "https://digitalcommons.uri.edu/context/dba_scholars_conference/article/1032/viewcontent/Testing_Personalization_in_LLM_Based_Mental_Health_Support__A_Proposed_Experimental_Design_for_College_Students_Agninoube___William_DBASC.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-10-18T19:27:16.439013+00:00",
+      "digest_day": "2026-10-19",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.17605/osf.io/y4rc3",
@@ -493,10 +547,37 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.68337/978-81-181312-6-7.ch07",
+      "title": "From Operational Disruption to Intelligent Service Operations: A Practitioner Journey with Autonomous AI Agents",
+      "abstract": "The COVID-19 disruption and subsequent talent mobility exposed important vulnerabilities in traditional service operations. Organizations relying heavily on individual expertise faced risks to operational continuity when experienced professionals moved roles or left. Although knowledge transfer, standard operating procedures, and documentation remain essential, they do not always capture the contextual knowledge developed through years of resolving incidents. The resulting gaps can affect service quality, turnaround time, operating costs, and user experience. This chapter examines how human-AI collaboration can strengthen operational resilience and knowledge continuity in service operations. It draws on the practitioner journey behind IgnitronX.AI, a cloud-native multi-agent platform developed to address enterprise operational challenges using generative AI and agentic AI. Its architecture supports service teams by surfacing similar historical incidents, recommending potential resolutions, enabling knowledge discovery, summarizing operational records, and providing sentiment insights. The objective is not to replace human expertise but to augment it. The implementation journey demonstrated that technology alone cannot deliver sustainable value. Data quality emerged as a critical constraint, alongside security, confidentiality, framework and model selection, operating-cost management, governance, and stakeholder adoption. The experience also reinforced that organizations should first understand the business problem, simplify processes, remove waste, and make deliberate build-versus-buy decisions. Through this reflective practitioner case, the chapter offers leaders practical insights into intelligent operations that preserve organizational knowledge, strengthen service continuity, and create the potential for improved productivity, operational efficiency, and user experience through responsible human-AI collaboration.",
+      "authors": "Rahul Rai",
+      "published": "2026-10-17",
+      "venue": "",
+      "doi": "10.68337/978-81-181312-6-7.ch07",
+      "arxiv_id": "",
+      "kind": "book-chapter",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.68337/978-81-181312-6-7.ch07",
+      "oa_url": "",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-10-18T19:27:23.141129+00:00",
+      "digest_day": "2026-10-19",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.6084/m9.figshare.34584513",
@@ -574,8 +655,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:20.378607+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -601,8 +682,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:20.378607+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -628,8 +709,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-17T19:27:11.830014+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:20.378607+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -1141,8 +1222,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -1168,8 +1249,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -1195,8 +1276,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -1222,8 +1303,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -1249,19 +1330,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-17T19:27:08.264353+00:00",
-      "digest_day": "2026-10-18",
+      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
+      "digest_day": "2026-10-19",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-17T19:27:18.292498+00:00",
+  "last_refresh": "2026-10-18T19:27:25.766408+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-17T19:27:01.950008+00:00",
-    "finished": "2026-10-17T19:27:18.292975+00:00",
+    "started": "2026-10-18T19:27:07.218052+00:00",
+    "finished": "2026-10-18T19:27:25.766874+00:00",
     "sources": {
-      "OpenAlex": 12,
+      "OpenAlex": 7,
       "Crossref": 0,
       "arXiv": 9
     },
@@ -1275,5 +1356,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-18T03:27:18.302899+08:00"
+  "generated_at": "2026-10-19T03:27:25.774925+08:00"
 }
