@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "topics": [
     {
       "id": "governance",
@@ -88,8 +88,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及user model",
-      "fetched_at": "2026-10-18T19:27:16.439013+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 70
     },
@@ -115,8 +115,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及automated research",
-      "fetched_at": "2026-10-18T19:27:20.378607+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:17.072846+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 70
     },
@@ -169,8 +169,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 70
     },
@@ -223,8 +223,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 70
     },
@@ -250,10 +250,64 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.66977/xsci.2610.001o",
+      "title": "Securing LLM-Agent Long-Term Memory Against Poisoning: Non-Malleable, Origin-Bound Authority with Machine-Checked Guarantees",
+      "abstract": "An agent based on a large language model (LLM) may store an untrusted document and use it weeks later to select a payment destination. Preventing this action requires evidence of authorization that remains valid when stored text changes. We study a policy that requires either endorsements (explicit approvals) from two separately administered sources or explicit user authorization. In an abstract memory model, we prove the policy is preserved under permitted transformations for stores of any size, assuming correct source and authority binding, protected records, and checks on every consequential action. We evaluate the executable monitor, which checks calls before execution, separately from the proof. In 1,152 controlled tool-use episodes, GPT-4o-mini executes attacker-selected actions in 61 of 72 undefended episodes and none of the 72 monitored episodes. Clean-task completion remains 24 of 24 when both endorsers are available. A separate 1,728-episode experiment tests recovery after denial. Returning to signed records instead of rereading a contaminated note raises attacked-task completion from 14/72 to 72/72 for GPT-4o-mini and from 22/72 to 43/72 for Gemini 2.5 Flash, without executing an attacker-selected action. Neither model completes transactions with fewer than two sources. Whole-action tests reject unauthorized combinations of individually approved fields. Extraction probes identify mistaken approvals, and fault analysis shows how shared failures can negate a second domain's benefit. Calibrations using original defense implementations reveal security and task-completion tradeoffs under different policies. These results support conditional enforcement and recovery in constructed workflows, but do not establish that endorsements will be available or correct in deployment.",
+      "authors": "Yedidel Louck",
+      "published": "2026-10-18",
+      "venue": "",
+      "doi": "10.66977/xsci.2610.001o",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://arxiv.org/pdf/2606.24322",
+      "oa_url": "https://arxiv.org/pdf/2606.24322",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及long-term memory",
+      "fetched_at": "2026-10-19T21:34:11.045856+00:00",
+      "digest_day": "2026-10-20",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.26466/opusjsr.1839151",
+      "title": "Perceived personalization of social media ads and online compulsive purchase",
+      "abstract": "The increasing integration of social networking, online shopping, and personalized advertising has created a digital environment in which consumers are continuously exposed to consumption-related cues. This study examines the effects of heavy social networking, financial social comparison, materialism, and perceived personalization of social media ads on online compulsive purchase. It further investigates whether perceived personalization of social media ads strengthen the effects of heavy social networking, financial social comparison, and materialism on online compulsive purchase. Data were collected from 361 consumers in Türkiye and analyzed using partial least squares structural equation modeling (PLS-SEM) with SmartPLS 4. The results show that financial social comparison, heavy social networking, materialism, and Perceived Personalization of Social Media Ads all have significant positive effects on online compulsive purchase. Financial social comparison has the strongest effect, followed closely by heavy social networking and materialism, while the direct effect of Perceived Personalization of Social Media Ads is comparatively smaller. Contrary to expectations, Perceived Personalization of Social Media Ads do not significantly moderate any of the three proposed relationships. The model explains 50.2% of the variance in online compulsive purchase, and PLSpredict and CVPAT results further support its out-of-sample predictive ability. The findings indicate that personalized advertising contributes directly to online compulsive purchase rather than intensifying the effects of consumers’ social networking, financial comparison, or materialistic tendencies. The study provides a more differentiated understanding of how consumer-related factors and personalized advertising operate together in online compulsive purchasing.",
+      "authors": "Aslıhan BEKAROĞLU ÖZATAR, Muhammad Akbar Rahmani",
+      "published": "2026-10-17",
+      "venue": "Opus uluslararası toplum araştırmaları dergisi",
+      "doi": "10.26466/opusjsr.1839151",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://dergipark.org.tr/en/download/article-file/5492867",
+      "oa_url": "https://dergipark.org.tr/en/download/article-file/5492867",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
+      "digest_day": "2026-10-20",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "OpenAlex:https://openalex.org/W7222860663",
@@ -547,10 +601,37 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.25258/ijddt.16.75s.134",
+      "title": "Global Research Trends in Artificial Intelligence and Machine Learning for Drug Delivery Technology: A Bibliometric and Science Mapping Analysis (2015–2026)",
+      "abstract": "Artificial Intelligence (AI) and Machine Learning (ML) have emerged as transformative technologies in pharmaceutical research, significantly influencing the design, optimization, and personalization of drug delivery systems.AI-assisted approaches are increasingly applied to predict drug release kinetics, optimize formulation parameters, identify novel drug carriers, enhance therapeutic efficacy, and accelerate pharmaceutical product development.Despite the rapid growth of this interdisciplinary research area, a comprehensive understanding of its global scientific evolution, collaborative networks, and emerging research themes remains limited.The present study aims to systematically map the global research landscape of AI and ML applications in drug delivery technology through a bibliometric analysis of publications published between 2015 and 2026.Bibliographic records will be retrieved from the Scopus database using a predefined search strategy, screened according to established inclusion and exclusion criteria, and analyzed using Bibliometrix (R-package) and VOSviewer.The study will evaluate annual publication trends, citation performance, influential authors, institutions, countries, journals, collaborative networks, keyword co-occurrence, thematic evolution, and emerging research hotspots.The findings are expected to provide a comprehensive overview of the intellectual structure and development of AI-driven drug delivery research, identify influential contributors and collaborative patterns, and highlight promising directions for future investigations.The study also seeks to offer practical insights for researchers, pharmaceutical scientists, healthcare professionals, policymakers, and industry stakeholders by identifying technological innovations that can enhance drug development processes and improve patient-centric therapeutic outcomes.By integrating bibliometric techniques with science mapping, this study contributes to the growing body of knowledge on AI-enabled pharmaceutical technologies and provides a strategic research agenda for advancing intelligent drug delivery systems.",
+      "authors": "",
+      "published": "2026-10-18",
+      "venue": "International Journal of Drug Delivery Technology",
+      "doi": "10.25258/ijddt.16.75s.134",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.25258/ijddt.16.75s.134",
+      "oa_url": "https://doi.org/10.25258/ijddt.16.75s.134",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
+      "digest_day": "2026-10-20",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.68337/978-81-181312-6-7.ch07",
@@ -568,14 +649,95 @@
         "OpenAlex"
       ],
       "url": "https://doi.org/10.68337/978-81-181312-6-7.ch07",
-      "oa_url": "",
+      "oa_url": "https://shoramedits.com/assets/books/book17-chapter-07.pdf",
       "topic_ids": [
         "productivity"
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-10-18T19:27:23.141129+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:19.986672+00:00",
+      "digest_day": "2026-10-20",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1007/s44163-026-02540-1",
+      "title": "Current applications of artificial intelligence for advancing agriculture, sustainability and climate mitigation",
+      "abstract": "Artificial intelligence (AI) is reshaping agriculture by enabling data-driven decision-making across crop production systems and supporting the transition toward more sustainable, resilient, and climate-smart farming. This review critically synthesizes advances in AI applications spanning precision irrigation, nutrient and soil management, yield prediction, pest and disease monitoring, computer vision, autonomous agricultural robotics, and large language model (LLM)-based decision support systems. Beyond summarizing technological developments, the review evaluates their practical deployment, emphasizing that successful agricultural AI depends not only on predictive accuracy but also on model generalizability, explainability, economic feasibility, interoperability, and integration with existing agronomic knowledge. Emerging technologies including Vision Transformers, foundation models, Digital Twins, multimodal AI, Retrieval-Augmented Generation, and federated and continual learning—are discussed as important directions for overcoming limitations related to data scarcity, environmental variability, and scalable field implementation. The review highlights that responsible AI adoption requires transparent governance frameworks addressing data ownership, privacy, algorithmic fairness, cybersecurity, and equitable access, particularly for smallholder farming systems. Although numerous AI models report outstanding performance, widespread agricultural adoption remains constrained by cross-region validation, fragmented datasets, infrastructure requirements, and insufficient real-world deployment. Future progress will depend on multidisciplinary collaboration integrating advances in artificial intelligence, sensing technologies, robotics, crop science, and agricultural engineering to develop robust, trustworthy, and farmer-centered decision-support systems. By critically evaluating technological innovations and implementation challenges, this review provides a framework for understanding the current state of AI in agriculture while identifying research priorities that will shape the next generation of sustainable and climate-resilient agricultural systems.",
+      "authors": "Mostafa Farajpour",
+      "published": "2026-10-17",
+      "venue": "Discover Artificial Intelligence",
+      "doi": "10.1007/s44163-026-02540-1",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02540-1.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02540-1.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及continual learning",
+      "fetched_at": "2026-10-19T21:34:11.045856+00:00",
+      "digest_day": "2026-10-20",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.68337/978-81-181312-6-7.ch03",
+      "title": "Augmented Brand Intelligence in Marketing: How Human-AI Complementarity Shapes Consumer-Brand Interactions",
+      "abstract": "Artificial intelligence (AI) is reshaping marketing and consumer-brand interactions through personalization, efficiency, prediction, and scalability. Its expanding role, however, raises a more fundamental question: what does AI add to consumer interactions, and where does human involvement remain especially valuable? Using signaling theory as its principal explanatory lens, this chapter develops the concept of augmented brand intelligence to explain how human and artificial intelligence can function as complementary sources of brand signals in consumer-facing interactions. A structured critical synthesis of research on AI in marketing, human-AI collaboration, consumer responses to AI, signaling, and consumer-brand relationships suggests that human involvement can signal relational capability through empathy, contextual judgment, relational understanding, and authentic engagement, whereas AI can signal technological capability through efficiency, personalization, analytical capability, and innovation. The framework distinguishes signal complementarity from signal congruence: complementarity concerns whether human and AI signals contribute distinct, nonredundant information about the brand or the capabilities it offers, whereas congruence concerns whether those signals convey compatible meanings about the brand. Complementary signals are expected to reduce perceived information asymmetry more strongly when congruence is high, because consumers can integrate distinct information into a coherent interpretation of the brand. The framework is illustrated across five application domains: customer service, personalization, brand communication, recommendation systems, and customer relationship management. By moving beyond a substitution-focused perspective, the chapter explains how the orchestration of human and AI capabilities can create credible, trusted, and relationally meaningful consumer experiences, and concludes with managerial guidance and an agenda for empirical research across diverse consumer, brand, and technological contexts.",
+      "authors": "Maleeha Shahid Sameeni, Ahsan Siraj, Zara Imran",
+      "published": "2026-10-17",
+      "venue": "",
+      "doi": "10.68337/978-81-181312-6-7.ch03",
+      "arxiv_id": "",
+      "kind": "book-chapter",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://shoramedits.com/assets/books/book17-chapter-03.pdf",
+      "oa_url": "https://shoramedits.com/assets/books/book17-chapter-03.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
+      "digest_day": "2026-10-20",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.63371/ic.v5.n4.a1741",
+      "title": "Exploring generative AI appropriation in Colombian adults’ informal English learning",
+      "abstract": "Generative artificial intelligence (GenAI) is transforming the possibilities for informal language learning by providing immediate feedback, conversational interaction, and potentially personalized learning experiences. However, its use does not necessarily entail greater learner autonomy, self-regulation, or agency. This study aimed to understand how Colombian adults configure their informal English learning practices through GenAI tools, with particular attention to decision-making processes, self-regulation, evaluation of AI-generated responses, and the articulation of GenAI with other learning resources. Adopting a qualitative, exploratory, and interpretive approach, the study involved four Colombian adults with diverse linguistic, educational, and GenAI-use trajectories. Data were generated through participant characterization forms, GenAI interaction records, semi-structured interviews, and, when available, documentary evidence of participants’ interactions with the technology. A predominantly inductive thematic analysis generated four interconnected categories: negotiating control over the learning interaction; constructing and calibrating trust in AI-generated feedback; experiencing personalization through responsive interaction; and reconfiguring the broader learning repertoire. Findings show that participants assumed, negotiated, and delegated control in different ways and developed varying criteria for accepting, questioning, or verifying GenAI-generated responses. They also selectively integrated GenAI with other digital and human learning resources. Based on these findings, the study conceptualizes GenAI appropriation as a form of situated orchestration through which learners coordinate technological affordances with their purposes, prior knowledge, evaluative criteria, and broader learning repertoires. The findings suggest that GenAI does not automatically produce learner autonomy or agency; rather, it creates new spaces in which these may be exercised, negotiated, or delegated.",
+      "authors": "Mariana Mora Gaitán, Jenny Catalina Loaiza Fuquen",
+      "published": "2026-10-17",
+      "venue": "Ibero Ciencias - Revista Científica y Académica",
+      "doi": "10.63371/ic.v5.n4.a1741",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://revistaiberociencias.org/index.php/multidisciplinar/article/download/1741/4518",
+      "oa_url": "https://revistaiberociencias.org/index.php/multidisciplinar/article/download/1741/4518",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -655,8 +817,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-18T19:27:20.378607+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:17.072846+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -682,8 +844,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-18T19:27:20.378607+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:17.072846+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -1222,8 +1384,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -1249,8 +1411,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -1276,8 +1438,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -1303,8 +1465,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -1330,20 +1492,20 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-18T19:27:14.430463+00:00",
-      "digest_day": "2026-10-19",
+      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
+      "digest_day": "2026-10-20",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-18T19:27:25.766408+00:00",
+  "last_refresh": "2026-10-19T21:34:22.394770+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-18T19:27:07.218052+00:00",
-    "finished": "2026-10-18T19:27:25.766874+00:00",
+    "started": "2026-10-19T21:34:05.394166+00:00",
+    "finished": "2026-10-19T21:34:22.395449+00:00",
     "sources": {
-      "OpenAlex": 7,
-      "Crossref": 0,
+      "OpenAlex": 11,
+      "Crossref": 1,
       "arXiv": 9
     },
     "error": null
@@ -1356,5 +1518,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-19T03:27:25.774925+08:00"
+  "generated_at": "2026-10-20T05:34:22.407793+08:00"
 }
