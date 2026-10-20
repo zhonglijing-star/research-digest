@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "topics": [
     {
       "id": "governance",
@@ -115,8 +115,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及automated research",
-      "fetched_at": "2026-10-19T21:34:17.072846+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:57.203679+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 70
     },
@@ -169,8 +169,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 70
     },
@@ -223,8 +223,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 70
     },
@@ -250,10 +250,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1145/3849798",
+      "title": "Fairness Vs. Personalization: Towards Equity in Epistemic Utility",
+      "abstract": "Personalized recommender systems are rapidly expanding in applications across the web, encompassing social media, online shopping, search engine results, and more. Personalization provides significant value in navigating the vast array of items available, as it can help to disambiguate search terms and generally provide more accurate recommendations. However, alongside this growth, there has been increased recognition of the potential for algorithmic systems to exhibit and perpetuate biases. In particular, personalized recommender systems may risk unfairness in recommendations, leading to biases in access to information and epistemic utility. In this work, we differentiate between idealized and realized notions of personalization in the extreme to motivate our fairness definition: an equity-based approach to epistemic utility. Our approach bypasses many issues with comparative notions of fairness and instead aims to guarantee all users baseline access to information. We discuss key trade-offs and challenges for operationalizing our definition and provide policy recommendations towards achieving fairness in personalized systems.",
+      "authors": "Jennifer Chien, David J. Danks",
+      "published": "2026-10-19",
+      "venue": "ACM Journal on Responsible Computing",
+      "doi": "10.1145/3849798",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3849798",
+      "oa_url": "https://doi.org/10.1145/3849798",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.66977/xsci.2610.001o",
@@ -271,14 +298,41 @@
         "OpenAlex"
       ],
       "url": "https://arxiv.org/pdf/2606.24322",
-      "oa_url": "https://arxiv.org/pdf/2606.24322",
+      "oa_url": "https://xsci.com/preprint/doi/10.66977/xsci.2610.001o.pdf",
       "topic_ids": [
         "memory"
       ],
       "relevance": 58,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-19T21:34:11.045856+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:51.104333+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.62441/actainnovations.vi.2028",
+      "title": "AI AS A CHOICE ARCHITECT: ETHICAL IMPLICATIONS OF ALGORITHMIC NUDGING IN ONLINE RETAIL",
+      "abstract": "Nudge Theory, introduced by Thaler and Sunstein in their seminal book, inspired the creation of human choice architects who applied behavioural insights into influence decisions across various domains. In the online retail industry, however, the evolution of Artificial Intelligence, predictive analytics, and real time data personalization has transformed traditional nudging into algorithmic choice architecture powered by data-driven insights. This paper conceptually examines how AI driven Algorithmic nudges operate through cross- platform behavioural tracking, recommender systems, push notifications, and default designs to influence consumer decisions. The epistemological orientation of this paper is grounded in qualitative and interpretative approach based on critical realism to explore how consumers conform to stacked and multichannel nudges(multiple, sequential interventions across apps, websites and social platforms) that leverage cognitive biases and bounded rationality. Findings suggest that AI enabled nudges outperform human- designed ones in precision, scalability, and contextual adaptability, allowing retailers to subtly guide consumer behaviour under the guise of personalisation. However, the opacity of these algorithmic mechanisms raises serious ethical questions regarding informed consent, privacy, and autonomy, especially for vulnerable consumer groups. The study underscores the need for transparent AI governance, ethical design principles, and regulatory frameworks to prevent behavioural manipulation in digital marketplaces. It further argues that the evolution from libertarian paternalism to algorithmic paternalism represents a critical shift that challenges the foundational ethics of Nudge Theory and calls for cross-disciplinary collaboration between marketing, technology, human- computer interaction and law to ensure responsible AI-driven persuasion in online retail.",
+      "authors": "Varshini Shree, Sai Lakshmi Sai Prasad, Akanksha Aggarwal",
+      "published": "2026-10-18",
+      "venue": "Acta Innovations",
+      "doi": "10.62441/actainnovations.vi.2028",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://actainnovations.com/index.php/pub/article/download/2028/1065",
+      "oa_url": "https://actainnovations.com/index.php/pub/article/download/2028/1065",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及personalization、personalisation",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 58
     },
@@ -304,8 +358,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 58
     },
@@ -601,10 +655,118 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.23484693",
+      "title": "Persistent Semantic Agency: An Architecture for Agent Systems Beyond the Loop",
+      "abstract": "Persistent Semantic Agency argues that the architectural center of an intelligent agent system must move from the trajectory of a model to a persistent semantic system of delegated commitments, structured work, knowledge, memory, responsibility, authority, and evidence. Models reason inside that system; they do not constitute it. This technical manifesto and reference architecture develops a domain-independent model for long-horizon agent systems. It introduces Commitment as the unit of durable agency; a typed semantic Work Intermediate Representation (Work IR); explicit Unknowns, Decisions, Responsibility, Delegation, Authority, and Evidence; a strict separation of Memory, Knowledge, State, and Context; dynamic composition of models, humans, solvers, compilers, knowledge sources, and organizations as cognitive and execution Resources; and proposal/admission, independent observation, verification, acceptance, and derived Closure as the governing transition model. The publication comprises fourteen chapters and sixteen architectural figures. It situates the proposal against planning theory, hierarchical planning, truth maintenance, cognitive architectures, distributed cognition, provenance, capability security, graph engineering, long-term memory, and contemporary agent systems. It concludes with worked examples, falsification tests, and canonical definitions. The individual mechanisms are not claimed as new; the contribution is their architectural synthesis around a persistent semantic center. Version 1.0. Research reviewed through 17 October 2026. Canonical web edition:https://lookman.me/manifesto/persistent-semantic-agency/",
+      "authors": "Lukman Nuriakhmetov",
+      "published": "2026-10-19",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23484693",
+      "arxiv_id": "",
+      "kind": "report",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23484693",
+      "oa_url": "https://doi.org/10.5281/zenodo.23484693",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-20T20:38:51.104333+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3389/fpsyg.2026.1877044",
+      "title": "Switching intention toward conversational AI for health information seeking: a push–pull–mooring analysis",
+      "abstract": "Introduction With the rapid development of artificial intelligence, users are increasingly turning to conversational AI for health information seeking. This study applies the Push-Pull-Mooring (PPM) framework to explain users' switching intention from social media to conversational AI for comparable health-information-seeking tasks. Methods Survey data were collected from 2,876 Chinese respondents. Structural equation modeling (SEM) and fuzzy-set qualitative comparative analysis (fsQCA) were used to examine the associations of push, pull, and mooring factors with switching intention. Results Health information overload and cyberchondria were positively associated with dissatisfaction with social media, which was positively associated with switching intention. Perceived personalization and perceived anonymity were positively associated with flow experience during conversational AI use, which was also positively associated with switching intention. In contrast, medical AI resistance bias and switching costs were negatively associated with switching intention. The fsQCA results further showed that high switching intention was more likely to emerge under configurations characterized by strong pull and weak mooring conditions, whereas low switching intention was typically associated with high mooring conditions. Discussion The findings highlight the joint roles of push, pull, and mooring factors in shaping users' switching intention and demonstrate that switching intention can arise through multiple asymmetric configurations.",
+      "authors": "Zhaoqi Zhou, Yan Lin, Quanzhi Chen, Yanting Wu, Yimingzi Chen, Ke Zhang",
+      "published": "2026-10-19",
+      "venue": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2026.1877044",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1877044/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1877044/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.25258/ijddt.16.74s.35",
+      "title": "A Student-Centric Conversational Path-Derivation System for Academic Decision Structuring",
+      "abstract": "Picking an academic field is a common dilemma among students, particularly since it entails making a choice from different programs, institutions, and career paths.Most of the educational chatbots that already exist just provide basic question answering and hardly ever take into account a student's interests, strengths, or future goals, thus making them less effective.This paper presents a system that essentially places the student at the core of the decision-making process in academic choices through conversation, that is a Student-Centric Conversational Path Derivation System.The system starts a conversation with the students in an engaging way and during the conversation, it collects in stages the necessary information such as their educational background, favourite subjects, skills, limitations, and career aspirations.Instead of giving instant answers, it first interprets the input data and examines the different academic paths in terms of how well the student fits them, the eligibility, the practicability, and the alignment with the career goals.After the analysis, a suitable academic pathway supported by a comprehensive rationale is presented to the student.By leveraging human-like conversation with systematic decision analysis, the method enables students to derive their academic paths with assurance, full knowledge, and a high degree of personalization.",
+      "authors": "",
+      "published": "2026-10-19",
+      "venue": "International Journal of Drug Delivery Technology",
+      "doi": "10.25258/ijddt.16.74s.35",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.25258/ijddt.16.74s.35",
+      "oa_url": "https://doi.org/10.25258/ijddt.16.74s.35",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1002/aaai.70104",
+      "title": "From few‐shot learning to data‐efficient intelligence",
+      "abstract": "Abstract Modern artificial intelligence (AI) has achieved remarkable progress by scaling data, model size, and computation. Yet scaling alone does not resolve one of the most fundamental gaps between machine and human intelligence: the ability to learn, adapt, and act from limited experience. This limitation is especially visible when labeled examples, expert feedback, user interactions, or real‐world trials are scarce, costly, or dynamically changing. Humans can often grasp a new concept, adapt to a new goal, or personalize behavior after only a few examples or interactions, but many AI systems remain fragile under the same conditions. My research studies data‐efficient generalization: how learning systems can acquire useful priors, adapt to new tasks, and reuse limited experience under bounded supervision. In this article, I trace a continuous research path from few‐shot learning to meta‐learning, in‐context learning, and data‐efficient agentic learning. I first revisit few‐shot learning as a foundational problem and explain how data‐, model‐, and algorithm‐level priors make learning possible when empirical risk minimization is unreliable. I then describe our work on meta‐learning, where task‐level information and parameter‐efficient adaptation enable fast generalization. Next, I discuss in‐context learning in large language models (LLMs) as an implicit form of learning to learn, and show how its connection to classical meta‐learning provides both theoretical insight and practical guidance. Finally, I turn to large language model (LLM)‐based agents, where data efficiency expands beyond labels to include demonstrations, reasoning traces, tool‐use records, preferences, memory, and feedback. Across AI for science, biomedical knowledge discovery, recommendation, search, and personalization, the common thread is simple: more capable AI should extract more learning signal from less experience.",
+      "authors": "Yaqing Wang",
+      "published": "2026-10-19",
+      "venue": "AI Magazine",
+      "doi": "10.1002/aaai.70104",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1002/aaai.70104",
+      "oa_url": "https://doi.org/10.1002/aaai.70104",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.25258/ijddt.16.75s.134",
@@ -628,8 +790,89 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.54536/ajfti.v4i1.8197",
+      "title": "The Economic Value of AI-Driven Customer Experience in Digital Business Models",
+      "abstract": "AI was increasingly revolutionizing digital business models by delivering superior customer experience and creating identifiable financial value. This study sought to understand the economic consequences of AI-enabled customer experience on digital media platforms in terms of consumer mindset, business functionality, and competitive edge. The purpose was to investigate how AI enhances customer interaction, what it contributes economically in terms of cost-cutting and increased profits, as well as identification of challenges, threats, and future trends. A quantitative research design was adopted, and a structured questionnaire was distributed to 250 users of digital business service. The results demonstrated that AI was found to facilitate increased customer satisfaction, transaction time saving and personalization and thus led to greater inclination of spending and loyalty. A ranking analysis showed that the most valued outcomes were cost savings and customer satisfaction, and the former was found to be the most preferred. Results indicated that the firms that integrated AI had received a more positive brand reputation and competitive advantage than those without. The report found that AI-based customer experience had generated significant economic value, but also encountered challenges in trust, data security and implementation cost continued to be challenging.",
+      "authors": "Fahmida Akand, Hemant Kumar Watts",
+      "published": "2026-10-18",
+      "venue": "American Journal of Financial Technology and Innovation",
+      "doi": "10.54536/ajfti.v4i1.8197",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://journals.e-palli.com/home/index.php/ajfti/article/download/8197/4289",
+      "oa_url": "https://journals.e-palli.com/home/index.php/ajfti/article/download/8197/4289",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.58830/ozgur.pub1533.c6201",
+      "title": "Generative Artificial Intelligence in Marketing: Consumer Responses, Authenticity, and Governance Challenges",
+      "abstract": "Generative artificial intelligence (GenAI) has moved within a few years from experimental tool to routine instrument in marketing departments, and the academic literature is still catching up with that speed. This chapter offers a structured review of work published between 2020 and 2026 on how GenAI is used in marketing, how consumers respond to it, and which governance questions follow. Drawing on journal articles from marketing, information systems, economics and law, together with regulatory documents from the European Union and Türkiye, the chapter first separates predictive from generative systems and maps their uses in content production, personalization, customer interaction and marketing research. It then organizes the consumer evidence around three recurring themes: task-dependent preference for machine advice, authenticity penalties attached to perceived AI authorship, and the ambiguous effects of humanlike design in service encounters. Field and experimental studies of workplace use point to productivity gains that are uneven across workers, while creativity research shows a tension between individual output quality and collective diversity. The chapter also discusses hallucination, representational bias, privacy and dark patterns, the energy demand of large models, and the transparency duties introduced by the EU Artificial Intelligence Act alongside Turkish data protection guidance. Much of the evidence rests on short online experiments and on firms in North America and Europe, so conclusions about long-term behavior and about Türkiye remain provisional. The chapter closes with a research agenda on longitudinal field designs, disclosure formats, cross-cultural replication and the measurement of environmental cost in marketing operations. For managers, the evidence suggests that the source, tone and disclosure of generated content matter as much as its quality.",
+      "authors": "Suat OKAY",
+      "published": "2026-10-18",
+      "venue": "Özgür Yayınları eBooks",
+      "doi": "10.58830/ozgur.pub1533.c6201",
+      "arxiv_id": "",
+      "kind": "book-chapter",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.ozguryayinlari.com/site/tr/catalog/download/1533/8574/24510",
+      "oa_url": "https://www.ozguryayinlari.com/site/tr/catalog/download/1533/8574/24510",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1080/10447318.2026.2744846",
+      "title": "Who Uses Conversational AI and Why? Distinct User Profiles and Their Links to Personality, Attachment, and Well-Being",
+      "abstract": "With the increasing use of conversational AI (CAI) agents, such as ChatGPT, public concern about their social implications has grown. Understanding these implications requires new knowledge about the increasingly diverse motives underlying CAI use, ranging from instrumental purposes, such as work, to personal purposes, including social support and entertainment. However, little is known about the motivational profiles underlying CAI use, how these profiles relate to personality traits and attachment dimensions, or whether they differ in well-being. To address this gap, we conducted a cross-sectional study with 783 CAI users (Mage = 43.46, SD = 13.58). Drawing on Uses and Gratifications (U & G) Theory, we measured key motivations underlying CAI use, including information seeking, task efficiency, personalization, social interaction, and playfulness, and subjected them to latent profile analysis to uncover distinct motivational profiles. Big Five personality traits (Extraversion, Neuroticism, Openness, Conscientiousness, Agreeableness) and attachment styles (Anxious and Avoidant) were examined as predictors of the user profiles. We measured emotional, social, and psychological well-being to understand if these aspects differed across the various user profiles. We identified four distinct profiles of CAI users: Occasional Information Seekers, Utilitarians, Social Engagers, and All-Round Engagers. Neuroticism, Extraversion, Agreeableness, and Attachment anxiety were significant predictors of profile membership. Finally, profile membership was associated with all well-being indicators, with All-Round Engagers reporting the highest well-being across all three dimensions and Social Engagers reporting the lowest emotional and psychological well-being. These findings advance our understanding of who engages with CAI and how, with potential implications for well-being.",
+      "authors": "Nino Gugushvili, Petter Bae Brandtzæg, Marita Bjaaland Skjuve",
+      "published": "2026-10-18",
+      "venue": "International Journal of Human-Computer Interaction",
+      "doi": "10.1080/10447318.2026.2744846",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2744846?needAccess=true",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/10447318.2026.2744846?needAccess=true",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -655,8 +898,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-10-19T21:34:19.986672+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:39:00.405709+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -709,8 +952,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-19T21:34:14.894650+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -1384,8 +1627,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -1411,8 +1654,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -1438,8 +1681,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -1465,8 +1708,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -1492,19 +1735,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-19T21:34:14.438740+00:00",
-      "digest_day": "2026-10-20",
+      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
+      "digest_day": "2026-10-21",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-19T21:34:22.394770+00:00",
+  "last_refresh": "2026-10-20T20:39:02.850275+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-19T21:34:05.394166+00:00",
-    "finished": "2026-10-19T21:34:22.395449+00:00",
+    "started": "2026-10-20T20:38:46.695105+00:00",
+    "finished": "2026-10-20T20:39:02.850701+00:00",
     "sources": {
-      "OpenAlex": 11,
+      "OpenAlex": 15,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -1518,5 +1761,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-20T05:34:22.407793+08:00"
+  "generated_at": "2026-10-21T04:39:02.863932+08:00"
 }
