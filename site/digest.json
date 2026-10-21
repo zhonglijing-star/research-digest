@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "topics": [
     {
       "id": "governance",
@@ -169,8 +169,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 70
     },
@@ -223,8 +223,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 70
     },
@@ -250,10 +250,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.5281/zenodo.23499848",
+      "title": "Meta-Agent Generation: A User-Adaptive Framework for Generating Personalized Artificial Intelligence Agents",
+      "abstract": "Artificial intelligence (AI) agents are increasingly designed to perform tasks through planning, tool use, memory, environmental interaction, and autonomous execution. However, conventional approaches generally require users to select, configure, or adapt agents from predefined systems. Although personalization can modify instructions, interaction styles, or selected parameters, the underlying agent architecture often remains largely unchanged. This paper proposes Meta-Agent Generation (MAG), a conceptual framework in which an upper-level generative system constructs, composes, configures, or adapts an AI agent according to the requirements of an individual user. Rather than merely personalizing the outputs of an existing agent, MAG treats the agent itself as the object of generation. The proposed framework represents user requirements as a structured specification covering objectives, capabilities, interaction preferences, available resources, privacy constraints, permitted autonomy, and expected reliability. A meta-agent generator translates this specification into a candidate agent architecture, selects appropriate models and tools, determines memory and planning mechanisms, defines operational permissions, evaluates feasibility, and produces an agent tailored to the individual user. The framework supports multiple generation levels, ranging from instruction and configuration generation to component composition, model adaptation, and more extensive agent construction. It also incorporates feedback-driven revision, enabling an agent to evolve as the user's requirements change. This paper formalizes the problem, introduces a modular architecture, defines an optimization objective, and outlines an experimental methodology for comparing personalized agent generation with conventional agent selection, prompt-based personalization, and fixed-architecture adaptation. The framework is conceptual and has not yet been empirically validated. Its principal research question is whether generating the structure and operational mechanisms of an agent from individual requirements can produce more useful, efficient, and controllable agents than personalizing only the behavior of predefined agents.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-10-20",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23499848",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23499848",
+      "oa_url": "https://doi.org/10.5281/zenodo.23499848",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及personalization、individual user",
+      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
+      "digest_day": "2026-10-22",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1145/3849798",
@@ -277,8 +304,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 58
     },
@@ -655,8 +682,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 58
     },
@@ -709,8 +736,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -736,8 +763,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -757,14 +784,41 @@
         "OpenAlex"
       ],
       "url": "https://doi.org/10.1002/aaai.70104",
-      "oa_url": "https://doi.org/10.1002/aaai.70104",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aaai.70104",
       "topic_ids": [
         "personalization"
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-20T20:38:53.864032+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
+      "digest_day": "2026-10-22",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.47191/etj/v11i10.13",
+      "title": "A Survey on Digital Advertising Strategies in the Modern Internet Era with Artificial Intelligence Techniques",
+      "abstract": "Digital advertising is a vital element of online marketing, and businesses now have the means to create personalized, measurable advertising strategies with a data-driven approach. The digital advertising world has been reshaped by Artificial Intelligence (AI) with enhanced audience targeting, optimization of campaigns, real-time decision-making, content creation, and recommendation systems. This survey is a thorough overview of how digital advertising is used in the modern-day Internet and what strategies and methods are used in the context of AI. It also covers audience segmentation, personalization, programmatic advertising, metrics for measurement, and key advertising strategies, consumer perception, AI optimization techniques and generative and predictive AI. The survey also analyzes the current literature to uncover research trends, challenges and emerging topics, such as data privacy, algorithmic bias, explainability, ad fraud and scalability. It also identifies current research opportunities and explores the significance of ethical and trustworthy use of Artificial Intelligence (AI) in digital advertising. AI has the potential to revolutionize advertising efficiency, personalization, campaign performance, customer interaction and ROI, and a robust ethical and privacy-protective framework is needed to construct intelligent advertising systems of the future.",
+      "authors": "Bal Krishna Sharma",
+      "published": "2026-10-19",
+      "venue": "Engineering and Technology Journal",
+      "doi": "10.47191/etj/v11i10.13",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.everant.org/index.php/etj/article/download/3111/2242",
+      "oa_url": "https://www.everant.org/index.php/etj/article/download/3111/2242",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -898,8 +952,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-10-20T20:39:00.405709+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:40:06.126800+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -981,6 +1035,33 @@
       "reason": "摘要提及personalization",
       "fetched_at": "2026-10-19T21:34:14.894650+00:00",
       "digest_day": "2026-10-20",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.48550/arxiv.2610.24601",
+      "title": "TCMScience: An Autonomous Scientist for Traditional Chinese Medicine",
+      "abstract": "Traditional Chinese medicine (TCM) research connects classical texts, medicinal entities, molecular assays, computational predictions, and clinical studies. An autonomous research agent must preserve the inferential boundaries between these evidence types while coordinating analysis across heterogeneous resources. We introduce TCMScience, a scientific knowledge-discovery agent that separates language-model proposals from execution and release authority. Its architecture combines a trusted kernel, a scientific compiler, and claim-support contracts: plans are compiled into typed operations, execution is bounded by explicit permissions, and candidate findings are checked against source provenance, study design, and claim scope before release. The full capability registry contains 117 public-source connectors with 444 typed operations across 29 domains and 150 native tools across 12 domains; the TCM data hub catalogs 136 databases, 76 dataset specifications, and 84,294 formula-source records. These resources support model-independent workflows through browser and local execution interfaces. In a network-pharmacology analysis of Gegen Qinlian Tang, replacing the whole-proteome background with the assayed-protein background changed the number of significant pathways from 66 to zero; incorporating inactive screening records identified nine pathways, including drug-metabolism signals retained as mechanistic hypotheses. A governance ablation over 121 constructed erroneous outputs spanning 26 classes released 121 errors without governance, 57 with the domain layer, seven with the kernel, and zero with both layers. All 10 compliant controls were retained. These results establish complementary control of known failure modes and show how explicit evidence contracts change the conclusions an agent is permitted to report.",
+      "authors": "Yanlan Kang, Ruiqi Liu, 顾心培, Tzu-Yi Lei, Shuai Xu, Xukun Zhang",
+      "published": "2026-10-17",
+      "venue": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2610.24601",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.48550/arxiv.2610.24601",
+      "oa_url": "https://doi.org/10.48550/arxiv.2610.24601",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及research agent",
+      "fetched_at": "2026-10-21T20:40:03.235314+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -1627,8 +1708,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -1654,8 +1735,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -1681,8 +1762,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -1708,8 +1789,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -1735,19 +1816,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-20T20:38:52.877233+00:00",
-      "digest_day": "2026-10-21",
+      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
+      "digest_day": "2026-10-22",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-20T20:39:02.850275+00:00",
+  "last_refresh": "2026-10-21T20:40:08.810588+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-20T20:38:46.695105+00:00",
-    "finished": "2026-10-20T20:39:02.850701+00:00",
+    "started": "2026-10-21T20:39:45.934844+00:00",
+    "finished": "2026-10-21T20:40:08.811147+00:00",
     "sources": {
-      "OpenAlex": 15,
+      "OpenAlex": 8,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -1761,5 +1842,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-21T04:39:02.863932+08:00"
+  "generated_at": "2026-10-22T04:40:08.824537+08:00"
 }
