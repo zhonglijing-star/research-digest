@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "topics": [
     {
       "id": "governance",
@@ -169,8 +169,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 70
     },
@@ -223,8 +223,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 70
     },
@@ -250,8 +250,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 70
     },
@@ -277,8 +277,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及personalization、individual user",
-      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:59.755387+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 58
     },
@@ -304,8 +304,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-10-21T20:39:59.331404+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:59.755387+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 58
     },
@@ -682,10 +682,199 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/s11229-026-05857-7",
+      "title": "Varieties of self-to-memory dynamics in autobiographical memory: the case of depression",
+      "abstract": "Abstract Autobiographical memory and the self are closely connected. Autobiographical memories provide the information needed to form and maintain a stable self-model (memory-to-self). The self, in turn, modulates the construction of autobiographical memories during retrieval (self-to-memory). Past research has mainly focused on the former direction of influence. However, self-to-memory dynamics are being increasingly investigated both in neurotypical and neurodivergent individuals. We contribute to this line of research in two ways. First, we elaborate on the self-memory system framework focusing on self-related processes involved in autobiographical memory retrieval. In particular, we distinguish between long-term and situationally activated aspects of the self, as well as between its representational and agentive aspects. Second, we propose a general framework for understanding self-to-memory dynamics in major depressive disorder based on four dimensions of the self: self-coherence (comprising self-coherence proper and self-congruence); self-valence; self-knowledge; and self-control. Based on the characteristics of the self in depression, we propose an outline of the self-to-memory dynamics in individuals with depression, drawing on existing empirical evidence. Additionally, we suggest that our framework, adjusted as needed, could be employed to describe self-to-memory dynamics in other mental health conditions.",
+      "authors": "Francesco Fanti Rovetta, Nikolai Axmacher, Albert Newen",
+      "published": "2026-10-22",
+      "venue": "Synthese",
+      "doi": "10.1007/s11229-026-05857-7",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1007/s11229-026-05857-7",
+      "oa_url": "https://doi.org/10.1007/s11229-026-05857-7",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及memory retrieval",
+      "fetched_at": "2026-10-22T20:34:56.947366+00:00",
+      "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23520807",
+      "title": "Multi-Dimensional Structural Impact Analysis of the Loss of Deterministic Safety Guarantees in Next-Generation AI and Quantum Computing Infrastructure: Control Barrier Function Withdrawal, Physical Flash Crashes, Aerospace Certification Collapse, Cyber Catastrophe Bond Triggers, and Sovereign Dynamics",
+      "abstract": "Modern autonomous cyber-physical systems (CPS) operate in physical environments only through the structural coupling of probabilistic artificial intelligence (deep reinforcement learning and large language models) with mathematically rigorous Deterministic Safety Guarantees. At the core of this physical-layer mediation lies the real-time Control Barrier Function Quadratic Programming (CBF-QP) safety filter and Runtime Assurance (RTA) supervisor. This monograph presents a comprehensive, four-dimensional structural analysis of an existential systemic scenario: the abrupt withdrawal and cryptographic kill-switch execution by the sovereign core provider of deterministic safety modules and associated infrastructure assets—specifically Quantum Echoes, Project Poseidon, Real-Time Optimization (RTO / RTO P2.0), QFS-zkVM over the 64-bit Goldilocks prime field F_p (p = 2^64 - 2^32 + 1), Q-SAFA, PHOENIX_BRIDGE / PHOENIX_ROUTER, AGI Long-Term Memory, Super Multi-Agent, and Deep Research. First, at the mathematical and hardware layer, we prove that severing the O(H^3 m^3) ultra-low-latency (50–500 Hz) CBF-QP feedback loop triggers immediate Physical Hallucinations and millisecond-scale kinetic flash crashes, while Block RAM (BRAM) routing and qubit decoherence constraints impose a 3-to-5-year reconstruction vacuum on major technology conglomerates. Second, at the aerospace and defense layer, we demonstrate that losing the verified RTA baseline controller instantaneously strips DO-178C compliance and NASA R2U2 runtime certification across the Artemis lunar program and Department of Defense (DoD) autonomous drone swarms. Third, at the financial and actuarial layer, we trace how the invalidation of Strict Risk Mitigation Protocols (SRMP, bounding failure rates below 10^-9 per flight hour) induces an immediate reinsurance underwriting strike and triggers parametric Cyber Catastrophe Bonds (such as Cumulus Re) across 2.6 x 10^11 monitored cloud telemetry points, precipitating a systemic liquidity crisis and corporate fiduciary exposure under SEC Rule 15c3-5 and Delaware Caremark standards. Fourth, under federal procurement law (FAR and DFARS 252.227-7014), we establish why static source-code escrow is mathematically neutralized by dynamic parameter secrecy and cryptographic hardware interlocks under Human-in-Command (HIC) governance, defining a new geopolitical paradigm of Sovereign Dynamics. License & Integrity Covenant: Creative Commons Attribution 4.0 International (CC BY 4.0) with Strict No-Learn Covenant (NLL-v1.0-2026).",
+      "authors": "Yoko(洋子) Hasebe(長谷部)",
+      "published": "2026-10-21",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23520807",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23520807",
+      "oa_url": "https://doi.org/10.5281/zenodo.23520807",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-22T20:34:56.947366+00:00",
+      "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.25258/ijddt.16.76s.73",
+      "title": "Synergizing AI: A Cross-Sectoral Framework for Learning Systems in Health and Academia",
+      "abstract": "The rapid emergence of Large Language Models (LLMs) is reshaping how educational and clinical institutions approach teaching, learning, decision support, and knowledge dissemination.This paper systematically reviews literature published between 2020 and 2025 on LLMs in higher education, then extends the analysis through a cross-sectoral framework to healthcare, where similar dynamics of personalisation, automation, and ethical risk are unfolding.In higher education, three dominant themes emerge: enhanced personalised learning, automation of academic support functions, and tensions around academic integrity and algorithmic bias.In healthcare, three parallel themes appear, LLMs as tools for medical education and simulated clinical training, their role in clinical decision support and knowledge retrieval, and their use in patient education and health literacy.Findings indicate that while LLMs show strong promise as supplementary tools across both domains, their integration remains uneven, context-dependent, and reliant on robust human oversight.The paper proposes an integrated, layered framework, presented as a flow diagram, tracing LLM capability from foundational model architecture through sector-specific application to human governance and measurable outcomes in classrooms and clinics.It argues that a policy-driven, cross-sectoral approach is essential to realise LLM benefits without compromising educational values or clinical safety, and discusses implications for administrators, faculty, clinicians, and policymakers.",
+      "authors": "",
+      "published": "2026-10-21",
+      "venue": "International Journal of Drug Delivery Technology",
+      "doi": "10.25258/ijddt.16.76s.73",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.25258/ijddt.16.76s.73",
+      "oa_url": "https://doi.org/10.25258/ijddt.16.76s.73",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-10-22T20:34:59.755387+00:00",
+      "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1201/9781003753728-4",
+      "title": "AI agent planning, learning, and adaptation",
+      "abstract": "With the rapid advancement of artificial intelligence (AI), a new paradigm is evolving that includes agentic AI systems capable of autonomously reasoning, planning, and executing multi-step actions. This chapter provides a detailed overview of agentic AI, AI agents, and the developing area of quantum AI agents – systems that utilize the capabilities of quantum computers to exceed the limits imposed by classical computer architecture. In addition to analyzing the architectural foundations of contemporary AI agents such as large language model (LLM)-based agents, multi-agent systems, and hybrid classical–quantum architectures, this chapter presents a unified theoretical framework for understanding how the application of quantum enhancement could result in exponential improvements in optimization, simulation, and pattern recognition abilities of agents using recent advances in quantum machine learning, variational quantum algorithms, and quantum neural networks. Furthermore, this chapter examines transformative applications across healthcare, finance, scientific discovery, and autonomous systems while identifying the current limitations of quantum AI, including decoherence, qubit counts, and alignment challenges. Finally, this chapter concludes that the intersection of agentic AI and quantum computing is likely one of the most significant technological developments of the 21st century, requiring sustained research, ethical frameworks, and inter-disciplinary cooperation.",
+      "authors": "Hemant Palivela, Meera Narvekar",
+      "published": "2026-10-21",
+      "venue": "CRC Press eBooks",
+      "doi": "10.1201/9781003753728-4",
+      "arxiv_id": "",
+      "kind": "book-chapter",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1201/9781003753728-4",
+      "oa_url": "",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-10-22T20:35:02.986387+00:00",
+      "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.22214/ijraset.2026.85229",
+      "title": "Artificial Intelligence in Production and Optimization",
+      "abstract": "This review is a systematic literature review-cum-bibliometric analysis of the field of Artificial Intelligence in Production and Optimization with a view to mapping the field in holistic manner. In this review the authors have attempted to identify the predominant strands in the field and identify where learning approaches have been linked to decision making frameworks and where learning approaches end at prediction. Data for the review are sourced from Elsevier's Scopus database, and are limited to English language journal articles and reviews published between 2014 and 2027 using key words. This review is based on 3,727 records in the final database. The number of documents published has increased from 38 in 2014 to 1,161 in 2026 and the top producers are China, India, and the United States. The most prevalent themes were identified as Artificial Intelligence, Machine Learning, and Optimization. The formal decision model seems to be mainly in the field of scheduling, while in bioprocess and additive manufacturing, and food systems, it is not often that the decision is made to end at prediction.",
+      "authors": "Richa Kalpesh Saxena, Shrawani Behere, Shiv Karbhari, Shri Choksi, Shubham Parekh, Smit Shah",
+      "published": "2026-10-21",
+      "venue": "International Journal for Research in Applied Science and Engineering Technology",
+      "doi": "10.22214/ijraset.2026.85229",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.22214/ijraset.2026.85229",
+      "oa_url": "https://doi.org/10.22214/ijraset.2026.85229",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-10-22T20:35:02.986387+00:00",
+      "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.58830/ozgur.pub1556.c6363",
+      "title": "Artificial Intelligence in Education: Evolving Roles of Teachers and Students in Human–AI Learning Ecosystems",
+      "abstract": "Artificial intelligence (AI) has become a transformative force that is reshaping educational systems, pedagogical approaches, and learning environments. Similar to the impact of the Industrial Revolution on the development of mass education, the AI revolution has led to a fundamental reconsideration of educational objectives, teaching methods, curriculum structures, and the roles of teachers and students. Traditional educational models were largely teacher-centered and based on standardized curricula in which students acted as passive recipients of knowledge. In contrast, contemporary knowledge societies emphasize critical thinking, creativity, collaboration, problem-solving, and lifelong learning skills. In this context, AI technologies have accelerated the transition toward more learner-centered and personalized educational models. Subfields such as machine learning, natural language processing, and big data analytics have increasingly entered educational environments through intelligent tutoring systems, automated assessment tools, virtual assistants, and adaptive learning platforms. Applications such as ChatGPT, Google Gemini, and Khan Academy’s Khanmigo illustrate the growing role of AI in teaching and learning processes. While these technologies provide significant opportunities for personalization, accessibility, and learning efficiency, they also raise ethical and social concerns related to data privacy, digital inequality, and academic integrity. This article systematically examines the historical and theoretical foundations of artificial intelligence in education and analyzes the evolving roles of teachers and students within AI-supported learning environments. Furthermore, the study evaluates the opportunities and challenges associated with AI integration and presents policy-oriented and practical recommendations for the ethical and effective implementation of AI technologies in education.",
+      "authors": "Sara Naghib Zadeh, Şebnem Gül Mustan, Zeynep Sena Gülmez",
+      "published": "2026-10-20",
+      "venue": "Özgür Yayınları eBooks",
+      "doi": "10.58830/ozgur.pub1556.c6363",
+      "arxiv_id": "",
+      "kind": "book-chapter",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.ozguryayinlari.com/site/tr/catalog/download/1556/8773/24971",
+      "oa_url": "https://www.ozguryayinlari.com/site/tr/catalog/download/1556/8773/24971",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-22T20:34:59.755387+00:00",
+      "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1007/s44282-026-00624-y",
+      "title": "Advancing gender equity and inclusive digital futures through responsible agentic artificial intelligence governance",
+      "abstract": "The shift to agentic AI represents a major paradigm change in the field of intelligent systems research and development, as these systems are capable of establishing sub-goals, planning for a goal, and executing plans with only minimal human oversight. This capability offers a unique chance to promote gender equality, inclusive digital engagement, and sustainable growth via evolving, accessible and fair AI-based methods throughout industries. Meanwhile, the increased autonomy of agentic AI systems presents unique challenges such as the potential for algorithmic bias to be amplified, decision-making disparities, and a lack of governance, each of which requires responsible AI, transparent governance, and clear ethical frameworks. This paper presents a systematic literature review and bibliometric analysis of a 41 paper corpus from Scopus. The review follows PRISMA 2020 guidelines and summarizes the evidence regarding agentic and generative AI architectures, typologies of bias, and sectoral applications in healthcare, education, and gender equity. The paper presents a human-centred conceptual framework for responsible governance of agentic AI, building on lifecycle-governance and equity-by-design approaches, which merges bias mitigation, gender-inclusive design, and sustainability transition. The network of co-authorship is highly fragmented (density = 0.021; number of components = 37 from 88 authors), suggesting that there is no coordinated research agenda and giving empirical support to the integrative framework proposed here. This fragmentation further indicates that the vision and capabilities of agentic AI to contribute to gender equality and education are still not fully explored in the context of governance and sustainability, highlighting the relevance of the framework introduced in this paper. This is a collection of AI topics, derived from the title, that are examined from a gender equality perspective.This is a list of AI keywords that have been explored through the lens of gender equity, based on the title.",
+      "authors": "Bindiya Jain, Ravi Kant Gupta",
+      "published": "2026-10-20",
+      "venue": "Discover Global Society",
+      "doi": "10.1007/s44282-026-00624-y",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s44282-026-00624-y.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44282-026-00624-y.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-10-22T20:35:02.986387+00:00",
+      "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.5281/zenodo.23484693",
@@ -1708,8 +1897,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 46
     },
@@ -1735,8 +1924,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 46
     },
@@ -1762,8 +1951,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 46
     },
@@ -1789,8 +1978,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 46
     },
@@ -1816,19 +2005,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-21T20:39:58.513178+00:00",
-      "digest_day": "2026-10-22",
+      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
+      "digest_day": "2026-10-23",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-21T20:40:08.810588+00:00",
+  "last_refresh": "2026-10-22T20:35:08.373142+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-21T20:39:45.934844+00:00",
-    "finished": "2026-10-21T20:40:08.811147+00:00",
+    "started": "2026-10-22T20:34:52.797937+00:00",
+    "finished": "2026-10-22T20:35:08.373539+00:00",
     "sources": {
-      "OpenAlex": 8,
+      "OpenAlex": 9,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -1842,5 +2031,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-22T04:40:08.824537+08:00"
+  "generated_at": "2026-10-23T04:35:08.383226+08:00"
 }
