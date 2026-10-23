@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "topics": [
     {
       "id": "governance",
@@ -66,6 +66,33 @@
     }
   ],
   "articles": [
+    {
+      "id": "doi:10.5281/zenodo.23565049",
+      "title": "AI for Scientific Discovery: A Comprehensive Review of AI-Driven Reasoning, Autonomous Agents, and Evolutionary Search",
+      "abstract": "Scientific research usually begins with a question, followed by a review of existing work, the development of possible The reasons for this, the planning of the experiments or simulations, and a careful verification of the results. Now artificial intelligence (AI) is being used can be used to help with a number of these steps. Large language models (LLMs) assist researchers in working with scientific information, AI agents can Tasks can be carried out using external tools, and evolutionary methods can continuously generate and test programs. The paper looks at four studies. that look at different parts of AI-assisted discovery: the wider influence of AI on science, autonomous agent systems, the TeLLAgent and the use of large language models in the search for evolutionary programming. Together, these studies demonstrate how AI could be of assistance with literature reviews and idea generation. They also highlight important issues, such as incorrect model outputs, and involve generation, computational testing, and program improvement. data that is biased or incomplete, the limited ability to generalize, poor reproducibility, reliance on tools, and data leakage that occurs during evaluation. The The paper examines the four studies and suggests a possible workflow for using AI responsibly in scientific research. Overall, AI can be It is a useful research assistant, but its suggestions have to be checked by way of transparent analysis and independent validation.",
+      "authors": "Shinde Bhumika Haridas, S. B. Bhosale, A. P. Bangar, Dr. A. A. Khatri",
+      "published": "2026-10-22",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23565049",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23565049",
+      "oa_url": "https://doi.org/10.5281/zenodo.23565049",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及scientific discovery",
+      "fetched_at": "2026-10-23T20:30:07.282908+00:00",
+      "digest_day": "2026-10-24",
+      "vote": 0,
+      "rank_score": 70
+    },
     {
       "id": "doi:10.5281/zenodo.23435386",
       "title": "Reciprocal Miscalibration in Personalized AI Correction. User model fidelity persuasive fit and feedback over time",
@@ -169,8 +196,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 70
     },
@@ -223,8 +250,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 70
     },
@@ -250,10 +277,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1038/s43586-026-00534-y",
+      "title": "Agentic AI systems for scientific discovery",
+      "abstract": "",
+      "authors": "Bin Feng, Peter Walther, Leili Zhang, Reid A. Coyle, Seongmin Kim, Abhijoy Mandal",
+      "published": "2026-10-22",
+      "venue": "Nature Reviews Methods Primers",
+      "doi": "10.1038/s43586-026-00534-y",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1038/s43586-026-00534-y",
+      "oa_url": "",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及scientific discovery",
+      "fetched_at": "2026-10-23T20:30:07.282908+00:00",
+      "digest_day": "2026-10-24",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.5281/zenodo.23499848",
@@ -682,8 +736,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 58
     },
@@ -709,8 +763,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及memory retrieval",
-      "fetched_at": "2026-10-22T20:34:56.947366+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:29:57.921644+00:00",
+      "digest_day": "2026-10-24",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1186/s42826-026-00302-9",
+      "title": "The use of three murine genetic models of Alzheimer’s disease reveals efficacy of 4′,5,7-trihydroxyisoflavone in alleviating cognitive deficits and reducing levels of amyloid-beta and hyperphosphorylated tau protein",
+      "abstract": "Abstract Background Despite intensive studies on developing therapies for Alzheimer’s disease (AD), there is still a need to improve the treatment efficacy. Results of recent studies indicated that genistein (4′,5,7-trihydroxyisoflavone) was effective in an autophagy stimulation-dependent improving of cognitive deficits and reducing levels of amyloid-beta and hyperphosphorylated tau protein in brains, when employing a streptozotocin-induced rat model of the sporadic form of AD. Despite those encouraging results, the above-mentioned model has its limitations, mainly related to the rapid and inducible character of the symptoms caused by streptozotocin, induction of other effects (like diabetes) by this toxin, and the requirement for invasive administration of this compound to the brain, in contrast to naturally occurring AD. Thus, in this study, we hypothesized that genistein might be effective in reducing symptoms of AD in well-defined genetic models of this disease and tested the efficacy of this compound. Results Three genetic models of AD were employed, including mouse lines 5xFAD, THY-Tau22, and 3xTg-AD. Orally administered genistein (at the dose of 150 mg/kg/day) considerably alleviated cognitive deficits (in spatial memory, learning, and long-term memory) of AD animals as estimated using the Morris water maze and the novel object recognition tests. Moreover, significantly reduced levels of amyloid-beta and hyperphosphorylated tau protein in plasma and brains were detected in genistein-treated AD animals relative to those treated with water. Conclusions We conclude that genistein revealed significant efficacy in ameliorating symptoms occurring in murine genetic models of AD. Thus, further studies towards the development of a genistein-based treatment for this disease are substantiated. Clinical trial number Not applicable.",
+      "authors": "Lidia Gaffke, Aneta Szulc, Magdalena Podlacha, Dorota Myślińska, Karolina Pierzynowska, Grzegorz Węgrzyn",
+      "published": "2026-10-22",
+      "venue": "Laboratory Animal Research",
+      "doi": "10.1186/s42826-026-00302-9",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1186/s42826-026-00302-9.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1186/s42826-026-00302-9.pdf",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-23T20:29:57.921644+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -763,8 +844,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-10-22T20:34:59.755387+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:02.593987+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -790,8 +871,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-22T20:35:02.986387+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:07.282908+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -817,8 +898,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-10-22T20:35:02.986387+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:07.282908+00:00",
+      "digest_day": "2026-10-24",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1007/s11423-026-10735-7",
+      "title": "Data science for K-12: A design-based research study",
+      "abstract": "Abstract Data science is a field that merges advancements in computer science, statistics, and machine learning. To date, much data science instruction has been through graduate programs or self-directed course offerings. There are therefore fewer opportunities for formal data science education, especially for K-12 educators and learners who have limited exposure to these fields. While some efforts have emerged to introduce data science in pre-college settings, there is little research regarding learning design strategies that support data science for inservice teachers. As such, this project employs a design-based research (DBR) approach to develop accessible and engaging open-access learning resources as a way to reduce barriers to data science instruction across the educational spectrum. Given the gap regarding data science in K-12, our DBR study identifies the following design elements: (a) revised data science content scope, (b) design standardization for interactive learning, (c) reframing data science for case-based learning, (d) artificial intelligence (AI) towards data personalization, and (e) data science coding through goal-based learning. The project also introduces aspects of the curriculum via a teacher professional development, which provides important insights and challenges regarding data science at the middle and high school levels. Implications for learning design, open-educational resources, data science standards, and others are discussed.",
+      "authors": "Andrew A. Tawfik, Luiz Barboza, Andrew McGregor Olney, Yeonji Jung",
+      "published": "2026-10-21",
+      "venue": "Educational Technology Research and Development",
+      "doi": "10.1007/s11423-026-10735-7",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s11423-026-10735-7.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s11423-026-10735-7.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-23T20:30:02.593987+00:00",
+      "digest_day": "2026-10-24",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.64149/edm.v36i3.1309",
+      "title": "Client-Centric Strategy and Predictive Intelligence: A Cross-Sector Comparative Study of Leading Global Financial and Consulting Firms",
+      "abstract": "This research explores the use of client-focused AI by the top global consulting and financial institutions in terms of personalisation and algorithmic bias reduction, the impact of data protection law across jurisdictions on the quality of predictive capability and the potential value of generative AI in text, audio and video. Research methodology: This research employed a two-stage approach. Firstly, a bibliometric analysis was conducted on the body of work related to client focused AI and algorithmic bias. Following this qualitative comparative research was conducted on global consulting and financial institutions using the Information Systems Success Model and the Technology Acceptance Model as a theoretical basis. Personalisation and sentiment analysis research has been conducted at a higher rate than bias reduction research and as a result algorithmic bias has only made a limited contribution to client focused AI. Institutions which embed data protection and accountability requirements into the design of their systems can achieve innovation in prediction whilst also achieving customer trust. Disconnected accountability results in siloed visibility through marketing and sales and results in disjointed customer trust. The use of generative AI can provide value to customers and enhance the customer experience but only if supported by transparency and human in the loop. Contribution to research: A framework for Client-value based on Predictive, Responsible, Integrated, Sustainable and Measurable is proposed. This framework makes the connection between responsible generative and predictive AI and resilience and trust in volatile environments. It can provide a tool for governance diagnosis for managers and provide a foundation for proportionate oversight by regulators. Novelty: This research is novel in its use of both bibliometric analysis and cross industry case studies to explore generative engagement, compliance and fairness within a client focused AI context.",
+      "authors": "Pradyumn Chaturvedi",
+      "published": "2026-10-21",
+      "venue": "Enterprise Development and Microfinance",
+      "doi": "10.64149/edm.v36i3.1309",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://papjournals.com/index.php/edm/article/download/1309/853",
+      "oa_url": "https://papjournals.com/index.php/edm/article/download/1309/853",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-10-23T20:30:02.593987+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -873,6 +1008,33 @@
       "reason": "摘要提及literature review",
       "fetched_at": "2026-10-22T20:35:02.986387+00:00",
       "digest_day": "2026-10-23",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.48550/arxiv.2610.27607",
+      "title": "What should AI forget? A design and taxonomy for negative space governance in AI memory",
+      "abstract": "AI memory personalizes assistants, yet users want some disclosed information forgotten. We characterize the negative space of AI memory, where protection should take precedence over potential future personalization benefits. From 179 incidents reported by 146 users, we developed a taxonomy of 15 information categories users want excluded from memory, revealing sensitivity concerns beyond conventional taxonomies. We operationalize this taxonomy in FENCE, a policy-level memory gate that automatically applies user-selected category-based rules to subsequent conversations, preventing information from protected conversations from entering AI memory by default while allowing case-by-case overrides. In a within-subjects study (N=15), participants described FENCE as making memory governance more usable, interpretable, and trustworthy than conventional post-hoc management. Our findings demonstrate how taxonomy-based rules can potentially support user-defined memory boundaries. We call for collective efforts to establish policies governing what AI should not remember, rather than leaving protection to individual retrospective management.",
+      "authors": "Eryue Xu, Ke Ding, Ting-Yu Chang, Tianshi Li, Masooda N. Bashir",
+      "published": "2026-10-20",
+      "venue": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2610.27607",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://arxiv.org/pdf/2610.27607",
+      "oa_url": "https://arxiv.org/pdf/2610.27607",
+      "topic_ids": [
+        "governance"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及memory governance",
+      "fetched_at": "2026-10-23T20:29:54.888304+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -1897,8 +2059,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -1924,8 +2086,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -1951,8 +2113,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -1978,8 +2140,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -2005,19 +2167,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-22T20:34:58.822106+00:00",
-      "digest_day": "2026-10-23",
+      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
+      "digest_day": "2026-10-24",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-22T20:35:08.373142+00:00",
+  "last_refresh": "2026-10-23T20:30:12.341077+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-22T20:34:52.797937+00:00",
-    "finished": "2026-10-22T20:35:08.373539+00:00",
+    "started": "2026-10-23T20:29:53.217273+00:00",
+    "finished": "2026-10-23T20:30:12.341484+00:00",
     "sources": {
-      "OpenAlex": 9,
+      "OpenAlex": 10,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -2031,5 +2193,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-23T04:35:08.383226+08:00"
+  "generated_at": "2026-10-24T04:30:12.355243+08:00"
 }
