@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "topics": [
     {
       "id": "governance",
@@ -67,6 +67,60 @@
   ],
   "articles": [
     {
+      "id": "doi:10.5281/zenodo.23594276",
+      "title": "VecForge: A Local-First Hybrid Vector Database with Persistent Agent Memory and Order-Preserving Grover-Inspired Reranking",
+      "abstract": "Retrieval-augmented applications and AI assistants need a vector store that runs inside the user's own process, keeps data encrypted on disk, combines semantic and keyword retrieval, and remembers information across conversations. This paper presents VecForge 2.0, an embedded Python vector database built for these needs. One SQLite file, optionally encrypted with SQLCipher, holds documents, vectors, metadata, access keys, agent sessions and index snapshots. Queries fuse FAISS dense search with an incremental BM25 index, and namespace and deletion constraints apply inside both indexes. A memory layer, served over the Model Context Protocol, ranks memories by relevance, importance and recency. The paper also proves that the Grover-inspired reranker of the previous release applies only the diffusion half of Grover's algorithm, so it can only keep or reverse a ranking, and replaces it with an O(N) closed form of the full algorithm that preserves order. Eighteen experiments evaluate every feature. On the SciFact benchmark, hybrid fusion reaches an nDCG@10 of 0.707, against 0.645 for dense search, 0.665 for BM25 and 0.681 for reciprocal rank fusion. Compared with the previous release, in-index constraints raise recall in small namespaces from 0.5% to 100%, incremental indexing makes insertion 183 times faster, and snapshots make reopening 9 to 17 times faster, while encryption and access control add little cost. The evaluation also reports where the design falls short, including slow, highly selective filters and memory deduplication that confuses paraphrases with changed facts. A single local file can therefore serve both retrieval and long-term memory for AI agents.",
+      "authors": "Suneel Bose K",
+      "published": "2026-10-23",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23594276",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23594276",
+      "oa_url": "https://doi.org/10.5281/zenodo.23594276",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及agent memory",
+      "fetched_at": "2026-10-24T19:31:41.782048+00:00",
+      "digest_day": "2026-10-25",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
+      "id": "doi:10.5281/zenodo.23594255",
+      "title": "VecForge: A Local-First Hybrid Vector Database with Persistent Agent Memory and Order-Preserving Grover-Inspired Reranking",
+      "abstract": "Retrieval-augmented applications and AI assistants need a vector store that runs inside the user's own process, keeps data encrypted on disk, combines semantic and keyword retrieval, and remembers information across conversations. This paper presents VecForge 2.0, an embedded Python vector database built for these needs. One SQLite file, optionally encrypted with SQLCipher, holds documents, vectors, metadata, access keys, agent sessions and index snapshots. Queries fuse FAISS dense search with an incremental BM25 index, and namespace and deletion constraints apply inside both indexes. A memory layer, served over the Model Context Protocol, ranks memories by relevance, importance and recency. The paper also proves that the Grover-inspired reranker of the previous release applies only the diffusion half of Grover's algorithm, so it can only keep or reverse a ranking, and replaces it with an O(N) closed form of the full algorithm that preserves order. Eighteen experiments evaluate every feature. On the SciFact benchmark, hybrid fusion reaches an nDCG@10 of 0.707, against 0.645 for dense search, 0.665 for BM25 and 0.681 for reciprocal rank fusion. Compared with the previous release, in-index constraints raise recall in small namespaces from 0.5% to 100%, incremental indexing makes insertion 183 times faster, and snapshots make reopening 9 to 17 times faster, while encryption and access control add little cost. The evaluation also reports where the design falls short, including slow, highly selective filters and memory deduplication that confuses paraphrases with changed facts. A single local file can therefore serve both retrieval and long-term memory for AI agents.",
+      "authors": "Suneel Bose K",
+      "published": "2026-10-23",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23594255",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23594255",
+      "oa_url": "https://doi.org/10.5281/zenodo.23594255",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及agent memory",
+      "fetched_at": "2026-10-24T19:31:41.782048+00:00",
+      "digest_day": "2026-10-25",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
       "id": "doi:10.5281/zenodo.23565049",
       "title": "AI for Scientific Discovery: A Comprehensive Review of AI-Driven Reasoning, Autonomous Agents, and Evolutionary Search",
       "abstract": "Scientific research usually begins with a question, followed by a review of existing work, the development of possible The reasons for this, the planning of the experiments or simulations, and a careful verification of the results. Now artificial intelligence (AI) is being used can be used to help with a number of these steps. Large language models (LLMs) assist researchers in working with scientific information, AI agents can Tasks can be carried out using external tools, and evolutionary methods can continuously generate and test programs. The paper looks at four studies. that look at different parts of AI-assisted discovery: the wider influence of AI on science, autonomous agent systems, the TeLLAgent and the use of large language models in the search for evolutionary programming. Together, these studies demonstrate how AI could be of assistance with literature reviews and idea generation. They also highlight important issues, such as incorrect model outputs, and involve generation, computational testing, and program improvement. data that is biased or incomplete, the limited ability to generalize, poor reproducibility, reliance on tools, and data leakage that occurs during evaluation. The The paper examines the four studies and suggests a possible workflow for using AI responsibly in scientific research. Overall, AI can be It is a useful research assistant, but its suggestions have to be checked by way of transparent analysis and independent validation.",
@@ -88,8 +142,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-10-23T20:30:07.282908+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:47.498215+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 70
     },
@@ -196,8 +250,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 70
     },
@@ -250,8 +304,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 70
     },
@@ -277,8 +331,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 70
     },
@@ -304,8 +358,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-10-23T20:30:07.282908+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:47.498215+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 58
     },
@@ -736,10 +790,64 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.23598102",
+      "title": "Semantic Context Alignment with Open-World Learning for Memory-Driven Human Activity Recognition",
+      "abstract": "Agentic AI systems that combine perception with memory must repeatedly solve a context alignment problem:deciding whether a current observation matches something already held in long-term memory, or whether itis new. The mechanism used to make that decision, symbolic (lexical) or sub-symbolic (embedding-based),determines whether the system’s memory generalises across vocabulary variation or fragments into redundant,near-duplicate entries. This study investigates that choice inside an agentic memory architecture, usingHuman Activity Recognition as the applied testbed rather than the object of study. Building on thememory-driven architecture proposed by Shahabian Alashti et al. [1], a Jaccard-and-Bayesian symboliccontext alignment engine is replaced with a semantic engine that computes cosine similarity over SentenceTransformer embeddings, while every other component of the pipeline, including the Bayesian posteriorand the 60% confidence-gating threshold, is held fixed. Both configurations are evaluated in a closed loopon seen (Robot House Multi-View, N = 420) and unseen (Toyota Smarthome, N = 930) data, at roughlythree times the scale of the pilot study this project began as. Long-term memory improves accuracy over amemory-free baseline on both datasets, confirming its functional role in the architecture. On seen data, thesemantic mechanism outperforms the symbolic baseline narrowly (61.60% versus 60.90%). On unseen datathe gap widens substantially (49.80% versus 37.40%), while the supervised classifier alone collapses from94.00% to 38.30% once evaluated outside its training distribution. These results indicate that the advantageof semantic over symbolic context alignment is concentrated in generalisation under distribution shift ratherthan in-distribution accuracy, a finding with implications for the design of context alignment mechanisms inmemory-driven AI systems beyond activity recognition specifically.",
+      "authors": "Ganah Gideon, Abolfazl Zaraki",
+      "published": "2026-10-23",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23598102",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23598102",
+      "oa_url": "https://doi.org/10.5281/zenodo.23598102",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-24T19:31:41.782048+00:00",
+      "digest_day": "2026-10-25",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1145/3797867.3832767",
+      "title": "Reflections and Recommendations on AI Adoption Practice from a Mixed-Ability Research Group",
+      "abstract": "Generative AI tools have recently been rapidly adopted by academics in mixed-ability research teams for both personal and professional tasks. While previous work on adoption of AI-based workflows has focused on collaboration and productivity, the perceptions of AI use within research teams remains divided. Through qualitative analysis of interviews of the five members of our mixed-ability research team, we discuss the motivations, challenges, and practices surrounding the use of generative AI in our lab. We reflect on experiences that shaped recommendations for balanced AI use that enable mixed-ability team workflows: (1) managing disability tax & crip time, (2) homogenizing identity, (3) risk disclosure of private information, (4) self-experimentation and miscellaneous tasks, and (5) information seeking. We build upon these themes to present AI practice recommendations we established for our lab to promote AI workflow adoption while preserving agency and disability identity.",
+      "authors": "Shalini Madan, Sreelakshmi Surabiyil Bindu, Veronica Pimenova, Ellie Seehorn, Venkatesh Potluri",
+      "published": "2026-10-23",
+      "venue": "International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS)",
+      "doi": "10.1145/3797867.3832767",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3797867.3832767",
+      "oa_url": "https://doi.org/10.1145/3797867.3832767",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及AI workflow",
+      "fetched_at": "2026-10-24T19:31:50.946146+00:00",
+      "digest_day": "2026-10-25",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.1007/s11229-026-05857-7",
@@ -871,8 +979,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-23T20:30:07.282908+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:47.498215+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -1033,8 +1141,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及memory governance",
-      "fetched_at": "2026-10-23T20:29:54.888304+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:39.083052+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2059,8 +2167,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2086,8 +2194,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2113,8 +2221,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2140,8 +2248,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2167,19 +2275,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-23T20:30:00.529715+00:00",
-      "digest_day": "2026-10-24",
+      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
+      "digest_day": "2026-10-25",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-23T20:30:12.341077+00:00",
+  "last_refresh": "2026-10-24T19:31:52.960910+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-23T20:29:53.217273+00:00",
-    "finished": "2026-10-23T20:30:12.341484+00:00",
+    "started": "2026-10-24T19:31:37.970637+00:00",
+    "finished": "2026-10-24T19:31:52.961523+00:00",
     "sources": {
-      "OpenAlex": 10,
+      "OpenAlex": 8,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -2193,5 +2301,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-24T04:30:12.355243+08:00"
+  "generated_at": "2026-10-25T03:31:52.978352+08:00"
 }
