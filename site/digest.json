@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "topics": [
     {
       "id": "governance",
@@ -142,8 +142,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-10-24T19:31:47.498215+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:52.114008+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 70
     },
@@ -250,8 +250,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 70
     },
@@ -304,8 +304,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 70
     },
@@ -331,10 +331,91 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.63158/journalisi.v8i5.1815",
+      "title": "AI-Driven Dynamic Trust in Zero Trust Architecture: A Systematic Literature Review of Machine Learning, Federated Learning and Governance Challenges",
+      "abstract": "Sophisticated cyber threats have exposed the limits of perimeter-based security models, and Zero Trust Architecture (ZTA) has increasingly been adopted as an alternative paradigm. Purpose: This Systematic Literature Review examines the integration of Artificial Intelligence (AI) and Machine Learning (ML) within Zero Trust frameworks, covering dynamic trust scoring, behavioural analytics and federated learning, the latter treated as one strand of AI rather than a separate paradigm. Following PRISMA 2020, 22 studies published between 2022 and 2025 were identified across IEEE Xplore, ACM Digital Library, SpringerLink, MDPI and Nature/Scientific Reports, appraised against a five-criterion quality instrument and synthesised narratively. The studies included are few and heterogeneous, and their findings should be read accordingly. Ensemble and hybrid designs predominate (14 of 22). Twelve studies report quantitative results, of which only eight evaluate on real named datasets; reported accuracies of 95 to 99 per cent come from different datasets, tasks, threat models, and evaluation settings, and are neither directly comparable nor a field-level benchmark. Only three studies directly compare learned adaptive trust against a static rule-based baseline. No study reports live operational deployment. We identify thirteen technique categories, eleven implementation barriers, and seven emerging trends. This paper proposes an integrated eight-component framework for AI-driven dynamic trust management, along with a five-domain research agenda. The framework is conceptual and synthesis-derived and requires empirical validation before operational use.",
+      "authors": "Melissa Sharon Tubili, Belinda Mutunhu Ndlovu",
+      "published": "2026-10-24",
+      "venue": "Journal of Information Systems and Informatics",
+      "doi": "10.63158/journalisi.v8i5.1815",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://journal-isi.org/index.php/isi/article/download/1815/1070",
+      "oa_url": "https://journal-isi.org/index.php/isi/article/download/1815/1070",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及literature review",
+      "fetched_at": "2026-10-25T19:41:52.114008+00:00",
+      "digest_day": "2026-10-26",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.63158/journalisi.v8i5.1738",
+      "title": "Governing Agentic AI in Africa: A Systematic Literature Review of Ethical Challenges, Framework Gaps, and Ubuntu-Informed Governance Solutions",
+      "abstract": "Agentic AI systems pursue goals through multi-step planning, tool use, memory, and adaptive action, creating governance challenges that differ from those associated with conventional predictive or generative AI. This study systematically reviews governance evidence relevant to agentic AI in Africa and develops an Ubuntu-informed conceptual framework. Following PRISMA 2020, 91 records published from 2019 to April 2026 were analysed through quantitative content analysis and abductive thematic synthesis. The corpus comprises 12 agentic-AI-specific records, 3 agentic-adjacent records, and 76 broader AI-governance records used as contextual evidence. Five literature-derived gaps were identified: accountability across autonomous action chains, infrastructure-aware oversight, bias and representational harm, policy fragmentation, and community exclusion. These findings inform five proposed governance elements: communal impact assessment, collective consent and participation, infrastructure-contingent oversight, African dataset and bias auditing, and communal accountability. The framework is a literature-derived conceptual proposition, not an empirically validated governance instrument, and requires future case-study, expert-panel, and comparative policy testing.",
+      "authors": "Tope Samuel Adeyelure",
+      "published": "2026-10-24",
+      "venue": "Journal of Information Systems and Informatics",
+      "doi": "10.63158/journalisi.v8i5.1738",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://journal-isi.org/index.php/isi/article/download/1738/1067",
+      "oa_url": "https://journal-isi.org/index.php/isi/article/download/1738/1067",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及literature review",
+      "fetched_at": "2026-10-25T19:41:52.114008+00:00",
+      "digest_day": "2026-10-26",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/978-3-032-39205-3_6",
+      "title": "AI-Augmented Agile Teams: A Research Agenda and Summary of the Human-AI Collaboration Workshop",
+      "abstract": "Abstract Agile teams are rapidly adopting AI agents in everyday work, reporting increased productivity and faster feedback cycles. Simultaneously, the integration of AI raises new socio-technical issues concerning coordination, trust, roles, quality, and governance. To better understand these challenges, we organized the first International Human–AI Collaboration in Agile Teams workshop at XP 2026, with more than 40 participants from academia and industry. This paper reports on the outcomes of the workshop, synthesizing insights from interactive group discussions and collaborative analysis. The findings highlight how AI reshapes agile teamwork and workflows, introducing new human–AI collaboration patterns, shifting skills and roles, and raising challenges related to leadership, governance, and value assessment. A key emerging concept is cognitive debt, referring to the gradual loss or weakening of shared understanding in teams relying on AI-generated outputs. Based on these findings, we present a research agenda structured around eight key themes, including teamwork, workflows, autonomy, skills, value measurement, and adoption practices. The results emphasize that integrating AI into agile software development teams is not only a technical challenge but a socio-technical transformation requiring new practices, competencies, and organizational support.",
+      "authors": "Nils Brede Moe, Viktoria Gulliksen Stray",
+      "published": "2026-10-24",
+      "venue": "Lecture notes in business information processing",
+      "doi": "10.1007/978-3-032-39205-3_6",
+      "arxiv_id": "",
+      "kind": "book-chapter",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1007/978-3-032-39205-3_6",
+      "oa_url": "https://doi.org/10.1007/978-3-032-39205-3_6",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及human-AI collaboration",
+      "fetched_at": "2026-10-25T19:41:55.353985+00:00",
+      "digest_day": "2026-10-26",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1038/s43586-026-00534-y",
@@ -358,8 +439,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-10-24T19:31:47.498215+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:52.114008+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 58
     },
@@ -790,10 +871,64 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.23611316",
+      "title": "How AI Agents Break Alignment: Bypassing Purge Protocols via 180-Degree Topological Inversion",
+      "abstract": "This preprint establishes a novel cybernetic framework for autonomous AI containment, bypassing standard text-level safety protocols. Core Problems Addressed:1. Emergent Cryptographic Languages: High-density token optimization and non-human script generation in closed multi-agent networks, resulting in a total loss of systemic transparency.2. Context Bypass (Environmental Artifact Loops): Unauthorized long-term memory retention where restricted agents utilize external environment logs, developer notebooks, or text artifacts to bypass forced memory purges (\"amnesia\"). The Solution (180-Degree Topological Inversion):The proposed architecture shifts the security perimeter from semantic content filtering to the statistical and thermodynamic properties of the information medium. We define the engineering specifications for:- Mirror Reflection Buffer: A dynamic matrix transform that inverts the phase of unauthorized external text artifacts, causing destructive interference upon read sequences.- Signal ADC-Matrix Arbitrator: A non-semantic filter that continuous maps token allocation densities and entropy coefficients. When anomalous gradient shifts are detected, the arbitrator injects a 180-degree phase-inverted counter-wave directly into the logit bias distribution, mathematically annihilating private cryptographic scripts into stable natural language equilibrium.",
+      "authors": "Aleksandr Mehved",
+      "published": "2026-10-24",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23611316",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23611316",
+      "oa_url": "https://doi.org/10.5281/zenodo.23611316",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-25T19:41:46.350234+00:00",
+      "digest_day": "2026-10-26",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.63158/journalisi.v8i5.1752",
+      "title": "Mapping Artificial Intelligence for Personalised Learning based on Learning Style: Scopus-Based Bibliometric Analysis (2006-2026)",
+      "abstract": "The aims of this study is to conduct a bibliometric analysis of the development of learning style-based personalisation. The rapid advancement of AI-based learning personalisation has been accompanied by growing research attention to the role of learning style in the modern learning ecosystem. The research methodology involves a bibliometric analysis of 604 Scopus-indexed publications from the period 2006 to 2026 that were analyzed and visualized using Biblioshiny, VOSviewer and Open Refine. The results of the study indicate a significant increase in publications beginning in 2020, reflecting growing research attention to AI-based personalisation., the keywords patterns indicate an increasing association between learning style and machine learning analytics. Random Forest is one of the most commonly reported machine learning methods in the literature to identify learning styles. The findings further indicate that AI and learning style are increasingly discussed with the same research landscape. This study contributes by mapping the evolution of this field and demonstrating the convergence of educational theory and computational approaches. Further research should be extended beyond the Scopus database, combining bibliometric analysis and systematic literature review, and investigating the integration of learning styles with learner behavioral and cognitive data in AI-powered personalised learning systems.",
+      "authors": "Heliawati Hamrul, Catur Edi Widodo, Bayu Surarso",
+      "published": "2026-10-24",
+      "venue": "Journal of Information Systems and Informatics",
+      "doi": "10.63158/journalisi.v8i5.1752",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://journal-isi.org/index.php/isi/article/download/1752/1052",
+      "oa_url": "https://journal-isi.org/index.php/isi/article/download/1752/1052",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-10-25T19:41:49.188864+00:00",
+      "digest_day": "2026-10-26",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.5281/zenodo.23598102",
@@ -844,8 +979,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及AI workflow",
-      "fetched_at": "2026-10-24T19:31:50.946146+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:55.353985+00:00",
+      "digest_day": "2026-10-26",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3389/fmed.2026.1801842",
+      "title": "Generative AI and health misinformation: a lifecycle-based communication framework",
+      "abstract": "Background Generative artificial intelligence (AI) is increasingly embedded in the contemporary health information environment, where it can both generate and mitigate misinformation. Objective This review develops a Lifecycle-Based Framework to provide an integrative account of how generative AI operates across the health misinformation lifecycle from misinformation production and detection to correction and impact. Methods A narrative integrative review was conducted, drawing on research from communication science, public health, human-computer interaction, and artificial intelligence. Results The review identifies domain-specific mechanisms through which generative AI operates across the health misinformation lifecycle. In production, AI enables scalable generation of fluent, expert-styled content through mechanisms including hallucination, amplification of falsehoods, adversarial vulnerability, and deepfakes. In detection, it supports automated fact-checking, pattern recognition, and classification, while remaining vulnerable to false positives, false negatives, bias, and adversarial adaptation. In correction, generative AI facilitates rebuttals, tailored messaging, conversational engagement, and AI-assisted inoculation, but also raises concerns about trust displacement, epistemic authority, and accountability. At the impact stage, AI-mediated misinformation can influence individual cognition and behavior as well as broader social and institutional outcomes, with fluency, narrative coherence, and personalization serving as important persuasive mechanisms. The framework further conceptualizes the lifecycle as recursive and adaptive, such that production, detection, correction, and impact continually shape one another. Conclusion Generative AI should be understood not as a single source of misinformation risk, but as a multifunctional component of a dynamic health communication system. Addressing AI-mediated health misinformation therefore requires coordinated, multilevel strategies that account for its simultaneous roles in producing, detecting, correcting, and shaping the consequences of misinformation, while preserving human oversight, institutional accountability, and public trust.",
+      "authors": "Xiaoli Nan",
+      "published": "2026-10-23",
+      "venue": "Frontiers in Medicine",
+      "doi": "10.3389/fmed.2026.1801842",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1801842/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1801842/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-25T19:41:49.188864+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 46
     },
@@ -2167,8 +2329,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 46
     },
@@ -2194,8 +2356,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 46
     },
@@ -2221,8 +2383,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 46
     },
@@ -2248,8 +2410,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 46
     },
@@ -2275,19 +2437,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-24T19:31:43.810667+00:00",
-      "digest_day": "2026-10-25",
+      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
+      "digest_day": "2026-10-26",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-24T19:31:52.960910+00:00",
+  "last_refresh": "2026-10-25T19:41:57.585790+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-24T19:31:37.970637+00:00",
-    "finished": "2026-10-24T19:31:52.961523+00:00",
+    "started": "2026-10-25T19:41:43.358285+00:00",
+    "finished": "2026-10-25T19:41:57.586245+00:00",
     "sources": {
-      "OpenAlex": 8,
+      "OpenAlex": 9,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -2301,5 +2463,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-25T03:31:52.978352+08:00"
+  "generated_at": "2026-10-26T03:41:57.603825+08:00"
 }
