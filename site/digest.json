@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "topics": [
     {
       "id": "governance",
@@ -250,8 +250,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 70
     },
@@ -304,8 +304,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 70
     },
@@ -331,8 +331,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 70
     },
@@ -358,8 +358,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及literature review",
-      "fetched_at": "2026-10-25T19:41:52.114008+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:17.988230+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 58
     },
@@ -385,8 +385,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及literature review",
-      "fetched_at": "2026-10-25T19:41:52.114008+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:17.988230+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 58
     },
@@ -399,21 +399,48 @@
       "venue": "Lecture notes in business information processing",
       "doi": "10.1007/978-3-032-39205-3_6",
       "arxiv_id": "",
-      "kind": "book-chapter",
+      "kind": "conference-paper",
       "review_status": "评审状态未知",
       "source": "OpenAlex",
       "sources": [
         "OpenAlex"
       ],
       "url": "https://doi.org/10.1007/978-3-032-39205-3_6",
-      "oa_url": "https://doi.org/10.1007/978-3-032-39205-3_6",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-032-39205-3_6.pdf",
       "topic_ids": [
         "productivity"
       ],
       "relevance": 58,
       "reason": "标题涉及human-AI collaboration",
-      "fetched_at": "2026-10-25T19:41:55.353985+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:20.780161+00:00",
+      "digest_day": "2026-10-27",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/978-3-032-39205-3_8",
+      "title": "From AI Assistants to AI-Dev-Systems: A Three-Layer Model for Human-AI Collaboration in Agile Software Development",
+      "abstract": "Abstract Context: For decades, integrating new capabilities into agile teams, whether UX practices or emerging technologies, has followed a consistent paradigm: teams remain stable while methods adapt. Applied to AI, this approach produces fragmented tooling, governance uncertainty, and vibe coding : unstructured AI use that prevents cumulative organizational capability. We argue this integration paradigm, successful for disciplines like UX, may be inadequate for AI’s transformative scope. Objective: We reframe AI integration as an organizational design problem: how should teams restructure around AI-Dev-Systems , configured environments of AI agents, workflows, and knowledge bases functioning as shared infrastructure? Method: We propose a three-layer model extending platform engineering: (1) System Teams design AI-Dev-Systems; (2) Platform Teams maintain them; (3) Product Teams develop software within them. Results: Developers shift from producers to stewards monitoring AI outputs. Iteration cycles compress, paradoxically elevating product thinking: when implementation ceases to be the bottleneck, what to build matters more than how . XP practices persist but transform into governance mechanisms for AI-generated work. Conclusion: Teams should restructure around AI-Dev-Systems rather than adopt AI tools, our three-layer model offers a structured provocation to reframe the discourse.",
+      "authors": "Andreas Hinderks, Jörg Thomaschewski, Eva-Maria Schön",
+      "published": "2026-10-24",
+      "venue": "Lecture notes in business information processing",
+      "doi": "10.1007/978-3-032-39205-3_8",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/978-3-032-39205-3_8.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-032-39205-3_8.pdf",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及human-AI collaboration",
+      "fetched_at": "2026-10-26T21:39:20.780161+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 58
     },
@@ -871,10 +898,37 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.23649048",
+      "title": "Provenance-Gated Memory and Deontic Output Supervision for Epistemically Grounded Autonomous Agents",
+      "abstract": "Autonomous agents driven by Large Language Models (LLMs) operating in extended multi-session settings suffer from two systemic failure modes: (1) recursive hallucination compounding, wherein unverified model-originated narration is committed to long-term memory and subsequently retrieved as established truth; and (2) fabricated action claims, wherein agents assert execution of irreversible real-world side effects without verified tool execution. We present the architecture and mechanical evaluation of Project Lucca, an open-source (GNU AGPLv3), local-first neuro-symbolic agent architecture designed for strict epistemic grounding. Lucca enforces two primary defenses: (1) a Six-Signer Cryptographic Provenance Gate that requires domain-separated HKDF HMAC-SHA256 signatures for persistent memory commits, enforcing an epistemic invariant at the database schema level that separates conversational continuity from factual grounding eligibility; and (2) a Deontic Truth-in-Receipt Output Supervisor that screens generated speech tokens against deterministic execution receipts before user presentation. We evaluate these mechanisms across an authored 73-test deterministic unit battery, a 100-probe live action-hallucination testbed across edge models (Gemma 4 E2B/E4B), and analyze documented production failure modes under compute constraints.",
+      "authors": "Sean Maxwell",
+      "published": "2026-10-26",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23649048",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23649048",
+      "oa_url": "https://doi.org/10.5281/zenodo.23649048",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-26T21:39:11.922898+00:00",
+      "digest_day": "2026-10-27",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.5281/zenodo.23611316",
@@ -898,8 +952,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-25T19:41:46.350234+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:11.922898+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -925,8 +979,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-10-25T19:41:49.188864+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:14.906700+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -979,8 +1033,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及AI workflow",
-      "fetched_at": "2026-10-25T19:41:55.353985+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:20.780161+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -1006,8 +1060,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-25T19:41:49.188864+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:14.906700+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -2329,8 +2383,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -2356,8 +2410,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -2383,8 +2437,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -2410,8 +2464,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     },
@@ -2437,17 +2491,17 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-25T19:41:48.676739+00:00",
-      "digest_day": "2026-10-26",
+      "fetched_at": "2026-10-26T21:39:13.953604+00:00",
+      "digest_day": "2026-10-27",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-25T19:41:57.585790+00:00",
+  "last_refresh": "2026-10-26T21:39:22.866770+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-25T19:41:43.358285+00:00",
-    "finished": "2026-10-25T19:41:57.586245+00:00",
+    "started": "2026-10-26T21:39:07.931306+00:00",
+    "finished": "2026-10-26T21:39:22.867478+00:00",
     "sources": {
       "OpenAlex": 9,
       "Crossref": 1,
@@ -2463,5 +2517,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-26T03:41:57.603825+08:00"
+  "generated_at": "2026-10-27T05:39:22.885344+08:00"
 }
