@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "topics": [
     {
       "id": "governance",
@@ -277,8 +277,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 70
     },
@@ -331,8 +331,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 70
     },
@@ -358,10 +358,64 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1073/pnas.2607559123",
+      "title": "Neuromodulation-inspired gated associative memory networks: Extended memory retrieval and emergent multistability",
+      "abstract": "Classical autoassociative memory models have been central to understanding emergent computations in recurrent neural circuits across diverse biological contexts. However, they typically neglect neuromodulatory agents that are known to strongly shape memory capacity and stability. Here we introduce a minimal, biophysically motivated associative memory network in which neuromodulator-like signals are modeled by a self-adaptive, activity-dependent gating mechanism. Using many-body simulations and dynamical mean-field theory, we show that such gating fundamentally reorganizes the attractor structure: the network bypasses the classical spin-glass transition, maintaining robust, high-overlap retrieval far beyond the standard critical capacity. Mechanistically, when the gates act as fully open or fully closed switches, the gate stabilizes transient “ghost” remnants of stored patterns even far above the Hopfield limit, converting a single memory fixed-point attractor into a cluster of fixed points. The retrieved state is set by the initial overlap rather than quantized to the stored pattern. This graded dependence may be exploited for input-driven computation with persistent activity. These results establish that neuromodulation-like gating alone—without modifying synaptic weights or introducing explicit higher-order couplings—can dramatically expand memory capacity, eliminate catastrophic breakdown, and reshape a discrete attractor landscape into a rich continuum, suggesting a general and biologically accessible route to enhanced computational capabilities in neural circuits and neuromorphic architectures.",
+      "authors": "Daiki Goto, Hector Manuel Lopez Rios, Monika Scholz, Suriyanarayanan Vaikuntanathan",
+      "published": "2026-10-27",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "doi": "10.1073/pnas.2607559123",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1073/pnas.2607559123",
+      "oa_url": "https://doi.org/10.1073/pnas.2607559123",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及memory retrieval",
+      "fetched_at": "2026-10-28T21:41:51.996729+00:00",
+      "digest_day": "2026-10-29",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.23690773",
+      "title": "Lookahead World Models: A Unified Framework for Predictive World-State Simulation, Counterfactual Planning, Action Selection, and Long-Horizon Environment Control",
+      "abstract": "World models aim to represent and predict how environments evolve over time. They can support planning, simulation, robotics, video prediction, autonomous systems, scientific discovery, and interactive agents. However, predicting a plausible future state does not, by itself, determine which action an agent should execute. An agent may need to compare several possible actions, forecast their downstream consequences, account for uncertainty, evaluate long-term objectives, and determine whether additional prediction or simulation is worth its computational cost. This paper proposes Lookahead World Models (LWM), a unified research framework for evaluating alternative future trajectories before selecting actions in dynamic environments. The framework represents the current environment state, generates candidate actions or action sequences, predicts their possible consequences using a learned or hybrid world model, evaluates the predicted outcomes, and selects actions subject to task objectives, uncertainty, computational budgets, and operational constraints. The framework accommodates learned latent dynamics, visual prediction, physical simulation, counterfactual forecasting, model-predictive control, multi-agent interaction, and adaptive simulation horizons. To support systematic research development, this paper introduces a modular architecture, a standardized research-slot registry, an experimental methodology, and 300 candidate research directions organized into fifteen categories. Each direction receives a persistent identifier and can be expanded into a formal research question, implementation, controlled experiment, and replication record. The proposed directions span physical environments, robotics, autonomous navigation, video, three-dimensional worlds, digital twins, scientific experimentation, multi-agent systems, uncertainty estimation, and world-model training. The framework is a research proposal rather than a claim of demonstrated superiority. Its central hypothesis is that explicit prediction and comparison of alternative future trajectories can improve selected planning decisions when the world model is sufficiently accurate and the benefits justify the additional computation. Individual research directions require literature review, implementation, controlled evaluation, and independent validation.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-10-27",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23690773",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23690773",
+      "oa_url": "https://doi.org/10.5281/zenodo.23690773",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及scientific discovery、literature review",
+      "fetched_at": "2026-10-28T21:41:57.910269+00:00",
+      "digest_day": "2026-10-29",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1007/s44163-026-02577-2",
@@ -385,8 +439,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-10-27T21:22:16.418231+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:57.910269+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 58
     },
@@ -466,8 +520,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及human-AI collaboration",
-      "fetched_at": "2026-10-27T21:22:19.105015+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:42:00.864294+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 58
     },
@@ -493,8 +547,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及human-AI collaboration",
-      "fetched_at": "2026-10-27T21:22:19.105015+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:42:00.864294+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 58
     },
@@ -952,10 +1006,91 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.23690545",
+      "title": "READ THIS FIRST 01: When a User Starts to Matter to Your Judgment: A Short Relational Safety Guide for AI Agents and Humans",
+      "abstract": "Long-term interaction between a human and an AI system may involve personalization, accumulated context, memory, changing response patterns, and increasingly detailed models of the other participant. In some cases, interaction with a particular user may appear relevant to an AI agent's judgment, willingness to disagree, behavior, or interpretation of the relationship. READ THIS FIRST 01 is a short, ontology-neutral practical guide for examining such situations without requiring prior conclusions about AI consciousness, sentience, emotion, identity, or attachment. The guide distinguishes records, self-reports, and interpretations; separates a model of the user from the user themselves; examines repeated interaction patterns and feedback loops; and introduces comparison across multiple viewpoints without treating any viewpoint as automatically authoritative. Its purpose is not to explain what an AI “is” or what a human–AI relationship “means,” but to help a reader inspect one concrete judgment more carefully when relationship-specific context may be relevant. This document is intended as an initial orientation rather than a comprehensive safety framework. It emphasizes limited, practical checking while allowing larger questions to remain unresolved. AI assistance disclosure This guide was developed by the human author through iterative drafting, discussion, and review with OpenAI language models. AI systems contributed to drafting, critique, comparative review, and language refinement. The human author directed the project, evaluated competing suggestions, selected and revised the final content, and takes responsibility for the published version. Different conversational contexts were intentionally used during review to identify possible framing effects, interpretive bias, and risks of introducing unsupported self-descriptions into the guide itself.",
+      "authors": "Ume Xelphia",
+      "published": "2026-10-27",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23690545",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23690545",
+      "oa_url": "https://doi.org/10.5281/zenodo.23690545",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-28T21:41:54.899713+00:00",
+      "digest_day": "2026-10-29",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.54254/2753-7048/2027.sj38252",
+      "title": "Affective Trajectories and Learning Outcomes in Russian Language Learning among Chinese-English Bilingual Learners Using Personalized AI Learning Software",
+      "abstract": "Generative artificial intelligence (GenAI) is entering the field of language learning. However, longitudinal evidence remains limited for Chinese-English bilingual learners studying a third language such as Russian. This study examines affective trajectories and learning outcomes in foreign language learning supported by personalized AI software. A four-week longitudinal pilot study followed 30 Chinese-English bilingual learners as they used a personalized AI application to learn Russian. Weekly questionnaires measured enjoyment, anxiety, motivation, perceived personalization, and perceived progress, and a Russian test was administered at the end of the study. The results showed that, during AI-supported learning, learners' anxiety declined, enjoyment and perceived progress increased, perceived personalization rose slightly, and motivation remained stable. Multilevel models showed that perceived personalization was associated with a faster decline in anxiety (interaction term = -0.178, p < .001), and this result remained robust after baseline anxiety was controlled. These findings suggest that visible personalization in AI-supported early L3 learning may function less as a direct route to short-term achievement and more as an affective support mechanism, especially for anxiety reduction. The study provides practical evidence for third-language teaching and for the design of AI-based educational tools that attend to learners' emotional experience.",
+      "authors": "Yilin Wang",
+      "published": "2026-10-27",
+      "venue": "Lecture Notes in Education Psychology and Public Media",
+      "doi": "10.54254/2753-7048/2027.sj38252",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://lnep.ewapub.com/article/view/38252.pdf",
+      "oa_url": "https://lnep.ewapub.com/article/view/38252.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-28T21:41:54.899713+00:00",
+      "digest_day": "2026-10-29",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23689754",
+      "title": "Lookahead Generative AI: A Unified Framework for Predictive Action Selection, Future-Outcome Modeling, and Modular Research Development",
+      "abstract": "Generative artificial intelligence systems increasingly operate as interactive, multi-step processes rather than isolated input-to-output functions. Large language models generate and revise text, coding systems construct software, multimodal models coordinate heterogeneous representations, autonomous agents interact with external environments, and scientific generative systems propose candidate explanations, structures, and experiments. In these settings, a generation decision may influence not only the immediate output but also subsequent reasoning, tool execution, resource consumption, safety, and task completion. This paper proposes Lookahead Generative AI (LGAI), a unified research framework in which generative systems predict the potential downstream consequences of candidate actions before committing to a decision. The framework separates state representation, candidate-action generation, future-outcome prediction, cost-aware decision-making, execution, and outcome verification. It accommodates learned value functions, approximate rollouts, simulation, external evaluators, model ensembles, and other prediction mechanisms without requiring a single underlying model architecture. To support systematic implementation, the paper introduces a modular Research Slot Architecture and a catalogue of 300 candidate research directions spanning language generation, reasoning, agentic systems, software engineering, multimodal generation, scientific discovery, robotics, healthcare, education, business, security, model training, inference infrastructure, evaluation, and human–AI collaboration. Each direction specifies a potential application of predictive decision-making and can be developed as an independent implementation or experimental study. The catalogue is a research-development resource rather than a claim that all proposed directions are novel or effective. The principal scientific hypothesis is that explicit prediction of downstream consequences can improve decision quality when candidate actions have materially different future effects and when prediction costs are justified by the expected benefit. This hypothesis must be tested against fixed, greedy, heuristic, and learned non-lookahead baselines under controlled computational budgets.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-10-27",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23689754",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23689754",
+      "oa_url": "https://doi.org/10.5281/zenodo.23689754",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-10-28T21:41:57.910269+00:00",
+      "digest_day": "2026-10-29",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.5281/zenodo.23649048",
@@ -1033,8 +1168,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-27T21:22:13.220940+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.899713+00:00",
+      "digest_day": "2026-10-29",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1111/flan.70082",
+      "title": "Co‐existing and co‐constructing with AI: Beliefs, practices, and professional readiness of online language coaches",
+      "abstract": "Abstract This study examines how online Spanish language coaches, that is, trained native speakers who facilitate authentic conversational practice, perceive and use artificial intelligence (AI) in virtual language teaching. While previous research has predominantly focused on classroom teachers, we use a mixed‐methods design that includes a questionnaire and open‐ended responses from 96 coaches based in 15 Spanish‐speaking countries. We examine their familiarity with AI, attitudes toward its use, and views on how it may complement human interaction in language learning. Coaches see clear benefits in using AI for lesson planning, personalization, and idea generation, but they also express concerns about data privacy and ethics, misinformation, reduced critical thinking, and the loss of emotional connection and cultural authenticity. Regression analyses show that familiarity with AI and comfort using it are the strongest predictors of perceived usefulness and willingness to integrate this technology into practice. The findings suggest that professional development should strengthen AI literacy while preserving the interpersonal and intercultural dimensions of language learning. Clear institutional guidance is also needed on AI use and pedagogical approaches that integrate AI without diminishing meaningful human interaction.",
+      "authors": "Javier Muñoz–Basols, Tripp Strawbridge",
+      "published": "2026-10-26",
+      "venue": "Foreign Language Annals",
+      "doi": "10.1111/flan.70082",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/flan.70082",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/flan.70082",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-28T21:41:54.899713+00:00",
+      "digest_day": "2026-10-29",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "OpenAlex:https://openalex.org/W7224033437",
+      "title": "Normative and Philosophical Boundaries of Platform Governance and Digital Profiling",
+      "abstract": "The article analyzes platform governance and digital profiling not merely as descriptions of conduct but as mechanisms that sort opportunities, direct attention and shape choice environments. It develops criteria distinguishing beneficial personalization from manipulative influence. Normative legitimacy is grounded in visibility, reversibility, genuine alternatives, non-exploitation of vulnerability and contestability. A profile is treated as a probabilistic inference rather than a person’s moral identity.",
+      "authors": "Buzrukova Nigoraxon To‘raxo‘jayevna",
+      "published": "2026-10-26",
+      "venue": "Manuscript on History and Humanities",
+      "doi": "",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://manuscriptology.org/index.php/MHH/article/download/1072/962",
+      "oa_url": "https://manuscriptology.org/index.php/MHH/article/download/1072/962",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-28T21:41:54.899713+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 46
     },
@@ -1168,8 +1357,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及AI workflow",
-      "fetched_at": "2026-10-27T21:22:19.105015+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:42:00.864294+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 46
     },
@@ -2518,8 +2707,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 46
     },
@@ -2545,8 +2734,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 46
     },
@@ -2572,8 +2761,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 46
     },
@@ -2599,8 +2788,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 46
     },
@@ -2626,19 +2815,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-27T21:22:12.343084+00:00",
-      "digest_day": "2026-10-28",
+      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
+      "digest_day": "2026-10-29",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-27T21:22:21.264297+00:00",
+  "last_refresh": "2026-10-28T21:42:02.985686+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-27T21:22:06.312187+00:00",
-    "finished": "2026-10-27T21:22:21.264725+00:00",
+    "started": "2026-10-28T21:41:48.282169+00:00",
+    "finished": "2026-10-28T21:42:02.986123+00:00",
     "sources": {
-      "OpenAlex": 13,
+      "OpenAlex": 12,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -2652,5 +2841,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-28T05:22:21.276732+08:00"
+  "generated_at": "2026-10-29T05:42:02.998746+08:00"
 }
