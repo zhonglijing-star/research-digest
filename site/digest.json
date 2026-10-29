@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "topics": [
     {
       "id": "governance",
@@ -277,8 +277,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 70
     },
@@ -331,8 +331,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 70
     },
@@ -358,10 +358,64 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.21474/ijar01/24386",
+      "title": "DATA AS A FINANCIAL ASSET: HOW FINTECH COMPANIES USE CONSUMER BEHAVIOUR DATA FOR PERSONALISATION, RETENTION, AND REVENUE GROWTH",
+      "abstract": "This study examines how FinTech companies transform consumer behaviour data into financial value through artificial intelligence, predictive analytics, and hyper - personalisation. It explores how transactional, behavioural, and demographic data are collected, analysed,and converted into personalised financial products, recommendations, interfaces, and communication strategies. The study further evaluates how these practices influence customer retention, customer lifetime value, return on investment, average revenue per user, customer acquisition cost, and churn. Particular attention is given to machine learning, customer segmentation, recommendation systems, and predictive models used to anticipate consumer needs and improve engagement. The paper also considers the strategic role of data in product development, cross-selling, and marketing optimization. Alongside these benefits, it critically examines privacy, consent, algorithmic bias, cybersecurity, and regulatory compliance. The study concludes that AI-driven personalisation can create substantial commercial value in FinTech, but sustainable growth depends on transparent, secure, fair, and responsible use of consumer data over the long term.",
+      "authors": "Metaksh Jangid",
+      "published": "2026-10-28",
+      "venue": "International Journal of Advanced Research",
+      "doi": "10.21474/ijar01/24386",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.journalijar.com/uploads/2026/10/6adf2f6fcd7f9_IJAR-59517.pdf",
+      "oa_url": "https://www.journalijar.com/uploads/2026/10/6adf2f6fcd7f9_IJAR-59517.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalisation",
+      "fetched_at": "2026-10-29T21:50:32.805350+00:00",
+      "digest_day": "2026-10-30",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.48321/d17eaab878",
+      "title": "AIDatasets:Impact:MindCompass: Integrated Multimodal Data for AI-Enabled Mental Health Discovery",
+      "abstract": "Mental and substance use disorders constitute the leading cause of non-fatal disease burden worldwide. Since these conditions emerge from complex interactions across biological, genetic, and environmental systems, uncovering their fundamental mechanisms requires a transformative, data-driven multimodal approach. The rapid proliferation of large-scale population datasets (e.g., UK Biobank and All of Us), encompassing imaging, whole-genome sequencing, and continuous physiological and health data from hundreds of thousands of participants, presents an unprecedented opportunity to elucidate underlying multi-factor mechanisms and inform personalized interventions. However, the sheer scale and heterogeneity of data across these 1.3 million participants currently limit reliable AI-enabled integration and analysis, due to the lack of robust quality control (QC), cross-cohort harmonization, and standardized benchmarks. We address this challenge by developing MindCompass, an integrated, privacy-preserving system that accelerates AI-driven research in mental health. It contains three interconnected pillars spanning trustworthy data curation, multiscale harmonization, and agentic AI to turn scientific questions into evidence reports. First, we will extend our field-tested, multi-agent AI system to curate diverse biomedical modalities, including genomics, electronic health records (EHR), and wearable sensor data, through an agentic trustworthy data curation workflow. Second, we will develop multimodal integration pipelines that support scientifically justified multiscale comparisons across environments and data types. These pipelines are supported by rigorously reviewed crosswalks, reference models equipped with calibrated uncertainty, time-aligned data views, and machine-readable descriptions of dataset utility. Third, we will engineer a research agent to translate open inquiries into formal evidence requirements by extending our hypothesis-testing agent. A paired analysis agent will autonomously execute validated machine-learning pipelines to evaluate these questions or report insufficient data, with rigorous validation via known-answer simulations and independent cohort analyses. Intellectual Merit This project advances the foundational cyberinfrastructure for AI-ready biomedical data through three computational innovations: (1) a hybrid agent architecture combining LLM orchestration with deterministic, fully provenanced pipeline execution across heterogeneous data modalities; (2) multiscale integration frameworks that achieve robust comparability, without forcing false equivalencies; and (3) an autonomous research agent that assesses evidence sufficiency with confirmatory error control under stated assumptions. The framework is anchored by the team's track record developing CyberNeuro (Wu), multimodal integration methods (Zhao), hypothesis-testing agents (Z. Zhang), and nonlinear dependence testing (K. Zhang). Broader Impacts This project democratizes AI-driven scientific discovery by transforming fragmented mental health datasets into accessible, AI-ready infrastructure. To foster open science, the project will openly release reference models, knowledge graphs, and benchmarks, securely deposit processed data with original custodians, and establish a governed mechanism for community laboratories to contribute novel tools and datasets. Furthermore, this project advances interdisciplinary STEM workforce development by training a diverse cohort of students and early-career researchers in computational data science via MindCompass workshops modeled on UNC EPIC, featuring demonstrations and interdisciplinary research discussions. Finally, the societal impact extends far beyond mental health; the open-source data standards, integration pipelines, and autonomous research agents provide a highly generalizable framework adaptable to other scientific domains. Keywords: neuroscience; mental health; CISE; BIO; statistics",
+      "authors": "Guorong Wu A",
+      "published": "2026-10-28",
+      "venue": "California Digital Library",
+      "doi": "10.48321/d17eaab878",
+      "arxiv_id": "",
+      "kind": "other",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.48321/d17eaab878",
+      "oa_url": "https://doi.org/10.48321/d17eaab878",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及research agent、scientific discovery",
+      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
+      "digest_day": "2026-10-30",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1073/pnas.2607559123",
@@ -412,8 +466,35 @@
       ],
       "relevance": 58,
       "reason": "摘要提及scientific discovery、literature review",
-      "fetched_at": "2026-10-28T21:41:57.910269+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
+      "digest_day": "2026-10-30",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.3126/nprcjmr.v3i10.100699",
+      "title": "Mapping the Human-AI Collaboration in Strategic Decision-Making: A Bibliometric Review",
+      "abstract": "Background: The increasing integration of artificial intelligence into organizational decision-making has transformed strategic management. It has enabled human expertise and AI-driven analytical capabilities to collaborate in addressing complex problems, evaluating alternatives, and making informed strategic decisions. Objective: This paper examines the intellectual, conceptual, and thematic evolution of research on human-AI collaboration in strategic decision-making and pinpoints emerging research directions. Methods: Based on Scopus database records collected on August 17, 2026. The research involves 1,038 papers published during 2015-2026. Performance analysis of publications and science mapping are conducted using VOSviewer and Biblioshiny in order to explore trends, influential researchers, countries, organizations, collaborations, citation network, keyword co-occurrences, and thematic evolution. The area demonstrates fast growth with an annual growth rate of 51.49%. Results: The literature shows a shift from classical artificial intelligence, machine learning, and decision-support systems to human-AI collaboration, human-in-the-loop systems, explainable AI, trust, and large language models. Decision support systems are still prevalent topics, while human-centered and safety-related themes reflect increased focus on human supervision, transparency, and responsible AI. Combining performance analysis and science mapping allows obtaining a consolidated insight into the intellectual and thematic structure of human-AI collaboration in strategic decision-making. It also points to research gaps regarding theory integration, trust and explain-ability, organizational context, and long-term consequences of generative AI and large language models. The findings support the development of a more integrated socio-technical perspective on human–AI strategic decision-making. Conclusion: The literature reveals a shift from traditional AI and decision-support systems toward human-centered collaboration, explainable AI, trust, and large language models. The findings highlight research gaps in theoretical integration, organizational context, transparency, and the long-term impacts of generative AI, emphasizing the need for an integrated socio-technical approach to strategic decision-making. Novelty: The novelty of this study lies in mapping the intellectual, thematic, and emerging research trends in human–AI collaboration in strategic decision-making while identifying critical research gaps in trust, explainability, organizational context, and the long-term implications of generative AI.",
+      "authors": "Sandesh Bidari, Lok Raj Sharma, Nasiruddin Molla",
+      "published": "2026-10-27",
+      "venue": "NPRC Journal of Multidisciplinary Research.",
+      "doi": "10.3126/nprcjmr.v3i10.100699",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.nepjol.info/index.php/nprcjmr/article/download/100699/76401",
+      "oa_url": "https://www.nepjol.info/index.php/nprcjmr/article/download/100699/76401",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及human-AI collaboration",
+      "fetched_at": "2026-10-29T21:50:39.456918+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 58
     },
@@ -1006,10 +1087,37 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.9758/cpn.26.1519",
+      "title": "Artificial Intelligence-driven Biomarker Discovery for Precision Psychiatry",
+      "abstract": "Poor phenotype quality and small cohorts remain major constraints in psychiatric biomarker research, and recent methodological advances increasingly address them. Language models turn clinical text into analysable variables at a scale manual chart review cannot reach. Self-supervised models learn from the unlabelled signals psychiatry already collects. Variant-effect prediction makes molecular interpretation computable, and research agents have generated and experimentally confirmed candidates outside psychiatry. These capabilities act early, on what is measured, what can be learned from it and which candidates are proposed. None of the artificial intelligence capabilities reviewed here yet reaches the stages at which a candidate becomes a clinical test. Producing candidates is becoming cheap while qualifying them is not. This review is organised around that asymmetry rather than by disorder or marker catalogue. It separates the measured characteristic, the prediction model and the intended clinical use, and treats method family as distinct from evidential stage. Across the selected evidence, discrimination is supported more strongly in development data than in independent evaluation, and prospective evidence that model-guided use improves care is scarce. Many reported metrics also address a simpler task than the intended decision: diagnosis instead of differential diagnosis, general prognosis instead of differential treatment benefit. The review proposes a six-stage framework linking intended use, measurement validity, model evaluation, comparative utility and monitored deployment, and places each capability on it, clarifying where methodological progress can accelerate discovery and where conventional clinical validation remains indispensable.",
+      "authors": "Alessandro Serretti",
+      "published": "2026-10-28",
+      "venue": "Clinical Psychopharmacology and Neuroscience",
+      "doi": "10.9758/cpn.26.1519",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.cpn.or.kr/journal/download_pdf.php?doi=10.9758/cpn.26.1519",
+      "oa_url": "https://www.cpn.or.kr/journal/download_pdf.php?doi=10.9758/cpn.26.1519",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及research agent",
+      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
+      "digest_day": "2026-10-30",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.5281/zenodo.23690545",
@@ -1033,8 +1141,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-28T21:41:54.899713+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:32.805350+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     },
@@ -1060,8 +1168,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-10-28T21:41:54.899713+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:32.805350+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     },
@@ -1087,8 +1195,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-28T21:41:57.910269+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
+      "digest_day": "2026-10-30",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.18203/2349-3291.ijcp20263830",
+      "title": "Beyond screen time: artificial intelligence, algorithmic media and the future of child health",
+      "abstract": "Digital media has evolved from passive screen viewing into an algorithmically curated ecosystem of social platforms, short form video, games, generative artificial intelligence (AI), conversational agents, connected toys and educational technologies. These systems can support learning, creativity, communication, disability access and healthcare; however, engagement optimized design, commercial surveillance and synthetic content create risks that are not adequately captured by screen-time measures alone. This narrative review examines the effects of contemporary digital ecosystems on child and adolescent health and outlines implications for pediatric practice. PubMed/MEDLINE, Google Scholar and guidance from the World Health Organization, United Nations Children's Fund, UNESCO and the American Academy of Pediatrics were reviewed, with emphasis on evidence published from 2019 to June 2026. Associations have been reported between problematic digital media use and sleep disruption, reduced physical activity, visual and musculoskeletal symptoms, obesity related behaviours, anxiety, depressive symptoms, cyberbullying, disordered eating and impaired attention. Causal interpretation remains difficult because effects are heterogeneous, often small, bidirectional and strongly modified by age, content, context, displacement, family relationships and pre-existing vulnerability. AI adds distinct concerns: persuasive personalization, inaccurate health information, anthropomorphic dependency, deepfakes, sexual exploitation, biased outputs, privacy loss and erosion of learning through uncritical outsourcing. Benefits are also substantial when technologies are developmentally appropriate, evidence-based, inclusive and used with adult support. Pediatric counselling should shift from counting hours alone toward assessing the child's digital ecosystem, sleep, function, content, compulsivity, safety and relationships. Effective protection requires shared family practices, school digital literacy, safety by design, age-appropriate assurance, transparent algorithms, data minimization and independent research. The goal is not a screen free childhood but a child centred digital environment that supports health, agency and development.",
+      "authors": "Venugopal Reddy I.",
+      "published": "2026-10-27",
+      "venue": "International Journal of Contemporary Pediatrics",
+      "doi": "10.18203/2349-3291.ijcp20263830",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.ijpediatrics.com/index.php/ijcp/article/download/7714/4699",
+      "oa_url": "https://www.ijpediatrics.com/index.php/ijcp/article/download/7714/4699",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-29T21:50:32.805350+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     },
@@ -2707,8 +2842,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     },
@@ -2734,8 +2869,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     },
@@ -2761,8 +2896,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     },
@@ -2788,8 +2923,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     },
@@ -2815,19 +2950,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-28T21:41:54.076440+00:00",
-      "digest_day": "2026-10-29",
+      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
+      "digest_day": "2026-10-30",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-28T21:42:02.985686+00:00",
+  "last_refresh": "2026-10-29T21:50:41.422251+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-28T21:41:48.282169+00:00",
-    "finished": "2026-10-28T21:42:02.986123+00:00",
+    "started": "2026-10-29T21:50:24.282465+00:00",
+    "finished": "2026-10-29T21:50:41.422620+00:00",
     "sources": {
-      "OpenAlex": 12,
+      "OpenAlex": 9,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -2841,5 +2976,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-29T05:42:02.998746+08:00"
+  "generated_at": "2026-10-30T05:50:41.553254+08:00"
 }
