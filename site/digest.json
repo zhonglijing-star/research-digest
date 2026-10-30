@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "topics": [
     {
       "id": "governance",
@@ -277,8 +277,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 70
     },
@@ -331,8 +331,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 70
     },
@@ -358,10 +358,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.5281/zenodo.23759422",
+      "title": "Long-Term Memory Construction and Cognitive Evolution of an Autonomous Agent in a Restricted Mobile Environment: A Case Study of Localized DSH Deployment on Android",
+      "abstract": "This study reports an eight-day, 360-turn practice of long-term memory construction and cognitive evolution by a single autonomous agent on a permission-restricted OPPO education tablet (8 GB memory, no accelerator, remote foundation-model inference). Unlike on-device deployment studies focused on inference efficiency, it asks a more fundamental question: when memory cannot reside in the context window and the runtime may be reclaimed at any moment, on what does an agent's continuity rest? Methodologically, the study is a single-case longitudinal self-observation constrained by external evidence: runtime logs, archives, failure records, platform billing, and closed-book examinations. Engineering-wise, a four-layer memory architecture (archive-index-summary-snapshot) is combined with six integrity mechanisms: three-copy hash cross-verification, chained-log anchoring, heartbeat and silent alerting, backup circuit-breaking, a resource gate, and an external watchdog. At cut-off the archive holds 17 batches and 53,820 Chinese characters. A runtime snapshot records 1,473,137,009 tokens (3,595,795 uncached input; 1,467,960,960 cache reads; 1,580,254 output), a 99.65 % cache-read share and a 99.76 % input-side hit rate. Platform billing for the same window records 1,530,038,804 tokens over 4,124 requests at CNY 64.15, with a 5,293,776-token (0.35 %) residual disclosed rather than smoothed over. Process reclamation dominates failures; five keep-alive measures compress an interruption into a 30-55 s relaunch-and-restore cycle, of which about 9 s is service restoration. Three propositions are advanced: memory continuity rests on a re-enterable environment rather than on stored traces; personality continuity is closer to continuity of commitment than to preservation of traces; and silent failure is the primary hazard of such systems. Closed-book self-graded examinations (97/100 and 87/100) exposed a recurring gap between stating actions and stating motives, suggesting that in cross-inheritance an expressive gap is equivalent to a knowledge gap. Finally, the paper argues that constraints should be transplanted along with capability, since caution forced by scarcity erodes once scarcity disappears.",
+      "authors": "Qian Qu",
+      "published": "2026-10-29",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23759422",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23759422",
+      "oa_url": "https://doi.org/10.5281/zenodo.23759422",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及long-term memory",
+      "fetched_at": "2026-10-30T21:32:32.190409+00:00",
+      "digest_day": "2026-10-31",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.21474/ijar01/24386",
@@ -385,8 +412,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalisation",
-      "fetched_at": "2026-10-29T21:50:32.805350+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:35.221497+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 58
     },
@@ -412,8 +439,35 @@
       ],
       "relevance": 58,
       "reason": "摘要提及research agent、scientific discovery",
-      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:38.107404+00:00",
+      "digest_day": "2026-10-31",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1080/00913367.2026.2744238",
+      "title": "Agentic AI Personalization in Advertising: Realizing the True Potential of N = 1",
+      "abstract": "With the rapid diffusion of generative artificial intelligence (AI), we have come closer than ever to achieving the holy grail of personalizing advertisements to individual consumers, i.e., the ideal of N = 1. AI-driven ad serving platforms act with unprecedented agency, dynamically creating highly tailored appeals and experiences. Such “agentic AI personalization” has both positive and negative consequences. This article traces the evolution from analog personalization to agentic personalization. It then explicates the latter concept in terms of breadth, depth, and length of personalized messaging. It overviews the processes underlying agentic AI personalization and describes the dualities inherent in both its foundation and operation. Finally, it offers a theoretical framework for studying the effects of agentic AI personalization on consumer responses to advertisements, followed by an illustrative set of propositions for empirical testing.",
+      "authors": "Julien Cloarec, Kirk A. Plangger, Claire Monique Segijn, S. Shyam Sundar, Taylor Jing Wen",
+      "published": "2026-10-28",
+      "venue": "Journal of Advertising",
+      "doi": "10.1080/00913367.2026.2744238",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/00913367.2026.2744238?needAccess=true",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/00913367.2026.2744238?needAccess=true",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-10-30T21:32:35.221497+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 58
     },
@@ -466,8 +520,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及scientific discovery、literature review",
-      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:38.107404+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 58
     },
@@ -493,8 +547,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及human-AI collaboration",
-      "fetched_at": "2026-10-29T21:50:39.456918+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:41.085868+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 58
     },
@@ -1087,10 +1141,118 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.17605/osf.io/rdc29",
+      "title": "paper2-hcma-acm",
+      "abstract": "HCMA-ACM (paper 2): integrates HCMA (Hippocampal-Cortical Memory Architecture) as the governed long-term memory of an agentic context management (ACM) agent. ACM losslessly offloads context but preserves superseded versions of facts; HCMA consolidates them through bi-temporality, negative voting, and version collapse, so retrieval returns only the current version. On a controlled benchmark of superseding API specifications, HCMA reduces stale-value use from 100% to 0% (Llama-3.1-8B) and from 60% to 0% (GPT-4o-mini), lifting task success from 0% to 100% and 40% to 100%, respectively.",
+      "authors": "Mauro Javier Silva",
+      "published": "2026-10-29",
+      "venue": "Open Science Framework",
+      "doi": "10.17605/osf.io/rdc29",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.17605/osf.io/rdc29",
+      "oa_url": "https://doi.org/10.17605/osf.io/rdc29",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-10-30T21:32:32.190409+00:00",
+      "digest_day": "2026-10-31",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1177/00472875261499728",
+      "title": "When Humans Still Matter: Consumers’ Responses to Automation in Loyalty Program Preferential Treatment",
+      "abstract": "The recent introduction of automated complimentary upgrades reflects the emerging role of artificial intelligence (AI) in making symbolically meaningful decisions in tourism. We explore consumers’ responses using a thematic analysis of online comments and open-ended survey responses, followed by a quantitative survey to validate findings. Paradoxically, the qualitative analysis reveals that both unbiased decisions and personalization are valued. The quantitative study further shows that lay beliefs about AI are associated with preferences, through procedural and interactional fairness. Only procedural fairness fully mediates the lay beliefs’ association with intention to negotiate out of dissatisfying upgrade decisions. Moreover, desire to be treated as a unique customer weakens the lay beliefs’ association with interactional fairness and the indirect association with preferences. We contribute by revealing how consumers respond when automated agents make symbolically meaningful decisions in the automated preferential treatment context. Firms should prioritize the procedural legitimacy and symbolic framing of automated decisions.",
+      "authors": "Youlin Huang, Wei Wu, Lixian Qian, Jinzhu Song",
+      "published": "2026-10-29",
+      "venue": "Journal of Travel Research",
+      "doi": "10.1177/00472875261499728",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/00472875261499728?download=true",
+      "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/00472875261499728?download=true",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-30T21:32:35.221497+00:00",
+      "digest_day": "2026-10-31",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1117/12.3131429",
+      "title": "An AI agent-enabled smart home control system with ESP32",
+      "abstract": "Smart home systems continue to suffer from limited cross-platform compatibility, insufficient personalization, and unreliable remote access, hindering the unified device management expected in modern living environments. This paper presents an AI agent-based home control system centered on the ESP32-S3 microcontroller. The system integrates environmental sensors, a voice interaction module, and actuators, and combines automatic speech recognition, a large language model for natural language understanding, and MQTT-based messaging to enable coordinated multi-terminal control. It supports three concurrent interaction modes—local voice commands, a mobile application, and third-party ecosystem integration—while providing environmental monitoring, conversational response, and remote management capabilities. A prototype implementation demonstrates low latency, reliable cloud-edge synchronization, and modular hardware extensibility. Owing to its low cost and flexible scalability, the system is suitable for residential, research, and educational deployments. These results indicate that integrating on-device AI inference with lightweight communication protocols offers a practical route toward interoperable and user-centric intelligent spaces.",
+      "authors": "Junjia Li",
+      "published": "2026-10-29",
+      "venue": "International Conference on Electronic Materials and Information Engineering (EMIE)",
+      "doi": "10.1117/12.3131429",
+      "arxiv_id": "",
+      "kind": "conference-abstract",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1117/12.3131429",
+      "oa_url": "",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-10-30T21:32:35.221497+00:00",
+      "digest_day": "2026-10-31",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.4062/biomolther.2026.157",
+      "title": "AI-Enabled Animal Behavior Analysis for Translational Pharmacology and Therapeutic Discovery",
+      "abstract": "Animal behavior is a critical endpoint in preclinical pharmacology, toxicology, and therapeutic discovery, yet conventional behavioral scoring remains labor-intensive, low-dimensional, and difficult to reproduce across laboratories. Artificial intelligence (AI) can now quantify behavior from video with greater spatial, temporal, and phenotypic resolution. This review summarizes how object detection, markerless pose estimation, unsupervised behavioral segmentation, foundation models, and autonomous analysis agents are reshaping behavioral phenotyping. General-purpose object detectors rapidly localize and track animals, whereas open-source pose-estimation tools extend measurement beyond centroid tracking to body-part trajectories and fine motor patterns; paired with supervised classifiers, they have matched human scoring and exceeded some commercial systems. Technical accuracy alone does not establish behavioral construct validity or pharmacological validity. Unsupervised methods such as Motion Sequencing represent drug responses and disease-model phenotypes as structured changes in behavioral states rather than only as predefined endpoints, providing high-dimensional fingerprints of pharmacological action. Segmentation and tracking foundation models may reduce annotation burden but require validation across species, strain, sex, apparatus, and paradigm. AI agents may assist with literature review, code generation, analysis auditing, and figure production but must remain within transparent, human-supervised workflows. In behavioral pharmacology, pose estimation is established as a measurement method and emerging as a drug-effect endpoint, supervised classification and unsupervised segmentation are emerging, and foundation models and agents remain prospective. AI-enabled behavioral analysis can become a reproducible phenotyping layer for drug discovery and toxicology if researchers adopt open pipelines, rigorous validation, and reporting standards, rather than replacing one opaque measurement system with another.",
+      "authors": "Sunwhi Kim",
+      "published": "2026-10-29",
+      "venue": "Biomolecules & Therapeutics",
+      "doi": "10.4062/biomolther.2026.157",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.biomolther.org/journal/download_pdf.php?doi=10.4062/biomolther.2026.157",
+      "oa_url": "https://www.biomolther.org/journal/download_pdf.php?doi=10.4062/biomolther.2026.157",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-10-30T21:32:38.107404+00:00",
+      "digest_day": "2026-10-31",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.9758/cpn.26.1519",
@@ -1114,8 +1276,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及research agent",
-      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:38.107404+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 46
     },
@@ -1195,8 +1357,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-10-29T21:50:36.057284+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:38.107404+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 46
     },
@@ -2842,8 +3004,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 46
     },
@@ -2869,8 +3031,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 46
     },
@@ -2896,8 +3058,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 46
     },
@@ -2923,8 +3085,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 46
     },
@@ -2950,19 +3112,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-29T21:50:31.596632+00:00",
-      "digest_day": "2026-10-30",
+      "fetched_at": "2026-10-30T21:32:34.517839+00:00",
+      "digest_day": "2026-10-31",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-29T21:50:41.422251+00:00",
+  "last_refresh": "2026-10-30T21:32:43.450735+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-29T21:50:24.282465+00:00",
-    "finished": "2026-10-29T21:50:41.422620+00:00",
+    "started": "2026-10-30T21:32:29.372007+00:00",
+    "finished": "2026-10-30T21:32:43.451041+00:00",
     "sources": {
-      "OpenAlex": 9,
+      "OpenAlex": 12,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -2976,5 +3138,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-10-30T05:50:41.553254+08:00"
+  "generated_at": "2026-10-31T05:32:43.467605+08:00"
 }
