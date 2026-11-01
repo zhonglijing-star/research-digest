@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "topics": [
     {
       "id": "governance",
@@ -66,6 +66,33 @@
     }
   ],
   "articles": [
+    {
+      "id": "doi:10.1145/3830398.3830688",
+      "title": "Priors of U: Dynamic Preference Learning for Embodied Interaction",
+      "abstract": "People have their own habits; from how they organize their workspace, over which mug they reach for in the morning, to how they prepare for cooking. Such preferences are context-dependent, dynamic, and often difficult to articulate. As embodied AI agents, such as robots, enter personal spaces, effective interaction requires understanding these implicit and evolving preferences; otherwise, such systems risk being more hindering than helpful. We propose an architecture that learns user preferences from real-world behavioral observation without requiring explicit instruction or feedback. We introduce a factor-graph-based user model that captures preferences across spatial arrangement, tool selection, and workflow, and continuously adapts as tasks and contexts change. The model expands with new observations, enabling open-ended, in situ learning of user-specific preference patterns. Our evaluation shows accurate, calibrated predictions across domains and robust adaptation over time. We demonstrate personalized robot assistance scenarios illustrating seamless and context-aware human–agent interaction.",
+      "authors": "Violet Yinuo Han, Alexandra Ion",
+      "published": "2026-10-31",
+      "venue": "ACM Symposium on User Interface Software and Technology (UIST)",
+      "doi": "10.1145/3830398.3830688",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3830398.3830688",
+      "oa_url": "https://doi.org/10.1145/3830398.3830688",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及preference learning",
+      "fetched_at": "2026-11-01T21:13:04.246793+00:00",
+      "digest_day": "2026-11-02",
+      "vote": 0,
+      "rank_score": 70
+    },
     {
       "id": "doi:10.5281/zenodo.23665516",
       "title": "memgate pilot: email data and outputs for prompt injection into agent memory (evaluation v2)",
@@ -277,8 +304,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 70
     },
@@ -331,8 +358,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 70
     },
@@ -358,10 +385,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1145/3830398.3830630",
+      "title": "\"What Are You Really Trying to Do?\": Co-Creating Life Goals from Everyday Computer Use",
+      "abstract": "Recent advances in user modeling make it feasible to conduct open-ended inference over a person’s everyday computer use. Despite longstanding visions of systems that deeply understand our actions and the purposes they serve in our lives, existing systems only capture what a person is doing in the moment, not why they are doing it, limiting these systems to surface-level support. We introduce striving co-creation, a process for inferring broader life goals from unstructured observations of computer use. Grounded in Activity Theory and Emmons’ personal strivings framework, our system progressively constructs a hierarchical representation of a person’s activities. Strivings are, however, difficult to fully resolve from observation alone, as the same action can be driven by many different goals. Our system therefore supports an editing interface that gives people agency over how they are understood by the system, feeding their corrections back into subsequent rounds of striving induction. In a week-long field deployment (N = 14), we find that our co-creation process produces strivings that participants recognize as representative of their long-term goals and gives them greater agency than baseline methods.",
+      "authors": "Shardul Sapkota, Matthew Jörke, Zane Sabbagh, Omar Shaikh, Grace Wang, James A. Landay",
+      "published": "2026-10-31",
+      "venue": "ACM Symposium on User Interface Software and Technology (UIST)",
+      "doi": "10.1145/3830398.3830630",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3830398.3830630",
+      "oa_url": "https://doi.org/10.1145/3830398.3830630",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及user modeling、user model",
+      "fetched_at": "2026-11-01T21:13:04.246793+00:00",
+      "digest_day": "2026-11-02",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.5281/zenodo.23759422",
@@ -1168,10 +1222,91 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.55643/fcaptp.5.70.2026.5313",
+      "title": "THE ARTIFICIAL INTELLIGENCE REVOLUTION IN FINANCE: FROM ALGORITHMS TO STRATEGIC SOLUTIONS",
+      "abstract": "A rapid development of artificial intelligence (AI) technologies is transforming the financial sector, changing approaches to automating operations, analyzing data bulk, forecasting, risk management, customer service, and making management decisions. The relevance of the study is due to the need to transition from the fragmented and predominantly operational use of algorithmic tools to their systemic integration into strategic management in finance. The purpose of the study is to systematize the areas of application of AI in the financial sector and substantiate the conceptual model of the transition from the operational use of algorithmic tools to the strategic level of management. To achieve the set goal, systemic, historical-logical, comparative, and classification methods were used. The main results of the study are the identification of four stages of the evolution of AI applications in finance: algorithmic-rule, machine learning, deep learning, and generative-strategic. The key areas of AI use are systematized by the level of managerial influence - from the automation of routine operations and support of individual business processes to forecasting, risk management, personalization of financial services, and the formation of strategic management decisions. The technological, regulatory, reputational, ethical, and systemic risks associated with scaling AI in the financial sector are summarized. A five-level maturity model of AI application is proposed, which involves a sequential transition from experimental, operational, and integrated levels to the level of managerial transformation and strategic use of technologies.It is concluded that the strategic value of AI is determined not by the number of implemented technological solutions, but by the degree of their integration into the corporate governance system, the quality and availability of data, the effectiveness of model management, personnel competencies, the explainability of algorithmic solutions, compliance with regulatory requirements, and the effectiveness of risk control. The strategic integration of AI creates the prerequisites for increasing the adaptability, competitiveness, and sustainability of the financial sector.",
+      "authors": "Iryna Honcharenko, Н.В. Бойніцка, Lesya Berezhna, Olena Berezina, Ломако Євгенія",
+      "published": "2026-10-31",
+      "venue": "Financial and credit activity problems of theory and practice",
+      "doi": "10.55643/fcaptp.5.70.2026.5313",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://fkd.net.ua/index.php/fkd/article/download/5313/4703",
+      "oa_url": "https://fkd.net.ua/index.php/fkd/article/download/5313/4703",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-01T21:13:04.246793+00:00",
+      "digest_day": "2026-11-02",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.30958/aje.13-4-7",
+      "title": "Artificial Intelligence and Didactics: Insights for teaching Latin",
+      "abstract": "The article examines the integration of artificial intelligence (AI) into the didactics of Latin, framing AI as a transformative epistemic mediator rather than a mere technological adjunct. In the evolving digital landscape, AI is reshaping educational processes by influencing how knowledge is accessed, structured, and interpreted. The study critically explores four key areas—adaptive learning, gamification, assisted translation, and digital resources—demonstrating how AI can enhance pedagogical personalization, engagement, and inclusive learning experiences. Special attention is given to the challenges posed by algorithmic opacity, teacher mediation, and the ethical tensions surrounding automation in educational settings. The Latin language, understood as a symbolic and logical construct, is presented as uniquely suited to benefit from AI-enhanced learning environments, which can support complex interpretive practices. When implemented within a coherent pedagogical framework, critically and ethically, AI has the potential to revitalize classical language teaching, enhance students’ interpretive skills and metalinguistic skills, foster both critical literacy and meaningful interaction with classical texts. Ultimately, this contribution argues for a humanistic and ethically grounded approach on AI integration in education: Latin and AI together offer new avenues for promoting critical thinking and cultural awareness in education, reaffirming the relevance of classical studies in the digital age. Keywords: Artificial Intelligence; Inclusion; Teacher Education; Latin Didactics; Inclusive Technologies.",
+      "authors": "Rita Colace, Michele Domenico Todino, Iolanda Zollo",
+      "published": "2026-10-31",
+      "venue": "Athens Journal of Education",
+      "doi": "10.30958/aje.13-4-7",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.30958/aje.13-4-7",
+      "oa_url": "https://doi.org/10.30958/aje.13-4-7",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-01T21:13:04.246793+00:00",
+      "digest_day": "2026-11-02",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.23831977",
+      "title": "Lookahead Reasoning-Step Selection: Predicting Which Next Reasoning Operation Is Most Likely to Advance the Solution",
+      "abstract": "Large language models and other reasoning systems solve complex problems through sequences of intermediate computational and cognitive operations. These operations may include decomposing a problem, retrieving information, generating hypotheses, performing calculations, checking constraints, comparing alternatives, revising assumptions, and verifying intermediate conclusions. However, selecting the next reasoning operation is itself a decision problem. A system that repeatedly applies a fixed reasoning pattern or chooses an operation based only on the current state may perform unnecessary computations, revisit previously explored ideas, or fail to identify the operation most likely to advance the solution. This paper introduces Lookahead Reasoning-Step Selection (LRSS), a conceptual framework for predicting which next reasoning operation is most likely to advance the solution. Instead of selecting the next operation solely from the current reasoning state, LRSS evaluates multiple candidate operations through lightweight previews of their potential downstream consequences. A selection mechanism estimates the expected contribution, uncertainty, computational cost, and relevance of each candidate operation before committing to its execution. The framework represents reasoning as a sequence of state transitions. At each decision point, a candidate generator proposes alternative reasoning operations, a lookahead evaluator estimates their potential downstream utility, and a decision controller selects an operation according to predicted solution progress and computational constraints. Candidate operations may include decomposition, deduction, induction, abduction, retrieval, calculation, hypothesis testing, contradiction detection, evidence gathering, abstraction, analogy, simulation, and answer verification. This paper develops the conceptual architecture, mathematical formulation, candidate-operation taxonomy, selection policies, implementation procedure, computational considerations, potential applications, and experimental methodology for LRSS. It further discusses how the framework could be integrated into large language models, tool-augmented reasoning systems, mathematical problem solvers, scientific discovery systems, multi-agent architectures, and autonomous planning systems. LRSS is presented as a research framework and testable hypothesis rather than an empirically validated reasoning algorithm. No experimental superiority is claimed. Future research should investigate whether preview-based reasoning-operation selection can improve solution quality, reasoning efficiency, reliability, and computational resource allocation relative to fixed reasoning strategies, heuristic selection, and conventional search-based approaches.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-10-31",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23831977",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23831977",
+      "oa_url": "https://doi.org/10.5281/zenodo.23831977",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-01T21:13:07.507093+00:00",
+      "digest_day": "2026-11-02",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.1007/s13679-026-00771-y",
@@ -1222,8 +1357,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-10-31T20:28:20.260799+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:07.507093+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 46
     },
@@ -3139,8 +3274,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 46
     },
@@ -3166,8 +3301,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 46
     },
@@ -3193,8 +3328,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 46
     },
@@ -3220,8 +3355,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 46
     },
@@ -3247,17 +3382,17 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-10-31T20:28:16.604434+00:00",
-      "digest_day": "2026-11-01",
+      "fetched_at": "2026-11-01T21:13:02.887383+00:00",
+      "digest_day": "2026-11-02",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-10-31T20:28:26.012634+00:00",
+  "last_refresh": "2026-11-01T21:13:12.757807+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-10-31T20:28:09.079208+00:00",
-    "finished": "2026-10-31T20:28:26.013367+00:00",
+    "started": "2026-11-01T21:12:55.839642+00:00",
+    "finished": "2026-11-01T21:13:12.758327+00:00",
     "sources": {
       "OpenAlex": 6,
       "Crossref": 1,
@@ -3273,5 +3408,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-01T04:28:26.038022+08:00"
+  "generated_at": "2026-11-02T05:13:12.782835+08:00"
 }
