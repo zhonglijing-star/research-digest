@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "topics": [
     {
       "id": "governance",
@@ -66,6 +66,33 @@
     }
   ],
   "articles": [
+    {
+      "id": "doi:10.5281/zenodo.23935352",
+      "title": "STARLI / RESEARCH FAMILY III / FLAGSHIPS 281–285 Ten Research Flagships · Letters to Future Laboratories Five research architectures for calibration succession, automated discovery, collaboration, self-repair and quantum sensor recovery. F281 | NANO-QUANTUM RESEARCH SYSTEM CROSS-GENERATION CALIBRATION AT THE LIMIT Three-coupling: long-horizon scientific memory × traceable calibration and reference transfer × intergenerational evidence transfer. The primary proposal tests measurement unit definition survival under a concealed challenge: swap a noncommutable reference standard. Measures: reference-transfer bias [nT]; separate witness: uncertainty coverage [fraction]. Strong comparator: independent reference magnetometry with fixed calibration transfer. Failures remain reportable. F282 | INTELLIGENT MICROROBOTIC AUTOMATED SCIENTIFIC DISCOVERY AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × uncertainty-aware bounded decision. The primary proposal tests sequential experiment acquisition bias under a concealed challenge: change a microgripper contact force. Measures: held-out experiment information gain [bits]; separate witness: hypothesis replication success [fraction]. Strong comparator: randomized factorial design and classical active learning under matched budgets. Failures remain reportable. F283 | NANO-QUANTUM RESEARCH AGENT COLLABORATION AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests conflicting measurement ontology negotiation under a concealed challenge: corrupt one agent clock. Measures: causally valid agreement [fraction]; separate witness: external reconstruction success [fraction]. Strong comparator: single authorized controller with independent scientific adjudicator. Failures remain reportable. F284 | MICROSCALE RESEARCH PLATFORM AUTONOMOUS REPAIR AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests reference-sensor replacement after failure under a concealed challenge: mask a cleaning reagent carryover. Measures: verified restoration yield [fraction]; separate witness: post-repair alignment bias [um]. Strong comparator: manual maintenance under frozen physical qualification limits. Failures remain reportable. F285 | QUANTUM SENSOR RESOURCE CYCLING AND RECOVERY AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests microcoil solder fatigue under a concealed challenge: reuse a shield with unlogged hysteresis. Measures: sensor functional recovery [fraction]; separate witness: recovered component mass [mg]. Strong comparator: new-component replacement with matched metrology and life-cycle accounting. Failures remain reportable. FORMAT Each flagship: 777 English pages · 30 formula plates · 82 chapters / 410 one-page investigations · 200 three-letter Research Gates · 33 Phoenix proposals. All assertions are candidate research designs, not experimental outcomes. STARLI / RESEARCH FAMILY III / FLAGSHIPS 286–290 Evidence, Renewal and Independent Succession Five bounded designs for energy autonomy, remote experimental operation, digital twins, regional quantum networks, and research resilience. F286 | NANOROBOTIC RESEARCH ENERGY AUTONOMY AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests heat accumulation during power recovery under a concealed challenge: insert a low-voltage reset. Measures: usable autonomous runtime [h]; separate witness: mission abort probability [fraction]. Strong comparator: tethered power with full mission and sample-integrity matched accounting. Failures remain reportable. F287 | MICROSCALE AUTONOMOUS RESEARCH STATION REMOTE OPERATION AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests teleoperation feedback bandwidth under a concealed challenge: insert a duplicate remote command. Measures: remote command causal latency [s]; separate witness: blind mission completion [fraction]. Strong comparator: local supervised microfluidic operation at matched physical and operator budgets. Failures remain reportable. F288 | NANO-QUANTUM LABORATORY TRUSTWORTHY DIGITAL TWIN AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests microfluidic geometry representation error under a concealed challenge: substitute an untrained device geometry. Measures: normalized held-out physical residual [dimensionless]; separate witness: calibration parameter identifiability [fraction]. Strong",
+      "abstract": "STARLI / RESEARCH FAMILY III / FLAGSHIPS 281–285 Ten Research Flagships · Letters to Future Laboratories Five research architectures for calibration succession, automated discovery, collaboration, self-repair and quantum sensor recovery. F281 | NANO-QUANTUM RESEARCH SYSTEM CROSS-GENERATION CALIBRATION AT THE LIMIT Three-coupling: long-horizon scientific memory × traceable calibration and reference transfer × intergenerational evidence transfer. The primary proposal tests measurement unit definition survival under a concealed challenge: swap a noncommutable reference standard. Measures: reference-transfer bias [nT]; separate witness: uncertainty coverage [fraction]. Strong comparator: independent reference magnetometry with fixed calibration transfer. Failures remain reportable. F282 | INTELLIGENT MICROROBOTIC AUTOMATED SCIENTIFIC DISCOVERY AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × uncertainty-aware bounded decision. The primary proposal tests sequential experiment acquisition bias under a concealed challenge: change a microgripper contact force. Measures: held-out experiment information gain [bits]; separate witness: hypothesis replication success [fraction]. Strong comparator: randomized factorial design and classical active learning under matched budgets. Failures remain reportable. F283 | NANO-QUANTUM RESEARCH AGENT COLLABORATION AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests conflicting measurement ontology negotiation under a concealed challenge: corrupt one agent clock. Measures: causally valid agreement [fraction]; separate witness: external reconstruction success [fraction]. Strong comparator: single authorized controller with independent scientific adjudicator. Failures remain reportable. F284 | MICROSCALE RESEARCH PLATFORM AUTONOMOUS REPAIR AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests reference-sensor replacement after failure under a concealed challenge: mask a cleaning reagent carryover. Measures: verified restoration yield [fraction]; separate witness: post-repair alignment bias [um]. Strong comparator: manual maintenance under frozen physical qualification limits. Failures remain reportable. F285 | QUANTUM SENSOR RESOURCE CYCLING AND RECOVERY AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests microcoil solder fatigue under a concealed challenge: reuse a shield with unlogged hysteresis. Measures: sensor functional recovery [fraction]; separate witness: recovered component mass [mg]. Strong comparator: new-component replacement with matched metrology and life-cycle accounting. Failures remain reportable. FORMAT Each flagship: 777 English pages · 30 formula plates · 82 chapters / 410 one-page investigations · 200 three-letter Research Gates · 33 Phoenix proposals. All assertions are candidate research designs, not experimental outcomes. STARLI / RESEARCH FAMILY III / FLAGSHIPS 286–290 Evidence, Renewal and Independent Succession Five bounded designs for energy autonomy, remote experimental operation, digital twins, regional quantum networks, and research resilience. F286 | NANOROBOTIC RESEARCH ENERGY AUTONOMY AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests heat accumulation during power recovery under a concealed challenge: insert a low-voltage reset. Measures: usable autonomous runtime [h]; separate witness: mission abort probability [fraction]. Strong comparator: tethered power with full mission and sample-integrity matched accounting. Failures remain reportable. F287 | MICROSCALE AUTONOMOUS RESEARCH STATION REMOTE OPERATION AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests teleoperation feedback bandwidth under a concealed challenge: insert a duplicate remote command. Measures: remote command causal latency [s]; separate witness: blind mission completion [fraction]. Strong comparator: local supervised microfluidic operation at matched physical and operator budgets. Failures remain reportable. F288 | NANO-QUANTUM LABORATORY TRUSTWORTHY DIGITAL TWIN AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests microfluidic geometry representation error under a concealed challenge: substitute an untrained device geometry. Measures: normalized held-out physical residual [dimensionless]; separate witness: calibration parameter identifiability [fraction]. Strong comparator: frozen calibrated physical model with untouched out-of-sample tests. Failures remain reportable. F289 | QUANTUM SENSING NETWORK CROSS-REGIONAL COLLABORATION AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × intergenerational evidence transfer. The primary proposal tests reference-coil coil-factor consistency under a concealed challenge: add a masked narrowband interference source. Measures: inter-region field bias [nT]; separate witness: time synchronization error [ns]. Strong comparator: independent cross-region reference magnetometers and pre-registered harmonization. Failures remain reportable. F290 | NANOROBOTIC RESEARCH SYSTEM CIVILIZATIONAL RESILIENCE AT THE LIMIT Three-coupling: long-horizon scientific memory × modular autonomous infrastructure × successor reconstruction and authority continuity. The primary proposal tests climate-damaged data archive recovery under a concealed challenge: remove the original research team from replay. Measures: rebuild success after institutional loss [fraction]; separate witness: scientific claim reidentification [fraction]. Strong comparator: conventional disaster-recovery archive plus manual laboratory reconstruction. Failures remain reportable. EVIDENCE SCOPE Methods cite FAIR principles (10.1038/sdata.2016.18), JCGM GUM (10.59161/JCGM100-2008E), and Degen et al. quantum sensing (10.1103/RevModPhys.89.035002); STARLI mother ancestry 10.5281/zenodo.23318840 is not independent experimental verification. Research and community: https://zenodo.org/communities/starli-research-gate/ We do not need to know which door future generations will choose to open. We only hope that when they open it, they will find a little light to guide their way. 🌈🚪✨",
+      "authors": "33",
+      "published": "2026-11-04",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.23935352",
+      "arxiv_id": "",
+      "kind": "other",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.23935352",
+      "oa_url": "https://doi.org/10.5281/zenodo.23935352",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 82,
+      "reason": "标题涉及research agent、scientific discovery",
+      "fetched_at": "2026-11-05T22:41:13.039212+00:00",
+      "digest_day": "2026-11-06",
+      "vote": 0,
+      "rank_score": 82
+    },
     {
       "id": "doi:10.48550/arxiv.2611.02833",
       "title": "Reimagining computational quantum research with AI scientists",
@@ -331,8 +358,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 70
     },
@@ -385,8 +412,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 70
     },
@@ -412,8 +439,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 70
     },
@@ -493,8 +520,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及research agent",
-      "fetched_at": "2026-11-04T22:39:23.171789+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:13.039212+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 58
     },
@@ -1357,8 +1384,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 58
     },
@@ -1384,8 +1411,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及memory management",
-      "fetched_at": "2026-11-04T22:39:15.827099+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:06.959378+00:00",
+      "digest_day": "2026-11-06",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3389/or.2026.1918402",
+      "title": "Mumio in cancer research: biological mechanisms and nanomedicine applications – a systematic review",
+      "abstract": "The study aimed to analyze Mumio’s anticancer potential through a literature review of scientific databases. In the 16 studies included in the analysis, 11 examined the direct effects of Mumio on cancer cell lines in vitro , 1 was conducted in vivo , and 4 focused on nanoparticle-based systems designed to deliver Mumio or other therapeutic agents. Across the studies, Mumio demonstrated greater cytotoxicity against cancer cells than against normal cells. Based on the available evidence, five major mechanisms associated with its activity against cancer cells can be distinguished: induction of apoptosis; inhibition of proliferation and oncogenic signaling; modulation of adhesion, invasion, and EMT; reduction of angiogenesis and inflammation; and regulation of oxidative stress. Mumio demonstrates biological activities that may be relevant to cancer research. Additional studies are required to verify these observations, including more advanced in vitro models such as spheroids and organoids, as well as further in vivo investigations.",
+      "authors": "Monika Stawicka, Filip Chmarzyński, Daria Balcerczyk, Tomasz Kloskowski",
+      "published": "2026-11-04",
+      "venue": "Oncology Reviews",
+      "doi": "10.3389/or.2026.1918402",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/oncology-reviews/articles/10.3389/or.2026.1918402/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/oncology-reviews/articles/10.3389/or.2026.1918402/pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-05T22:41:13.039212+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -1411,8 +1465,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及user model",
-      "fetched_at": "2026-11-04T22:39:19.444531+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:09.977400+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -1438,8 +1492,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-04T22:39:19.444531+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:09.977400+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -1465,8 +1519,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-04T22:39:23.171789+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:13.039212+00:00",
+      "digest_day": "2026-11-06",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.7759/s44568-026-00351-7",
+      "title": "The Discovery Gap: Why Artificial Intelligence Must Learn to Change Its Mind \"Rethinking Human–AI Collaboration from Molecule to Market\"",
+      "abstract": "Scientific discovery requires the revision of belief: giving up a claim when the evidence turns against it, and knowing what else must change with it.Artificial intelligence (AI) has transformed research -predicting protein structures, generating molecules, screening billions of candidates -but it does not do this.Autonomous agents traverse the discovery loop end to end without holding the beliefs that loop exists to revise.I use dynamic scientific intelligence for the class of system this requires, one that holds hypotheses as persistent objects with provenance, uncertainty and explicit dependencies.Its distinguishing condition is that a system can identify what supports each commitment and what depends on it, and so revise one without disturbing the rest.Because no architecture can revise beliefs on evidence it never receives, the problem is jointly architectural and infrastructural.Using drug development from molecule to market as the test case, I identify where evidence generated downstream should revise commitments made upstream and does not, and three decision points at which the non-delegable human act is adjudication rather than generation.I propose a revision test -an evaluation distinct in kind from any predictive benchmark -and a minimum reporting standard for claims of AI-assisted discovery.Until AI learns to change its mind well, it will remain a tool rather than an infrastructure in which discovery accumulates.",
+      "authors": "Silvano Coletti",
+      "published": "2026-11-03",
+      "venue": "Cureus Journal of AI-Augmented Research",
+      "doi": "10.7759/s44568-026-00351-7",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://assets.cureusjournals.com/artifacts/upload/editorial/pdf/21054/CureusJournals_2105420261103-142833-g36fxd.pdf",
+      "oa_url": "https://assets.cureusjournals.com/artifacts/upload/editorial/pdf/21054/CureusJournals_2105420261103-142833-g36fxd.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-05T22:41:13.039212+00:00",
+      "digest_day": "2026-11-06",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.21609/jsi.v22i2.1530",
+      "title": "Generative AI in Software Engineering Education: A Study on Competency and Perception",
+      "abstract": "Software Engineering (SE) education struggles to align graduate competencies with industry needs, a challenge compounded by Generative AI (GenAI). This study’s purpose is to explore how structured GenAI utilization can enhance student competencies and learning perceptions. This exploratory case study used a mixed-method design involving four students in a controlled experiment. Data was collected via quantitative (SWEBOK-based artifact assessments, questionnaires) and qualitative narrative reflections. Results show the group using AI produced higher-quality artifacts and reported a more efficient, positive experience. A key finding is the transformation of work processes, shifting the primary challenge from manual execution to the critical evaluation of AI outputs. Due to its small scale, the findings are preliminary but suggest GenAI can enhance competencies. This requires an educational shift toward human-AI collaboration skills like critical evaluation and prompt engineering. Further validation with larger, more comprehensive studies is essential to generalize these initial insights.",
+      "authors": "Ghozy Ghulamul Afif, Panca O. Hadi Putra",
+      "published": "2026-11-03",
+      "venue": "Jurnal Sistem Informasi",
+      "doi": "10.21609/jsi.v22i2.1530",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://jsi.cs.ui.ac.id/index.php/jsi/article/download/1530/465",
+      "oa_url": "https://jsi.cs.ui.ac.id/index.php/jsi/article/download/1530/465",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-11-05T22:41:16.049653+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -3733,8 +3841,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -3760,8 +3868,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -3787,8 +3895,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -3814,8 +3922,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     },
@@ -3841,19 +3949,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-04T22:39:18.032431+00:00",
-      "digest_day": "2026-11-05",
+      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
+      "digest_day": "2026-11-06",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-04T22:39:35.129316+00:00",
+  "last_refresh": "2026-11-05T22:41:17.878943+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-04T22:39:09.578571+00:00",
-    "finished": "2026-11-04T22:39:35.129793+00:00",
+    "started": "2026-11-05T22:41:02.186841+00:00",
+    "finished": "2026-11-05T22:41:17.879350+00:00",
     "sources": {
-      "OpenAlex": 10,
+      "OpenAlex": 9,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -3867,5 +3975,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-05T06:39:35.157320+08:00"
+  "generated_at": "2026-11-06T06:41:17.907396+08:00"
 }
