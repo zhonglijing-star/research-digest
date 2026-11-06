@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "topics": [
     {
       "id": "governance",
@@ -88,10 +88,37 @@
       ],
       "relevance": 82,
       "reason": "标题涉及research agent、scientific discovery",
-      "fetched_at": "2026-11-05T22:41:13.039212+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:15.743056+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 82
+    },
+    {
+      "id": "doi:10.70267/cai.v3n6.6177",
+      "title": "A Study on the Coupling Relationship Between AI Personalization and Long-Context Management",
+      "abstract": "With the large-scale deployment of large language models (LLMs) in various intelligent assistants and agent systems, homogenized outputs and the loss of user preferences across sessions have become key bottlenecks restricting improvements in user experience. Personalization technology aims to adapt LLMs to the language habits, thinking patterns, and subjective preferences of different users, while long-context and agent memory management addresses the underlying technical problems of storing, filtering, and reusing temporal information for LLMs. Current academic research mostly treats the two directions as independent fields, and systematic reviews of their internal coupling relationship are relatively scarce. This study first defines the core concepts of LLM personalization and long-context memory management and systematically reviews the technical principles, advantages, and existing limitations of four personalization paradigms: prompt-engineering personalization, lightweight parameter fine-tuning, user-preference alignment, and dynamic user profiling. It then divides long-context and agent-memory technologies into five routes: native-window expansion, context pruning and compression, adaptive context extraction, hierarchical memory architectures, and external retrieval-augmented memory, and analyzes the applicable scenarios and technical shortcomings of each route. On this basis, this study reviews progress in four intersecting directions: preference-aware memory updating, structured persona-memory representation, long-horizon personalization evaluation benchmarks, and training-free collaborative control at inference time. It further analyzes the internal coupling mechanism through which the two directions empower each other and summarizes three core conflicts: the capacity-accuracy trade-off, the conflict between general governance rules and personalized characteristics, and the conflict between computational cost and personalization stability. The study also summarizes five research challenges: difficulty in adapting to the dynamic evolution of user preferences, failure to recall implicit preferences, memory errors and preference drift, fragmented evaluation systems, and difficulty balancing engineering implementation costs. It proposes subsequent research paths in six dimensions: cognitively inspired memory architectures, preference-aware context compression algorithms, multimode hybrid indexing and retrieval, unified long-horizon personalization evaluation protocols, memory-error verification mechanisms, and multimodal long-term personalization. The findings indicate that long-term personalized intelligent systems cannot optimize the personalization module or memory module in isolation. Their coupling relationship should serve as the underlying design logic to promote the iterative upgrading of LLMs toward adaptation to individual user characteristics and to provide a reference for the theoretical research and engineering development of long-term agents and personalized dialogue assistants.",
+      "authors": "Xinghe Fan",
+      "published": "2026-11-05",
+      "venue": "Computers and artificial intelligence.",
+      "doi": "10.70267/cai.v3n6.6177",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.70267/cai.v3n6.6177",
+      "oa_url": "https://doi.org/10.70267/cai.v3n6.6177",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-06T22:09:12.149839+00:00",
+      "digest_day": "2026-11-07",
+      "vote": 0,
+      "rank_score": 70
     },
     {
       "id": "doi:10.48550/arxiv.2611.02833",
@@ -358,8 +385,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 70
     },
@@ -412,8 +439,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 70
     },
@@ -439,10 +466,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.13140/rg.2.2.14290.93125",
+      "title": "Beyond Knowledge: Why Artificial Intelligence Agents Struggle with Full-Scale Physics Research -The Missing Faculties of Rigorous Reasoning, Physical Intuition and Scientific Judgment An Equation less Critical Investigation into Autonomous Scientific Discovery, Epistemic Reliability and the Prospects for Artificial Intelligence in Fundamental Physics",
+      "abstract": "",
+      "authors": "Ijaz Durrani",
+      "published": "2026-11-05",
+      "venue": "",
+      "doi": "10.13140/rg.2.2.14290.93125",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.13140/rg.2.2.14290.93125",
+      "oa_url": "",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及scientific discovery",
+      "fetched_at": "2026-11-06T22:09:15.743056+00:00",
+      "digest_day": "2026-11-07",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1145/3799682.3840567",
@@ -1384,10 +1438,64 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.1145/3767308.3836285",
+      "title": "MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments",
+      "abstract": "Reliable mobile GUI agents must retain and reuse information across actions, applications, and repeated interactions. However, current benchmarks systematically underrepresent these memory demands: only 5.2-11.8 percent of their tasks are memory-related, and none evaluates cross-session learning. We introduce MemGUI-Bench, a comprehensive memory-centric benchmark that assesses both short-term information retention and long-term experience accumulation through pass@k protocols and staged LLM-as-judge evaluation. Our contributions include: (1) a systematic taxonomy of short- and long-term memory based on 11 agents across 5 architectures; (2) a snapshot-based suite of 128 tasks across 26 applications, organized into 64 mirror pairs, where 89.8 percent require cross-temporal and cross-spatial retention; (3) MemGUI-Eval, an automated 3-stage Progressive Scrutiny pipeline with 7 hierarchical metrics spanning memory fidelity, learning effectiveness, and execution efficiency; and (4) an assessment of 11 state-of-the-art agents guided by 6 research questions. Our experiments reveal substantial memory deficits across all evaluated systems, including 4-10x capability gaps on memory-intensive tasks. They further show that short-term memory is indispensable, while explicit long-term memory improves cross-session learning by 21.9 percentage points, with cross-application transfer and computational cost remaining major bottlenecks. We additionally identify 5 distinct failure modes and synthesize 5 actionable design implications for future memory-enhanced agents. All resources, including code, benchmark, and evaluation results, will be fully open-sourced and continuously maintained at https://memgui-bench.github.io/.",
+      "authors": "Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Qinyi Luo, Shunye Tang, Yuxiang Chai",
+      "published": "2026-11-05",
+      "venue": "ACM International Conference on Multimedia (ACM MM)",
+      "doi": "10.1145/3767308.3836285",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3767308.3836285",
+      "oa_url": "https://doi.org/10.1145/3767308.3836285",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-11-06T22:09:08.317582+00:00",
+      "digest_day": "2026-11-07",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1145/3861334",
+      "title": "Agentic Software Engineering: Foundational Pillars and a Research Roadmap",
+      "abstract": "Agentic Software Engineering (SE 3.0) represents a new era where intelligent agents are tasked not with simple code generation, but with achieving complex, goal-oriented SE objectives. To harness these new capabilities while ensuring trustworthiness, we must recognize a fundamental duality within the SE field in the Agentic SE era, comprising two symbiotic modalities: SE for Humans and SE for Agents. This duality demands a radical reimagining of the foundational pillars of SE (actors, processes, tools, and artifacts), which manifest differently in each modality. This new vision of SE requires two distinct, purpose-built workbenches (aka tools) for these two collaborative modalities: the Agent Command Environment (ACE), a command center where humans orchestrate, mentor, and oversee agent teams while managing an inbox of agent-generated events like Merge-Readiness Packs (MRPs) and Consultation Request Packs (CRPs); and the Agent Execution Environment (AEE), a digital workbench where agents not only execute tasks but can proactively invoke human expertise when facing complex trade-offs or ambiguity. This bidirectional partnership, which supports agent-initiated human callbacks and handovers, gives rise to new, structured engineering activities (i.e., processes) that redefine human-AI collaboration, elevating the practice from agentic coding to true agentic software engineering. This paper presents the Structured Agentic Software Engineering (SASE) vision, outlining several of the foundational pillars for the future of SE. The paper culminates in a research roadmap that identifies a few key challenges and opportunities while briefly discussing the resulting impact of this future on SE education. Our goal is not to offer a definitive solution, but to provide a conceptual scaffold with structured vocabulary to catalyze a community-wide dialogue, pushing the SE community to think beyond its classic, human-centric tenets toward a disciplined, scalable, and trustworthy agentic future.",
+      "authors": "Ahmed E. Hassan, Hao Li, Dayi Lin, Bram Adams, Tse-Hsun Peter Chen, Yutaro Kashiwa",
+      "published": "2026-11-05",
+      "venue": "ACM Transactions on Software Engineering and Methodology",
+      "doi": "10.1145/3861334",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://arxiv.org/pdf/2509.06216",
+      "oa_url": "https://arxiv.org/pdf/2509.06216",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-11-06T22:09:19.058391+00:00",
+      "digest_day": "2026-11-07",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.20944/preprints202611.0261.v1",
@@ -1438,8 +1546,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-05T22:41:13.039212+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:15.743056+00:00",
+      "digest_day": "2026-11-07",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3389/fpsyg.2026.1995850",
+      "title": "From chatbot to language-learning partner: learner–LLM configuration, affordances, and regulatory demands in foreign language learning",
+      "abstract": "Large Language Models (LLMs) are increasingly used as flexible resources for self-directed foreign-language learning, yet limited research explains how learners configure these systems as pedagogical partners. This study examined pedagogical role construction, modality–pedagogy alignment, affordance realization, breakdowns, and regulatory demands in learner–LLM interaction. Using a retrospective observational computational content-analysis design, 117 first-person public posts and comments, representing 80 pseudonymous participants, were analyzed from seven public forums and X. Structured multi-label coding and quantitative analyses identified eight pedagogical roles and examined relationships among interaction modalities, learning activities, perceived affordances, and breakdowns. Results showed that learners reported configuring LLMs as multifunctional pedagogical partners, most prominently as interlocutors, while 65.8% of accounts involved multiple roles. Voice interaction was significantly associated with conversation and pronunciation, whereas text was associated with vocabulary learning, supporting modality–pedagogy alignment. More orchestrated learning configurations were associated with greater perceived benefits, particularly personalization and convenience, although an apparent difference in activity breadth was substantially attenuated once the activities used to define orchestration were excluded from the count. However, 43.6% of accounts reported concerns, revealing function-specific breakdowns involving accuracy/language reliability, access/privacy/system constraints, pedagogical sustainability, interaction/continuity, and voice/technical reliability. The findings support an empirically informed framework conceptualizing learner–LLM interaction as an AI-mediated regulatory process involving role construction, modality and activity configuration, affordance realization, monitoring, breakdown detection, and regulatory demand. Psychological self-regulation and objective proficiency gains were not directly measured.",
+      "authors": "Olusiji Adebola Lasekan, Margot Teresa Godoy Pena, Blessy Sarah Mathew",
+      "published": "2026-11-04",
+      "venue": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2026.1995850",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1995850/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1995850/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-06T22:09:12.149839+00:00",
+      "digest_day": "2026-11-07",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1038/s41467-026-78887-x",
+      "title": "Agentic intelligent data engine for scientific large language models",
+      "abstract": "Artificial intelligence is reshaping scientific discovery across diverse fields. Yet scientific AI remains constrained by data curation, which demands substantial manual effort and deep domain expertise, creating major cost and scalability barriers. Here we present the Agentic Intelligent Data Engine (AIDE), a multi-agent framework that automates data curation for scientific AI. AIDE collects, selects, and organizes data in three stages, providing an end-to-end pipeline that turns a data request into training-ready datasets. We benchmarked AIDE on 14 tasks across biomedical and chemical domains. Scientific AI models built with AIDE-curated datasets matched or outperformed those built with manually curated data, and AIDE’s fully automated preparation delivered significant gains in efficiency and data utilization without compromising quality. These findings provide consistent evidence of AIDE’s applicability across scientific domains and usage paradigms and demonstrate its potential to accelerate scientific AI development and democratize access to scientific AI. Here, authors develop AIDE, a multiagent framework that automates scientific data curation, and demonstrate across biomedical and chemical tasks that its automatically curated datasets can match or outperform manually curated data while improving efficiency.",
+      "authors": "Shufang Xie, Zequn Liu, Pan Deng, Renqian Luo, Yingce Xia, Tao Qin",
+      "published": "2026-11-04",
+      "venue": "Nature Communications",
+      "doi": "10.1038/s41467-026-78887-x",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.nature.com/articles/s41467-026-78887-x_reference.pdf",
+      "oa_url": "https://www.nature.com/articles/s41467-026-78887-x_reference.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-06T22:09:15.743056+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 46
     },
@@ -3841,8 +4003,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 46
     },
@@ -3868,8 +4030,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 46
     },
@@ -3895,8 +4057,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 46
     },
@@ -3922,8 +4084,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 46
     },
@@ -3949,19 +4111,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-05T22:41:08.851730+00:00",
-      "digest_day": "2026-11-06",
+      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
+      "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-05T22:41:17.878943+00:00",
+  "last_refresh": "2026-11-06T22:09:20.797726+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-05T22:41:02.186841+00:00",
-    "finished": "2026-11-05T22:41:17.879350+00:00",
+    "started": "2026-11-06T22:09:02.200392+00:00",
+    "finished": "2026-11-06T22:09:20.798264+00:00",
     "sources": {
-      "OpenAlex": 9,
+      "OpenAlex": 8,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -3975,5 +4137,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-06T06:41:17.907396+08:00"
+  "generated_at": "2026-11-07T06:09:20.827575+08:00"
 }
