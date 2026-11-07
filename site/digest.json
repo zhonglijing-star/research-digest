@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "topics": [
     {
       "id": "governance",
@@ -385,8 +385,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 70
     },
@@ -439,8 +439,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,10 +466,64 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1063/5.0346731",
+      "title": "Stochastic engrams for efficient continual learning",
+      "abstract": "The ability to learn continuously in artificial neural networks is often limited by catastrophic forgetting, a phenomenon in which new knowledge becomes dominant. By taking mechanisms of memory encoding in neuroscience (i.e., engrams) as inspiration, we propose a novel approach that integrates stochastically activated engrams as a gating mechanism for metaplastic binarized neural networks (mBNNs). This method leverages the computational efficiency of mBNNs combined with the robustness of probabilistic memory traces to mitigate forgetting and maintain the model’s reliability. Previously validated metaplastic optimization techniques have been incorporated to further enhance synaptic stability. Compared to baseline binarized models and benchmark fully connected continual learning approaches, our method is the only strategy capable of achieving average accuracies over 70% in both class-incremental and domain-incremental MNIST benchmarks, matching full-precision state-of-the-art methods. Furthermore, we achieve a significant reduction in peak GPU and RAM usage, under 5% and 20%, respectively, as well as an ∼8× reduction in memory footprint compared to full precision counterparts. Our findings demonstrate (A) an improved stability vs plasticity trade-off, (B) reduced memory intensiveness, and (C) enhanced performance in binarized architectures. By uniting principles of neuroscience and efficient computing, we offer new insights into the design of scalable and robust deep learning systems.",
+      "authors": "Isabelle Aguilar, Luis Fernando Herbozo Contreras, Omid Kavehei",
+      "published": "2026-11-06",
+      "venue": "APL Machine Learning",
+      "doi": "10.1063/5.0346731",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1063/5.0346731",
+      "oa_url": "https://doi.org/10.1063/5.0346731",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及continual learning",
+      "fetched_at": "2026-11-07T20:56:10.325363+00:00",
+      "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.58257/ijprems55142",
+      "title": "DIGITAL MARKETING AND CUSTOMER ENGAGEMENT IN THE AGE OF ARTIFICIAL INTELLIGENCE A STUDY OF PERSONALIZATION, TRUST, PRIVACY, AND CONSUMER RESPONSE",
+      "abstract": "Artificial intelligence (AI) is reshaping digital marketing through recommendation engines, conversational agents, predictive analytics, automated content, and individualized customer journeys.These tools can make interactions more relevant and efficient, yet they also raise questions about privacy, transparency, algorithmic bias, and the authenticity of brand communication.This paper develops an integrated framework for examining how AI-enabled personalization, interaction quality, trust, and privacy concern relate to customer engagement and downstream outcomes such as satisfaction, loyalty, and purchase intention.Drawing on research in AI marketing and AI-enabled service, it proposes a quantitative, cross-sectional survey design using a structured questionnaire and five-point Likert items.The proposed analysis includes descriptive statistics, reliability assessment, correlation analysis, multiple regression, and hypothesis testing.Statistical figures included in this document are explicitly illustrative examples generated from synthetic values to demonstrate how results can be presented; they are not observations from real respondents and must not be reported as empirical findings.The paper provides a practical foundation for a student research project and identifies managerial implications for designing customer-centred, transparent, and responsible AI marketing.",
+      "authors": "",
+      "published": "2026-11-06",
+      "venue": "International Journal of Progressive Research in Engineering Management and Science",
+      "doi": "10.58257/ijprems55142",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.58257/ijprems55142",
+      "oa_url": "https://doi.org/10.58257/ijprems55142",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-07T20:56:13.763357+00:00",
+      "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.13140/rg.2.2.14290.93125",
@@ -493,8 +547,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-11-06T22:09:15.743056+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:16.964274+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 58
     },
@@ -1438,10 +1492,118 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.1038/s41598-026-68018-3",
+      "title": "Chatbot rating scale (CHARS): Development and validation of a new tool for assessing the quality of health and social care chatbots",
+      "abstract": "Abstract Background Chatbots are increasingly deployed in healthcare, yet there is a dearth of standardized tools for evaluating their quality. The objective of this study was to develop and validate a novel, multidimensional instrument, the Chatbot Rating Scale (CHARS), for assessing the comprehensive quality of health and social care chatbots. Methods This study utilized a sequential mixed-method design to guide the systematic development and validation of the Chatbot Rating Scale (CHARS). The scale was conceptualized through a rigorous Delphi process involving domain experts, information technology experts, graduate students, and end users. To test and validate CHARS, responses from end-users (n = 979) comprising health professionals, researchers, mental health experts, and end-users, rated 36 health and mental health chatbots using CHARS, a 5-point Likert scale. Factorial validity was examined using parallel analysis, exploratory factor analysis (EFA), and confirmatory factor analysis (CFA), and internal consistency was assessed with Cronbach’s alpha in R (version 4.4.2). Ten chatbots were pilot tested before thirty-six chatbots were rated. Results The Delphi study resulted in a refined scale comprising 25 items distributed across five initial dimensions. Empirical analysis supported a three-factor structure, which was: (1) Design, (2) Interactive User Experience (personalization, engagement, and usability), and (3) Functionality, with excellent internal consistencies (Cronbach's alpha) of 0.90, 0.88, and 0.90, respectively. The factor loadings and interrater correlation coefficient for all 25 items of CHARS were high with standardized loadings ranging from 0.79 to 0.87 for Factor 2 (Design, ICC = 0.88), 0.77 to 0.87 for Factor 1 (Interactive User Experience, ICC = 0.98), and from 0.83 to 0.87 for Factor 3 (Functionality, ICC = 0.90), which were all statistically significant (p < .001). All 25 Delphi-derived items were retained and redistributed across the three factors, preserving comprehensive coverage of chatbot quality dimensions. Conclusions CHARS is a novel, psychometrically robust, user-centred instrument that consolidates key experiential and functional attributes into a concise three-dimensional model. Its development highlights the convergence of user perceptions around integrated experiential qualities, offering a practical and theoretically grounded tool for evaluating chatbots. Future research should test its generalizability across cultural and technological contexts and examine predictive validity for user engagement.",
+      "authors": "Isaac Iyinoluwa Olufadewa, Enoch Olabode Olayori, Miracle Ayomikun Adesina, Musa Adekunle Ayanwale, Blessing Oladokun, Ruth Ifeoluwa Oladele",
+      "published": "2026-11-06",
+      "venue": "Scientific Reports",
+      "doi": "10.1038/s41598-026-68018-3",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1038/s41598-026-68018-3",
+      "oa_url": "https://doi.org/10.1038/s41598-026-68018-3",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-07T20:56:13.763357+00:00",
+      "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.58257/ijprems55031",
+      "title": "AN EXPLAINABLE AI AGENT BASED ASSISTANT FOR REAL-TIME CYBER THREAT DETECTION AND PERSONALIZED SECURITY RECOMMENDATIONS",
+      "abstract": "In the era of escalating cyber threats, traditional black-box intrusion detection systems (IDS) suffer from lack of transparency, high false-positive rates, and inability to provide actionable guidance to diverse users.This paper proposes an Explainable AI (XAI) AgentBased Assistant that unifies real-time threat detection with personalized security recommendations.The system integrates a hybrid CNN-LSTM detection backbone optimized for spatialtemporal network traffic analysis, achieving 98.7% accuracy and 98.6% F1-score on benchmark datasets (CICIDS2017, NSL-KDD) with sub-50ms explanation latency through optimized SHAP and LIME implementations using INT8 quantization and LRU caching.A Dynamic Explainable Framework (DEF) couplesdetection with explanation-aware alert prioritization, reducing residual false positives by 50% while improving macro precision by 2.8 points.The Personalization Enginemodels user risk appetite, historical behaviour, and role context to generate adaptive mitigation playbooks.A humanin-the-loop feedback loop enables continuous learning and trust calibration.Experimental evaluation demonstrates sustained throughput of 315 alerts per second and analyst trust improvement of 31% when explanations are presented.The architecture is designed for SOC deployment, compliance auditing, and edge applicability.",
+      "authors": "",
+      "published": "2026-11-06",
+      "venue": "International Journal of Progressive Research in Engineering Management and Science",
+      "doi": "10.58257/ijprems55031",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.58257/ijprems55031",
+      "oa_url": "https://doi.org/10.58257/ijprems55031",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-07T20:56:13.763357+00:00",
+      "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.58257/ijprems55112",
+      "title": "MULTI-AGENT AI SYSTEMS FOR AUTONOMOUS SOFTWARE DEVELOPMENT",
+      "abstract": "Autonomous artificial intelligence (AI) agents, Large Language Models (LLM), and the use of multi-agents are quickly changing the landscape of software engineering by making more software development methods more automated.With the increasing complexity of software systems, there is an increasing demand of intelligent systems that can automatically aid requirements analysis, software design, code generation, testing, debugging, documentation, deployment and maintenance.A promising trend has been to delegate these tasks to Multi-Agent AI Systems which allocate these duties to autonomous agents which communicate, plan tasks, examine the output of other autonomous agents and enhance their software artifacts through iterative improvement.This paper explores the role and capabilities of Multi-agent AI in autonomous software engineering, along with the benefits and challenges in the form of a Systematic Literature Review (SLR) and comparative analysis of recent studies on the autonomous software development using a LLM and multi-agent systems.The results suggest that multi-agent systems can allocate software engineering tasks among specialized agents, which eliminates the reliance on a single AI system and can serve the purpose of requirements analysis, planning, code generation, testing, debugging, code review and documentation (Rasheed et al., 2024; Qian et al., 2024).Examples of such frameworks as ChatDev, AutoGen Studio, AutoDev, CodePori, and Magentic-One show various methods of coordinating agents and performing independent tasks (Tufano et al., 2024;Dibia et al., 2024).Task separation, software quality assurance, and workflow automation can be enhanced with the help of collaborative agent architectures, but their efficiency will largely rely on communication standards, coordination, context management, and evaluation objectives (Talebirad and Nadiri, 2023; Manish, 2024).The common obstacles consist of hallucinated/untrusted code, unreliable inter-agent communication, physical security threats, computational expenses, little human control, and the inability to confidently assess autonomous-development procedures (Suri et al., 2023).In general, Multi-Agent AI has a great potential to transform AI-assisted software engineering to more autonomous development cycles, yet careful validation, proper governance, and meaningful human oversight is a necessary requirement to ensure effective and safe adoption.",
+      "authors": "Yeswanth Kumar Polishetty",
+      "published": "2026-11-06",
+      "venue": "International Journal of Progressive Research in Engineering Management and Science",
+      "doi": "10.58257/ijprems55112",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.58257/ijprems55112",
+      "oa_url": "https://doi.org/10.58257/ijprems55112",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-07T20:56:16.964274+00:00",
+      "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.48175/ijarsct-40577",
+      "title": "Controlling AI Self-Evolution: Balancing Usefulness, Safety, And Human Oversight",
+      "abstract": "Artificial intelligence (AI) is increasingly capable of adapting to new information, improving task performance, modifying operational strategies, and assisting in the development of more advanced computational systems. These capabilities provide significant opportunities for innovation, productivity, scientific discovery, and decision support. However, they also raise concerns regarding the extent to which AI systems should be permitted to change their own behaviour, expand their operational capabilities, or influence the processes through which they are evaluated and controlled. Unrestricted or inadequately supervised adaptation may introduce unintended consequences, including specification gaming, reward manipulation, degradation of previously acquired knowledge, unexpected changes in system behaviour, and reduced human control. The present study examines how AI self-evolution can be controlled without unnecessarily restricting its usefulness. The study adopts a qualitative secondary-research methodology based on published scholarly literature, established AI safety research, technical documentation, international governance principles, and regulatory frameworks. Existing approaches are compared across six dimensions: capability development, human oversight, objective alignment, operational restrictions, accountability, and continuous monitoring. The literature indicates that AI safety cannot be achieved through a single technical intervention or a one-time evaluation. Instead, effective governance requires coordinated controls throughout the AI lifecycle, including development, testing, deployment, adaptation, monitoring, and retirement. Human oversight mechanisms, corrigibility, risk-based evaluation, controlled access to tools, documented change management, and independent assessment provide complementary safeguards. Nevertheless, existing approaches present limitations. Excessive restrictions may prevent beneficial adaptation, while superficial human supervision, incomplete documentation, and reliance on benchmark performance may fail to identify emerging risks. The study therefore proposes a conceptual governance approach based on bounded self-evolution, in which routine and reversible improvements may proceed within predefined limits, while significant changes require additional evaluation and explicit authorization. The proposed approach also emphasizes independent monitoring, rollback capabilities, incident reporting, and clear assignment of responsibility. The study concludes that preserving AI usefulness and maintaining human control should be treated as complementary objectives rather than competing priorities. Although the proposed approach synthesizes existing methods rather than experimentally validating a new technical system, it offers a structured basis for future research into responsible AI adaptation, organizational governance, and the long-term management of increasingly autonomous systems.",
+      "authors": "Mr. Vineet Khamrai",
+      "published": "2026-11-06",
+      "venue": "International Journal of Advanced Research in Science Communication and Technology",
+      "doi": "10.48175/ijarsct-40577",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.48175/ijarsct-40577",
+      "oa_url": "https://doi.org/10.48175/ijarsct-40577",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-07T20:56:16.964274+00:00",
+      "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.1145/3767308.3836285",
@@ -1486,14 +1648,41 @@
         "OpenAlex"
       ],
       "url": "https://arxiv.org/pdf/2509.06216",
-      "oa_url": "https://arxiv.org/pdf/2509.06216",
+      "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3861334?download=true",
       "topic_ids": [
         "productivity"
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-06T22:09:19.058391+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:22.130710+00:00",
+      "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.59075/jssd.v5i9.443",
+      "title": "THE AI LEARNING PARADOX: REVEALING HOW UNIVERSITY STUDENTS NAVIGATE LEARNING CONVENIENCE, COGNITIVE EFFORT, DIGITAL CONTENT INFLUENCE, ACADEMIC CONFIDENCE, AND EDUCATIONAL ENGAGEMENT",
+      "abstract": "Artificial Intelligence (AI) has introduced a significant paradox in higher education by simultaneously enhancing learning accessibility, personalization, and academic confidence while creating concerns regarding reduced cognitive effort and technological dependency. This study explores how university students navigate AI-supported learning experiences by examining five key dimensions: learning convenience, cognitive effort, digital content influence, academic confidence, and educational engagement. Adopting a qualitative research design, the study investigates the lived experiences of 18 Pakistani university students through semi-structured interviews. Data were analyzed using reflexive thematic analysis to identify patterns within students’ perceptions and practices of AI use. The findings reveal six major themes: AI as an educational accelerator, convenience versus intellectual struggle, confidence versus competence, transformation of digital learning consumption, risks of AI dependency, and purposeful AI-supported learning. The study demonstrates that AI can enhance educational engagement when used as a cognitive partner but may weaken independent learning when relied upon excessively. The findings highlight the importance of AI literacy, responsible technology integration, and pedagogical strategies that preserve students’ cognitive autonomy while maximizing the benefits of AI in higher education.",
+      "authors": "Habib Ahmed Khan, Muhammad Zakir, Sadia Gondal, Muhammad Usman Zia, Javed Ahmed",
+      "published": "2026-11-05",
+      "venue": "Journal of Social Sciences Development",
+      "doi": "10.59075/jssd.v5i9.443",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://jssd.org.pk/index.php/jssd/article/download/443/372",
+      "oa_url": "https://jssd.org.pk/index.php/jssd/article/download/443/372",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-07T20:56:13.763357+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 46
     },
@@ -4003,8 +4192,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 46
     },
@@ -4030,8 +4219,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 46
     },
@@ -4057,8 +4246,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 46
     },
@@ -4084,8 +4273,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 46
     },
@@ -4111,19 +4300,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-06T22:09:10.589068+00:00",
-      "digest_day": "2026-11-07",
+      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
+      "digest_day": "2026-11-08",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-06T22:09:20.797726+00:00",
+  "last_refresh": "2026-11-07T20:56:24.043576+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-06T22:09:02.200392+00:00",
-    "finished": "2026-11-06T22:09:20.798264+00:00",
+    "started": "2026-11-07T20:56:05.009336+00:00",
+    "finished": "2026-11-07T20:56:24.067592+00:00",
     "sources": {
-      "OpenAlex": 8,
+      "OpenAlex": 9,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -4137,5 +4326,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-07T06:09:20.827575+08:00"
+  "generated_at": "2026-11-08T04:56:24.095588+08:00"
 }
