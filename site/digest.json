@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "topics": [
     {
       "id": "governance",
@@ -385,8 +385,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 70
     },
@@ -439,8 +439,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,10 +466,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1016/j.ssaho.2026.103942",
+      "title": "Perceived personalization, digital FOMO, and repeat purchase intention: The boundary role of algorithmic awareness in social commerce",
+      "abstract": "Personalized recommendation systems and persuasive interface cues are prominent features of social-commerce platforms, but users do not respond to them uniformly. Drawing on the Stimulus–Organism–Response (SOR) framework and an interaction-oriented view of human–AI responses, this cross-sectional study examines associations among perceived personalization, perceived digital nudging cues, perceived algorithmic transparency, situational digital Fear of Missing Out (FOMO), algorithmic trust, perceived personalization accuracy, social-commerce engagement, and repeat purchase intention. Survey data from 452 users of TikTok Shop, Shopee, and Lazada in Vietnam were analyzed using PLS-SEM. Perceived personalization and nudging cues were positively associated with situational digital FOMO, while perceived personalization and perceived algorithmic transparency were positively associated with algorithmic trust and perceived personalization accuracy. FOMO, trust, and perceived accuracy were each positively associated with social-commerce engagement, and engagement was strongly associated with repeat purchase intention. Algorithmic awareness weakened the positive associations of perceived personalization with both FOMO and trust. The study therefore positions algorithmic awareness as a theoretically meaningful user-side boundary condition reflecting recognition and understanding of algorithmic personalization processes, while treating digital FOMO as a context-specific manifestation of FOMO rather than claiming a wholly new dispositional construct. Because the design is single-wave and self-reported, all paths are interpreted as associations and statistical indirect effects rather than causal mechanisms.",
+      "authors": "Pham Thai Son, NGUYEN Thi Lan Phuong",
+      "published": "2026-11-07",
+      "venue": "Social Sciences & Humanities Open",
+      "doi": "10.1016/j.ssaho.2026.103942",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S259029112601510X/pdf",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S259029112601510X/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-08T21:13:11.777617+00:00",
+      "digest_day": "2026-11-09",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1063/5.0346731",
@@ -487,14 +514,14 @@
         "OpenAlex"
       ],
       "url": "https://doi.org/10.1063/5.0346731",
-      "oa_url": "https://doi.org/10.1063/5.0346731",
+      "oa_url": "https://pubs.aip.org/aip/aml/article-pdf/doi/10.1063/5.0346731/21194245/046108_1_5.0346731.pdf",
       "topic_ids": [
         "memory"
       ],
       "relevance": 58,
       "reason": "标题涉及continual learning",
-      "fetched_at": "2026-11-07T20:56:10.325363+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:09.055790+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 58
     },
@@ -522,6 +549,33 @@
       "reason": "标题涉及personalization",
       "fetched_at": "2026-11-07T20:56:13.763357+00:00",
       "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.20517/aiagent.2026.27",
+      "title": "Robin as a lab-in-the-loop multi-agent system for scientific discovery",
+      "abstract": "",
+      "authors": "Xiujing Xing, Julie Ying Zhang, Jiaao Wang, Jeff Celaje",
+      "published": "2026-11-06",
+      "venue": "AI Agent",
+      "doi": "10.20517/aiagent.2026.27",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://f.oaes.cc/xmlpdf/published/article/6d73a100cb89684ea8ed1f46c3e314de/aiagent2027.pdf",
+      "oa_url": "https://f.oaes.cc/xmlpdf/published/article/6d73a100cb89684ea8ed1f46c3e314de/aiagent2027.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及scientific discovery",
+      "fetched_at": "2026-11-08T21:13:14.752739+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 58
     },
@@ -1492,8 +1546,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 58
     },
@@ -1513,14 +1567,14 @@
         "OpenAlex"
       ],
       "url": "https://doi.org/10.1038/s41598-026-68018-3",
-      "oa_url": "https://doi.org/10.1038/s41598-026-68018-3",
+      "oa_url": "https://www.nature.com/articles/s41598-026-68018-3.pdf",
       "topic_ids": [
         "personalization"
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-07T20:56:13.763357+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.777617+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -1546,8 +1600,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-07T20:56:13.763357+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.777617+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -1573,8 +1627,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-07T20:56:16.964274+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:14.752739+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -1600,8 +1654,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-07T20:56:16.964274+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:14.752739+00:00",
+      "digest_day": "2026-11-09",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.24059/olj.v30isi2.5641",
+      "title": "Who is AI supporting? A systematic review of AI-enabled learner support in higher education",
+      "abstract": "Learner support is a cornerstone of open, distance, and digital education (ODDE), yet providing effective, scalable, and equitable support remains a persistent challenge. With the rise of artificial intelligence (AI) and increasing publications on it, it is important to see how higher education institutions are adopting AI-enabled tools to support their learners. This study systematically reviewed and synthesized 61 publications (2010–2025) to examine how AI has been applied to learner support, what practices and constraints are reported, and whether current approaches meet diverse learner needs. Using the Institutional Support for Student Persistence Model (ISSPM) and an AI typology, the review finds that adaptive systems and personalization—particularly chatbots and recommender systems—are the most common applications, followed by profiling and prediction. Reported benefits include timely interventions, personalized guidance, and workload reduction for staff; however, technical limitations, privacy concerns, limited inclusivity, and reduced human interaction pose significant challenges. The review finds critical blind spots, especially in addressing diverse learner needs and in the underexplored transition phase of the student journey. Notably, diversity in population, such as marginalized groups or neurodivergent learners were absent. By offering a structured synthesis from an institutional perspective, this review contributes to the established learner support research about the role of AI in shaping equitable and sustainable learner support in digital higher education.",
+      "authors": "Berrin Cefa, Olaf Zawacki‐Richter, Felicitas Macgilchrist",
+      "published": "2026-11-06",
+      "venue": "Online Learning",
+      "doi": "10.24059/olj.v30isi2.5641",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://olj.onlinelearningconsortium.org/index.php/olj/article/download/5641/1642",
+      "oa_url": "https://olj.onlinelearningconsortium.org/index.php/olj/article/download/5641/1642",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-08T21:13:11.777617+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -1654,8 +1735,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-07T20:56:22.130710+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:17.730760+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -4192,8 +4273,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -4219,8 +4300,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -4246,8 +4327,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -4273,8 +4354,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     },
@@ -4300,17 +4381,17 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-07T20:56:12.313240+00:00",
-      "digest_day": "2026-11-08",
+      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
+      "digest_day": "2026-11-09",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-07T20:56:24.043576+00:00",
+  "last_refresh": "2026-11-08T21:13:20.124242+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-07T20:56:05.009336+00:00",
-    "finished": "2026-11-07T20:56:24.067592+00:00",
+    "started": "2026-11-08T21:13:05.337927+00:00",
+    "finished": "2026-11-08T21:13:20.124815+00:00",
     "sources": {
       "OpenAlex": 9,
       "Crossref": 1,
@@ -4326,5 +4407,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-08T04:56:24.095588+08:00"
+  "generated_at": "2026-11-09T05:13:20.155023+08:00"
 }
