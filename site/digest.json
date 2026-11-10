@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "topics": [
     {
       "id": "governance",
@@ -385,8 +385,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 70
     },
@@ -439,8 +439,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,10 +466,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.5281/zenodo.24049616",
+      "title": "Intent-Driven Result Presentation: Adaptive Structuring and Personalization of Internet Outcomes According to User Objectives",
+      "abstract": "The increasing integration of generative artificial intelligence, search engines, autonomous agents, and heterogeneous Internet services has created new possibilities for completing complex information-oriented tasks. However, obtaining relevant information or successfully executing an Internet task does not necessarily ensure that the resulting information is organized in a form that is useful to the user. Traditional search interfaces commonly rely on relatively standardized result structures, while generative AI systems frequently produce generalized summaries or conversational responses. Although personalization and adaptive information retrieval have addressed aspects of individual information needs, the relationship between a user's underlying objective and the organization of already obtained Internet outcomes remains an important research direction. This paper proposes Intent-Driven Result Presentation (IDRP), a conceptual framework for dynamically organizing, prioritizing, structuring, and presenting Internet outcomes according to users' underlying objectives. The central principle is that identical information resources or task-execution results may require different presentation structures depending on what users intend to accomplish. Rather than treating result presentation as a fixed final formatting operation, IDRP conceptualizes it as an objective-conditioned information organization process that transforms available task outcomes into goal-relevant representations. To operationalize this approach, the paper introduces the Intent-Driven Result Presentation Framework (IDRPF), comprising six interconnected functional components: intent-conditioned result structuring, adaptive information density, goal-specific information prioritization, multi-format result rendering, interactive result exploration, and result granularity adaptation. The framework further introduces a result transformation model connecting task objectives, available evidence, information attributes, presentation decisions, and user-facing outcomes. A distinction is established between retrieving different information and presenting the same available information differently. This distinction allows the framework to investigate personalization after task execution without necessarily requiring repeated retrieval or modification of the underlying evidence. The paper also examines potential advantages concerning reduced cognitive burden, improved decision relevance, more efficient information consumption, cross-domain adaptability, presentation flexibility, reduced dependence on fixed interface structures, and more effective support for complex decision-making. Particular attention is given to the separation between objective-conditioned presentation and unrestricted personalization, including mechanisms for preserving factual consistency, source provenance, information completeness, and user control. Several research propositions and an empirical evaluation methodology are proposed to support subsequent implementation and validation. Rather than claiming that personalized search, adaptive interfaces, or task-oriented information presentation have not previously been investigated, this work positions IDRP as a conceptual framework emphasizing the systematic transformation of completed Internet task outcomes into presentation structures conditioned primarily on the user's intended objective. The proposed framework represents a research proposal and does not claim completed experimental validation or demonstrated performance superiority.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-11-08",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24049616",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24049616",
+      "oa_url": "https://doi.org/10.5281/zenodo.24049616",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
+      "digest_day": "2026-11-10",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1016/j.ssaho.2026.103942",
@@ -493,8 +520,35 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-08T21:13:11.777617+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
+      "digest_day": "2026-11-10",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.33774/coe-2026-nqsvx",
+      "title": "AI-Driven Marketing: The Role of Artificial Intelligence in Customer Engagement, Personalization and Marketing Decision-Making",
+      "abstract": "Marketing has changed the practical facet of AI- powered tools. This shift has originated the new paradigm in business automation and decision making. Artificial Intelligence is changing business-customer connections. This paper explains AI-driven marketing. AI tools help understand customers. They create more relevant marketing campaigns. Businesses study customer data. They group customers effectively. They recommend products intelligently. Chatbots answer questions instantly. AI predicts buying behaviour. It also generates marketing content. These capabilities save significant time. Customer experience improves markedly. Costs decrease substantially. Marketers make better decisions overall. However, AI presents notable challenges. Data privacy remains a critical concern. Unfair results can emerge from algorithms. Implementation costs are often high. Human interaction may decrease substantially. This paper discusses both benefits and problems. Simple examples illustrate these points. Product recommendations demonstrate AI's effectiveness. AI chatbots showcase practical applications. The conclusion is balanced and clear. AI improves marketing capabilities considerably. However, human judgement remains essential. Safe customer data use is non-negotiable. Both elements must work together effectively.",
+      "authors": "Pranjal Gupta",
+      "published": "2026-11-07",
+      "venue": "",
+      "doi": "10.33774/coe-2026-nqsvx",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6aeed4f56bb5caa655bb0d8d/original/ai-driven-marketing-the-role-of-artificial-intelligence-in-customer-engagement-personalization-and-marketing-decision-making.pdf",
+      "oa_url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6aeed4f56bb5caa655bb0d8d/original/ai-driven-marketing-the-role-of-artificial-intelligence-in-customer-engagement-personalization-and-marketing-decision-making.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 58
     },
@@ -574,8 +628,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-11-08T21:13:14.752739+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:07.330148+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 58
     },
@@ -1546,10 +1600,118 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/s44336-026-00044-1",
+      "title": "Learning to remember: advances in memory mechanisms for large language models",
+      "abstract": "Abstract Memory has become a central mechanism for extending large language models (LLMs) beyond fixed context windows, stateless interaction, and static parametric knowledge. This survey organizes the literature around three complementary dimensions: the life cycle of memory, the storage substrate, and the system role that memory plays in LLM-based agents, while using cognitive-science-inspired memory concepts as a lightweight conceptual motivation rather than as a separate technical contribution or implementation family. On this basis, we distinguish three mechanism families: nonparametric memory, where information is stored outside model parameters in text, graph, multimodal, or database-like structures; parametric memory, where information is stored or accessed through activations, key-value caches, learned modules, adapter-based parameterizations, or model weights; and memory for agent evolution, where stored experiences support reinforcement learning, continual learning, procedural reuse, context engineering, and agent harness design. Evaluation is treated as a separate cross-cutting component rather than as a memory mechanism. Unlike surveys that focus primarily on retrieval-augmented generation or long-context modeling, this paper emphasizes the full memory life cycle: construction, maintenance, retrieval, consolidation, forgetting, governance, and evaluation. By aligning conceptual motivations, computational memory mechanisms, benchmarks, and deployment concerns, the survey provides a structured roadmap for designing memory-augmented LLM agents that are persistent, adaptive, auditable, and safe to update over time.",
+      "authors": "Chenye Han, Hongche Yu, Mengyue Wu, Dell Zhang, Jixiang Luo",
+      "published": "2026-11-09",
+      "venue": "Vicinagearth.",
+      "doi": "10.1007/s44336-026-00044-1",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1007/s44336-026-00044-1",
+      "oa_url": "https://doi.org/10.1007/s44336-026-00044-1",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及continual learning",
+      "fetched_at": "2026-11-10T00:42:58.720079+00:00",
+      "digest_day": "2026-11-10",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1609/aiide.v22i1.43591",
+      "title": "Augmenting Vision-Language Agents with Spatial Grounding for Gameplay Automation",
+      "abstract": "Building an autonomous agent capable of playing contemporary video games poses a significant technical challenge, requiring mastery of visual perception, real-time decision-making, long-term memory, and adaptive planning within complex, dynamic environments. While Vision-Language Models (VLMs) demonstrate strong reasoning capabilities, they struggle with spatial grounding, often failing to accurately localize gameplay objects or UI components. This gap between reasoning and perception is a key limitation when VLMs are used as game-playing agents. To address this, we present a framework that augments visual inputs to mitigate spatial grounding errors. These take the form of bounding boxes around game elements, generated using two methods: Segment Identification (SI), which segments each frame and labels the pieces with a VLM online, and a lightweight YOLO detector fine-tuned offline on gameplay footage. We evaluate four VLMs across three casual mobile games unaugmented and under each augmentation, over five trials per configuration. Several models benefit substantially from augmentation, gaining the capability to complete challenges that were out of reach from raw screenshots alone. The benefit is conditional rather than uniform. It improves the models that cannot localize interactive elements on their own, but can interfere with one that already performs well. Our experiments show that the same augmentation substantially improves one model's efficiency while degrading another's. Moreover, on localization-limited tasks, augmentation lets a smaller open model match a much larger proprietary one, though this parity does not extend to challenges bottlenecked by planning. These findings position object-level grounding as a promising but situational tool for VLM-based game agents, clarifying when it helps, hurts, or has no measurable effect.",
+      "authors": "Martin Mitrović, Niels Justesen, Sebastian Risi, Christoffer Holmgård",
+      "published": "2026-11-08",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment",
+      "doi": "10.1609/aiide.v22i1.43591",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1609/aiide.v22i1.43591",
+      "oa_url": "",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-11-10T00:42:58.720079+00:00",
+      "digest_day": "2026-11-10",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1016/j.sftr.2026.102287",
+      "title": "Student adoption of meta AI-supported learning tools in business education: A TAM-informed study of self-reported use behavior",
+      "abstract": "This study examines factors associated with business students’ self-reported use of Meta AI-supported learning tools in academic tasks. A quantitative cross-sectional survey was conducted with 400 business students from higher education institutions in Bangladesh who had prior academic experience using Meta AI-supported assistance. The study applied a TAM-informed adoption framework and tested the effects of ethical AI practices, personalization, trust in technology, and perceived value on technology use behavior using partial least squares structural equation modeling. The results show that all four predictors were positively associated with technology use behavior under one-tailed directional testing. Perceived value had the strongest relationship with technology use behavior, followed by personalization, ethical AI practices, and trust in technology. Effect size results further showed that perceived value made the largest contribution to students’ reported use. The findings suggest that students’ use of Meta AI-supported learning tools is primarily shaped by perceived academic benefit, while personalization, ethical AI practices, and trust provide additional adoption conditions. The study contributes adoption-level evidence on AI-supported learning in business education. The findings should be interpreted within the limits of a cross-sectional, self-reported design and do not establish effects on learning outcomes, academic performance, or educational equity.",
+      "authors": "Md. Jahid Hasan, S Abdur Rahman, Khaled Hossain Rocky, Tanvir Ahmed",
+      "published": "2026-11-07",
+      "venue": "Sustainable Futures",
+      "doi": "10.1016/j.sftr.2026.102287",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666188826006441/pdf",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2666188826006441/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
+      "digest_day": "2026-11-10",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.26437/rchzaz10",
+      "title": "The Use of Artificial Intelligence in the Tourism Business",
+      "abstract": "Purpose: To examine the use of artificial intelligence in the tourism industry and evaluate its impact on operational efficiency and service quality in the context of smart tourism. Design/Methodology/Approach: The study combines an analysis of 32 tourism enterprises operating in the European market with a survey of 124 consumers conducted in 2024–2025. Artificial intelligence adoption was assessed through the level of operational process automation, and content analysis of enterprise reports and platform analytics was used to measure performance before and after implementation. Research Limitation: The study is limited to European tourism enterprises and a relatively small consumer sample. Future research should include broader geographical coverage and longitudinal analysis. Findings: Artificial intelligence significantly improved operational performance. Average service time decreased from 18.6 to 11.2 minutes, automation increased from 27.4% to 61.8%, and customer interaction intensity rose from 1.8 to 2.6 contacts per user. Consumers reported high satisfaction with service quality and personalisation, although trust in intelligent systems remained moderate, indicating that behavioural barriers still constrain the full benefits of AI adoption. Practical Implication: The findings support the adoption of hybrid service models that combine artificial intelligence with human interaction. Social Implication: Effective AI implementation can improve service accessibility, customer satisfaction, and the sustainable development of smart tourism. Originality/Value: The novelty lies in an integrated model linking the share of AI-automated processes with operational variables (service time, customer contacts) and consumer variables (service quality, personalisation, trust).",
+      "authors": "D. Katyukha, L. Hryzovska, R. Skupskyi, H. Humeniuk, M. Kryvoberets",
+      "published": "2026-11-07",
+      "venue": "African Journal Of Applied Research",
+      "doi": "10.26437/rchzaz10",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.ajaronline.com/index.php/AJAR/article/download/2321/985",
+      "oa_url": "https://www.ajaronline.com/index.php/AJAR/article/download/2321/985",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
+      "digest_day": "2026-11-10",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.1038/s41598-026-68018-3",
@@ -1573,8 +1735,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-08T21:13:11.777617+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -1627,8 +1789,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-08T21:13:14.752739+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:07.330148+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -1654,8 +1816,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-08T21:13:14.752739+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:07.330148+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -1681,8 +1843,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-08T21:13:11.777617+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -1735,8 +1897,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-08T21:13:17.730760+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:11.939953+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -1764,6 +1926,33 @@
       "reason": "摘要提及personalization",
       "fetched_at": "2026-11-07T20:56:13.763357+00:00",
       "digest_day": "2026-11-08",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.48550/arxiv.2611.08428",
+      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
+      "abstract": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta access---giving the assistant a structured, permissioned view of the interface itself and propose a ladder of levels: feature tutoring; metadata, settings, and preference access; retrieval over summaries and messages, confirmed mutation, and full orchestration. Meta access can turn a chat client from many screens into one entry point for finding, navigating, organising, and operating it, while raising risks around grounding, privacy, prompt injection, and trust. General-purpose agentic harnesses are runtimes; because they can change their own settings, meta access becomes reflexive and needs a separate control-plane boundary. We ground this in the Meta Chat prototype of the Chat AI client. It builds bounded context from, e.g., summaries, settings, and relevant messages; links references to conversations, topics, and personas; supports confirmed, reversible changes; offers a browsable tutorial library; and recommends personas as user-started conversations. By exposing application state in structured form, meta access can extend screen readers from widget descriptions to semantic workspace operations. Meta access thus turns chat from a window onto one conversation into a control layer for the whole workspace, extending chat toward agentic capability without surrendering user control. As assistants become embedded in IDEs, dashboards, office suites, and operating systems, AI-era interfaces should expose a structured, permissioned model of their state and capabilities, ideally by opening their existing metamodels through a debugger-like interface.",
+      "authors": "Julian Martin Kunkel, Ali Doosthosseini",
+      "published": "2026-11-05",
+      "venue": "arXiv (Cornell University)",
+      "doi": "10.48550/arxiv.2611.08428",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://arxiv.org/pdf/2611.08428",
+      "oa_url": "https://arxiv.org/pdf/2611.08428",
+      "topic_ids": [
+        "governance"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及user control",
+      "fetched_at": "2026-11-10T00:42:55.575011+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -4273,8 +4462,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -4300,8 +4489,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -4327,8 +4516,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -4354,8 +4543,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     },
@@ -4381,19 +4570,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-08T21:13:11.075530+00:00",
-      "digest_day": "2026-11-09",
+      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
+      "digest_day": "2026-11-10",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-08T21:13:20.124242+00:00",
+  "last_refresh": "2026-11-10T00:43:14.164815+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-08T21:13:05.337927+00:00",
-    "finished": "2026-11-08T21:13:20.124815+00:00",
+    "started": "2026-11-10T00:42:54.624790+00:00",
+    "finished": "2026-11-10T00:43:14.165207+00:00",
     "sources": {
-      "OpenAlex": 9,
+      "OpenAlex": 14,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -4407,5 +4596,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-09T05:13:20.155023+08:00"
+  "generated_at": "2026-11-10T08:43:14.197408+08:00"
 }
