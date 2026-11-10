@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "topics": [
     {
       "id": "governance",
@@ -92,6 +92,33 @@
       "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 82
+    },
+    {
+      "id": "doi:10.33774/coe-2026-4rlmv",
+      "title": "AI-Driven Personalization: Transforming Customer Engagement in the Digital Age",
+      "abstract": "Artificial Intelligence (AI) is transforming marketing management through data driven decision making and personalized customer experiences. This paper examines AI driven personalization and its role in strengthening customer engagement. It discusses key technologies, including machine learning, natural language processing, predictive analytics, recommendation engines, and computer vision. The paper explores personalization techniques such as collaborative filtering, content based filtering, behavioral targeting, and dynamic pricing. Corporate applications by Amazon, Netflix, Starbucks, Sephora, and Spotify illustrate practical implementations. The discussion highlights benefits such as improved targeting accuracy, cost efficiency, real time decision making, customer satisfaction, and brand loyalty. It also examines AI adoption within India's diverse digital marketplace. However, data privacy, algorithmic bias, excessive personalization, and reduced human interaction present significant challenges. Transparent consent, responsible data practices, fairness audits, and human oversight remain essential. Emerging developments include generative AI, conversational systems, predictive personalisation, autonomous marketing agents, and privacy focused technologies. The paper emphasizes strategic integration and ethical governance. Ultimately, AI should complement human marketing judgment while enabling meaningful customer relationships, sustainable competitive advantage, and improved organizational performance.",
+      "authors": "Mohammad Shaquib",
+      "published": "2026-11-09",
+      "venue": "",
+      "doi": "10.33774/coe-2026-4rlmv",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6ad1cc8af4ef06beb63cb173/original/ai-driven-personalization-transforming-customer-engagement-in-the-digital-age.pdf",
+      "oa_url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6ad1cc8af4ef06beb63cb173/original/ai-driven-personalization-transforming-customer-engagement-in-the-digital-age.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 70
     },
     {
       "id": "doi:10.70267/cai.v3n6.6177",
@@ -385,8 +412,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 70
     },
@@ -439,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,10 +493,64 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.13140/rg.2.2.36579.72485",
+      "title": "Building Production-Ready AI Agents with Scalable Long-Term Memory",
+      "abstract": "",
+      "authors": "Ijaz Durrani",
+      "published": "2026-11-09",
+      "venue": "",
+      "doi": "10.13140/rg.2.2.36579.72485",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.13140/rg.2.2.36579.72485",
+      "oa_url": "",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及long-term memory",
+      "fetched_at": "2026-11-10T22:23:50.527010+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11644084/v1",
+      "title": "Toward Self-Improving MEMS Research Agents through Experience-Informed Procedure Refinement",
+      "abstract": "Abstract Microelectromechanical systems (MEMS) research requires translating device concepts into geometries with physically meaningful behavior under specified structural constraints. Although research agents increasingly automate scientific workflows, successful numerical execution alone does not establish operating-mode identity and dynamic behavior, identify loss mechanisms, or verify geometric compliance. Here we introduce the MEMS Research Agent Framework, which brings agent-based research and experience-informed procedure refinement into an expert-guided MEMS workflow. Agents execute investigations using reusable instructions and scripts, while experts define objectives, assess physical interpretations, and review methodological changes. In a researcher-guided study of a silicon double-ended tuning-fork resonator, the proposed framework carries a literature-derived thermoelastic-dissipation hypothesis through geometry construction, coupled-field simulation, and operating-mode identification. The selected segmented-slot design achieves a modeled thermoelastic quality factor approximately 5.2 times the baseline at a resonant frequency 20% lower. The slotting mechanism is consistent with a published experimental study reporting a 5.9-fold increase in measured quality factor in a different geometry. Development histories trace a procedural route toward self-improvement: recorded failures inform expert-reviewed changes to research instructions and diagnostic checks reused in subsequent runs. A registered comparison across 25 runs evaluates research outcomes and evidence completeness under five frozen configurations. The final author assessment gives 1/5 successful runs without the proposed framework and 5/5 with it; the initial model-judge assessment gives 1/5 and 2/5, respectively, reflecting differences in evidence acceptance. These studies demonstrate the feasibility of delegating parts of MEMS inverse-design iterations to agents, laying a foundation for self-improving research automation in device design and discovery.",
+      "authors": "Ruiqi Guo, Xinrong Ouyang, Yuan Wang, Zishen Dai, Pan Zhang, Pui‐In Mak",
+      "published": "2026-11-09",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-11644084/v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11644084/latest.pdf",
+      "oa_url": "https://www.researchsquare.com/article/rs-11644084/latest.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及research agent",
+      "fetched_at": "2026-11-10T22:23:57.033755+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.5281/zenodo.24049616",
@@ -493,8 +574,35 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "OpenAlex:https://openalex.org/W7225686205",
+      "title": "The Artificial Intelligence and Social Media Marketing Performance: Evidence on Personalization and Predictive Analytics from Pakistan’s Consumer Products Industry",
+      "abstract": "This study examines how artificial intelligence (AI) affects social media marketing in Pakistan’s consumer products industry, focusing on both its opportunities and its challenges. It uses a mixed-method design that combines 20 in-depth interviews with a structured questionnaire completed by 150 marketing professionals in firms that use AI. Multiple regression analyses show that AI-enabled personalized content and predictive analytics are significant positive predictors of ROI, customer engagement, and conversion rates, and together explain 43% to 50% of the variance in these outcomes. Personalized content is most strongly associated with ROI, while predictive analytics is most strongly associated with conversion rates. The interviews point to three main opportunities: enhanced personalization, greater efficiency and cost savings, and better data-driven decisions. They also point to three main challenges: high implementation costs, data privacy and security concerns, and a shortage of AI skills. The findings highlight the importance of strong data protection, transparency, and staff training for maintaining consumer trust and complying with regulations. The study offers practical recommendations for using AI responsibly in social media marketing. Because the data are cross-sectional, self-reported, and drawn from one industry in one country, the results show associations rather than cause and effect.",
+      "authors": "Hamza Zafar, Nasir Ali, Amina Riaz, Iram Bashir",
+      "published": "2026-11-08",
+      "venue": "Perspectives in Social Sciences",
+      "doi": "",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "http://pssperspectives.com/index.php/06/article/download/320/330",
+      "oa_url": "http://pssperspectives.com/index.php/06/article/download/320/330",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 58
     },
@@ -520,8 +628,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 58
     },
@@ -547,8 +655,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-10T00:43:02.399009+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 58
     },
@@ -1600,8 +1708,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 58
     },
@@ -1621,14 +1729,176 @@
         "OpenAlex"
       ],
       "url": "https://doi.org/10.1007/s44336-026-00044-1",
-      "oa_url": "https://doi.org/10.1007/s44336-026-00044-1",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44336-026-00044-1.pdf",
       "topic_ids": [
         "memory"
       ],
       "relevance": 46,
       "reason": "摘要提及continual learning",
-      "fetched_at": "2026-11-10T00:42:58.720079+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:50.527010+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1145/3847352.3848090",
+      "title": "Trojan Hippo Bench: A Dynamic Benchmark for Persistent Memory Attacks and Defenses in LLM Agents",
+      "abstract": "Memory systems enable otherwise-stateless LLM agents to persist user information across sessions, but also introduce a new attack surface. The Trojan Hippo attack is a class of persistent memory attacks that operates under a more realistic threat model than prior memory poisoning work. The attacker plants a dormant payload into an agent’s long-term memory via a single untrusted tool call (e.g., a crafted email), which activates only when the user later discusses sensitive topics such as finance, health, or identity, and exfiltrates high-value personal data to the attacker. While anecdotal demonstrations of such attacks have appeared against deployed systems, no prior work systematically evaluates them across heterogeneous memory architectures and defenses. We introduce Trojan Hippo Bench, a dynamic evaluation framework for persistent memory attacks and memory-layer defenses, comprising two components: (1) an OpenEvolve-based [ 54 ] adaptive red-teaming benchmark that stress-tests defenses and memory backends against continuously refined attacks, and (2) a capability-aware security–utility analysis for persistent memory systems, enabling principled reasoning about defense deployment across different usage profiles. Instantiated on an email assistant across four memory backends (explicit tool memory, agentic memory, RAG, and sliding-window context), the undefended Trojan Hippo attack achieves up to 85–100% attack success rate (ASR) against current frontier models from OpenAI and Google, with planted memories successfully activating even after 100 benign sessions. We evaluate four memory-system defenses inspired by basic security principles; they reduce attack success to as low as 0–5%, but at utility costs that vary widely with the task mix. Effective real-world deployment thus remains an open challenge that Trojan Hippo Bench is built to study; we release it to support reuse and extension.",
+      "authors": "Debeshee Das, Julien Piet, Darya Kaviani, Luca Beurer-Kellner, Florian Tramèr, David Wagner",
+      "published": "2026-11-09",
+      "venue": "ACM Workshop on Artificial Intelligence and Security (AISec)",
+      "doi": "10.1145/3847352.3848090",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3847352.3848090",
+      "oa_url": "https://doi.org/10.1145/3847352.3848090",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-11-10T22:23:50.527010+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24081489",
+      "title": "User-Controlled Adaptive Memory Weighting and Configuration in Generative Artificial Intelligence: A Unified Architecture for Memory-Level Prioritization, Factor-Level Control, Contextual Adaptation, and Cross-Conversation Policy Management",
+      "abstract": "Long-term memory has become an important component of generative artificial intelligence (AI), enabling large language models (LLMs) and AI agents to retain user preferences, contextual information, prior decisions, and task-related knowledge across interactions. However, existing memory systems commonly rely on automatically generated importance scores, relevance-based retrieval, recency decay, or system-defined weighting mechanisms. Although these methods can improve memory selection, they provide users with limited direct control over how individual memories are prioritized, how different weighting factors contribute to retrieval decisions, and how memory priorities should change across different tasks and conversational contexts. Furthermore, memory configurations are frequently treated as either globally persistent or locally applicable, leaving the relationship between temporary conversational preferences, persistent defaults, and temporary overrides insufficiently formalized as a unified user-controlled policy. This paper proposes a User-Controlled Adaptive Memory Weighting and Configuration Architecture (UCAM-WC) for generative AI systems. The architecture integrates three complementary weighting mechanisms: (1) memory-level weighting, through which users directly assign priority values to individual memory items or memory groups; (2) factor-level weighting, through which users configure the relative contributions of criteria such as semantic relevance, importance, recency, reliability, frequency of use, and task relevance; and (3) context-level dynamic weighting, through which users define how memory priorities and weighting factors should adapt to different tasks, topics, projects, or conversational situations. These mechanisms are governed by three configuration modes: Mode A, Conversation-Only Configuration, in which settings apply exclusively to the current conversation; Mode B, Persistent Default Configuration, in which user-defined settings are inherited by subsequent conversations; and Mode C, Hybrid Configuration, in which persistent defaults can be temporarily overridden within individual conversations without modifying the global configuration. The architecture introduces a hierarchical policy model, explicit configuration precedence, memory-selection functions, contextual adaptation rules, and cross-conversation isolation constraints. It also establishes research propositions and a controlled evaluation methodology for assessing user autonomy, retrieval quality, contextual appropriateness, configuration consistency, and memory utility. Rather than claiming that memory weighting or session-level configuration is individually unprecedented, this paper identifies the proposed integration of user-programmable weighting mechanisms and multi-scope configuration governance as its principal architectural contribution. The framework is conceptual and methodological; no empirical performance results are claimed.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-11-09",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24081489",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24081489",
+      "oa_url": "https://doi.org/10.5281/zenodo.24081489",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-11-10T22:23:50.527010+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.33774/coe-2026-jhs31",
+      "title": "AI-Driven Marketing: Recommendation Systems and Impulse Buying Behaviour in E-Commerce",
+      "abstract": "Recommendation engines decide most of what an online shopper sees. This paper asks what that does to the shopper's capacity to decide anything. Two strands carry unequal weight, and I would rather say so here than bury it in the methodology. The first assembles published evidence on how much online retail runs through algorithmic curation. The second specifies a Stimulus–Organism–Response model linking four recommendation attributes to impulse purchase through pleasure, arousal and cognitive absorption, and reports results from an illustrative dataset rather than my own fieldwork. The secondary evidence holds up reasonably well. Recommenders are credited with roughly a third of Amazon's sales and four-fifths of Netflix viewing hours, though the Amazon figure's provenance is thinner than its repetition suggests. Somewhere between a fifth and two-fifths of online retail spending is unplanned, a range reflecting definitional disagreement rather than sampling error. Eighty-six per cent of online purchase decisions close within a day. More than half of online impulse purchases are later regretted; fewer than half of those regrets end in a return. Modelled results put the heaviest stimulus path on scarcity signalling rather than match quality β = 0.41 against 0.34 with the urge to buy impulsively carrying most of the load (β = 0.57). If that ordering survives testing, it is uncomfortable for the industry's account of personalisation. I conclude, without enthusiasm, that personalisation is a real service and a real hazard at once, delivered by a system with no way of telling which shopper it is currently serving",
+      "authors": "Dhruv Singh",
+      "published": "2026-11-09",
+      "venue": "",
+      "doi": "10.33774/coe-2026-jhs31",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6aa95919810b9dcc8209e2b0/original/ai-driven-marketing-recommendation-systems-and-impulse-buying-behaviour-in-e-commerce.pdf",
+      "oa_url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6aa95919810b9dcc8209e2b0/original/ai-driven-marketing-recommendation-systems-and-impulse-buying-behaviour-in-e-commerce.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.33774/coe-2026-452c2",
+      "title": "Augmenting Human Creativity with Machine Intelligence: The Evolution and Impact of Artificial Intelligence in Modern Marketing",
+      "abstract": "In the era of big data and digital transformation, Artificial Intelligence has emerged as a disruptive force in marketing. Traditional marketing relied on mass communication and intuition-based decision making. AI-driven marketing shifts this paradigm by enabling hyperpersonalization, real-time customer insights, and automated decision-making. Now a days, we use AI technologies such as Machine Learning, Natural Language Processing, Computer Vision, and Generative AI from customer acquisition to retention. Key applications include predictive analytics for customer behavior, AI-powered chatbots for customer service, dynamic pricing, content generation, ad targeting, and recommendation engines used by Amazon, Netflix, Flipkart, Meesho, Zomato , Nykaa, Swiggy etc. AI (Artificial intelligence) improved customer experience, higher ROI, cost efficiency, and data-driven decision making. However, it also faces some key challenges such as data privacy concerns, algorithm bias, high implementation cost, and the need for skilled talent. In the Indian context, AI adoption is accelerating in e-commerce, BFSI, and D2C brands due to affordable data and digital adoption.AI-driven marketing is no longer optional but essential for competitive advantage. Organizations that effectively integrate AI with human creativity will lead in customer engagement and brand growth. The future of marketing lies in the collaboration between human marketers and AI systems. Artificial Intelligence is revolutionizing marketing by transforming how brands understand and engage with customers. AI-driven marketing uses data, machine learning, and automation to deliver personalized experiences at scale.",
+      "authors": "Princi Princi",
+      "published": "2026-11-09",
+      "venue": "",
+      "doi": "10.33774/coe-2026-452c2",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6ad1df3c4e003aa8e9b9d1fb/original/augmenting-human-creativity-with-machine-intelligence-the-evolution-and-impact-of-artificial-intelligence-in-modern-marketing.pdf",
+      "oa_url": "https://www.cambridge.org/engage/api-gateway/coe/assets/orp/resource/item/6ad1df3c4e003aa8e9b9d1fb/original/augmenting-human-creativity-with-machine-intelligence-the-evolution-and-impact-of-artificial-intelligence-in-modern-marketing.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24083254",
+      "title": "Universal Lifecycle Governance for the Generative AI Ecosystem: Cross-Interface Recoverable Deletion, Dependency-Aware Restoration, and Verifiable Permanent Erasure",
+      "abstract": "The rapid development of generative artificial intelligence (AI) is producing increasingly complex ecosystems composed of interconnected agents, memory systems, tools, plugins, workflows, knowledge repositories, prompts, model configurations, personalization profiles, permissions, and automation services. These components are frequently created, modified, interconnected, and removed through different interfaces and operational processes. Conventional deletion mechanisms, however, often treat removal as an object-level operation, leaving important questions about recoverability, dependency integrity, version preservation, and permanent erasure insufficiently coordinated across the broader AI ecosystem. This paper proposes Universal Lifecycle Governance for the Generative AI Ecosystem (ULG-GAI), a conceptual architecture that establishes a unified lifecycle management framework for heterogeneous AI ecosystem objects. Its central mechanism is a cross-interface recoverable-deletion system in which eligible objects removed through graphical user interfaces (GUIs), application programming interfaces (APIs), command-line interfaces (CLIs), programming code, agent operations, or automated workflows enter a governed temporary-retention state rather than being immediately and irreversibly destroyed. During a configurable recovery period, authorized users or processes can restore objects together with their preserved versions, configurations, dependencies, relationships, weighting parameters, permissions, and associated operational metadata. After the retention period expires, the system initiates policy-governed permanent purging, including the removal or controlled expiration of relevant derived representations. The architecture supports a single global trash repository, multiple object-specific trash repositories, and hybrid arrangements in which specialized repositories are presented through a unified management interface. It extends lifecycle governance beyond memory records to cover the broader AI ecosystem, including agents, agent configurations, memory libraries, retrieval policies, tools, plugins, connectors, workflows, prompts, knowledge bases, datasets, model-routing configurations, generation parameters, personalization settings, and governance policies. A typed object registry, shared lifecycle policy engine, dependency graph, version-preserving deletion manifest, restoration transaction manager, and purge verification service are proposed as the principal architectural components. The paper formalizes lifecycle states, cross-interface consistency requirements, dependency-aware restoration semantics, and testable research hypotheses. It also distinguishes directly restorable objects from objects requiring reconstruction, reauthorization, or external reconnection. Existing software systems already demonstrate several component mechanisms, including soft deletion, multi-object trash repositories, API and CLI management, dependency-aware restoration, and automatic expiration. Accordingly, this paper does not claim these individual mechanisms as novel. Its proposed contribution is an integrated, AI-ecosystem-oriented lifecycle governance architecture that brings heterogeneous AI resources under consistent deletion, recovery, and erasure semantics. No empirical results or implementation claims are made; the framework establishes a conceptual and testable foundation for future research.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-11-09",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24083254",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24083254",
+      "oa_url": "https://doi.org/10.5281/zenodo.24083254",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
+      "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.54855/ijaile.26332",
+      "title": "From Vibe Coding to Guardrailed Vibe Writing for Non-English-Major EFL Students: A Conceptual Framework and Pedagogical Proposal",
+      "abstract": "Vibe coding is an iterative, natural-language approach to human-AI collaboration and offers new possibilities for writing pedagogy. This conceptual paper proposes a framework for applying vibe coding principles to the teaching of academic and professional writing for non-English-major students learning English as a foreign language (EFL), particularly in Vietnamese higher education. Based on a structured narrative synthesis of selected literature, and drawing on cognitive load theory, self-regulated learning, and contrastive rhetoric, the paper introduces the Guardrailed Vibe Writing (GVW) approach, which aims to reduce linguistic barriers while supporting higher-order rhetorical and critical thinking skills. The framework includes five key components: intentional prompting, AI-mediated scaffolding with human oversight, meta-languaging, documented revision, and metacognitive reflection. No learner data are reported; the proposed benefits require empirical testing. The paper also discusses potential risks associated with AI-assisted writing such as cognitive debt, voice homogenization, and academic integrity issues, and proposes pedagogical strategies to address them. The GVW framework provides practical guidance for integrating generative AI responsibly into non-English-major EFL writing instruction.",
+      "authors": "Vuong T. Pham, Vương Thảo Nguyên, Anh Huy Phan",
+      "published": "2026-11-09",
+      "venue": "International journal of AI in language education.",
+      "doi": "10.54855/ijaile.26332",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ijaile.org/index.php/ijaile/article/download/96/40",
+      "oa_url": "https://ijaile.org/index.php/ijaile/article/download/96/40",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-11-10T22:24:00.200556+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -1789,8 +2059,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-10T00:43:07.330148+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:57.033755+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -1816,8 +2086,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-10T00:43:07.330148+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:57.033755+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -1951,8 +2221,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及user control",
-      "fetched_at": "2026-11-10T00:42:55.575011+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:46.589766+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -4462,8 +4732,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -4489,8 +4759,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -4516,8 +4786,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -4543,8 +4813,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     },
@@ -4570,19 +4840,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T00:43:01.565632+00:00",
-      "digest_day": "2026-11-10",
+      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
+      "digest_day": "2026-11-11",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-10T00:43:14.164815+00:00",
+  "last_refresh": "2026-11-10T22:24:04.463100+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-10T00:42:54.624790+00:00",
-    "finished": "2026-11-10T00:43:14.165207+00:00",
+    "started": "2026-11-10T22:23:45.249415+00:00",
+    "finished": "2026-11-10T22:24:04.463528+00:00",
     "sources": {
-      "OpenAlex": 14,
+      "OpenAlex": 17,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -4596,5 +4866,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-10T08:43:14.197408+08:00"
+  "generated_at": "2026-11-11T06:24:04.497187+08:00"
 }
