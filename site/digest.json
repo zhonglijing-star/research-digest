@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "topics": [
     {
       "id": "governance",
@@ -115,8 +115,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 70
     },
@@ -412,8 +412,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 70
     },
@@ -493,10 +493,91 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.3389/frai.2026.2037625",
+      "title": "Editorial: Investigating user interactions in GAI-based conversational systems",
+      "abstract": "The use of generative artificial intelligence (GAI)-based conversational systems has rapidly increased as they assist users with a wide range of activities, including information seeking, discussing personal matters, supporting writing and comprehension, solving complex problems, and carrying out creative work. With continuing advances in GAI techniques, these systems are evolving rapidly and providing increasingly sophisticated functionality. Alongside these technological developments, it is crucial to understand the role of users in different contexts. Studying how users interact with these systems can support the optimization of existing systems, the development of specialized applications, the risks entailing GAI-based conversational systems, and a better understanding of user perspectives [3]. The increasing adoption of GAI-based conversational systems raises broader questions about their societal impact. These questions include how GAI-based conversational systems reshape education and learning [2], work [1], decision-making [4], everyday problem-solving, and attitudes toward various topics [6,5].The Research Topic Investigating User Interactions in GAI-based Conversational Systems was established to bring together theoretical and empirical research examining the role of users in GAI-based conversational systems, as well as GAI-related technical development from a user-centered perspective. In particular, the Topic aimed to encourage work on user modeling, user studies for system and interface design, user intent and behavior, the impact of GAI systems on users, user-centered development of specialized systems, and approaches to benchmarking and evaluation.The five articles published in this Research Topic approach these goals from complementary perspectives.Broadly, they can be organized around two themes: understanding GAI within human and social contexts, and investigating interaction design and user responses in domain-specific applications.Three contributions investigate how GAI technologies interact with human characteristics, professional practices, organizational environments, and perceptions of artificial agents.",
+      "authors": "Ran Yu, Ujwal Gadiraju, Jiqun Liu",
+      "published": "2026-11-10",
+      "venue": "Frontiers in Artificial Intelligence",
+      "doi": "10.3389/frai.2026.2037625",
+      "arxiv_id": "",
+      "kind": "editorial",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.2037625/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.2037625/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "摘要提及user modeling、user model",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.5281/zenodo.24104428",
+      "title": "Artificial Intelligence In E-Commerce: A Review Of Personalization, Dynamic Pricing, Visual Search, Fraud Detection And Agentic Commerce",
+      "abstract": "Artificial intelligence is transforming e-commerce by changing how businesses attract, engage and retain customers. This paper reviews AI applications across the e-commerce value chain. It examines personalized recommendation, from item-to-item collaborative filtering to deep click-through-rate models that capture changing user interests; dynamic and algorithmic pricing and its effects on marketplaces; demand forecasting and price optimization for inventory planning; visual and voice search; conversational chatbots and assistants for customer support; and fraud detection on payments and accounts. Using machine learning, natural language processing and computer vision, these technologies analyse customer behaviour and transactions in real time, increasing conversion, order value and satisfaction while reducing operational cost and losses. The paper also discusses emerging trends such as generative AI for product content, conversational commerce, hyper-personalization and autonomous shopping agents. A five-layer e-commerce AI architecture comprising data, customer intelligence, decision, engagement and trust layers is proposed, along with research gaps, objectives, a comparison of applications and challenges including privacy, algorithmic bias, transparency, implementation cost and skills. The review concludes that long-term success depends on responsible and transparent AI that protects consumer trust.",
+      "authors": "Shelot Raj Satish, Prof. S. R. Borhade, Prof. M. C. Kolse, Prof. S. K. Said",
+      "published": "2026-11-10",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24104428",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24104428",
+      "oa_url": "https://doi.org/10.5281/zenodo.24104428",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11670337/v1",
+      "title": "Beyond AI Productivity: Enterprise AI Systems, Human–AI Responsibility, and the Future of Work",
+      "abstract": "Abstract A prior U.S. review, Enterprise AI at the Decision Point, established that enterprise artificial intelligence (AI) as-sistants have task-dependent productivity effects and that public evidence does not identify an independent financial return or a complete chain from AI cost to verified workforce replacement. The human side of that productivity record, and any organiza-tional consequences of workforce change, were left open. This study examines responsibilities, training, job insecurity and well-being, human oversight, and performance after U.S. enterprise AI adoption from November 2022 through September 2026. The design is a critical integrative review. Firms that report a task effect most often report exclusive augmentation. Frequent AI use is associated with greater fear of job loss. In one worker panel, displacement concern, rather than use frequency itself, is associated with lower engagement and higher burnout. The contribution is a responsibility-transfer framework with five constructs and four testable propositions. A proposed computa-tional specification of that framework, Human–AI Responsibility-Aware Workflow Optimization (HARWO), places verification and accountability on the workflow graph. Gross task-time savings are separated from net employee time. HARWO is not solved or estimated in this paper. The evidence gap reflects a measurement disconnect: existing studies separately examine task productivity, workforce changes, and employee well-being, but the evidence examined here does not adequately link these outcomes within the same organizations over time. Consequently, whether AI-driven efficiency gains reduce human workload or redistribute responsibilities remains unresolved. The U.S. record is consistent with the separation of task change from employment change, and with anticipatory strain. The performance of organizations that combine AI with workforce reduction remains unmeasured, and the propositions are not empirically validated.",
+      "authors": "Audrey Rah, David W. Johnson",
+      "published": "2026-11-10",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-11670337/v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11670337/latest.pdf",
+      "oa_url": "https://www.researchsquare.com/article/rs-11670337/latest.pdf",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及AI productivity",
+      "fetched_at": "2026-11-11T23:29:13.576219+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.13140/rg.2.2.36579.72485",
@@ -547,8 +628,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及research agent",
-      "fetched_at": "2026-11-10T22:23:57.033755+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:10.501192+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 58
     },
@@ -603,6 +684,33 @@
       "reason": "标题涉及personalization",
       "fetched_at": "2026-11-10T22:23:53.377835+00:00",
       "digest_day": "2026-11-11",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1111/nph.71738",
+      "title": "PGCopilot : an AI ‐assisted research agent for plant functional genomics",
+      "abstract": "The exponential expansion of multi-omic data presents a major bottleneck for researchers seeking to derive biological insights from heterogeneous genomic resources. Although large language models (LLMs) enable natural language interaction with scientific knowledge, general-purpose LLMs are not designed to reason over plant-specific biological issues and frequently produce hallucinated or oversimplified outputs. We developed PGCopilot, an AI-assisted research agent tailored for plant functional genomics. It integrated task planning, identifier disambiguation, and tool orchestration to actively retrieve and synthesize evidence across heterogeneous biological databases using the Model Context Protocol. Built on a knowledge base of 1.83 million records, together with online access to PubMed titles and available abstracts covering over 33 million indexed articles and STRING protein-protein interaction data, it could plan retrieval strategies and integrate evidence into grounded responses, reducing unsupported outputs and addressing data fragmentation and identifier discrepancies. In expert-guided benchmarking, PGCopilot achieved higher performance than the evaluated baseline LLMs, demonstrating advantages in task relevance, evidence integration, hallucination control, and research utility, and providing more verifiable citations and explicit reporting of cross-database inconsistencies. As an autonomous agent supporting multiturn tool interaction, it streamlined cross-database evidence integration from labor-intensive search-and-retrieval to automated analysis-and-synthesis. This approach streamlines cross-database navigation and evidence integration, allowing researchers to focus more on hypothesis formulation, experimental design, and critical interpretation of comprehensive evidence.",
+      "authors": "Chenyu He, Lin Liu, Zhenglin Du, Yu Xiu, Jianbo Xie",
+      "published": "2026-11-08",
+      "venue": "New Phytologist",
+      "doi": "10.1111/nph.71738",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.71738",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.71738",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及research agent",
+      "fetched_at": "2026-11-11T23:29:10.501192+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 58
     },
@@ -1708,10 +1816,145 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.3390/ijgi15110504",
+      "title": "From Location-Based Services to Agentic Location-Integrated Social-Spatial Services: A Scoping Review of Agentic AI in Location-Based Services",
+      "abstract": "Location-based services (LBS) have traditionally helped users answer questions such as where to go or what is nearby. With the emergence of large language model (LLM)-based agents, LBS are beginning to move toward understanding open-ended goals, coordinating spatial tasks, and supporting decisions about what to do and how to do it. This review refers to LBS that integrate such agentic capabilities into location-dependent service processes as Agentic LBS. To systematically characterize the current state of Agentic LBS and identify directions for future research, we conducted a scoping review and proposed an Autonomy–Innovation–Experience (A-I-E) framework as its analytical lens. Following the PRISMA Extension for Scoping Reviews (PRISMA-ScR), we searched the ACM Digital Library, Web of Science, and Scopus for peer-reviewed, English-language journal articles and conference papers published between 2021 and 2026. The search identified 228 records. After removing 21 duplicates, 207 records underwent screening, and 27 studies were included in the final review. The included studies were systematically charted and analyzed through descriptive mapping and qualitative coding to characterize their application directions, autonomy levels, innovation patterns, and user-experience implications. The results show that: (1) Agentic LBS research remains concentrated at lower autonomy levels, with 23 of the 27 studies (85.18%) classified as L1–L2 and four as L3; nevertheless, the emergence of L3 systems indicates a gradual movement toward more complex task planning and coordination. (2) LLM-based agents are expanding LBS beyond location-based information retrieval toward more personalized, context-aware, and task-oriented service delivery. (3) Reported user-experience benefits are concentrated in usability, accessibility, personalization, and task efficiency, whereas evidence concerning trust, user control, privacy, safety, and long-term use remains limited. (4) By synthesizing these findings across autonomy, innovation, and experience, this review proposes a future-oriented conceptual framework for understanding the emerging trajectory of Agentic LBS.",
+      "authors": "Li Xinmeng, Jianhua Xu, Qihao Huang, Zhanwei Wu",
+      "published": "2026-11-10",
+      "venue": "ISPRS International Journal of Geo-Information",
+      "doi": "10.3390/ijgi15110504",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.3390/ijgi15110504",
+      "oa_url": "https://doi.org/10.3390/ijgi15110504",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1186/s13010-026-00242-1",
+      "title": "Lost in digitalization: on the vanishing of the individual patient in the medicine of the future",
+      "abstract": "Abstract Although digital medicine promises unprecedented individualization through data-driven precision, this paper argues that the opposite trajectory could emerge. Unless medicine proceeds with caution, the patient risks being reduced to a statistical abstraction, removed from the physician’s moral and perceptual grasp, as digitalization accelerates. In the article, I discuss three possible distortions that could contribute to this trend: First, patients could be reduced to quantifiable data points through datafication. Second, several forms of bias may contribute to the homogenization of patients or the neglect of individuality. Third, virtualization in telemedicine may foster the fragmentation and depersonalization of the patient–physician encounter. Together, these developments risk diminishing rather than enhancing personalized care. The paper therefore calls for critical vigilance to ensure that technological innovation remains anchored in attentiveness to the unique, embodied individual—such that, in pursuing precision, medicine does not lose sight of the very person it seeks to serve.",
+      "authors": "Marco Stier",
+      "published": "2026-11-10",
+      "venue": "Philosophy Ethics and Humanities in Medicine",
+      "doi": "10.1186/s13010-026-00242-1",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1186/s13010-026-00242-1.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1186/s13010-026-00242-1.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24108185",
+      "title": "Universal Proactive Hybrid Advertising (U-PHA): A Cross-Platform Framework for AI-Initiated Integration of Organic and Sponsored Content Across Digital Advertising Environments",
+      "abstract": "Digital advertising is distributed across increasingly diverse environments, including social networking platforms, video-sharing services, search engines, e-commerce websites, news platforms, streaming services, online communities, and emerging AI-mediated applications. Although advertising technologies have advanced substantially in targeting, personalization, recommendation, and content placement, a general framework for proactively initiating advertising opportunities and integrating organic and sponsored content across heterogeneous digital environments remains an important research direction. This paper introduces Universal Proactive Hybrid Advertising (U-PHA), a cross-platform conceptual framework that extends the previously proposed Proactive Hybrid Advertising (PHA) paradigm beyond generative AI conversations to general digital advertising environments. U-PHA establishes a system-initiated advertising architecture in which an intelligent platform, advertising agent, or coordinating AI system independently identifies an appropriate advertising opportunity from contextual information and initiates a hybrid content-delivery event without requiring an explicit advertising request from the user in the current interaction. The resulting experience integrates independently selected or generated organic content with commercially sponsored content while maintaining distinguishable commercial provenance. The framework is characterized by five complementary principles: proactive opportunity initiation, organic–sponsored content integration, cross-platform applicability, dynamic advertising adaptation, and commercial-provenance preservation. Unlike conventional advertising architectures that primarily depend on predefined placements, explicit search requests, user-initiated recommendations, or fixed advertising schedules, U-PHA conceptualizes advertising as a proactive decision and content-integration process that can operate across different digital environments. Its application is not restricted to conversational AI, nor does it require the use of large language models. For example, a video platform may proactively introduce a contextually relevant hybrid content segment during an appropriate viewing opportunity; a social networking platform may integrate organic information and disclosed sponsored material into a dynamically generated content experience; and an e-commerce platform may initiate a hybrid discovery opportunity while a user is browsing products without requiring a direct request for advertising. Importantly, U-PHA distinguishes proactive advertising from merely changing the advertisement displayed in an existing advertising slot. Dynamic creative rotation alone does not constitute U-PHA. The defining contribution is the combination of autonomous opportunity initiation, hybrid organic–sponsored integration, and cross-environment applicability. The framework also establishes that commercial influence must remain identifiable and must not compromise the integrity of organic information. To the best of the author's knowledge, this paper presents the first explicitly formulated conceptual framework that combines these characteristics as a unified cross-platform proactive hybrid advertising paradigm. This is a bounded priority claim concerning the particular integrated framework, rather than a claim that proactive advertising, contextual advertising, native advertising, sponsored recommendations, or cross-platform personalization have never previously been investigated. The paper develops the conceptual architecture, formal representation, theoretical propositions, cross-platform implementation model, experimental methodology, and responsible deployment principles of U-PHA. A reproducible simulation experiment is additionally provided to enable systematic comparisons of proactive and reactive advertising mechanisms across heterogeneous platform scenarios.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-11-10",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24108185",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24108185",
+      "oa_url": "https://doi.org/10.5281/zenodo.24108185",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.54254/2755-2721/2026.38681",
+      "title": "Toward Federated Fine-Tuning of Large Language Models: Progress, Challenges, and Future Directions",
+      "abstract": "Large language models (LLMs) have been extensively used in downstream tasks, and the successful implementation of such tasks typically involves fine-tuning on domain-specific or user-specific data. As these data are generally not centralized but rather distributed among clients, federated learning (FL) of LLMs, also known as FedLLM, has emerged as a promising paradigm to decentralize LLM adaptation. Nevertheless, it is still challenging to directly apply traditional FL to LLM fine-tuning due to the amplification of model scale, client heterogeneity, communication cost, and privacy risks. This survey offers an overview of FedLLM fine-tuning from methodological and evaluation aspects. This paper first presents the fundamentals of FL, LLM fine-tuning, and their combination. Then this paper categorizes representative works into three groups: efficiency, heterogeneity and personalization, and privacy and security. In addition, this paper summarizes commonly used datasets and evaluation benchmarks to show how existing methods are evaluated under different client partitions and task settings. Finally, according to the given review, this paper identifies future directions such as resource-adaptive collaboration, split federated fine-tuning, continual personalization, and privacy-preserving safety alignment. All things considered, this survey takes FedLLM fine-tuning as its main point of attention, which gives a well-structured reference for researchers and practitioners to get to know about this field and find out potential research paths.",
+      "authors": "Zilang He",
+      "published": "2026-11-10",
+      "venue": "Applied and Computational Engineering",
+      "doi": "10.54254/2755-2721/2026.38681",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ace.ewapub.com/article/view/38681.pdf",
+      "oa_url": "https://ace.ewapub.com/article/view/38681.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1007/s44163-026-02726-7",
+      "title": "Transformer architectures scaling laws and in context learning in foundation models",
+      "abstract": "Transformers have evolved from a sequence-to-sequence architecture for machine translation into a general computational framework underlying large language, vision, speech, multimodal, scientific, and decision-making systems. This critical narrative review synthesizes the field along four connected axes: architectural evolution and attention efficiency; neural scaling laws across parameters, data, compute, and inference-time computation; mechanisms and evaluation debates surrounding in-context learning and emergent reasoning; and the expansion of Transformer systems across modalities and application domains. We move beyond a paper-by-paper chronology by comparing architectural choices under explicit constraints of context length, memory bandwidth, training compute, inference latency, data availability, and task structure. Particular attention is given to sparse and IO-aware attention, multi-query and grouped-query attention, mixture-of-experts routing, multimodal integration, and Transformer–state-space hybrids. We reconcile the Kaplan and Chinchilla scaling formulations with later replication and inference-aware analyses, and distinguish training-time scaling from test-time compute scaling. For in-context learning, we synthesize evidence concerning induction heads, implicit task inference, pre-training data composition, and the debate over metric-dependent emergence. The review also broadens application coverage to speech and audio processing, UAVs and autonomous systems, cybersecurity and intrusion detection, communications and networking, and time-series forecasting, in addition to scientific discovery, software engineering, healthcare, and education. Quantitative comparison tables are restricted to studies reporting results on common datasets and metrics, while explicitly noting differences in training protocols and computational budgets. We conclude that progress is increasingly determined not by parameter count alone, but by joint optimization of architecture, data quality, inference compute, hardware efficiency, and deployment constraints.",
+      "authors": "Mebrahatom Yihdego Mekonen, Abrham Mamu Abebe, Gebrekiros Gebreyesus Gebremariam, Yemane Hailay Nega, Hailemariam Brhane Bitew, Kbrom Tekulu Desta",
+      "published": "2026-11-10",
+      "venue": "Discover Artificial Intelligence",
+      "doi": "10.1007/s44163-026-02726-7",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02726-7.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44163-026-02726-7.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-11T23:29:10.501192+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.1007/s44336-026-00044-1",
@@ -1816,8 +2059,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-10T22:23:53.377835+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     },
@@ -1897,8 +2140,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-10T22:24:00.200556+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:13.576219+00:00",
+      "digest_day": "2026-11-12",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.14324/000.ds.10233191",
+      "title": "Farid, SS; Arikat, F; Tacu, A; Reed, J; (2026) Biotherapeutics Development and Manufacturing: Strategic Opportunities for UK Innovation and Translation: Insights from the Biotherapeutics Manufacturing Research Roundtable Series",
+      "abstract": "The next decade of biotherapeutics will be defined not only by scientific discovery, but by the ability to develop, manufacture and deploy increasingly complex therapies rapidly, affordably and at scale. As scientific discovery accelerates, the ability to industrialise innovation is increasingly becoming the limiting factor determining patient access, industrial competitiveness and long-term economic value creation. Global competitors including the US, China, Ireland, and Singapore are making coordinated investments spanning translational infrastructure, manufacturing innovation, digitalisation, workforce development and industrial scale-up. The UK is now well-positioned to seize the opportunity to translate its strengths in engineering biology, advanced therapeutics and bioprocess innovation into long-term industrial leadership and economic value. Alongside investment in commercial manufacturing infrastructure and scale-up facilities, long-term competitiveness can be secured through sustained support for the underlying translational engineering, manufacturing science and innovation capability needed to industrialise future generations of biotherapeutics.",
+      "authors": "",
+      "published": "2026-11-09",
+      "venue": "University College London",
+      "doi": "10.14324/000.ds.10233191",
+      "arxiv_id": "",
+      "kind": "dataset",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://discovery.ucl.ac.uk/10233191/7/Biotherapeutics%20Development%20and%20Manufacturing_Strategic%20Opportunities%20for%20UK%20Innovation%20and%20Translation_DOI.pdf",
+      "oa_url": "https://discovery.ucl.ac.uk/10233191/7/Biotherapeutics%20Development%20and%20Manufacturing_Strategic%20Opportunities%20for%20UK%20Innovation%20and%20Translation_DOI.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-11T23:29:10.501192+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     },
@@ -2221,8 +2491,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及user control",
-      "fetched_at": "2026-11-10T22:23:46.589766+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:02.087872+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     },
@@ -4732,8 +5002,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     },
@@ -4759,8 +5029,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     },
@@ -4786,8 +5056,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     },
@@ -4813,8 +5083,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     },
@@ -4840,19 +5110,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-10T22:23:52.418520+00:00",
-      "digest_day": "2026-11-11",
+      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
+      "digest_day": "2026-11-12",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-10T22:24:04.463100+00:00",
+  "last_refresh": "2026-11-11T23:29:15.987814+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-10T22:23:45.249415+00:00",
-    "finished": "2026-11-10T22:24:04.463528+00:00",
+    "started": "2026-11-11T23:29:00.914918+00:00",
+    "finished": "2026-11-11T23:29:15.988214+00:00",
     "sources": {
-      "OpenAlex": 17,
+      "OpenAlex": 15,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -4866,5 +5136,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-11T06:24:04.497187+08:00"
+  "generated_at": "2026-11-12T07:29:16.016422+08:00"
 }
