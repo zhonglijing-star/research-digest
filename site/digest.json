@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "topics": [
     {
       "id": "governance",
@@ -412,8 +412,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 70
     },
@@ -493,10 +493,64 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.5281/zenodo.24126530",
+      "title": "Artificial Intelligence for Scientific Discovery: A Review Of Methods, Landmark Applications and The Emergence Of Autonomous Research",
+      "abstract": "Artificial Intelligence is transforming how science is done by helping researchers analyse complex data, uncover hidden patterns, generate hypotheses and accelerate discovery across disciplines. This review examines the role of AI in scientific discovery, covering methods, applications, benefits, challenges and future possibilities. Machine learning, deep learning, physics-informed neural networks, equation discovery, natural language processing of scientific literature, reinforcement learning and generative AI are explained in terms of how they support data-driven investigation. Landmark applications are reviewed across structural biology, drug and antibiotic discovery, chemistry, materials science, physics, fusion-energy control, mathematics, astronomy and weather and climate forecasting. The emergence of autonomous laboratories and language-model agents that plan and execute experiments is discussed. A five-layer framework for AI-assisted discovery comprising data, representation, modelling, hypothesis generation and experimental validation is proposed, with research gaps, objectives, a comparison of AI roles and challenges including data quality, interpretability, reproducibility, physical consistency and the risk of over-reliance. The review concludes that AI is most powerful as a partner to scientists, accelerating the cycle of hypothesis, experiment and understanding while human judgement guides what is meaningful.",
+      "authors": "Lende Vedika Vijay, Prof. R. V. Varhade, Prof. M. C. Kolse, Prof. S. K. Said",
+      "published": "2026-11-11",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24126530",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24126530",
+      "oa_url": "https://doi.org/10.5281/zenodo.24126530",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及scientific discovery",
+      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.3389/fpsyg.2026.1879629",
+      "title": "AI-enabled talent analytics and workforce agility in manufacturing SMEs: the mediating role of human-AI collaboration and the moderating role of technostress resilience",
+      "abstract": "Introduction Small and medium-sized enterprises increasingly use AI-enabled talent analytics (AITA) to support workforce planning and adaptive performance, yet the mechanisms linking AITA to workforce agility (WA) remain underexplored. This study examines human-AI collaboration (HAIC) as a mediating mechanism and technostress resilience (TR) as a psychological resource and boundary condition. Methods A quantitative cross-sectional survey was conducted with 334 owners, HR managers, and operations/production heads from Pakistani manufacturing SMEs actively using AITA. Exploratory factor analysis, confirmatory factor analysis, structural equation modeling, 5,000 bootstrap resamples, and moderation analyses were used to assess the measurement and structural models. Results AITA was positively associated with WA, and HAIC showed a significant indirect association between AITA and WA, consistent with partial statistical mediation. TR was positively associated with WA and significantly strengthened the AITA-WA association. The exploratory TR x HAIC interaction was not statistically significant. Discussion The findings position AITA as a socio-technical work-design resource whose association with agility depends on human interpretation, collaborative routines, and psychological capacity to manage technology-related demands. Because the data are cross-sectional and based on one knowledgeable respondent per firm, the results should be interpreted as manager-perceived associations rather than causal effects.",
+      "authors": "Bshair Alharthi, M. A. El-Naggar, Hiyam Abdulrahim, Asokan Vasudevan, Zahid Hussain, Abdelrehim Awad",
+      "published": "2026-11-11",
+      "venue": "Frontiers in Psychology",
+      "doi": "10.3389/fpsyg.2026.1879629",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1879629/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1879629/pdf",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及human-AI collaboration",
+      "fetched_at": "2026-11-12T22:45:38.586749+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.3389/frai.2026.2037625",
@@ -520,8 +574,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及user modeling、user model",
-      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 58
     },
@@ -547,8 +601,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 58
     },
@@ -574,8 +628,35 @@
       ],
       "relevance": 58,
       "reason": "标题涉及AI productivity",
-      "fetched_at": "2026-11-11T23:29:13.576219+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:38.586749+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.66977/xsci.2611.001b",
+      "title": "Jacobian-Causal Memory Control for Persistent Memory in Language Model Systems",
+      "abstract": "Persistent-memory systems choose not only which records are retrieved but which prior information can alter current inference. We propose Jacobian-causal memory control (JCMC), which represents each authorized memory intervention by a predicted influence signature in a shared behavioral measurement space, selects interventions against a target effect and side-effect budget, and compares predicted with observed effects before retaining or rolling back the intervention. Under explicit smoothness and bounded-estimation assumptions, we prove a quadratic local-approximation bound, characterize the target effects reachable by a set of signatures, bound selection regret under signature error, and bound non-additive interactions between simultaneous memories. The paper reports no benchmark measurements; it defines a paired counterfactual estimator and an evaluation protocol comparing JCMC with relevance, graph, and policy-filtered retrieval baselines. The central claim is narrowed or falsified if those simpler baselines match effect targeting, side-effect control, and rollback utility under equal model, memory, policy, and cost budgets.",
+      "authors": "Marvin Danig",
+      "published": "2026-11-10",
+      "venue": "",
+      "doi": "10.66977/xsci.2611.001b",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://xsci.com/preprint/doi/10.66977/xsci.2611.001b.pdf",
+      "oa_url": "https://xsci.com/preprint/doi/10.66977/xsci.2611.001b.pdf",
+      "topic_ids": [
+        "governance"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及memory control",
+      "fetched_at": "2026-11-12T22:45:09.892992+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 58
     },
@@ -1816,10 +1897,199 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "doi:10.69980/jns7m743",
+      "title": "SMART RETAILING IN INTERNET COMMERCE: AN AI-ENABLED CUSTOMER-CENTRIC SERVICE FRAMEWORK",
+      "abstract": "This conceptual paper examines AI-enabled smart retailing as a customer-facing service transformation in Internet commerce rather than as a narrow technological or operational innovation. Drawing on a selective, theory-driven synthesis of services marketing, smart retailing, AI-enabled marketing, customer experience, service-dominant logic, human–AI interaction, and responsible-AI research, it develops a three-layer framework linking AI-enabled service capabilities, customer-experience mechanisms, and Internet-commerce outcomes. The framework identifies three capability groups—algorithmic personalisation and decision support, AI-mediated service interaction, and predictive service intelligence—and four evaluative mechanisms: decision value, interaction quality, transaction confidence, and algorithmic legitimacy. These mechanisms shape customer satisfaction, engagement, service-recovery effectiveness, platform trust, relationship quality, continuance intention, value co-creation, and inclusive service value. Human–AI governance, including privacy protection, transparency, fairness, customer control, human review, and digital accessibility, is treated as a boundary condition that determines whether AI-enabled services are perceived as trustworthy and customer-centred or as intrusive, opaque, unfair, and exclusionary. The paper contributes to Internet-commerce research by repositioning AI as a service-enabling capability and by explaining how customer evaluations translate AI applications into commercial and relational outcomes. It also proposes a focused research agenda for empirical testing across e-commerce websites, mobile applications, online marketplaces, social-commerce platforms, and omnichannel systems.",
+      "authors": "Dipneet Saini, Dr. Neelam Sharma",
+      "published": "2026-11-18",
+      "venue": "EPH - International Journal of Business & Management Science",
+      "doi": "10.69980/jns7m743",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://eijbms.com/index.php/ms/article/download/538/545",
+      "oa_url": "https://eijbms.com/index.php/ms/article/download/538/545",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3390/ai7110476",
+      "title": "Memory Mechanisms for Agentic Systems in Adaptive Automation: A Comparative Evaluation of Recent Advances (2021–2026)",
+      "abstract": "Agentic systems operating in adaptive automation environments require persistent memory to retain past actions, qualify outcomes, and improve performance over time. Existing memory mechanisms are architecturally diverse but evaluated in isolation using inconsistent benchmarks, limiting direct comparison. This scoping review systematically examines twelve state-of-the-art memory systems across four architectural categories: Structured Memory, Long-Term Memory, Short and Long-Term Memory, and Workflow and Procedural Memory. Eleven of the twelve are evaluated empirically across nine benchmark datasets spanning conversational question answering, long-document comprehension, and agentic task execution. Memory3 is surveyed but not evaluated, because its memory is built into the model through pre-training and cannot be run on a shared frozen backbone. Every system is evaluated on the datasets aligned to its architectural category, using the same GPT-4o-mini backbone, the same metrics, and the same decoding settings. We also run the backbone with no memory at all, which gives a floor against which each system’s contribution can be measured. Results show that no single architecture dominates all task types. Mem1 leads Contains-Match on conversational tasks while MemoryOS leads Token F1 on the same group, ReadAgent leads multiple-choice long-document comprehension and A-Mem leads open-ended long-document generation, and AWM beats AgentFly on all workflow-level tasks. Measured against the no-memory floor, memory helps a great deal on long-document benchmarks but adds little on multi-hop factoid retrieval, where several systems actually score below the backbone answering from its own pre-trained knowledge. We also identify a verbosity confound. Contains-Match rewards systems that write long answers, with a Spearman correlation of +0.727 between response length and the gap between Contains-Match and Token F1, and it penalizes short exact answers when the reference string carries a trailing period or article. We recommend reporting Token F1 alongside Contains-Match in future evaluations. All evaluation code and datasets are publicly available; see the Data Availability Statement.",
+      "authors": "Darshan Bhanushali, Chun-Kit Ngan, Souhail Meftah",
+      "published": "2026-11-11",
+      "venue": "AI",
+      "doi": "10.3390/ai7110476",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.3390/ai7110476",
+      "oa_url": "https://doi.org/10.3390/ai7110476",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-11-12T22:45:15.089683+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.22214/ijraset.2026.85339",
+      "title": "Generative AI in Consumer Decision Making: How Algorithmic Recommendations Shape Brand Trust",
+      "abstract": "Generative artificial intelligence (GenAI) is rapidly moving from the back end of recommendation engines to the consumer-facing interface, where conversational assistants, generated product descriptions and personalised feeds increasingly decide what shoppers see, compare and buy. While the literature on algorithm aversion and algorithm appreciation explains when consumers accept algorithmic advice, little is known about how such advice reshapes trust in the brand that deploys it. This paper develops and specifies a multi-level, testable framework in which four attributes of a GenAI recommendation (perceived personalisation, perceived accuracy and relevance, transparency and explainability, and disclosure of the AI source) influence brand trust through two opposing appraisal pathways: perceived algorithmic competence and fairness, which build trust, and perceived manipulation and privacy concern, which erode it. Brand trust in turn drives purchase intention and loyalty, with AI literacy and task type (utilitarian versus hedonic) as boundary conditions. Nine hypotheses are derived from trust theory, the persuasion knowledge model and the human–automation literature, and a dynamic trust-calibration loop is proposed in which each decision cycle updates the trust baseline used in the next. A two-study empirical design is specified, comprising a PLS-SEM survey and a 3 × 2 × 2 online experiment, and a Monte Carlo power analysis shows that a survey of about 300 respondents gives at least 95% power for the main hypothesised paths, while a 600-participant experiment gives about 92% power for medium-small effects of disclosure. The paper contributes a brand-level, trust-centred account of GenAI recommendations, identifies transparency as the lever that most plausibly converts algorithmic personalisation into trust, and derives managerial and regulatory implications. The study is conceptual with simulated power analysis; empirical estimates are not reported.",
+      "authors": "Ms. Manisha Yogesh Thorat",
+      "published": "2026-11-11",
+      "venue": "International Journal for Research in Applied Science and Engineering Technology",
+      "doi": "10.22214/ijraset.2026.85339",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.22214/ijraset.2026.85339",
+      "oa_url": "https://doi.org/10.22214/ijraset.2026.85339",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.7753/ijcatr1511.1006",
+      "title": "EduAgent-RL: A Human-Centered Multi-Agent Reinforcement Learning Framework for Personalized Learning, Adaptive Feedback, and Student Performance Prediction",
+      "abstract": "Personalization in digital learning is often handled through separate components: a knowledge-tracing model estimates what a student knows, a recommender selects learning content, and a conversational tutor provides feedback. These components are not always coordinated as part of a single instructional decision process. Recent reviews of agentic and multi-agent AI in education show rapid growth in this area, but also point to a lack of longitudinal studies and carefully evaluated real-world deployments [3, 12]. To address this gap, we propose EduAgent-RL, a six-agent framework comprising Student Profiling, Learning Analytics, Content Recommendation, Assessment, Feedback, and Teacher/Supervisor agents. The agents are coordinated through centralized-training, decentralized-execution multi-agent reinforcement learning (MARL), supported by a knowledge-tracing state encoder, retrieval-grounded feedback, and an explicit human-oversight veto. The framework is evaluated on two public benchmarks, OULAD [14] and EdNet [2], against random, collaborative-filtering, classical machine-learning, single-agent RL, and RAG-based LLM tutor baselines. In the pilot evaluation, EduAgent-RL reached an AUROC of 0.83 and NDCG@10 of 0.71 on OULAD, compared with 0.74 AUROC / 0.58 NDCG@10 for the single-agent RL baseline and 0.79 AUROC / 0.63 NDCG@10 for the RAG-based tutor. The ablation results also showed the largest drop in performance when the knowledge-tracing encoder was removed.",
+      "authors": "Shivang Patel",
+      "published": "2026-11-11",
+      "venue": "International Journal of Computer Applications Technology and Research",
+      "doi": "10.7753/ijcatr1511.1006",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.7753/ijcatr1511.1006",
+      "oa_url": "https://doi.org/10.7753/ijcatr1511.1006",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.12688/f1000research.191923.1",
+      "title": "From Learner Modeling to Human–AI Co-Regulation: A Systematic Scoping Review of Adaptive Generative AI in Personalized Learning",
+      "abstract": "Abstract* Background Adaptive generative artificial intelligence (GenAI) is increasingly used to personalize learning, yet evidence remains fragmented across system design, human–AI co-regulation, self-regulated learning (SRL), sustained behavioral outcomes, and ethics. This systematic scoping review mapped these dimensions in a single synthesis. Methods We searched Dimensions, ERIC, IEEE Xplore, Lens, PubMed, Scopus, and Web of Science on 5 May 2026. Of 3,084 records identified, 95 journal articles published between 2023 and 2026 met the inclusion criteria. Evidence was synthesized using descriptive mapping, form–function co-occurrence analysis, and qualitative comparative synthesis. Results Adaptive GenAI was most commonly instantiated as conversational tutors, generative content personalizers, and hybrid feedback systems, with adaptive feedback, content adaptation, diagnostic analysis, scaffolding, and progress tracking emerging as the dominant functions. Conceptualizations of human–AI co-adaptation were less mature: most studies framed AI primarily as a responsive regulator, with feedback-loop acceleration and metacognitive prompting more frequently articulated than internalization, behavioral reinforcement, or social modeling. Empirical effects were concentrated in proximal SRL outcomes, particularly forethought and performance, while evidence for self-reflection, affective regulation, transfer, stable self-efficacy, persistence, and learning habits was much thinner. Ethical evaluation likewise remained uneven, emphasizing feedback quality, pedagogical validity, well-being, autonomy, motivation, inclusivity, and agency, while transparency, data minimization, scaffold fading, developmental suitability, manipulation risk, and ethical nudging were addressed far less often. Conclusions Adaptive GenAI is more mature in technical personalization and proximal SRL support than in reciprocal co-regulation, durable behavior change, and integrated ethical governance. Future research should test whether regulatory gains persist beyond immediate AI support and develop stronger frameworks for governing learner influence and dependency.",
+      "authors": "Eka Imbia Agus Diartika, Hamzarudin Hikmatiar, Syinta Khefrianti, Silva Febrianti, Putri Ellen Gracia Risamasu, Tasya Putri Hendrika",
+      "published": "2026-11-11",
+      "venue": "F1000Research",
+      "doi": "10.12688/f1000research.191923.1",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://f1000research.com/articles/15-1888/pdf",
+      "oa_url": "https://f1000research.com/articles/15-1888/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.55640/ijbms-06-11-01",
+      "title": "Healthcare Affordability and Service Utilization: An Empirical Assessment of Consumer Perspectives",
+      "abstract": "This study explores the connection between healthcare affordability and utilization, considering consumer perspectives within the dynamics of healthcare financing and GenAI adoption. Due to increasing cost-sharing approaches and financial barriers, consumers' behaviour is shifting toward underutilization of needed services due to information asymmetries and financial toxicity. This research, following a quantitative cross-sectional design and employing 400 participants, explores constructs of affordability, accessibility, trust, personalization, technology, and data privacy concerns. Internal reliability was proven high by the analysis of the data, while the descriptive analysis showed quite positive consumer attitudes in terms of all variables. Correlation analysis shows strong positive relationships between affordability, quality, accessibility, and trust that positively influence the adoption of healthcare. Affordability appears as a critical construct that influences the decision to use the healthcare service, and this research proves that consumer perspectives strongly moderate the adoption of technologies including GenAI.",
+      "authors": "Shubham Naresh Bhoir",
+      "published": "2026-11-11",
+      "venue": "International journal of business and management sciences",
+      "doi": "10.55640/ijbms-06-11-01",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.academicpublishers.org/journals/index.php/ijbms/article/download/13782/14125/27476",
+      "oa_url": "https://www.academicpublishers.org/journals/index.php/ijbms/article/download/13782/14125/27476",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3389/jpps.2026.17484",
+      "title": "Survival of the fittest tool: choosing between open and closed artificial intelligence in pharmaceutical science",
+      "abstract": "Three years ago, this journal published the editorial Technological Darwinism , urging pharmaceutical scientists to adapt to artificial intelligence (AI) rather than resist it. Since then, the question has shifted from whether to use AI to which AI to use, under what circumstances, and with what evidence. This review addresses that question by mapping current AI tools across the five canonical stages of drug development, from discovery to post-market pharmacovigilance. It is a narrative review, not a systematic one, and it treats openness as a spectrum rather than a binary. It compares two broad categories: open systems free, often open source or open weight, inspectable, and locally deployable and closed systems, which are proprietary, commercial, and delivered as a service. The central conclusion is pragmatic. For routine laboratory, educational, and research tasks, capable open tools now exist for almost every application, including manuscript drafting, literature review, reference management, statistical analysis, pharmacokinetic and pharmacodynamic modelling, calibration and standard-curve fitting, chemical structure drawing and SMILES handling, image and figure generation, and prediction of physicochemical, ADMET (absorption, distribution, metabolism, excretion, and toxicity), formulation, and excipient compatibility properties. Free web services, however, may require confidential structures to be uploaded to a third party, so openness is distinguished here from private deployment, and independent head to head evidence against commercial tools is uneven. In contrast, integrated end to end drug discovery and validated regulatory workflows remain dominated by proprietary platforms. During the period covered by this review, the first generative AI-designed molecule targeting a generative AI-derived protein reported positive Phase IIa results and entered Phase III in July 2026; protein structure prediction was recognized with the 2024 Nobel Prize in Chemistry, shared by Hassabis, Jumper and Baker and became partly open; an autonomous frontier language model improved a longstanding medicinal chemistry reaction through thousands of wet-laboratory experiments; and regulatory agencies issued their first guidance on AI credibility. The review argues that the most enduring competency is not mastery of any single AI platform but the ability to select appropriate tools, critically validate their outputs, and document their credibility in proportion to the decisions they inform. Accordingly, open AI systems should be the default for routine, low-risk, and educational applications, whereas proprietary platforms currently retain advantages for integrated discovery and regulated development. Credibility is defined operationally, human oversight is treated as a condition of use, and the review states where comparative evidence is lacking.",
+      "authors": "Neal M. Davies, Raimar Löebenberg",
+      "published": "2026-11-11",
+      "venue": "Journal of Pharmacy & Pharmaceutical Sciences",
+      "doi": "10.3389/jpps.2026.17484",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontierspartnerships.org/journals/journal-of-pharmacy-pharmaceutical-sciences/articles/10.3389/jpps.2026.17484/pdf",
+      "oa_url": "https://www.frontierspartnerships.org/journals/journal-of-pharmacy-pharmaceutical-sciences/articles/10.3389/jpps.2026.17484/pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.3390/ijgi15110504",
@@ -1843,8 +2113,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -1857,7 +2127,7 @@
       "venue": "Philosophy Ethics and Humanities in Medicine",
       "doi": "10.1186/s13010-026-00242-1",
       "arxiv_id": "",
-      "kind": "article",
+      "kind": "review",
       "review_status": "已发表；评审状态未核实",
       "source": "OpenAlex",
       "sources": [
@@ -1870,8 +2140,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -1897,8 +2167,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-11T23:29:07.668632+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -1951,8 +2221,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-11T23:29:10.501192+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
+      "digest_day": "2026-11-13",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1016/j.jisa.2026.104698",
+      "title": "Surveying cyber-physical honeynets: Realism, attractiveness, and emerging applications",
+      "abstract": "Cyber-physical systems play a central role in critical infrastructures, particularly in power plants, factories, and water treatment facilities. These systems face increasingly sophisticated threats that can have severe operational and societal consequences. A Cyber-Physical Honeynet (CPHoneynet) is a network of honeypots designed to replicate the operation of a real cyber-physical environment. When attackers interact with it, a CPHoneynet enables the collection of valuable threat intelligence regarding attacker methods, tools, and attack vectors. The domain lacks a recent and comprehensive structuring. Therefore, this survey identifies, reviews, and analyzes the central publications published between 2010 and June 2026 through a Systematic Literature Review methodology. The survey analyzes 451 publications and focuses on three major themes: realism, attractiveness, and emerging applications of CPHoneynets. The analysis reveals that IoT and ICS are the dominant application domains, realism remains the primary research challenge, and attractiveness remains comparatively underexplored despite its direct impact on threat-intelligence collection. The survey synthesizes a reference architecture, proposes a comprehensive taxonomy, and identifies evaluation metrics for both realism and attractiveness. It further highlights emerging directions such as Artificial Intelligence, Digital Twins, and Large Language Models, while showing that standardized evaluation frameworks remain largely absent from the literature. Finally, the survey identifies open challenges and research gaps related to scalability, deployment complexity, operational safety, and adaptive cyber-deception, providing a structured foundation for future research and practical deployment of CPHoneynets.",
+      "authors": "Mathis Durand, Yvon Kermarrec, Marc‐Oliver Pahl",
+      "published": "2026-11-10",
+      "venue": "Journal of Information Security and Applications",
+      "doi": "10.1016/j.jisa.2026.104698",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214212626003285/pdf",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2214212626003285/pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -2140,8 +2437,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-11T23:29:13.576219+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:38.586749+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -5002,8 +5299,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -5029,8 +5326,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -5056,8 +5353,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -5083,8 +5380,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     },
@@ -5110,19 +5407,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-11T23:29:06.815502+00:00",
-      "digest_day": "2026-11-12",
+      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
+      "digest_day": "2026-11-13",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-11T23:29:15.987814+00:00",
+  "last_refresh": "2026-11-12T22:45:47.005243+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-11T23:29:00.914918+00:00",
-    "finished": "2026-11-11T23:29:15.988214+00:00",
+    "started": "2026-11-12T22:45:08.578491+00:00",
+    "finished": "2026-11-12T22:45:47.005582+00:00",
     "sources": {
-      "OpenAlex": 15,
+      "OpenAlex": 19,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -5136,5 +5433,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-12T07:29:16.016422+08:00"
+  "generated_at": "2026-11-13T06:45:47.028035+08:00"
 }
