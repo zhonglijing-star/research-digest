@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "topics": [
     {
       "id": "governance",
@@ -412,8 +412,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 70
     },
@@ -493,10 +493,64 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.1145/3830454.3832691",
+      "title": "Rethinking Backdoor Adversarial Unlearning through the Lens of Catastrophic Forgetting in Continual Learning",
+      "abstract": "Existing studies reveal that current backdoor defenses exhibit limited robustness and often fail against specific types of attacks. More concerningly, prevailing safety tuning strategies tend to provide only superficial safety protection, as they fall short of completely eliminating the backdoor effects. In this work, we present a novel formulation of backdoor learning and unlearning as a sequential, three-stage process from a continual learning perspective. Within this framework, we formally define complete backdoor unlearning and further derive the necessary conditions for achieving it based on the mechanism of catastrophic forgetting. Guided by these insights, we propose Blind Inversion-Backdoor Adversarial Unlearning (BI-BAU), which formulates the generation of adversarial examples satisfying the unlearning conditions as a blind inversion problem. We solve this by integrating the bi-level optimization process of adversarial training into an Expectation-Maximization (EM) algorithm framework to optimize the maximum a posteriori (MAP) objective. Furthermore, BI-BAU is extended to untargeted adversarial scenarios with unknown target classes, as well as to multi-modal contrastive learning tasks, enhancing its applicability to real-world deployment scenarios where pre-trained models may be compromised. Extensive experiments demonstrate that our method exhibits general applicability across a wide spectrum of backdoor attacks and can effectively and thoroughly eliminate the backdoor effects from a backdoor model.",
+      "authors": "Zhenqian Zhu, Yamin Hu, Yujiang Liu, Luping Wei, Wenbo Hou, Bin Li",
+      "published": "2026-11-12",
+      "venue": "ACM SIGSAC Conference on Computer and Communications Security (CCS)",
+      "doi": "10.1145/3830454.3832691",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3830454.3832691",
+      "oa_url": "https://doi.org/10.1145/3830454.3832691",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及continual learning",
+      "fetched_at": "2026-11-13T22:40:51.527048+00:00",
+      "digest_day": "2026-11-14",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/978-3-032-31657-8_19",
+      "title": "Memory-Based vs. Context-Only Conditioning Produces Distinct Behavioral Patterns in Stateful Personalization",
+      "abstract": "",
+      "authors": "Junsoo Park, Youssef Medhat, Htet Phyo Wai, Ploy Thajchayapong, Ashok Kumar Goel",
+      "published": "2026-11-12",
+      "venue": "Lecture notes in computer science",
+      "doi": "10.1007/978-3-032-31657-8_19",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://arxiv.org/pdf/2605.27389",
+      "oa_url": "https://arxiv.org/pdf/2605.27389",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
+      "digest_day": "2026-11-14",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.5281/zenodo.24126530",
@@ -520,8 +574,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:57.836752+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 58
     },
@@ -547,8 +601,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及human-AI collaboration",
-      "fetched_at": "2026-11-12T22:45:38.586749+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:41:00.827041+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 58
     },
@@ -655,8 +709,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及memory control",
-      "fetched_at": "2026-11-12T22:45:09.892992+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:48.109187+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 58
     },
@@ -1897,8 +1951,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 58
     },
@@ -1924,8 +1978,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
+      "digest_day": "2026-11-14",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1145/3830454.3846674",
+      "title": "MemPoison: Bypassing Selective Memory Mechanisms to Plant Backdoors in LLM Agents",
+      "abstract": "Large language model (LLM) agents increasingly leverage long-term memory to support persistent and autonomous task execution. However, this capability also introduces a new attack surface: memory poisoning, where adversaries can inject malicious information to influence future behavior. Existing memory poisoning attacks often assume that injected content can be stored directly in memory, overlooking the selective extraction and rewriting stages in modern memory pipelines. This makes prior methods ineffective under realistic settings. In this paper, we propose MemPoison, a novel memory poisoning attack that bypasses selective memory mechanisms in LLM agents, where an attacker can inject triggerable backdoors into the agent's long-term memory through dialogue interactions, thereby misleading its subsequent responses. MemPoison introduces three key components: (i) a semantic relational bridge that binds the trigger and payload into a coherent statement to ensure their co-extraction into memory; (ii) entity masquerading that optimizes triggers to mimic named entities, resisting rewriting; and (iii) joint embedding optimization that shapes trigger-injected texts into a tight cluster in the embedding space while maintaining isolation from benign embeddings for stealth. Evaluations across different agent domains and memory mechanisms show MemPoison achieves attack success rates up to 0.95, outperforming existing baselines. Mechanistic analysis reveals the exploitation of embedding-space anisotropy and attention redistribution, highlighting core vulnerabilities in selective memory systems. We evaluate multiple defense strategies and demonstrate their fundamental limitations in mitigating the attack. We release our code to facilitate further research.",
+      "authors": "Hongtao Wang, Se Yang, Yu Chen, Puzhuo Liu",
+      "published": "2026-11-12",
+      "venue": "ACM SIGSAC Conference on Computer and Communications Security (CCS)",
+      "doi": "10.1145/3830454.3846674",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3830454.3846674",
+      "oa_url": "https://doi.org/10.1145/3830454.3846674",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-11-13T22:40:51.527048+00:00",
+      "digest_day": "2026-11-14",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5445/ir/1000199069",
+      "title": "An Open, Agentic GenAI Ecosystem Integrated with the European Open Science Cloud",
+      "abstract": "Generative Artificial Intelligence (GenAI) is transforming research by enabling new forms of discovery, automation, and collaboration. However, current AI ecosystems often lack transparency, reproducibility, and alignment with open science principles, raising concerns about data provenance, ethical use, and reliance on proprietary platforms. The recently approved European project, EOSC-ARENA (starting in June 2026), aims to create an independent, open, and agentic GenAI ecosystem integrated with the European Open Science Cloud (EOSC), supporting researchers across the entire research data lifecycle. Methodologically, EOSC-ARENA incorporates human-centered and responsible AI principles, with dedicated work packages focused on research integrity, ethics, and skills development. Building on the AI4EOSC platform, EOSC-ARENA will provide federated infrastructure for Federated GenAI model fine-tuning, scalable model serving, and trustworthy knowledge-augmentation services, including Retrieval-Augmented Generation and Model Context Protocols, across European e-infrastructures and EOSC Nodes. It will ensure model, data, and platform independence in line with the EU AI Act, FAIR principles, and EOSC policies. The project will validate its infrastructure through interdisciplinary use cases in life sciences, medical imaging and oncology, climate science, cosmology, materials science, food science, and research data management, aiming to improve data quality, FAIRness, and research productivity. A dedicated work package on research integrity, ethics, and responsible AI will develop cross-domain curricula, guidelines, and open educational resources, embedding human-centered, trustworthy, and reproducible practices into GenAI workflows. In this contribution, we present the EOSC-ARENA project, highlighting its vision, infrastructure, and planned agentic GenAI framework.",
+      "authors": "Khadijeh Alibabaei, Lisana Berberi, Valentin Kozlov, A. Delipalta, Alvaro Lopez Garcia, Germán Moltó",
+      "published": "2026-11-12",
+      "venue": "KITopen",
+      "doi": "10.5445/ir/1000199069",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5445/ir/1000199069",
+      "oa_url": "https://doi.org/10.5445/ir/1000199069",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及AI workflow",
+      "fetched_at": "2026-11-13T22:41:00.827041+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -1978,8 +2086,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -2005,8 +2113,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -2032,8 +2140,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-12T22:45:23.082834+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -2086,8 +2194,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:57.836752+00:00",
+      "digest_day": "2026-11-14",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1002/ptr.70505",
+      "title": "Artificial Intelligence for Precision Phytomedicine: A Critical Review and the Patient–Product–Mechanism–Response ( PPMR ) Framework",
+      "abstract": "Plant-derived preparations remain widely used, yet their clinical application is constrained by multicomponent composition, batch-to-batch chemical variability, and complex pharmacokinetics, poorly characterized interactions, and marked interindividual variability in response. Artificial intelligence (AI) and computational pharmacology offer analytical tools suited to the high-dimensional data generated by phytomedicine, but enthusiasm has outpaced the supporting evidence. This critical narrative review evaluates AI applications across the phytomedicine pipeline, grading them by the strength and directness of evidence from computational prediction through in vitro, animal, observational, and randomized clinical studies. We organize the field around a Patient-Product-Mechanism-Response (PPMR) framework, arguing that meaningful personalization requires joint characterization of both the patient and the chemically variable botanical product. Current applications are most mature for botanical authentication, spectral annotation, quality assurance, and mechanism-informed hypothesis generation, whereas validated tools for patient stratification, individualized product and dose selection, and improved clinical outcomes remain limited. Rather than claiming efficacy gains, we present AI as a means to advance standardized, mechanism-informed, and testable phytomedicine, contingent on higher-quality data, prospective external validation, and regulatory alignment. The central finding is that none of the studies examined demonstrated a complete AI-guided personalized-phytomedicine pathway from joint patient-and-product characterization through a prospectively validated individualized response; precision phytomedicine should therefore be described as an emerging and hypothesis-generating research programme rather than an established clinical capability.",
+      "authors": "Mohamed Fared Shawky Mohamed, Ahmed M. Kamal El-sagheir, JENCHIN LIN, Ming‐Kuem Lin, Yung‐Luen Yu, Jung Chao",
+      "published": "2026-11-11",
+      "venue": "Phytotherapy Research",
+      "doi": "10.1002/ptr.70505",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ptr.70505",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ptr.70505",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
+      "digest_day": "2026-11-14",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.64898/2026.11.09.765490",
+      "title": "An auditable harness for biomolecular dynamics simulations by AI agents",
+      "abstract": "AI agents now generate biological hypotheses faster than they can be tested. Hypotheses stated at the atomic level can be examined with molecular dynamics (MD) simulations. For new questions without a reference, trust in an agent-run simulation rests on a tool-written process record, not the agent's account. Existing MD agents leave this record to the language model. Here we present MDClaw, a harness whose validating tools and directed acyclic graph (DAG) check stages before execution and record every simulation stage. On MDDataBench, which grades outputs against deposited simulations, four open-weight models with MDClaw passed all three runs on 81-100% of 31 test systems. The DAG complements this outcome check. An ablation without the DAG revealed 11 successful runs that had skipped minimization or equilibration, or simulated a different structure. MDClaw carried questions from human and AI scientists through simulation to trajectories traceable to their inputs and settings.",
+      "authors": "Yasuhiro Matsunaga, Yichao Wu, Yangyang Zhang, Shweta Kumari, Akari Enomoto, Yudai Homma",
+      "published": "2026-11-11",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.64898/2026.11.09.765490",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2026/11/11/2026.11.09.765490.full.pdf",
+      "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2026/11/11/2026.11.09.765490.full.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及AI scientist",
+      "fetched_at": "2026-11-13T22:40:57.836752+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -2221,8 +2383,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:57.836752+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -2248,8 +2410,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-12T22:45:31.030930+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:57.836752+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -5299,8 +5461,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -5326,8 +5488,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -5353,8 +5515,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -5380,8 +5542,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     },
@@ -5407,19 +5569,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-12T22:45:22.184621+00:00",
-      "digest_day": "2026-11-13",
+      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
+      "digest_day": "2026-11-14",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-12T22:45:47.005243+00:00",
+  "last_refresh": "2026-11-13T22:41:02.827981+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-12T22:45:08.578491+00:00",
-    "finished": "2026-11-12T22:45:47.005582+00:00",
+    "started": "2026-11-13T22:40:46.608962+00:00",
+    "finished": "2026-11-13T22:41:02.828368+00:00",
     "sources": {
-      "OpenAlex": 19,
+      "OpenAlex": 16,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -5433,5 +5595,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-13T06:45:47.028035+08:00"
+  "generated_at": "2026-11-14T06:41:02.850684+08:00"
 }
