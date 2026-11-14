@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "topics": [
     {
       "id": "governance",
@@ -412,8 +412,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 70
     },
@@ -493,8 +493,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 70
     },
@@ -1951,8 +1951,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 58
     },
@@ -5461,8 +5461,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 46
     },
@@ -5488,8 +5488,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 46
     },
@@ -5515,8 +5515,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 46
     },
@@ -5542,8 +5542,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 46
     },
@@ -5569,23 +5569,23 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-13T22:40:53.553447+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
+      "digest_day": "2026-11-15",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-13T22:41:02.827981+00:00",
+  "last_refresh": "2026-11-14T21:42:29.833732+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-13T22:40:46.608962+00:00",
-    "finished": "2026-11-13T22:41:02.828368+00:00",
+    "started": "2026-11-14T21:32:20.409403+00:00",
+    "finished": "2026-11-14T21:42:29.834026+00:00",
     "sources": {
-      "OpenAlex": 16,
+      "OpenAlex": 0,
       "Crossref": 1,
       "arXiv": 9
     },
-    "error": null
+    "error": "OpenAlex: Request failed after retries；OpenAlex: Request failed after retries；OpenAlex: Request failed after retries；OpenAlex: Request failed after retries；OpenAlex: Request failed after retries"
   },
   "configured_sources": [
     "OpenAlex",
@@ -5595,5 +5595,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-14T06:41:02.850684+08:00"
+  "generated_at": "2026-11-15T05:42:29.862067+08:00"
 }
