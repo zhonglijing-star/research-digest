@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "topics": [
     {
       "id": "governance",
@@ -412,8 +412,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 70
     },
@@ -493,10 +493,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11529712/v1",
+      "title": "Who chooses and who keeps time? Typology-grounded LLM user modelling and explained itineraries for cultural heritage, compared with an icon-based recommender",
+      "abstract": "Abstract Cultural heritage guides face a cold-start problem: they must model a visitor they have never seen. Stereotype-based typologies offer one answer, but icon-based elicitation constrains how visitors can describe themselves, and the resulting recommendations are rarely explained. We present Theoros (ACUX-R 2.0), a mobile guide in which a multimodal large language model (LLM) builds a scrutable, multi-label stereotype model of the visitor from photographs and their own words, and then selects and explains the stops of a walking itinerary from a curated heritage dataset. Unlike LLM trip planners that treat the user as a query, the user model is explicit, editable and shown to the visitor, and every explanation must cite the visitor's profile and the place description; deterministic code computes all times from opening hours, walking distances and the weather. In development tests the LLM chose and explained stops reliably but failed at clock arithmetic, and adding temporal rules to the prompt made it worse (from 7 to 3 of 10 valid plans), while scheduling in code yielded 10 of 10. In an exploratory within-subjects study, 21 participants used Theoros and a faithful re-implementation of the original icon-based recommender on the same task. Both scored excellent on the UEQ-S benchmark; Theoros scored higher in hedonic quality ($r = 0.63$, significant after correction for eight outcomes), while perceived transparency, trust and profile accuracy were similar and near the ceiling. Twelve participants preferred Theoros and five the original. We discuss what this implies for LLM-based stereotype user models.",
+      "authors": "Markos Konstantakis",
+      "published": "2026-11-13",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-11529712/v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11529712/latest.pdf",
+      "oa_url": "https://www.researchsquare.com/article/rs-11529712/latest.pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及user model",
+      "fetched_at": "2026-11-15T21:51:50.446872+00:00",
+      "digest_day": "2026-11-16",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.1145/3830454.3832691",
@@ -1951,8 +1978,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 58
     },
@@ -1978,8 +2005,116 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-15T21:51:50.446872+00:00",
+      "digest_day": "2026-11-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1145/3841580.3845741",
+      "title": "Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI",
+      "abstract": "Conversational agents tailor explanations to users’ backgrounds and interests, a strategy we refer to as contextualization. While personalization is an established persuasive lever in politics and marketing, its effect in everyday tasks, where users lack prior knowledge, remains unclear. We report a 2 × 2 between-subjects experiment (N = 380) testing how contextualization and conversational warmth shape the persuasiveness of, and reliance on, an AI assistant that argues against expert recommendations. Contextualization and warmth each reduce persuasiveness, yet their combination restores it through a crossover interaction. Behavioral reliance is high in every condition and invariant to conversational design. Trust predicts both outcomes but mediates neither. AI literacy decouples attitude from behavior: more literate users report lower trust, yet are more persuaded and more likely to abandon the expert position.",
+      "authors": "Mert Yazan, Suzan Verberne, Frederik Situmeang",
+      "published": "2026-11-13",
+      "venue": "International Conference on Human-Agent Interaction (HAI)",
+      "doi": "10.1145/3841580.3845741",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1145/3841580.3845741",
+      "oa_url": "https://doi.org/10.1145/3841580.3845741",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-15T21:51:50.446872+00:00",
+      "digest_day": "2026-11-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.3389/fdgth.2026.1967489",
+      "title": "On-device reinforcement learning-based insulin dosing controller for fully automated insulin delivery",
+      "abstract": "Introduction Automated insulin delivery (AID) systems integrate continuous glucose monitoring (CGM) with algorithm-driven insulin dosing to enable closed-loop glycemic management for people with type 1 diabetes (T1D). Recent advances in wearable glucose sensing and insulin delivery technologies have enabled increasingly compact AID systems; however, deploying advanced AI-based dosing algorithms directly on resource-constrained wearable devices remains technically challenging. Some AID architectures also rely on external devices, such as smartphones or dedicated controllers, introducing additional communication dependencies into the closed-loop operation. Methods This study presents an on-device insulin dosing controller based on the soft actor–critic (SAC) algorithm for resource-constrained AID systems. The proposed approach processes CGM data and makes insulin dosing decisions locally, without relying on external computing devices. To enable embedded deployment, a compressed SAC architecture with a lightweight encoder was developed using quantization-aware training and knowledge distillation, together with an online adaptation mechanism for individualized control. The controller was implemented on a resource-constrained microcontroller and evaluated in a hardware-in-the-loop framework using virtual patients from a T1D simulator. Results The proposed controller achieved an average time-in-range of 83% while maintaining real-time on-device execution with millijoule-level energy consumption per control step. Discussion These hardware-in-the-loop and in-silico results demonstrate the technical feasibility of real-time reinforcement learning-based insulin dosing and personalization on a resource-constrained embedded platform, while clinical efficacy and safety require further validation.",
+      "authors": "Jina Lee, Sung-Min Park",
+      "published": "2026-11-13",
+      "venue": "Frontiers in Digital Health",
+      "doi": "10.3389/fdgth.2026.1967489",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1967489/pdf",
+      "oa_url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1967489/pdf",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-15T21:51:50.446872+00:00",
+      "digest_day": "2026-11-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11421747/v1",
+      "title": "AI-Based Scenario Generation in Cyber Training Ranges: A Systematic Review",
+      "abstract": "Abstract Developing realistic scenarios for Cyber Training Ranges (CTRs) requires current threat information, suitable infrastructure, attack events, learning objectives, and consideration of trainee capability. Established scenario-generation approaches use manual design, simulation, templates, rules, attack graphs, and model-driven engineering, often requiring substantial expert effort to develop and update. Recent research has investigated Artificial Intelligence (AI) for scenario generation and training, including Machine Learning (ML), Reinforcement Learning (RL), and Large Language Models (LLMs). However, existing surveys provide fragmented coverage of AI across the scenario-generation lifecycle and have not systematically examined AI-specific threat intelligence, such as MITRE ATLAS, as a dedicated source for CTR scenarios. This paper presents a Systematic Literature Review (SLR) of embedding AI into CTR scenario generation, tracing the progression from non-AI approaches to ML, LLM-based, and agentic AI methods. It critically compares their advantages and limitations and examines Retrieval-Augmented Generation (RAG), agentic approaches, and AI threat intelligence-based attack scenarios. The literature indicates that AI can support scenario creation, automation, adaptation, and deployment, while important challenges remain in threat-data quality and currency, hallucinations, technical validation, reproducibility, interoperability, and alignment with training objectives. The review identifies these limitations and discusses research directions for more realistic, adaptable, and technically reliable cybersecurity training scenarios.",
+      "authors": "Purvi Mehta, Paul Black, Gour Karmakar, Paul Pang",
+      "published": "2026-11-13",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-11421747/v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11421747/latest.pdf",
+      "oa_url": "https://www.researchsquare.com/article/rs-11421747/latest.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-15T21:51:53.519663+00:00",
+      "digest_day": "2026-11-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24208662",
+      "title": "Agentic Physics: A Proposed Scientific Discipline and Conceptual Framework for Autonomous Investigation, Discovery, and Coordination of Physical Systems",
+      "abstract": "The development of artificial intelligence is creating new opportunities to transform scientific investigation, experimentation, modelling, and knowledge production. In physics, artificial intelligence has traditionally been applied to specialised activities, including numerical simulation, data analysis, pattern recognition, optimisation, experimental design, and prediction. However, recent developments in autonomous AI agents, multi-agent systems, scientific discovery platforms, and automated experimental laboratories indicate the emergence of a more integrated approach to conducting physics research. This paper proposes Agentic Physics as an interdisciplinary scientific field concerned with the development, investigation, application, and evaluation of goal-directed autonomous and semi-autonomous intelligent agents within physics research and physical systems. The proposed field extends beyond conventional AI-assisted computation by integrating physical knowledge, scientific reasoning, hypothesis development, experimental planning, computational modelling, physical execution, observation, validation, and continuous learning within coordinated workflows. The paper establishes a proposed scientific definition, research scope, disciplinary boundaries, research problem, knowledge gaps, scientific objectives, fundamental principles, theoretical foundations, mathematical representations, conceptual architecture, scientific constructs, operational models, applications, technological foundations, capabilities, challenges, and methodological directions. A preliminary taxonomy of Agentic Physics is also proposed, covering foundational, domain-specific, experimental, computational, and interdisciplinary specialisations. The central argument is that autonomous scientific agency can become an important organising principle for future physics research. However, its development must preserve the fundamental requirements of physics, including mathematical consistency, experimental validation, reproducibility, uncertainty quantification, scientific transparency, and human accountability. This paper does not propose replacing established physical laws or introducing a new fundamental physical theory. Instead, it establishes a proposed framework for understanding and systematically developing autonomous intelligence as an integrated component of physical investigation and scientific knowledge production.",
+      "authors": "Medhat Zohery",
+      "published": "2026-11-13",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24208662",
+      "arxiv_id": "",
+      "kind": "book-chapter",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24208662",
+      "oa_url": "https://doi.org/10.5281/zenodo.24208662",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-15T21:51:53.519663+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -2016,8 +2151,35 @@
       "abstract": "Generative Artificial Intelligence (GenAI) is transforming research by enabling new forms of discovery, automation, and collaboration. However, current AI ecosystems often lack transparency, reproducibility, and alignment with open science principles, raising concerns about data provenance, ethical use, and reliance on proprietary platforms. The recently approved European project, EOSC-ARENA (starting in June 2026), aims to create an independent, open, and agentic GenAI ecosystem integrated with the European Open Science Cloud (EOSC), supporting researchers across the entire research data lifecycle. Methodologically, EOSC-ARENA incorporates human-centered and responsible AI principles, with dedicated work packages focused on research integrity, ethics, and skills development. Building on the AI4EOSC platform, EOSC-ARENA will provide federated infrastructure for Federated GenAI model fine-tuning, scalable model serving, and trustworthy knowledge-augmentation services, including Retrieval-Augmented Generation and Model Context Protocols, across European e-infrastructures and EOSC Nodes. It will ensure model, data, and platform independence in line with the EU AI Act, FAIR principles, and EOSC policies. The project will validate its infrastructure through interdisciplinary use cases in life sciences, medical imaging and oncology, climate science, cosmology, materials science, food science, and research data management, aiming to improve data quality, FAIRness, and research productivity. A dedicated work package on research integrity, ethics, and responsible AI will develop cross-domain curricula, guidelines, and open educational resources, embedding human-centered, trustworthy, and reproducible practices into GenAI workflows. In this contribution, we present the EOSC-ARENA project, highlighting its vision, infrastructure, and planned agentic GenAI framework.",
       "authors": "Khadijeh Alibabaei, Lisana Berberi, Valentin Kozlov, A. Delipalta, Alvaro Lopez Garcia, Germán Moltó",
       "published": "2026-11-12",
-      "venue": "KITopen",
+      "venue": "Repository KITopen (Karlsruhe Institute of Technology)",
       "doi": "10.5445/ir/1000199069",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5445/ir/1000199069",
+      "oa_url": "https://publikationen.bibliothek.kit.edu/1000199069/195963817",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及AI workflow",
+      "fetched_at": "2026-11-15T21:51:56.708976+00:00",
+      "digest_day": "2026-11-16",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5130/pjx4c836",
+      "title": "A mixed review of research on the competencies of built environment professionals in infrastructure delivery within emerging economies",
+      "abstract": "This study employed a mixed-review approach that integrates bibliometric analysis with a systematic literature review (SLR) to synthesize evidence on the competencies required of built environment professionals in emerging economies. The method specifies the Scopus search strategy, inclusion and exclusion criteria, screening procedures, and quality checks, resulting in 59 eligible publications from an initial 185 records retrieved in May 2024. Bibliometric analysis (VOSviewer 1.6.20) identified publication trends, co-authorship networks, key keywords, and co-citation clusters, which informed the thematic focus of the SLR. The SLR synthesized findings into seven themes: (1) emerging critical skills, (2) competency-based curriculum, (3) technology infrastructure and assessment, (4) municipal competency training, (5) innovative skills for construction management graduates, (6) university–industry collaboration for the Fourth Industrial Revolution (4IR), and (7) pedagogical innovations and learning management systems. The study offers practical recommendations for curriculum developers, universities, and industry stakeholders and highlights the need for future empirical studies to validate the identified competency frameworks.",
+      "authors": "Molusiwa Ramabodu, Bamidele Arijeloye",
+      "published": "2026-11-12",
+      "venue": "Construction Economics and Building",
+      "doi": "10.5130/pjx4c836",
       "arxiv_id": "",
       "kind": "article",
       "review_status": "已发表；评审状态未核实",
@@ -2025,15 +2187,15 @@
       "sources": [
         "OpenAlex"
       ],
-      "url": "https://doi.org/10.5445/ir/1000199069",
-      "oa_url": "https://doi.org/10.5445/ir/1000199069",
+      "url": "https://epress.lib.uts.edu.au/journals/index.php/AJCEB/article/download/9845/8947",
+      "oa_url": "https://epress.lib.uts.edu.au/journals/index.php/AJCEB/article/download/9845/8947",
       "topic_ids": [
-        "productivity"
+        "research"
       ],
       "relevance": 46,
-      "reason": "摘要提及AI workflow",
-      "fetched_at": "2026-11-13T22:41:00.827041+00:00",
-      "digest_day": "2026-11-14",
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-15T21:51:53.519663+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -5461,8 +5623,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -5488,8 +5650,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -5515,8 +5677,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -5542,8 +5704,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 46
     },
@@ -5569,23 +5731,23 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-14T21:36:24.500603+00:00",
-      "digest_day": "2026-11-15",
+      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
+      "digest_day": "2026-11-16",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-14T21:42:29.833732+00:00",
+  "last_refresh": "2026-11-15T21:51:58.469214+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-14T21:32:20.409403+00:00",
-    "finished": "2026-11-14T21:42:29.834026+00:00",
+    "started": "2026-11-15T21:51:42.533866+00:00",
+    "finished": "2026-11-15T21:51:58.469526+00:00",
     "sources": {
-      "OpenAlex": 0,
+      "OpenAlex": 8,
       "Crossref": 1,
       "arXiv": 9
     },
-    "error": "OpenAlex: Request failed after retries；OpenAlex: Request failed after retries；OpenAlex: Request failed after retries；OpenAlex: Request failed after retries；OpenAlex: Request failed after retries"
+    "error": null
   },
   "configured_sources": [
     "OpenAlex",
@@ -5595,5 +5757,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-15T05:42:29.862067+08:00"
+  "generated_at": "2026-11-16T05:51:58.499563+08:00"
 }
