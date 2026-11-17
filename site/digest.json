@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "topics": [
     {
       "id": "governance",
@@ -466,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 70
     },
@@ -520,8 +520,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 70
     },
@@ -547,10 +547,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.26437/sqg2rw23",
+      "title": "Omnichannel Marketing Strategies in the Age of Artificial Intelligence: Customer Experience Personalisation and Sales Automation",
+      "abstract": "Purpose: The research objective is to develop an artificial intelligence-driven omnichannel marketing planning model to personalise customer interactions and optimise a company’s sales. Design/Methodology/Approach: The study combines systemic, process and economic-mathematical approaches. Customer journeys are mapped through deterministic identity mapping of events using stable identifiers (customer ID, loyalty ID, hashed e-mail, order ID). Eight contact points were selected. The Omnichannel Data Integration Index (ODII) includes six integration components and two error components. Component weights were obtained by the CRITIC method. Comparison of three planning modes on the same budget of USD 100,000: the baseline channel plan (S₀), independent channel optimisation by KPIs (S₁), and joint journey-based optimisation (S₂). Calculations used a control testing array covering a 12-month period, 8 channels, 3 segments and 3 offers. Research Limitation: The applicability of the results is limited by the accuracy of the input forecasts and the quality of customer data. Findings: The transition from autonomous channel estimation to analysis of identified customer routes distinguished between actual losses and cross-channel migration. Unlike the baseline S₀ mode, the artificial intelligence-driven S₂ mode increased the number of conversions by 13.9%, the marginal result by 11.0%, return on advertising spend by 11.9%, and the target function by 15.5%. Compared with the autonomous channel optimisation S1, the target function increased by 7.1%. Practical Implication. Marketing managers can use it to select contacts, personalise interactions, and allocate budgets. Social Implication: The approach supports more inclusive service provision and helps prevent the widening of the digital divide. Originality/Value: The originality lies in jointly considering information integration, cross-channel behaviour, automation, and the economic value of a company’s contact.",
+      "authors": "M. Kokhan, Oksana Zghurska, M. Lishchynskyi, Y. Pokanevych, Y. Kulibaba",
+      "published": "2026-11-15",
+      "venue": "African Journal Of Applied Research",
+      "doi": "10.26437/sqg2rw23",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.ajaronline.com/index.php/AJAR/article/download/2340/997",
+      "oa_url": "https://www.ajaronline.com/index.php/AJAR/article/download/2340/997",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalisation",
+      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
+      "digest_day": "2026-11-18",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.21203/rs.3.rs-11529712/v1",
@@ -2032,8 +2059,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 58
     },
@@ -2059,8 +2086,89 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-17T00:50:02.929168+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
+      "digest_day": "2026-11-18",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24284665",
+      "title": "Memory in AI systems: who writes it, who shares it, and what it cannot forget",
+      "abstract": "AI systems keep information beyond a single input in their weights, their context window, the caches of their serving systems, retrieval stores, the long-term memory of agents and assistants, the state of recurrent layers, and the hardware that holds all of these. This paper asks how these memories differ and how each can be made to leak, be corrupted or be turned against the system and its users. It compares seven kinds of memory on eight properties and reduces their attack surface to four: who can write to a memory, whom it is shared with, how long it keeps what it holds, and whether it can be made to forget. Four analyses test the comparison: an evidence map of 165 rows from 158 primary studies of attacks, defences and measured properties of memory, coded by memory, threat model and evidence level; the documented memory controls of 26 deployed assistants, frameworks, prompt caches and serving systems; 740 vulnerability records, selected from 2,077, and 50 incidents; and an inventory of 59 benchmarks. Attacks have been demonstrated on deployed products for every kind of memory except recurrent state, and their reach follows the sharing of each memory. In 7 of 8 assistants the model writes memory without being asked, in prompt caches and frameworks isolation is drawn at the vendor's customer rather than at the end user, and several assistants keep the memories derived from a chat after the chat is deleted. Of 114 study rows that test a defence, 38 test it against an adaptive attacker or prove a certified bound, and no benchmark covers serving caches or the hardware. The defences that held best under adaptive attack keep untrusted data out of the control flow or tie memory records to their sources instead of filtering content. The paper derives design principles from these findings: authorized writes, memory kept out of the instruction channel, isolation per end user, and deletion that follows every derived copy.",
+      "authors": "Ali Mohammadi Ruzbahani, Vahedi Zadeh Samin",
+      "published": "2026-11-16",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24284665",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24284665",
+      "oa_url": "https://doi.org/10.5281/zenodo.24284665",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及long-term memory",
+      "fetched_at": "2026-11-17T23:51:40.607339+00:00",
+      "digest_day": "2026-11-18",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1007/978-3-032-45467-6_6",
+      "title": "PONTE: Personalized Orchestration for Natural Language Trustworthy Explanations",
+      "abstract": "Explainable Artificial Intelligence (XAI) seeks to enhance the transparency and accountability of machine learning systems, yet most methods follow a one-size-fits-all paradigm that neglects user differences in expertise, goals, and cognitive needs. Although Large Language Models can translate technical explanations into natural language, they introduce challenges related to faithfulness and hallucinations. To address these challenges, we present PONTE ( P ersonalized O rchestration for N atural language T rustworthy E xplanations), a human-in-the-loop framework for adaptive and reliable XAI narratives. PONTE models personalization as a closed-loop validation and adaptation process rather than prompt engineering. It combines: (i) a low-dimensional preference model capturing stylistic requirements; (ii) a preference-conditioned generator grounded in structured XAI artifacts; and (iii) verification modules enforcing numerical faithfulness, informational completeness, and stylistic alignment, optionally supported by retrieval-grounded argumentation. User feedback iteratively updates the preference state, enabling quick personalization. Automatic and human evaluations across healthcare and finance domains show that the verification–refinement loop substantially improves completeness and stylistic alignment over validation-free generation. Human studies further confirm strong agreement between intended preference vectors and perceived style, robustness to generation stochasticity, and consistently positive quality assessments.",
+      "authors": "Vittoria Vineis, Matteo Silvestri, Lorenzo Antonelli, Filippo Betello, Gabriele Tolomei",
+      "published": "2026-11-16",
+      "venue": "Communications in computer and information science",
+      "doi": "10.1007/978-3-032-45467-6_6",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1007/978-3-032-45467-6_6",
+      "oa_url": "https://doi.org/10.1007/978-3-032-45467-6_6",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
+      "digest_day": "2026-11-18",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.64149/edm.v36i3.1371",
+      "title": "Artificial Intelligence-Enabled Digital Marketing Strategies for Enhancing Sales Conversion in E-Commerce: An Empirical and Analytical Investigation",
+      "abstract": "The rapid expansion of global e-commerce has intensified competition for consumer attention, rendering traditional demographic-segmented and rule-based marketing increasingly ineffective. Artificial Intelligence (AI) has emerged as a transformative paradigm in digital marketing, enabling firms to process high-velocity behavioral datasets and deliver hyper-personalized customer journeys in real time. While industry adoption of AI marketing tools is widespread, a substantial maturity gap persists between experimental deployment and fully scaled conversion optimization. This paper integrates a multi-stage analytical research design—combining psychometric Structural Equation Modeling (PLS-SEM) of consumer survey data ($N = 420$), econometric before-and-after funnel cohort modeling across retail deployments, and regression-based moderation analysis—to quantify how AI-enabled digital marketing drives sales conversion. Specifically, the study examines four core strategic pillars: neural recommendation engines, predictive programmatic acquisition, dynamic pricing optimization, and generative conversational AI. Analytical results demonstrate that Perceived Personalization significantly enhances Customer Experience Quality ($\\beta = 0.499, p < 0.001$) and Digital Marketing Effectiveness ($\\beta = 0.488, p < 0.001$), which jointly mediate downstream Purchase Intention and actual checkout conversion ($R^2 = 0.412$). Econometric cohort tracking further reveals a 23.4% to 31.0% relative lift in session-to-purchase conversion rates, a 27% reduction in bounce rates, and up to a 50% increase in Average Order Value (AOV) via real-time affinity bundling. However, moderation analysis confirms that perceived algorithmic opacity and privacy intrusion negatively attenuate conversion gains ($\\beta = -0.214, p < 0.01$). The study concludes with an actionable governance and MLOps framework for balancing algorithmic conversion efficiency with consumer trust.",
+      "authors": "Madhavi Kilaru, Dr D Mallikarjuna Reddy, Dr. R.S.Harish Kumar Varma, Dr. Snehalatha, Dr. M. Sujatha",
+      "published": "2026-11-16",
+      "venue": "Enterprise Development and Microfinance",
+      "doi": "10.64149/edm.v36i3.1371",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://papjournals.com/index.php/edm/article/download/1371/891",
+      "oa_url": "https://papjournals.com/index.php/edm/article/download/1371/891",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -2086,8 +2194,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-17T00:50:02.929168+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -2113,8 +2221,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-17T00:50:02.929168+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -5731,8 +5839,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -5758,8 +5866,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -5785,8 +5893,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -5812,8 +5920,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     },
@@ -5839,19 +5947,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
-      "digest_day": "2026-11-17",
+      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
+      "digest_day": "2026-11-18",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-17T00:50:15.068297+00:00",
+  "last_refresh": "2026-11-17T23:51:52.393668+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-17T00:49:57.111549+00:00",
-    "finished": "2026-11-17T00:50:15.068580+00:00",
+    "started": "2026-11-17T23:51:35.442435+00:00",
+    "finished": "2026-11-17T23:51:52.394041+00:00",
     "sources": {
-      "OpenAlex": 8,
+      "OpenAlex": 7,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -5865,5 +5973,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-17T08:50:15.098888+08:00"
+  "generated_at": "2026-11-18T07:51:52.426941+08:00"
 }
