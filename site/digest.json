@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "topics": [
     {
       "id": "governance",
@@ -92,6 +92,60 @@
       "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 82
+    },
+    {
+      "id": "doi:10.5281/zenodo.24241955",
+      "title": "enron-memory-replay: an agent memory replayed week by week through one mailbox of the Enron corpus",
+      "abstract": "An AI assistant's long-term memory, built week by week from one real mailbox, with every intermediate layer kept. One Enron employee's email (the kaminski-v mailbox of the public CMU Enron corpus: 11,523 messages, 30 November 1999 to 3 February 2002) is replayed in the order it arrived into a file-based agent memory (eleman: markdown files in git, a raw layer and a distilled layer). Each message is turned into short notes by a model; once per week of mail an unattended consolidation run distils the notes into the memory. The dataset holds every layer: the raw messages, the notes, the memory as it stood after each of the 122 consolidations (one git tag each), a ledger that says what happened to every message, and the full transcript and cost of every model run. It exists because work on agent memory needs a long, real, dated stream and a memory that really lived through it, where every distilled fact can be traced to its source and every loss is recorded. Messages replayed: 11,523 (5,689 sent by the mailbox owner, 5,834 received; 635 tagged bulk) Period: 1999-11-30 to 2002-02-03, 114 ISO weeks, 122 consolidation slices Capture verdicts: 8,250 durable, 3,273 not durable Durable messages: 7,951 kept in memory in the week they arrived, 299 dropped (3.6%), each with a class and a reason; none lost silently Memory at the end: 224 topic files, 776 people files, about 934,000 characters Model: Claude Opus 5.5 for every model call; model work at list price $242 for capture and $466 for the consolidations Files. enron-memory-replay-1.0.0.zip is the repository at v1.0.0. enron-memory-replay-1.0.0.bundle is a git bundle with the full history and every tag, including the 122 weekly snapshots sleep-001 to sleep-122 (git clone enron-memory-replay-1.0.0.bundle). The README describes the layers, how the data was prepared, how to use it, and its limitations. The data is used as it is, and it is about real people. The Enron mail was made public by the US Federal Energy Regulatory Commission in 2003 and has been distributed for research by Carnegie Mellon University since 2004. It is used here exactly as the CMU release of 2015 holds it: nothing is anonymised, redacted, corrected or filtered. The messages name real people and include private matters and, in a few messages, login details, as the public release does. The notes and the distilled memory are model-written statements about those people and can be wrong. Use the dataset for research on memory systems, not to learn about the individuals. To ask for the removal of content, open an issue on the GitHub repository; a removal is published as a new version. Licences. Data made for this dataset: CC BY 4.0. Code (dataset/tools/ and the eleman template): MIT. The text of the Enron messages comes from the CMU release; no rights are claimed over it.",
+      "authors": "Emre Akadal",
+      "published": "2026-11-15",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24241955",
+      "arxiv_id": "",
+      "kind": "dataset",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24241955",
+      "oa_url": "https://doi.org/10.5281/zenodo.24241955",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及agent memory",
+      "fetched_at": "2026-11-17T00:49:59.824951+00:00",
+      "digest_day": "2026-11-17",
+      "vote": 0,
+      "rank_score": 70
+    },
+    {
+      "id": "doi:10.5281/zenodo.24241304",
+      "title": "Digital Resources to Long-Term Agent Memory: Evaluating Memory Formation and Retrieval Across Heterogeneous Personal Knowledge",
+      "abstract": "The ability to retain and retrieve information from heterogeneous digital resources is an important requirement for long-term memory in intelligent agents. This paper evaluates different memory representation and retrieval approaches for organizing personal knowledge collected from multiple digital sources. The evaluated dataset contains 100 resources across five categories: webpages, video transcripts, GitHub repositories, research papers, and personal notes. Of these, 96 resources were successfully processed. A question set containing 150 questions was used, with 30 questions allocated for development and 120 for testing. Five approaches were compared: BM25 retrieval, dense retrieval-augmented generation (RAG), summary-based memory, structured-fact memory, and graph-linked memory. The evaluation considered retrieval effectiveness, answer accuracy, evidence support, fact extraction quality, provenance preservation, and storage and retrieval efficiency. Among the evaluated approaches, graph-linked memory achieved the highest retrieval performance, with a Recall@5 of 0.83, MRR of 0.70, and nDCG@5 of 0.76. It also achieved the highest answer accuracy at 77%. Structured-fact memory achieved the highest fact extraction F1-score of 0.90 and provenance score of 0.98, while requiring less storage and providing lower median retrieval latency than graph-linked memory. These findings illustrate the trade-offs between retrieval effectiveness, memory representation quality, and computational efficiency when building long-term memory from heterogeneous personal knowledge.",
+      "authors": "kishore sabavath, vansh, devansh",
+      "published": "2026-11-15",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24241304",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24241304",
+      "oa_url": "https://doi.org/10.5281/zenodo.24241304",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及agent memory",
+      "fetched_at": "2026-11-17T00:49:59.824951+00:00",
+      "digest_day": "2026-11-17",
+      "vote": 0,
+      "rank_score": 70
     },
     {
       "id": "doi:10.33774/coe-2026-4rlmv",
@@ -412,8 +466,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 70
     },
@@ -466,8 +520,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 70
     },
@@ -493,8 +547,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 70
     },
@@ -1978,8 +2032,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 58
     },
@@ -2005,8 +2059,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-15T21:51:50.446872+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.929168+00:00",
+      "digest_day": "2026-11-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.67317/ijmsrt26nov053",
+      "title": "Influence of Chatbots on Consumer Purchase Decision-Making in Luxury Products",
+      "abstract": "The rapid introduction of artificial intelligence into digital commerce has altered the way brands interact with their customers, particularly in the luxury sector, where personal contact and exclusivity are essential for adding value. Among the different technologies, chatbots have emerged as important tools since they allow for immediate communication, recommend products, and offer personalized help. This study examines how consumers view chatbots in the context of luxury products and develops a conceptual framework that links the features of chatbots – specifically responsiveness, personalization, anthropomorphism, and interactivity – with customers' intention to make a purchase through the intermediary effects of trust, perceived value, and emotional engagement. Unlike in the case of mass-market buying, luxury consumption is rooted in symbolic value, in the demonstration of status, and in the satisfaction obtained from the experience rather than simply in functionality, so the character of the digital interaction becomes particularly significant. An exploratory quantitative approach is used in the study, with a survey carried out of people who have used chatbot services on luxury websites. A Chi-square test of independence reveals a statistically significant relationship between the perception of chatbot design (to the extent that it appeared robotic) and the perception of ease of navigation, indicating that opinions about design and usability are related rather than independent. Since the sample size is small, this result is regarded as exploratory and indicative rather than conclusive, and the proposed connections between personalization, responsiveness, trust, perceived value, and purchase intention are given as a conceptual framework for future empirical research. The study makes a contribution by connecting research on artificial intelligence in marketing with theories of luxury consumption, thereby offering insights into how technology-based communication can be combined with prestige, craftsmanship, and exclusivity.",
+      "authors": "Monal Doomra",
+      "published": "2026-11-15",
+      "venue": "International Journal of Modern Science and Research Technology",
+      "doi": "10.67317/ijmsrt26nov053",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ijmsrt.com/storages/download-paper/IJMSRT26NOV053",
+      "oa_url": "https://ijmsrt.com/storages/download-paper/IJMSRT26NOV053",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-17T00:50:02.929168+00:00",
+      "digest_day": "2026-11-17",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1002/pd.70291",
+      "title": "What Patients are Reading About Prenatal Cell‐Free DNA: An Analysis of Leading Publicly Available AI‐Chatbots",
+      "abstract": "OBJECTIVE: To characterize the quality, consistency, and framing of information about prenatal cell-free DNA (cfDNA) screening generated by publicly available chatbots, including variation across simulated user age profiles. METHODS: We conducted a qualitative content analysis of outputs from three publicly available chatbots. To reduce carryover effects and personalization, prompts were entered using a VPN, private browsing, and cleared browser cookies. Outputs were generated using distinct simulated user age profiles. Analysis examined informational completeness, framing of benefits and limitations, terminology, source transparency, and age-related differences in responses. RESULTS: Chatbot outputs varied substantially across platforms and user profiles, with misinformation, omissions, and incomplete information identified. Common themes included inconsistent explanations of the purpose and scope of cfDNA screening, frequent omission of test limitations and downstream implications, and variable readability scores (at a 9th-14th grade level) and terminology that sometimes conflate screening with diagnostic testing. Citations to high-quality sources were limited or absent. Age-based profile variation was associated with differences in tone, complexity, and emphasis, suggesting implicit tailoring of information presentation. CONCLUSION: Publicly available chatbots may provide inaccurate or inconsistent information about cfDNA screening. As these tools are increasingly used outside clinical settings, improving accuracy, transparency, discussion of limitations, and source citation is essential to support reliable patient-facing health information.",
+      "authors": "Miller Finkelstein, Susannah Leigh Rose, Lenicia Jenkins, Christina Collart, Ruth M. Farrell",
+      "published": "2026-11-14",
+      "venue": "Prenatal Diagnosis",
+      "doi": "10.1002/pd.70291",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pd.70291",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pd.70291",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-17T00:50:02.929168+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -2032,8 +2140,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-15T21:51:50.446872+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.929168+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -2086,8 +2194,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-15T21:51:53.519663+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:06.286313+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -2113,8 +2221,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-15T21:51:53.519663+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:06.286313+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -5623,8 +5731,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -5650,8 +5758,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -5677,8 +5785,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -5704,8 +5812,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     },
@@ -5731,17 +5839,17 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-15T21:51:49.124028+00:00",
-      "digest_day": "2026-11-16",
+      "fetched_at": "2026-11-17T00:50:02.243661+00:00",
+      "digest_day": "2026-11-17",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-15T21:51:58.469214+00:00",
+  "last_refresh": "2026-11-17T00:50:15.068297+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-15T21:51:42.533866+00:00",
-    "finished": "2026-11-15T21:51:58.469526+00:00",
+    "started": "2026-11-17T00:49:57.111549+00:00",
+    "finished": "2026-11-17T00:50:15.068580+00:00",
     "sources": {
       "OpenAlex": 8,
       "Crossref": 1,
@@ -5757,5 +5865,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-16T05:51:58.499563+08:00"
+  "generated_at": "2026-11-17T08:50:15.098888+08:00"
 }
