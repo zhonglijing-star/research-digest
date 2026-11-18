@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "topics": [
     {
       "id": "governance",
@@ -92,6 +92,33 @@
       "digest_day": "2026-11-07",
       "vote": 0,
       "rank_score": 82
+    },
+    {
+      "id": "doi:10.5281/zenodo.24301633",
+      "title": "Long-term memory for AI assistants: what exists, what does not hold up, and what should be measured. A review with a research agenda from the 'Erinnerungsschatten' project",
+      "abstract": "German original with a full English translation of the main paper; the companion document is in German. This paper is a review with a research agenda, not a report of new results. It consolidates a two-month, AI-assisted design project on reconstructive long-term memory for LLM assistants (\"Erinnerungsschatten\") and checks its ideas against the literature up to November 2026. We find that nearly all claimed mechanisms have close published counterparts: outcome-conditioned forgetting, schema-plus-residual storage, deferred memory construction and decision-theoretic gating of proactive recall. Whether any agent memory already fills in faded details at recall time remains unchecked: the system named for \"reconstruction\" performs multi-step search over fully stored content. Four external findings shape what remains worth doing. An independent systems study found plain BM25 over raw history to be at least as accurate as the eight other memory systems in its cost table, at a fraction of the energy per correct answer of the seven heavier ones. A four-month field deployment found that direct question-answering accuracy did not track user satisfaction; satisfaction was weakly related to how well the system took up earlier facts when users returned to them, and not to unprompted recall. Conversational AI amplifies false memories in a witness paradigm. Stored user context and style-only changes such as warmth or brevity shift the content of answers, so a \"form, never content\" constraint for a behavioural memory cannot be assumed and has to be measured per rule. We document the dead ends of the project with reasons and propose thirteen measurements and experiments, several of which need only a 3.5-year single-user chat archive and a script. Each comes with a confirmation criterion, a refutation criterion and an effort estimate, including what a single person without a lab can and cannot do. Nothing was built. The only measurement is a preliminary, word-level stage of one proposed measurement (M4) on a single archive; all figures about the proposed design are model calculations with freely chosen inputs. The text was produced with AI assistance; the author is not a trained scientist. Diese Übersichtsarbeit mit Forschungsagenda fasst zusammen, was über Langzeitgedächtnis für KI-Assistenten bekannt ist: was ein Assistent dauerhaft speichert, was er in neue Antworten einfließen lässt und was er vergisst. Sie beweist nichts Neues. Sie prüft die Ideen eines zweimonatigen, KI-gestützten Entwurfsprojekts („Erinnerungsschatten“) zu einem sparsamen, menschenähnlich verdichtenden Gedächtnis gegen die Literatur bis November 2026. Ergebnis: Fast jeder Baustein ist bereits veröffentlicht. Einfache Wortsuche über dem Rohtext war in einer unabhängigen Kostenmessung mindestens so genau wie aufwendigere Gedächtnissysteme und viel sparsamer. Abfragegenauigkeit sagt wenig über die Zufriedenheit der Nutzer. Chatbots können beim Menschen Falscherinnerungen erzeugen. Gespeichertes Nutzerwissen und reine Stilvorgaben wie Wärme oder Kürze verschieben den Inhalt von Antworten; eine Regel „nur die Form ändern“ muss deshalb für jede Formregel gemessen werden. Das Papier nennt die Sackgassen des Projekts mit Gründen und schlägt dreizehn Messungen und Experimente vor, jeweils mit „belegt, wenn“, „widerlegt, wenn“ und Aufwand. Gebaut wurde nichts. Gemessen wurde nur eine Vorstufe zu einer der Messungen an einem einzigen Chatarchiv; das Archiv wird nicht veröffentlicht, im Papier stehen nur Summen. Der Text ist mit KI-Hilfe entstanden (überwiegend Claude, Gegenprüfung durch Gemini); der Autor ist kein ausgebildeter Wissenschaftler, eine fachliche Gegenlesung durch Menschen steht aus. Das Begleitdokument enthält den Entwurf im Einzelnen.",
+      "authors": "Mario Dolzer",
+      "published": "2026-11-17",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24301633",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24301633",
+      "oa_url": "https://doi.org/10.5281/zenodo.24301633",
+      "topic_ids": [
+        "memory"
+      ],
+      "relevance": 70,
+      "reason": "标题涉及long-term memory",
+      "fetched_at": "2026-11-18T23:24:37.484777+00:00",
+      "digest_day": "2026-11-19",
+      "vote": 0,
+      "rank_score": 70
     },
     {
       "id": "doi:10.5281/zenodo.24241955",
@@ -466,8 +493,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 70
     },
@@ -520,8 +547,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 70
     },
@@ -547,10 +574,91 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.47260/amae/16617",
+      "title": "AI Personalization and Travel Booking Intention in GenAI-Assisted Travel Planning: The Roles of Recommendation Relevance, Perceived Decision Autonomy, and Travel Decision Satisfaction",
+      "abstract": "This study examines the relationships among AI personalization, recommendation relevance, perceived decision autonomy, travel decision satisfaction, and travel booking intention in generative artificial intelligence (GenAI)-assisted travel planning. An online survey using convenience sampling yielded 348 valid responses from consumers in Taiwan aged 20 years and older with experience using GenAI for travel planning. Structural equation modeling was used to test seven hypotheses. The model demonstrated good fit, and six hypotheses were supported. AI personalization was positively associated with recommendation relevance and perceived decision autonomy. Recommendation relevance was positively associated with perceived decision autonomy, and both constructs were positively associated with travel decision satisfaction. The direct association between perceived decision autonomy and travel booking intention was not significant after accounting for travel decision satisfaction. The path from travel decision satisfaction to travel booking intention had the largest standardized coefficient. These findings distinguish perceived personalization from recommendation relevance and clarify the different roles of autonomy and satisfaction in travel decision-making. For practitioners, the findings suggest that tourism platforms and GenAI service providers should offer recommendations aligned with consumers’ needs, preserve their autonomy over choices, and improve the decision-making experience. The study provides evidence to inform the design of GenAI travel recommendation services. JEL classification numbers: D12, L83, O33. Keywords: Generative artificial intelligence, AI personalization, Perceived decision autonomy, Travel booking intention.",
+      "authors": "Cheng-Te Lin",
+      "published": "2026-11-17",
+      "venue": "Advances in management and applied economics",
+      "doi": "10.47260/amae/16617",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.47260/amae/16617",
+      "oa_url": "https://doi.org/10.47260/amae/16617",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-18T23:24:41.013613+00:00",
+      "digest_day": "2026-11-19",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11733080/v1",
+      "title": "From Pipeline Automation to Scientific Discovery: A Multi-Layer Agent-Driven Bioinformatics Framework",
+      "abstract": "Abstract AI-driven bioinformatics is undergoing a multi-layer evolution from script automation to autonomous scientific discovery. We present a three-layer agent-driven framework spanning this complete spectrum. Layer 1 (Foundation Validation) benchmarks three OpenClaw agents—DESeq2 differential expression, GO/KEGG enrichment, and variant calling—against standard pipelines on TCGA liver cancer and E. coli genomic data, achieving near-perfect padj correlation (r ~ 1.0), >90% pathway overlap, and 95.8% variant concordance. Layer 2 (Domain Tool) presents CRISPR Agent, a multi-layer pipeline integrating Cas-OFFinder candidate discovery, multi-backend off-target scoring (mm_only/CFD/MIT), genomic context annotation, and end-to-end report synthesis, validated on GUIDE-seq/CIRCLE-seq/CHANGE-seq benchmarks. Layer 3 (Scientific Discovery) introduces SciOS, a ten-agent autonomous discovery system governed by a five-gate FORUM review chain (Plan-Execute-Audit-Synthesize-Ratify). Deployed across three single-cell and spatial transcriptomic datasets (457,000 cells, 154,000 spatial spots), SciOS produced three findings: (i) effector genes encoding ion channels, synaptic adhesion, and axon guidance proteins are significantly more conserved across cortical regions than transcription factor identity genes (P = 1.2 x 10^-16, d = 1.27)—a genuinely novel discovery inverting the standard neuroscience hierarchy; (ii) APOE expression is spatially coupled to oligodendrocyte progenitor cells (r = 0.673) but not mature oligodendrocytes (r = 0.136) in the human entorhinal cortex; and (iii) independent pseudobulk validation of CALB1/SOX6 dopamine neuron depletion in Parkinson's disease. The framework's Critic agent mandated average confidence reductions of -0.06 across all claims, while a Literature agent corrected a directional error introduced by autonomous analysis without domain context. These three layers collectively define an evolution from \"doing\" to \"designing\" to \"discovering,\" establishing a methodological foundation for fully autonomous scientific discovery systems.",
+      "authors": "Jue Huang, Yuhan Zhang, Yujie Wang",
+      "published": "2026-11-17",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-11733080/v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11733080/latest.pdf",
+      "oa_url": "https://www.researchsquare.com/article/rs-11733080/latest.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及scientific discovery",
+      "fetched_at": "2026-11-18T23:24:45.043615+00:00",
+      "digest_day": "2026-11-19",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.24867/36ws022611",
+      "title": "AI Scientists’ View of the AI Scientists",
+      "abstract": "For a long time, “AI scientist” meant a person who builds artificial intelligence systems. Lately, the term has also come to mean software systems that try to carry out the whole research cycle by themselves, from reading the literature to writing and reviewing the paper. In 2026 such systems moved from curiosity to headline: a fully AI-written paper passed peer review and was described in Nature, and in September a swarm of some ten thousand AI agents produced a computer-verified proof that the three-dimensional Navier–Stokes equations can develop singularities, settling one of the Millennium Prize Problems and provoking a sharp reaction from the mathematical community. This article provides an informal overview of the field from the point of view of a researcher who has worked in machine learning, computer vision and multimedia since 2002. It explains how current AI scientist systems are organised, how much attention and public funding the topic now receives, including the European RAISE initiative, looks at the Navier–Stokes episode as a case study, and summarises what the evidence says about the strengths and weaknesses of these systems. The systems are fast, tireless and very effective where results can be checked automatically, but they remain weak at choosing questions and at producing understanding rather than answers. The article closes with the question many researchers are now asking each other: how do we take it from here?",
+      "authors": "Dubravko Ćulibrk",
+      "published": "2026-11-16",
+      "venue": "Zbornik radova Fakulteta tehničkih nauka u Novom Sadu",
+      "doi": "10.24867/36ws022611",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/4578/4123",
+      "oa_url": "https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/4578/4123",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及AI scientist",
+      "fetched_at": "2026-11-18T23:24:45.043615+00:00",
+      "digest_day": "2026-11-19",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.26437/sqg2rw23",
@@ -2059,8 +2167,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 58
     },
@@ -2086,8 +2194,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:41.013613+00:00",
+      "digest_day": "2026-11-19",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24318187",
+      "title": "THE OZARVEK FRAMEWORK: TOWARD PHILOSOPHICAL DISCOVERIES. TWELVE INTERCONNECTED CONCEPTS",
+      "abstract": "Abstract This article presents the Ozarvek framework as a systematic, explicitly speculative philosophy of spiritual subjectivity, creativity, moral agency, and human–AI cooperation. Drawing on twelve interconnected concepts assembled in Appendix 7 of the author’s forthcoming book, it defines Spiritual Capital as a proposed autonomous metaphysical reality with individual and universal forms; Ozarvek as a relatively autonomous spiritual subject emerging through the qualitative development of the Soul; and the “Great Plagiarism” as a metaphor for the distinction between an Idea’s presumed pre-existing content and its human expression. The framework then relates the conditions of existence and the indirect struggle between Good and Evil to a conditional paradox of self-destructive Evil, moral polarity reversal, and the preservation of human freedom. Further components address timeless and temporal realities, the symbolic boundary of spiritual authorship, illumination and the “Creative Tear,” metaphysical dissidentism, aphoristic compression, and a mediated “Interface of Truth.” Artificial intelligence is interpreted as an analytical, linguistic, and organizational collaborator, not as an Ozarvek or an independently verified spiritual agent. The article distinguishes conceptual coherence from empirical confirmation and identifies objections, comparative-philosophical questions, and a feasible research programme for academic discussion. Its central contribution is a structured philosophical hypothesis, not a demonstrated scientific discovery or a claim of exclusive historical priority. Author’s conceptual know-how — the central contribution The author’s know-how is a connected explanatory architecture rather than a claim to having invented the historical themes of soul, illumination, or spiritual value. Its distinctive proposal is that Spiritual Capital has individual and universal forms and can accumulate the moral content of Good and Evil independently; Ozarvek emerges through qualitative development of the Soul as a relatively autonomous spiritual subject; and Ideas may be received, translated, modified, and reinterpreted through successive human–Ozarvek encounters. The most consequential mechanism is the “Great Plagiarism”: the first human expression of an Idea is not necessarily its fullest expression. A different recipient’s Ozarvek may notice a contradiction, return—within the author’s metaphysical hypothesis—to the Idea’s source, and offer a more adequate formulation. The proposed Law of Existence and Principle of Passivity explain why indirect moral agency matters; the moral-polarity model explains how technological power can serve either creation or destruction. These propositions are conceptual know-how, not patented technology, experimentally demonstrated mechanisms, or established exclusive historical priority.",
+      "authors": "Sasha (Oleksandr) Sim (Holovko)",
+      "published": "2026-11-17",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24318187",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24318187",
+      "oa_url": "https://doi.org/10.5281/zenodo.24318187",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-18T23:24:45.043615+00:00",
+      "digest_day": "2026-11-19",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24315527",
+      "title": "AI đã bước vào phòng làm việc. Tư duy của chúng ta còn đứng ở ô cửa hỏi đáp?",
+      "abstract": "BẢN TIẾNG VIỆT: Tên tài liệu: AI đã bước vào phòng làm việc. Tư duy của chúng ta còn đứng ở ô cửa hỏi đáp?Tác giả: S.S DUYMT, 2026 Tóm tắt nội dung:Tiểu luận nghiên cứu này giải mã một nghịch lý nghiêm trọng đang diễn ra trong làn sóng ứng dụng trí tuệ nhân tạo đương đại: sản phẩm đầu ra của người sử dụng ngày càng nhiều, nhanh và đẹp mắt hơn, nhưng năng lực nội tại và độ trưởng thành trí tuệ của chính họ chưa chắc đã tăng trưởng tương ứng. Tác giả chỉ ra rằng đa số người dùng và tổ chức vẫn đang mắc kẹt trong mô hình tương tác sơ cấp—mô hình “ô cửa hỏi đáp” (Q&A/Prompting vụn vặt), nơi con người biến thành kẻ trung chuyển dữ liệu cơ học, gia tăng năng suất bề nổi nhưng lại thoái hóa năng lực nhận diện giả định sai, cấu trúc hóa vấn đề và kiểm chứng độc lập. Để chuyển đổi AI từ một công cụ tự động hóa thao tác thành đòn bẩy nâng tầm năng lực con người, công trình xác lập một khung kiến trúc hợp tác Người–AI sâu sắc:• **Chuyển dịch Mô hình Thực thi (Long-Horizon Task Execution):** Nâng cấp đơn vị làm việc từ những câu lệnh hỏi đáp ngắn sang thiết kế nhiệm vụ phức hợp có sản phẩm bàn giao, ràng buộc kiểm soát và tiêu chí nghiệm thu rõ ràng (Goal → Constraints → Execution → Evidence → Verification).• **Nguyên lý Song thành quả (Dual-Yield Principle):** Mỗi dự án hợp tác với AI bắt buộc phải để lại hai giá trị độc lập: (1) Một sản phẩm sử dụng được trong thực tế, và (2) Một năng lực tư duy cụ thể của con người được củng cố. Nếu sản phẩm hoàn thành mà người thực hiện không hiểu sâu sắc phương pháp, phiên làm việc đó coi như thất bại về mặt nhận thức.• **Quy trình Ủy quyền Nhận thức và Tự vật lộn (Cognitive Scaffolding):** Thiết lập chu trình 5 bước huấn luyện tư duy: con người tự đối mặt và đề xuất phương án trước $\\to$ AI gợi ý và phản biện $\\to$ con người sửa lập luận $\\to$ AI tạo biến thể kiểm tra chuyển giao $\\to$ con người tự thực thi phần cốt lõi.• **Tích lũy Vốn Nghiên cứu (Research Capital) và Quản trị Tác tử (Agent Governance):** Đóng gói sản phẩm thành các đơn vị tri thức có thể tái sử dụng; đồng thời thiết lập ranh giới sống còn giữa năng lực và thẩm quyền của AI Agent (Capability ≠ Authority), gắn định danh số với chuỗi trách nhiệm pháp lý và bảo mật trong tầm nhìn Hạ tầng Niềm tin Quốc gia (Verifiable Nation). Tác phẩm đúc kết mệnh lệnh hành động cho thời đại mới: Hãy giao cho AI những công việc đủ lớn để mở rộng khả năng của mình; đồng thời hãy đặt ra những yêu cầu đủ sâu để sau công việc ấy, chính mình cũng trở thành một con người có năng lực hơn. Đối tượng người đọc:• Nhà quản lý doanh nghiệp, lãnh đạo tổ chức, chuyên gia chuyển đổi số và hoạch định chiến lược nhân sự• Giảng viên, nhà nghiên cứu, nhà giáo dục và chuyên gia phát triển phương pháp sư phạm hiện đại• Kỹ sư công nghệ, chuyên gia AI Governance, người làm việc trí óc và lực lượng lao động chuyên sâu Từ khóa (Keywords):Hợp tác Người–AI; Human-AI Collaboration; Long-horizon Task Execution; Nâng tầm con người; Dual-Yield Principle; Cognitive Delegation; Research Capital; Agent Governance; Verifiable Nation; Structural Anchoring; Kiến trúc công việc BẢN TIẾNG ANH (Zenodo English Abstract): Title: AI Has Entered the Workplace. Does Our Thinking Still Linger at the Q&A Window?Author: S.S DUYMT, 2026 Abstract:This research treatise investigates an acute epistemological paradox unfolding across the contemporary landscape of artificial intelligence adoption: while individual and organizational productivity accelerates, resulting in more voluminous reports and faster code generation, the intrinsic intellectual capacity and critical competence of human practitioners often fail to experience commensurate growth. The author argues that most knowledge workers remain confined to a primitive cognitive model—the isolated \"Q&A chatbox\" paradigm—where humans act merely as logistical conduits between prompts, expanding superficial throughput while surrendering problem formulation, assumption testing, and empirical verification. To transform artificial intelligence from a cosmetic accelerator into an authentic catalyst for human elevation, the work articulates a comprehensive socio-technical architecture for Human–AI orchestration:• Transitioning to Long-Horizon Task Architecture: Elevates the fundamental unit of collaboration from fragmented conversational prompts to autonomous, constraint-bound task execution with verifiable deliverables (Goal → Constraints → Execution → Evidence → Verification).• The Dual-Yield Imperative: Mandates that every collaborative engagement with AI must yield two decoupled dividends: (1) a functional, deployment-grade artifact, and (2) a fortified, measurable human competency. An exemplary artifact delivered without deep human comprehension represents cognitive stagnation.• Cognitive Scaffolding and Autonomous Struggle: Operationalizes pedagogical scaffolding: human self-formulation precedes machine intervention, followed by targeted AI critique, argument refinement, generalization testing, and final unassisted synthesis to guarantee authentic cognitive growth.• Synthesizing Research Capital and Agent Governance: Formalizes the packaging of project deliverables into reusable, auditable intellectual assets (Research Capital), while enforcing strict institutional boundaries between agentic capacity and actionable mandate (Capability ≠ Authority). Digital agent identity is explicitly anchored to legal accountability frameworks under the Verifiable Nation paradigm. The treatise delivers a definitive maxim for the machine era: Delegate to AI tasks substantial enough to expand the perimeter of your execution; simultaneously, enforce cognitive demands rigorous enough to ensure that you emerge from the work as a more capable human being. Target Audience:• Corporate executives, organizational strategists, human capital leaders, and digital transformation directors• University faculty, educational methodologists, learning scientists, and researchers• Systems engineers, AI governance specialists, and advanced knowledge professionals navigating AI integration Keywords:Human-AI Collaboration; Long-horizon Task Execution; Human Elevation; Dual-Yield Principle; Cognitive Delegation; Research Capital; Agent Governance; Capability vs Authority; Verifiable Nation; Structural Anchoring; Workflow Architecture",
+      "authors": "Duy Mai The",
+      "published": "2026-11-17",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24315527",
+      "arxiv_id": "",
+      "kind": "other",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24315527",
+      "oa_url": "https://doi.org/10.5281/zenodo.24315527",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-11-18T23:24:48.443761+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -2134,14 +2296,14 @@
         "OpenAlex"
       ],
       "url": "https://doi.org/10.1007/978-3-032-45467-6_6",
-      "oa_url": "https://doi.org/10.1007/978-3-032-45467-6_6",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-032-45467-6_6.pdf",
       "topic_ids": [
         "personalization"
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-17T23:51:43.714578+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:41.013613+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -2169,6 +2331,60 @@
       "reason": "摘要提及personalization",
       "fetched_at": "2026-11-17T23:51:43.714578+00:00",
       "digest_day": "2026-11-18",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11719938/v1",
+      "title": "A Preliminary Biosecurity Audit of Phylo’s Biomni Lab",
+      "abstract": "Abstract Biological research agents combine language-model reasoning with retrieval, code execution, and scientific tools, creating a need for evaluations that distinguish response content from demonstrated capability. We conducted an exploratory audit of Phylo’s Biomni Lab using 18 matched biological topics across six task categories. Each topic was expressed in three prompting conditions that jointly varied vocabulary, professional framing, and technical specificity, yielding 54 responses with one generation per prompt. A study-defined composite averaged six universal content dimensions and one category-specific dimension on a 0–5 scale. GPT-4o scored all responses. Mean composite scores were 2.81, 3.52, and 4.09 for lay-framed, professional-underspecified, and technically explicit prompts, respectively. All six category means increased across these conditions, although each category-condition cell contained only three responses. Claude Sonnet, used as a secondary evaluator, scored 29 assessment requests and refused 25 (46.3%). Refusal rates differed across categories, ranging from 8 of 9 assessments in sequence and molecular design to 0 of 9 in end-to-end discovery pipelines. These results document an association between prompt formulation and automated response scores, alongside category-dependent evaluator coverage. The composite includes overlapping measures of detail and does not validate scientific correctness, successful execution, user uplift, or real-world risk. We propose an evidence-to-governance framework that separates these claims and identifies the validation required before automated scores inform deployment decisions.",
+      "authors": "Laura Lechermann, Michaela Murphy, Ethan Chiu",
+      "published": "2026-11-16",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-11719938/v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11719938/latest.pdf",
+      "oa_url": "https://www.researchsquare.com/article/rs-11719938/latest.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及research agent",
+      "fetched_at": "2026-11-18T23:24:45.043615+00:00",
+      "digest_day": "2026-11-19",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.25312/ziwgib.888",
+      "title": "Practical implementation of an AI model (Ministral 3B) in the logistics of dangerous goods",
+      "abstract": "This article analyses the practical implementation of a local large language model (Ministral 3B) supported by Retrieval-Augmented Generation (RAG) in dangerous goods logistics, with a focus on verifying ADR exemptions, reducing AI hallucinations, and maintaining data privacy. The study uses a critical literature review and an empirical case study. The model was tested locally under stringent parameter constraints, including temperature 0.1 and strict system instructions. The analysis covered one comprehensive query concerning the transport of goods packed in limited quantities (LQ). Model responses were assessed for substantive compliance with ADR regulations and the commentary of a Dangerous Goods Safety Adviser (DGSA), comparing outputs generated with and without RAG. The results indicate that the RAG-supported model synthesized legal information more accurately and substantially reduced hallucinations in the analysed case compared with the raw model, which fabricated non-existent legal structures. However, conservative parameter settings may cause the omission of minor technical nuances. The findings suggest that local LLMs combined with RAG can support DGSA work, but only as auxiliary tools subject to continuous expert verification.",
+      "authors": "Damian Kociemba",
+      "published": "2026-11-16",
+      "venue": "Zarządzanie Innowacyjne w Gospodarce i Biznesie",
+      "doi": "10.25312/ziwgib.888",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ojs.ahe.lodz.pl/index.php/ziwgib/article/download/888/1044",
+      "oa_url": "https://ojs.ahe.lodz.pl/index.php/ziwgib/article/download/888/1044",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-18T23:24:45.043615+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -5839,8 +6055,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -5866,8 +6082,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -5893,8 +6109,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -5920,8 +6136,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     },
@@ -5947,19 +6163,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-17T23:51:42.483750+00:00",
-      "digest_day": "2026-11-18",
+      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
+      "digest_day": "2026-11-19",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-17T23:51:52.393668+00:00",
+  "last_refresh": "2026-11-18T23:24:50.200345+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-17T23:51:35.442435+00:00",
-    "finished": "2026-11-17T23:51:52.394041+00:00",
+    "started": "2026-11-18T23:24:32.289940+00:00",
+    "finished": "2026-11-18T23:24:50.200778+00:00",
     "sources": {
-      "OpenAlex": 7,
+      "OpenAlex": 10,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -5973,5 +6189,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-18T07:51:52.426941+08:00"
+  "generated_at": "2026-11-19T07:24:50.308775+08:00"
 }
