@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "topics": [
     {
       "id": "governance",
@@ -493,8 +493,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 70
     },
@@ -547,8 +547,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 70
     },
@@ -574,8 +574,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 70
     },
@@ -628,8 +628,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-11-18T23:24:45.043615+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:33.408315+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 58
     },
@@ -2167,10 +2167,37 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 58
+    },
+    {
+      "id": "OpenAlex:https://openalex.org/W7222909312",
+      "title": "When AI Codes Faster Than Workers Can Verify: Epistemic Debt in Vibe Coding",
+      "abstract": "Agentic coding systems now produce software faster than the workers accountable for it can read, evaluate, or trace. We theorize this shift through epistemic debt: the latent stock of work artifacts whose verification has been deferred by an accountable worker in a human-AI collaboration. We formulate the construct for AI-mediated knowledge work, distinguish three strategies — accept, negate, triage — for managing it, and examine it through 40 controlled Claude Code sessions, a repair experiment on 32 programs, a thematic analysis of 4,570 Reddit items, and six recorded sessions. We found that a community-derived constraint prompt produced a small, non-significant reduction in drift. The repair experiment showed when debt becomes consequential: repair burden rose when a fix required relational knowledge the code could not supply. The corpus reveals a 15-practice repertoire dominated by selective verification (92% triage). Tools and institutions designed for verification, not only production, are the next frontier.",
+      "authors": "S Zhang, Jeffrey V. Nickerson",
+      "published": "2026-12-14",
+      "venue": "AIS Electronic Library (AISeL)",
+      "doi": "",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://aisel.aisnet.org/context/icis2026/article/1045/viewcontent/3321_doc.pdf",
+      "oa_url": "https://aisel.aisnet.org/context/icis2026/article/1045/viewcontent/3321_doc.pdf",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-11-19T23:36:36.381177+00:00",
+      "digest_day": "2026-11-20",
+      "vote": 0,
+      "rank_score": 46
     },
     {
       "id": "doi:10.69980/jns7m743",
@@ -2194,8 +2221,62 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-18T23:24:41.013613+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:30.015466+00:00",
+      "digest_day": "2026-11-20",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.21203/rs.3.rs-11771581/v1",
+      "title": "A cold-start self-evolving multi-agent intelligence for closed-loop prediction from materials synthesis to performance",
+      "abstract": "Abstract Large language models (LLMs) are increasingly used to propose materials and plan experiments1–3, but whether they can predict previously unreported syntheses and the structures and performance of the resulting products before experimental validation remains unclear. Here we test this capability using a multi-agent framework of general-purpose, unfine-tuned LLMs that enables cross-disciplinary collaboration, with an AI scientist coordinating chemistry, materials science and electrochemistry agents to performance closed-loop predictions of the reaction process, crystal phase and battery performance of TiO2 anodes synthesized by a previously unreported rapid Joule-heating route. The agents predicted 64 conditions blind in eight rounds and, after each round, rewrote natural-language Skills from the released measurements. A task-matched team predicted the reaction process and phase in 91.7% and 82.8% accuracy, with errors concentrated near sharp transitions, whereas quantitative predictions of rate-capability and long-cycle performance achieved accuracies of 59.2% (72.3% for anatase-rich products) and 68.1%, within ±30% of experimental values. Revised Skills raised accuracy on identical conditions in most matched tests, and rewriting Skills without new measurements did not. A complete prediction chain cost ~US$0.27 per condition. These results indicate that LLM predictions could replace exploratory trials under conditions far away from sharp transitions, pointing to a prediction-first research paradigm.",
+      "authors": "Kunlei Zhu, Tao Li, Xueyang Cheng, Shaoqi Mao, Yingxue Ren, Shimiao Sun",
+      "published": "2026-11-18",
+      "venue": "Research Square",
+      "doi": "10.21203/rs.3.rs-11771581/v1",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.researchsquare.com/article/rs-11771581/latest.pdf",
+      "oa_url": "https://www.researchsquare.com/article/rs-11771581/latest.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及AI scientist",
+      "fetched_at": "2026-11-19T23:36:33.408315+00:00",
+      "digest_day": "2026-11-20",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24338890",
+      "title": "The Universal Self-Collaborative-Human Adaptive Search Framework: A Unified Architecture for Self-Directed Search, Multi-Model Collaborative Search, Human Search, and Adaptive Mechanism Switching",
+      "abstract": "Search is a fundamental capability of intelligent systems, supporting information acquisition, candidate exploration, hypothesis discovery, solution generation, problem solving, and decision-making. Existing research has investigated various forms of individual search, including autonomous search by individual artificial intelligence models, collaborative search involving multiple agents, and human-directed information seeking. However, these approaches are frequently developed and evaluated through different architectural assumptions, and a general framework that integrates individual model search, multi-model collaborative search, and human search while dynamically determining which approach should be employed remains an important research direction. This paper proposes the Universal Self-Collaborative-Human Adaptive Search Framework (USCHASF), a general theoretical architecture for organizing search activities across artificial intelligence models, autonomous agents, human individuals, and heterogeneous human–artificial participant configurations. The framework establishes three fundamental search dimensions: Self-Search, in which an individual model or participant independently explores candidate answers, hypotheses, information sources, or solution spaces; Collaborative Search, in which multiple models or artificial agents distribute, coordinate, parallelize, exchange, and integrate search activities; and Human Search, in which human individuals or groups independently perform, direct, guide, expand, or participate in search processes. Its central contribution is the integration of Universal Adaptive Search Selection, Adaptive Search Mechanism Switching, Adaptive Search Combination, and Adaptive Search Reconfiguration. Rather than permanently relying on one search configuration, a system can select Self-Search, Collaborative Search, Human Search, or hybrid configurations according to task complexity, search progress, information uncertainty, evidence coverage, search quality, participant capabilities, resource availability, and operational constraints. It can also transition between search mechanisms during an ongoing search process, increase or reduce participant involvement, and reorganize search responsibilities as new requirements emerge. The framework further distinguishes search objectives, search spaces, search strategies, search participants, search mechanisms, and search configurations, enabling a mechanism-independent representation applicable to information retrieval, scientific discovery, knowledge exploration, hypothesis generation, web search, database exploration, reasoning, planning, and optimization. A formal model, adaptive decision architecture, switching policy, operational lifecycle, theoretical propositions, evaluation methodology, and governance principles are developed. To the best of our knowledge, this paper is the first to formally unify Self-Search, Collaborative Search, and Human Search within a general architecture that explicitly integrates adaptive search selection, dynamic switching, combination, and structural reconfiguration across heterogeneous human and artificial participants. The framework establishes a theoretical foundation for developing search systems that can dynamically determine not only what to search for, but also who should search, how search should be organized, and when the search mechanism should change.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-11-18",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24338890",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24338890",
+      "oa_url": "https://doi.org/10.5281/zenodo.24338890",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-19T23:36:33.408315+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -2221,8 +2302,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-18T23:24:45.043615+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:33.408315+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -2248,8 +2329,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-18T23:24:48.443761+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:36.381177+00:00",
+      "digest_day": "2026-11-20",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1002/mar.70306",
+      "title": "Different Strokes for Different Folks: Exploring Algorithmic Fairness and Trust in Generative Artificial Intelligence",
+      "abstract": "ABSTRACT Generative artificial intelligence (GenAI) is widely used to personalize recommendations, yet questions remain about the representativeness of algorithmic recommendations to recognize diverse consumer needs. This research integrates the stimulus‐organism‐response model and social identity theory to inform how personalization influences recommendation acceptance through algorithmic fairness and trust and how communication style affects these processes, which may differ between ethnic groups. Using a sequential explanatory design, Study 1 ( n = 136) shows that high personalization increases recommendation acceptance, perceived algorithmic fairness and trust compared with low personalization based on an experiment. Study 2 ( n = 300) identifies a positive sequential indirect effect through algorithmic fairness and trust, with competence‐oriented communication producing a stronger effect than warmth‐oriented communication based on an experiment. Study 3 ( n = 340) further reveals differences in these relationships across ethnic groups using a quasi‐experiment. Study 4 ( n = 14) employs semi‐structured interviews to contextualize these findings and explore the underlying reasoning. Theoretically, the findings extend GenAI personalization literature by identifying fairness and trust as key pathways to recommendation acceptance and highlighting ethnic differences in these processes. Practically, the findings guide strategies for GenAI developers to create more equitable and context‐sensitive design across diverse consumers.",
+      "authors": "Jennifer Yee‐Shan Chang, Weizheng Zhang, Whitney Estanita Vernes, Jun‐Hwa Cheah",
+      "published": "2026-11-17",
+      "venue": "Psychology and Marketing",
+      "doi": "10.1002/mar.70306",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mar.70306",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mar.70306",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-19T23:36:30.015466+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -6055,8 +6163,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -6082,8 +6190,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -6109,8 +6217,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -6136,8 +6244,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     },
@@ -6163,19 +6271,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-18T23:24:39.749443+00:00",
-      "digest_day": "2026-11-19",
+      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
+      "digest_day": "2026-11-20",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-18T23:24:50.200345+00:00",
+  "last_refresh": "2026-11-19T23:36:39.005256+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-18T23:24:32.289940+00:00",
-    "finished": "2026-11-18T23:24:50.200778+00:00",
+    "started": "2026-11-19T23:36:21.807702+00:00",
+    "finished": "2026-11-19T23:36:39.021767+00:00",
     "sources": {
-      "OpenAlex": 10,
+      "OpenAlex": 8,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -6189,5 +6297,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-19T07:24:50.308775+08:00"
+  "generated_at": "2026-11-20T07:36:39.057512+08:00"
 }
