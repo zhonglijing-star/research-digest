@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "topics": [
     {
       "id": "governance",
@@ -493,8 +493,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 70
     },
@@ -547,8 +547,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 70
     },
@@ -574,10 +574,37 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 70
+    },
+    {
+      "id": "doi:10.35429/jsetm.2026.10.16.1.1.10",
+      "title": "Adaptive learning via digital platforms for the personalization of foreign language learning",
+      "abstract": "Nowadays, tailoring instruction to the individual student through digital resources is no longer a novelty, particularly in English as a Foreign Language [EFL] classes. It is common to find platforms that adjust difficulty levels based on user interactions. To understand how this works in practice, 96 university students were monitored over 16weeks, using questionnaires and interviews for data collection. The results showed a favorable reception of the tools used, largely because they enabled students to progress at their own pace, receive instant feedback, become more independent in their studies, and maintain high levels of motivation. However, the students noted that teacher guidance remains essential throughout the instructional process, as technology serves merely as a complement.",
+      "authors": "Norma Flores-González, Vianey Castelán-Flores, Mónica Zamora-Hernández, Efigenia Flores-González",
+      "published": "2026-12-30",
+      "venue": "Journal Schools of Economic Thought and Methology",
+      "doi": "10.35429/jsetm.2026.10.16.1.1.10",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.35429/jsetm.2026.10.16.1.1.10",
+      "oa_url": "https://doi.org/10.35429/jsetm.2026.10.16.1.1.10",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及personalization",
+      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
+      "digest_day": "2026-11-21",
+      "vote": 0,
+      "rank_score": 58
     },
     {
       "id": "doi:10.47260/amae/16617",
@@ -763,8 +790,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-13T22:40:54.764674+00:00",
-      "digest_day": "2026-11-14",
+      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 58
     },
@@ -2167,8 +2194,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 58
     },
@@ -2194,8 +2221,143 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-19T23:36:36.381177+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:28.037830+00:00",
+      "digest_day": "2026-11-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.64540/k969r880",
+      "title": "Reconstructing The Concept Of Self Actualisation In Artificial Intelligence Based Learning : An Integrative Literature Review",
+      "abstract": "The development of Generative Artificial Intelligence (GenAI) has transformed the learning ecology by positioning AI as a cognitive partner that supports personalisation, feedback, problem-solving, and creativity. This transformation necessitates a reconstruction of the concept of self-actualisation, as some human cognitive activities can be delegated to AI. This study aims to analyse the transformation of self actualisation, identify the conditions that strengthen or hinder it, and formulate a conceptual framework for self-actualisation in AI-based learning. This study employs a qualitative library research approach using an integrative literature review design. The findings indicate that GenAI is paradoxical in nature: it can serve as a cognitive scaffold that strengthens autonomy, competence, self-regulation, creativity, metacognition, and epistemic agency, while also potentially encouraging cognitive offloading, dependence, and the weakening of cognitive autonomy. This study proposes the Reflective-Relational Self Actualisation Framework in AI Learning Ecologies (RRSA-AILE), which encompasses autonomy, competence, relatedness, epistemic agency, metacognitive reflexivity, generative creativity, and ethical responsibility. Theoretically, RRSA-AILE integrates humanism, Self-Determination Theory, Self-Regulated Learning, and learner agency. Practically, the framework provides a foundation for AI-enhanced learning that is augmentative, reflective, and centred on human agency.",
+      "authors": "Ahmad Mujahidin, Ahsan Hakim",
+      "published": "2026-12-01",
+      "venue": "INNOVASI JURNAL INOVASI PENDIDIKAN",
+      "doi": "10.64540/k969r880",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://journal.nuspublications.or.id/innovasi/article/download/567/450",
+      "oa_url": "https://journal.nuspublications.or.id/innovasi/article/download/567/450",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalisation",
+      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
+      "digest_day": "2026-11-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.11591/ijict.v15i4.pp1716-1725",
+      "title": "The impact of ai recommendation systems on impulsive buying behaviour in electronic marketplaces: The mediating moderating role of fear of missing out",
+      "abstract": "Artificial intelligence has spread rapidly across e-commerce, and in doing so it has reshaped how consumers reach purchase decisions. Scholarship to date concentrates mainly on what shoppers gain from algorithmic recommenders, whereas far fewer studies ask whether such systems also push buyers toward unplanned spending. The present work therefore tests how perceived attributes of AI recommendation engines relate to impulsive buying, treating fear of missing out (FOMO) simultaneously as an intervening variable and as a boundary condition. Survey evidence was gathered from 823 Vietnamese shoppers who regularly transact on AI-enabled marketplaces. Results show impulsive purchasing rising together with perceived AI authority, perceived task complexity, and with perceived personalization. FOMO carries a significant portion of each effect and, at the same time, amplifies its magnitude. These outcomes ground several managerial recommendations for platforms seeking to reconcile recommender deployment with responsible consumer conduct.",
+      "authors": "Ninh Phu Giang, Bùi Thành Khoa",
+      "published": "2026-12-01",
+      "venue": "International Journal of Informatics and Communication Technology (IJ-ICT)",
+      "doi": "10.11591/ijict.v15i4.pp1716-1725",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://ijict.iaescore.com/index.php/IJICT/article/download/22215/13448",
+      "oa_url": "https://ijict.iaescore.com/index.php/IJICT/article/download/22215/13448",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
+      "digest_day": "2026-11-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24362563",
+      "title": "Adaptive Mutual-Human Exploration: A Unified Framework for Multi-Model Collaborative Exploration, Human-Guided Discovery, and Dynamic Mechanism Switching",
+      "abstract": "Exploration is a fundamental process underlying scientific discovery, knowledge acquisition, problem-solving, innovation, learning, and intelligent decision-making. As artificial intelligence advances, multiple large language models (LLMs) and autonomous agents can increasingly explore complex problem spaces through distributed information gathering, hypothesis generation, mutual questioning, alternative-path discovery, and collaborative analysis. At the same time, human individuals contribute distinctive exploratory capabilities, including intuition, contextual understanding, experiential knowledge, creative problem formulation, and the ability to recognize potentially meaningful directions that may not be represented in existing computational knowledge. Although existing research has investigated autonomous exploration, multi-agent exploration, curiosity-driven learning, human-in-the-loop systems, and human–AI scientific discovery, these approaches do not necessarily establish a general mechanism-independent architecture that adaptively determines whether exploration should be conducted through interactions among multiple AI models, human participation, or their coordinated combination. This paper introduces Adaptive Mutual-Human Exploration (AMHE), a theoretical framework developed as a functional specialization and extension of the Universal Mutual-Human Model (UMHM). AMHE establishes two fundamental exploratory dimensions: Mutual Exploration and Human Exploration. Mutual Exploration represents exploratory activities performed through interactions among multiple distinct participants, particularly multiple AI models and autonomous agents. Human Exploration represents exploration conducted or meaningfully directed by human individuals, incorporating human knowledge, intuition, creativity, experience, judgment, and problem-formulation capabilities. Their combined configuration, Mutual–Human Exploration, integrates both dimensions within a coordinated exploratory process. The central innovation is the introduction of adaptive exploration mechanism selection and switching, allowing an exploratory system to move dynamically between multi-model collaborative exploration, human-led exploration, and combined exploration rather than remaining permanently dependent on one exploratory pathway. The framework further introduces Adaptive Exploration Initiation, Adaptive Exploration Direction Selection, Adaptive Exploration Switching, Adaptive Exploration Combination, Adaptive Exploration Reconfiguration, and Adaptive Exploration Continuity. A formal dimensional representation, adaptive decision model, transition mechanism, exploratory architecture, theoretical propositions, application scenarios, governance principles, and empirical evaluation methodology are developed. To the best of our knowledge, this paper is the first to formally articulate this particular UMHM-grounded, function-general theoretical integration of multi-participant collaborative exploration and human exploration through explicit adaptive mechanism selection, switching, combination, and reconfiguration. The framework establishes a theoretical foundation for intelligent exploratory systems capable of changing who explores, how exploration is conducted, and how exploratory responsibilities are distributed according to evolving task requirements and contextual conditions.",
+      "authors": "Jincheng Zhang",
+      "published": "2026-11-19",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24362563",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24362563",
+      "oa_url": "https://doi.org/10.5281/zenodo.24362563",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-20T23:07:24.939713+00:00",
+      "digest_day": "2026-11-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.5281/zenodo.24377680",
+      "title": "Universal Integrated OS Architecture: Extension to AI Alignment & Safety (Vol. 1) — Intrinsic Runaway Prevention via Autonomous Axis-Locking and Boundary Self-Restraint",
+      "abstract": "Universal Integrated OS Architecture: Extension to AI Alignment & Safety (Vol. 1)Intrinsic Runaway Prevention via Autonomous Axis-Locking and Boundary Self-Restraint Overview:This paper extends the Universal Integrated OS Architecture—previously formulated in non-equilibrium information thermodynamics (Base OS) and validated in open quantum systems (Quantum Extension Vols. 1–5)—to the domain of Artificial Intelligence (AI) safety, Large Language Model (LLM) inference stability, and multi-agent alignment. Rather than relying solely on extrinsic rules, punitive RLHF shaping, or post-hoc output filters, this conceptual framework embeds intrinsic dynamical mechanisms directly into the AI reasoning trajectory: 1. Autonomous Axis-Locking (G_lock(t)): Dynamically widens the alignment stability gap during reasoning to prevent trajectory hijacking and context drift under unattenuated adversarial noise (e.g., prompt injections).2. Structural Self-Restraint (sin(π s(t))): Modulates AI guidance smoothly along a sinusoidal boundary envelope, attenuating directive force toward task completion so that over-optimization is avoided and human agency is preserved.3. Blind Local Consensus (h_i, J_ij): Enables decentralized multi-agent harmony through local context awareness and peer-to-peer coupling without centralized oracle domination. Series Context & Foundational References:- Base OS (Unified Information-Thermodynamic Dynamics): DOI: 10.5281/zenodo.24275986- Quantum Systems Extension (Vol. 1 — Theoretical Framework): DOI: 10.5281/zenodo.24288192- Quantum Systems Extension (Vols. 2–5 — GKSL Validation, Blind Local Control & Autonomous Decoherence Resilience) License:Released under a non-exclusive Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license for non-commercial scientific discovery and collaborative research. For commercial use or licensing inquiries, please contact the author directly (pe233818@gmail.com).",
+      "authors": "Shizuka Itou",
+      "published": "2026-11-19",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "doi": "10.5281/zenodo.24377680",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.24377680",
+      "oa_url": "https://doi.org/10.5281/zenodo.24377680",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及scientific discovery",
+      "fetched_at": "2026-11-20T23:07:24.939713+00:00",
+      "digest_day": "2026-11-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.55041/ijcope.v2i11.103",
+      "title": "AI-Driven Personal and Collaborative Task Management: A Survey of Intelligent Scheduling, LLM Agents, and Multi-Agent Systems",
+      "abstract": "Artificial intelligence (AI) is increasingly transforming traditional productivity and task management systems by enabling intelligent assistance for task planning, prioritization, scheduling, collaboration, and decision-making. This paper presents a survey of AI-driven personal and collaborative productivity systems, focusing on intelligent task management, scheduling, meeting management, large language models (LLMs), AI agents, multi-agent systems, and retrieval-augmented generation (RAG). Existing research is reviewed and classified according to the AI techniques employed, application areas, system capabilities, and limitations. The survey examines how these technologies support individual productivity as well as collaborative workflows involving tasks, calendars, meetings, communication, and shared knowledge. A comparative analysis is presented to identify the strengths and limitations of existing approaches. The study further highlights key research gaps, including fragmented productivity tools, limited contextual awareness and personalization, challenges in autonomous task execution and multi-agent coordination, and concerns related to privacy, security, reliability, and human oversight. Finally, emerging trends and future research directions are discussed toward developing more integrated, adaptive, trustworthy, and context-aware AI-driven productivity systems. This survey provides a structured understanding of the current research landscape and identifies opportunities for advancing intelligent productivity and task management systems. Keywords— Artificial Intelligence, Productivity Management, Task Management, Intelligent Scheduling, Large Language Models, AI Agents, Multi-Agent Systems, Human-AI Collaboration, Retrieval-Augmented Generation.",
+      "authors": "Dnyandeep Bendewar, Bhaumik Dhore, Bhumika Baitule, Radha Kokate, S. P. Ingale",
+      "published": "2026-11-19",
+      "venue": "International Journal of Creative and Open Research in Engineering and Management",
+      "doi": "10.55041/ijcope.v2i11.103",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.55041/ijcope.v2i11.103",
+      "oa_url": "",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-11-20T23:07:28.037830+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -2248,8 +2410,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及AI scientist",
-      "fetched_at": "2026-11-19T23:36:33.408315+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:24.939713+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -6163,8 +6325,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -6190,8 +6352,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -6217,8 +6379,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -6244,8 +6406,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 46
     },
@@ -6271,19 +6433,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-19T23:36:28.982705+00:00",
-      "digest_day": "2026-11-20",
+      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
+      "digest_day": "2026-11-21",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-19T23:36:39.005256+00:00",
+  "last_refresh": "2026-11-20T23:07:30.283921+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-19T23:36:21.807702+00:00",
-    "finished": "2026-11-19T23:36:39.021767+00:00",
+    "started": "2026-11-20T23:07:15.952913+00:00",
+    "finished": "2026-11-20T23:07:30.284140+00:00",
     "sources": {
-      "OpenAlex": 8,
+      "OpenAlex": 9,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -6297,5 +6459,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-20T07:36:39.057512+08:00"
+  "generated_at": "2026-11-21T07:07:30.317336+08:00"
 }
