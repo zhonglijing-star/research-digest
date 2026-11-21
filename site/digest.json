@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "topics": [
     {
       "id": "governance",
@@ -493,8 +493,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 70
     },
@@ -547,8 +547,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 70
     },
@@ -574,8 +574,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 70
     },
@@ -601,8 +601,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:50.052688+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 58
     },
@@ -790,8 +790,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:50.052688+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 58
     },
@@ -2194,8 +2194,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 58
     },
@@ -2221,8 +2221,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-20T23:07:28.037830+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:57.353195+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -2248,8 +2248,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:50.052688+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -2275,8 +2275,35 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-20T23:07:21.974211+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:50.052688+00:00",
+      "digest_day": "2026-11-22",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.11591/eei.v15i6.11936",
+      "title": "Deep learning driven personalized learning: CNN, DNN, and Keras Tuner for activity recommendation",
+      "abstract": "Personalized learning for individual needs is one of the most important research areas in e-learning, aiming primarily to improve students’ outcomes. This paper proposes a novel framework for personalized learning based on students’ learning styles (LS) and behavior data. The prediction of student performance is crucial to identify students who need personalization interventions. Identifying LS is a major step to provide each student with a pedagogical experience tailored to their needs. The LS is identified based on the Felder-Silverman learning style model (FSLSM) and student interaction with virtual learning environments (VLE). A learning activity recommendation is used to recommend the most suitable activities for each student. Open university learning analytics dataset (OULAD) is used, which contains various data about students’ interaction with VLE. We employed a methodological core combining convolutional neural network (CNN) and deep neural network (DNN) models using Keras Tuner for hyperparameter tuning to predict student performance and identify learners’ LS. The results indicate that DNN and CNN achieved improved outcomes for 51.37% and 40.82% of students, respectively, after the recommendations were made. This study demonstrates the effectiveness of deep learning (DL) with hyperparameter tuning for personalized learning in distance learning.",
+      "authors": "Bensalem Assri, Amine Mrhari, Youssef Hadi, Mohamed Boutaib",
+      "published": "2026-12-01",
+      "venue": "Bulletin of Electrical Engineering and Informatics",
+      "doi": "10.11591/eei.v15i6.11936",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://beei.org/index.php/EEI/article/download/11936/5113",
+      "oa_url": "https://beei.org/index.php/EEI/article/download/11936/5113",
+      "topic_ids": [
+        "personalization"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及personalization",
+      "fetched_at": "2026-11-21T22:11:50.052688+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -2302,8 +2329,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及scientific discovery",
-      "fetched_at": "2026-11-20T23:07:24.939713+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:53.833047+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -2358,6 +2385,33 @@
       "reason": "摘要提及human-AI collaboration",
       "fetched_at": "2026-11-20T23:07:28.037830+00:00",
       "digest_day": "2026-11-21",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.63544/vktetw63",
+      "title": "Leakage-Safe Explainable AI and Ensemble Feature Selection for Early Chronic Kidney Disease Prediction Using Minimal Biomarkers",
+      "abstract": "Chronic kidney disease (CKD) is a progressive and often asymptomatic condition in which delayed detection substantially increases the risk of kidney failure and cardiovascular complications. Machine learning models reported for CKD prediction routinely achieve 99–100% accuracy, yet the trustworthiness of these results is rarely examined: preprocessing and feature selection are often fitted before data partitioning, evaluation stops at accuracy although screening decisions consume probabilities, and models depend on complete laboratory panels that low-resource settings cannot provide. This study re-evaluates CKD prediction on the public UCI dataset (400 patients, 24 attributes) under a leakage-safe protocol in which imputation, scaling and feature selection are fitted strictly inside cross-validation folds (repeated stratified five-fold, five repeats), and compares it directly with a leakage-prone protocol differing only in where those steps are fitted. Surprisingly, the optimism gap is negligible (soft-voting ensemble AUC 0.9998 under both protocols), showing that this benchmark is saturated rather than merely leaked. An ensemble feature-selection strategy—mutual information, recursive feature elimination, and Random Forest and XGBoost importances aggregated by Borda consensus, with stability verified across folds (Jaccard 0.85–0.92)—reduces the panel to five biomarkers (haemoglobin, serum creatinine, specific gravity, packed cell volume, albumin) with no significant loss of discrimination (AUC 0.9996 vs. 0.9998; sensitivity 0.992 for both) across seven classifiers. Evaluation beyond accuracy shows that raw probabilities are miscalibrated (calibration slopes 0.78–2.71; isotonic recalibration halves the ensemble Brier score to 0.0037), that decision-curve net benefit exceeds treat-all at all thresholds from 0.05 to 0.50, and that at a realistic 10% screening prevalence the minimal panel attains a higher positive predictive value than the full panel (0.943 vs. 0.892). SHAP explanations are consistent across model families (Spearman ρ = 0.87), panels (ρ up to 1.00) and diabetes/hypertension subgroups. The results support five-test, leakage-safe, recalibrated models as a reproducible basis for low-cost CKD screening research, pending external validation. REFERENCES [1] GBD Chronic Kidney Disease Collaboration, \"Global, regional, and national burden of chronic kidney disease, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017,\" The Lancet, vol. 395, no. 10225, pp. 709–733, 2020. [2] Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group, \"KDIGO 2024 clinical practice guideline for the evaluation and management of chronic kidney disease,\" Kidney International, vol. 105, no. 4S, pp. S117–S314, 2024. [3] L. Rubini, P. Soundarapandian, and P. Eswaran, \"Chronic Kidney Disease,\" UCI Machine Learning Repository, 2015, doi: 10.24432/C5G020. [4] R. Talib et al., \"AI-enabled intelligent nephrology: Comparative analysis of artificial intelligence models for robust early prediction and clinical evaluation of chronic kidney disease,\" Pakistan Journal of Medical & Cardiological Review, vol. 4, no. 4, pp. 625–670, 2025. [5] S. Kapoor and A. Narayanan, \"Leakage and the reproducibility crisis in machine-learning-based science,\" Patterns, vol. 4, no. 9, art. 100804, 2023. [6] I. Guyon and A. Elisseeff, \"An introduction to variable and feature selection,\" Journal of Machine Learning Research, vol. 3, pp. 1157–1182, 2003. [7] A. J. Vickers and E. B. Elkin, \"Decision curve analysis: A novel method for evaluating prediction models,\" Medical Decision Making, vol. 26, no. 6, pp. 565–574, 2006. [8] S. M. Lundberg and S.-I. Lee, \"A unified approach to interpreting model predictions,\" in Advances in Neural Information Processing Systems 30 (NeurIPS), 2017, pp. 4765–4774. [9] L. Breiman, \"Random forests,\" Machine Learning, vol. 45, no. 1, pp. 5–32, 2001. [10] T. Chen and C. Guestrin, \"XGBoost: A scalable tree boosting system,\" in Proc. 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2016, pp. 785–794. [11] A. Charleonnan et al., \"Predictive analytics for chronic kidney disease using machine learning techniques,\" in Proc. 2016 Management and Innovation Technology International Conference (MITicon), 2016, pp. 80–83, doi: 10.1109/MITICON.2016.8025242. [12] A. J. Aljaaf et al., \"Early prediction of chronic kidney disease using machine learning supported by predictive analytics,\" in Proc. IEEE Congress on Evolutionary Computation (CEC), 2018, pp. 1–9, doi: 10.1109/CEC.2018.8477876. [13] J. Qin et al., \"A machine learning methodology for diagnosing chronic kidney disease,\" IEEE Access, vol. 8, pp. 20991–21002, 2019, doi: 10.1109/ACCESS.2019.2963053. [14] E. M. Senan, \"Diagnosis of chronic kidney disease using effective classification algorithms and recursive feature elimination techniques,\" Journal of Healthcare Engineering, vol. 2021, art. 1004767, 2021, doi: 10.1155/2021/1004767. [15] Y. Saeys, T. Abeel, and Y. Van de Peer, \"Robust feature selection using ensemble feature selection techniques,\" in Proc. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), Lecture Notes in Artificial Intelligence, vol. 5212, Springer, 2008, pp. 313–325, doi: 10.1007/978-3-540-87481-2_21. [16] G. R. Vásquez-Morales et al., \"Explainable prediction of chronic kidney disease in the Colombian population using neural networks and case-based reasoning,\" IEEE Access, vol. 7, pp. 152900–152910, 2019. [17] N. A. Almansour et al., \"Neural network and support vector machine for the prediction of chronic kidney disease: A comparative study,\" Computers in Biology and Medicine, vol. 109, pp. 101–111, 2019, doi: 10.1016/j.compbiomed.2019.04.017. [18] F. Ma, T. Sun, L. Liu, and H. Jing, \"Detection and diagnosis of chronic kidney disease using deep learning-based heterogeneous modified artificial neural network,\" Future Generation Computer Systems, vol. 111, pp. 17–26, 2020, doi: 10.1016/j.future.2020.04.036. [19] F. Sanmarchi, C. Fanconi, D. Golinelli, D. Gori, and A. Hernández-Boussard, \"Predict, diagnose, and treat chronic kidney disease with machine learning: A systematic literature review,\" Journal of Nephrology, vol. 36, pp. 1101–1117, 2023, doi: 10.1007/s40620-023-01573-4. [20] S. Nogueira, K. Sechidis, and G. Brown, \"On the stability of feature selection algorithms,\" Journal of Machine Learning Research, vol. 18, no. 174, pp. 1–54, 2018. [21] B. Van Calster et al., \"Calibration: The Achilles heel of predictive analytics,\" BMC Medicine, vol. 17, art. 230, 2019, doi: 10.1186/s12916-019-1466-7. [22] M. S. Islam, F. Ahmed, W. Ishtiaq, M. A. Hossain, M. S. Islam, and M. M. Tarek, \"Advanced explainable ensemble models for multi-class intrusion detection in heterogeneous drone and industrial networks,\" Journal on Information Security, 2026. [23] V. Govindarajan, F. Ahmed, Z. B. Faheem, M. Bilal, M. Ayadi, and J. Ali, \"Aegis-5: A hybrid ensemble framework for intrusion detection in Industry 5.0 driven smart manufacturing environment,\" ACM Transactions on Autonomous and Adaptive Systems, 2026. [24] F. Amin, U. Imtiaz, and A. Khan, \"FALCON-Guard: A lightweight explainable framework for real-time cyber threat detection and adaptive risk mitigation in intelligent driving networks,\" Multidisciplinary Research in Computing Information Systems, vol. 5, no. 12, pp. 1223–1235, 2025. [25] S. M. H. Shah, F. Amin, and A. Khan, \"Cyber-resilient mobile edge computing: A deep neural approach for secure and efficient task offloading,\" The Asian Bulletin of Big Data Management, vol. 5, no. 1, pp. 200–215, 2025. [26] U. Imtiaz, F. Amin, and A. Khan, \"Crash2Compromise: CrashGuard-FS for security-aware Linux file updates,\" Multidisciplinary Research in Computing Information Systems, vol. 6, no. 2, pp. 294–310, 2026. [26] A. Al Kium, S. Sarker, S. A. Shikha, M. A. T. Kamal, M. I. K. Jabed, N. K. Munifa, et al., \"Health equity and digital disparities in cancer screening and cardiovascular care across socioeconomic and ethnic groups: A systematic review,\" Vascular and Endovascular Review, vol. 6, no. 2, pp. 35–44, 2023. [27] M. I. K. Jabed, \"Stock market price prediction using machine learning techniques,\" American International Journal of Sciences and Engineering Research, vol. 7, no. 1, pp. 1–6, 2024. [28] M. I. K. Jabed, M. Imran, A. A. Khan, M. Mehedi, A. Islam, and R. Pervez, \"Explainable machine learning framework for early heart disease detection using SMOTE and SHAP,\" Vascular and Endovascular Review, vol. 9, no. 1, pp. 316–324, 2026. [29] M. I. K. Jabed, M. R. M. Sirazy, S. Mandal, S. A. Akter, A. Hassan, and H. Esa, \"Developing AI-based financial forecasting and cybersecurity systems for the US digital economy,\" Frontiers in Computer Science and Artificial Intelligence, vol. 5, no. 5, pp. 30–38, 2026. [30] M. A. Rahman, R. K. Devnath, S. B. Niloy, C. M. Mehedi, T. H. Chowdhury, and M. I. K. Jabed, \"A stacking ensemble framework for predicting employee turnover: Explainable AI with SHAP,\" in Proc. 2025 IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS), Oct. 2025, pp. 1–6. [31] M. A. Rahman, M. I. K. Jabed, R. K. Devnath, C. M. Mehedi, M. Begum, and T. Mahmud, \"MSRFF: An interpretable CNN–Vision Transformer framework for diabetic retinopathy detection,\" in Proc. 2026 2nd International Conference on Computational Intelligence Approaches and Applications (ICCIAA), May 2026, pp. 1–7. [32] M. M. R. Akash, \"Cardiotoxicity prediction models in cancer patients using artificial intelligence and genomics,\" International Journal of Drug Delivery Technology, vol. 16, pp. 60–73. [33] M. I. K. Jabed, M. Imran, C. A. Gomes, P. S. Ponduru, S. Mandal, and S. Hassan, \"Deep learning and explainable AI framework for predicting lung cancer severity,\" Journal of Computer Science and Technology Studies, vol. 7, no. 12, pp. 573–598, 2025. [34]",
+      "authors": "Muheeb Ullah, Zia Ullah, Mehran ALI",
+      "published": "2026-11-19",
+      "venue": "Journal of Engineering and Computational Intelligence Review",
+      "doi": "10.63544/vktetw63",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://jecir.com/index.php/jecir/article/download/83/164",
+      "oa_url": "https://jecir.com/index.php/jecir/article/download/83/164",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-21T22:11:53.833047+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -6325,8 +6379,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -6352,8 +6406,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -6379,8 +6433,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -6406,8 +6460,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     },
@@ -6433,19 +6487,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-20T23:07:21.372717+00:00",
-      "digest_day": "2026-11-21",
+      "fetched_at": "2026-11-21T22:11:48.690912+00:00",
+      "digest_day": "2026-11-22",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-20T23:07:30.283921+00:00",
+  "last_refresh": "2026-11-21T22:11:59.275692+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-20T23:07:15.952913+00:00",
-    "finished": "2026-11-20T23:07:30.284140+00:00",
+    "started": "2026-11-21T22:11:41.838138+00:00",
+    "finished": "2026-11-21T22:11:59.276026+00:00",
     "sources": {
-      "OpenAlex": 9,
+      "OpenAlex": 8,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -6459,5 +6513,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-21T07:07:30.317336+08:00"
+  "generated_at": "2026-11-22T06:11:59.313163+08:00"
 }
