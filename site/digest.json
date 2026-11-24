@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "topics": [
     {
       "id": "governance",
@@ -493,8 +493,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 70
     },
@@ -547,8 +547,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 70
     },
@@ -574,8 +574,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 70
     },
@@ -601,8 +601,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-22T22:29:13.543950+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 58
     },
@@ -790,8 +790,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-22T22:29:13.543950+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 58
     },
@@ -2194,8 +2194,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 58
     },
@@ -2221,8 +2221,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-22T22:29:20.176288+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:21:05.987942+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -2248,8 +2248,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-22T22:29:13.543950+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -2275,8 +2275,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-22T22:29:13.543950+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -2304,6 +2304,33 @@
       "reason": "摘要提及personalization",
       "fetched_at": "2026-11-21T22:11:50.052688+00:00",
       "digest_day": "2026-11-22",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.58425/ajt.v5i14.650",
+      "title": "Observability-Driven Platform Engineering for Cloud-Native Distributed Systems: Improving Developer Productivity, Incident Detection, and Mean Time to Restore (MTTR)",
+      "abstract": "Aim: This study aimed to examine whether platform engineering can effectively integrate modern observability practices to improve the development, management, and operation of cloud enterprise software. Methods: The study adopted an analytical approach based on a comparative literature review to examine how quickly developers can introduce and utilize Telemetry-as-Code for automated template creation. The findings were compared with established industry frameworks, including DORA and SPACE. Results: The findings indicate that self-service platform engineering and integrated observability can reduce operational toil and improve developer productivity across different organizational contexts. The reviewed studies further demonstrate that observability, automation, and Site Reliability Engineering (SRE) contribute to reducing incident-handling time. Centralized monitoring of internal development tools also supports the development and management of large-scale distributed systems. Conclusion: The study concludes that observability-driven platform engineering can improve enterprise operational efficiency, system consistency, and usability while enhancing developer experience. Recommendation: Organizations should incrementally implement observability-enabled Internal Developer Platforms (IDPs) through standardized golden paths. They should also evaluate implementation outcomes using operational performance indicators, particularly Mean Time to Recovery (MTTR), alongside developer-experience measures.",
+      "authors": "Harsh Gadhia",
+      "published": "2026-11-21",
+      "venue": "American Journal of Technology",
+      "doi": "10.58425/ajt.v5i14.650",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://gprjournals.org/journals/index.php/ajt/article/download/650/623",
+      "oa_url": "https://gprjournals.org/journals/index.php/ajt/article/download/650/623",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及literature review",
+      "fetched_at": "2026-11-24T03:21:00.781240+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -6379,8 +6406,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -6406,8 +6433,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -6433,8 +6460,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -6460,8 +6487,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     },
@@ -6487,19 +6514,19 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-22T22:29:12.556883+00:00",
-      "digest_day": "2026-11-23",
+      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
+      "digest_day": "2026-11-24",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-22T22:29:21.892279+00:00",
+  "last_refresh": "2026-11-24T03:21:08.262642+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-22T22:29:05.539161+00:00",
-    "finished": "2026-11-22T22:29:21.892928+00:00",
+    "started": "2026-11-24T03:20:50.228210+00:00",
+    "finished": "2026-11-24T03:21:08.263098+00:00",
     "sources": {
-      "OpenAlex": 5,
+      "OpenAlex": 6,
       "Crossref": 1,
       "arXiv": 9
     },
@@ -6513,5 +6540,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-23T06:29:21.929166+08:00"
+  "generated_at": "2026-11-24T11:21:08.300761+08:00"
 }
