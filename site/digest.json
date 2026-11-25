@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "topics": [
     {
       "id": "governance",
@@ -493,8 +493,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 70
     },
@@ -547,8 +547,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 70
     },
@@ -574,8 +574,8 @@
       ],
       "relevance": 70,
       "reason": "标题涉及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 70
     },
@@ -601,8 +601,62 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:58.024638+00:00",
+      "digest_day": "2026-11-25",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/978-3-032-45236-8_21",
+      "title": "Can We Trust Autonomous Science? A Human-in-the-Loop Architecture for Rapid Scientific Discovery",
+      "abstract": "",
+      "authors": "Mayank Kejriwal, Yidan Sun, Ashwath Vaithinathan Aravindan",
+      "published": "2026-11-24",
+      "venue": "Lecture notes in computer science",
+      "doi": "10.1007/978-3-032-45236-8_21",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.1007/978-3-032-45236-8_21",
+      "oa_url": "",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及scientific discovery",
+      "fetched_at": "2026-11-25T01:27:02.797136+00:00",
+      "digest_day": "2026-11-25",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.1007/s10207-026-01361-8",
+      "title": "Generative and agentic artificial intelligence for network intrusion detection: a systematic literature review",
+      "abstract": "Network Intrusion Detection Systems (NIDSs) play a critical role in modern cybersecurity; however, traditional signature- and rule-based approaches remain limited against zero-day, polymorphic, and adaptive cyberattacks. Recent advances in Generative Artificial Intelligence (Generative AI) and Agentic Artificial Intelligence (Agentic AI) have introduced new opportunities for improving intrusion detection through adaptive learning, synthetic traffic generation, autonomous response, and adversarial robustness. This systematic literature review synthesises evidence from 78 studies published between 2018-2026, providing a comprehensive analysis of the emerging role of Generative AI and Agentic AI in NIDSs. The reviewed studies are organised into four major research themes: (i) data augmentation and synthetic attack generation, (ii) adversarial robustness, (iii) autonomous intrusion detection, and (iv) explainable and trustworthy AI. The analysis shows that generative models, including Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), diffusion models, and Large Language Models (LLMs), improve synthetic data generation, mitigate class imbalance, and enhance anomaly detection, while agentic approaches based on reinforcement learning and multi-agent systems increase adaptability and distributed decision-making. The review identifies a persistent gap between benchmark performance and operational readiness, driven by limitations in cross-dataset generalisation, computational overhead, adversarial robustness, explainability, privacy preservation, and real-world deployment. To address these challenges, this review proposes a Generative-Agentic Synergy Framework that integrates generative simulation, adaptive detection, agentic response, trust and explainability, and privacy-aware deployment into a unified conceptual framework for designing and evaluating next-generation NIDSs. Finally, the review identifies research priorities to support the development of trustworthy, scalable, and operationally viable intrusion detection systems.",
+      "authors": "Naveed Ahmed, Nur Haliza Abdul Wahab, Uzma Batool, Zahid Iqbal, Tamara Al-Qablan, Tanja Pavleska",
+      "published": "2026-11-23",
+      "venue": "International Journal of Information Security",
+      "doi": "10.1007/s10207-026-01361-8",
+      "arxiv_id": "",
+      "kind": "review",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s10207-026-01361-8.pdf",
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10207-026-01361-8.pdf",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及literature review",
+      "fetched_at": "2026-11-25T01:27:02.797136+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 58
     },
@@ -790,8 +844,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:58.024638+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 58
     },
@@ -2194,8 +2248,8 @@
       ],
       "relevance": 58,
       "reason": "摘要提及agent memory、long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 58
     },
@@ -2221,8 +2275,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-24T03:21:05.987942+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:27:07.465694+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2248,8 +2302,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalisation",
-      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:58.024638+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2275,8 +2329,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及personalization",
-      "fetched_at": "2026-11-24T03:20:57.537798+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:58.024638+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -2308,6 +2362,33 @@
       "rank_score": 46
     },
     {
+      "id": "doi:10.70413/zdit-v05-i34-a11398",
+      "title": "Global Labor Market and Artificial Intelligence (AI) WILL ARTIFICIAL INTELLIGENCE (AI) CAUSE JOB CUTS?",
+      "abstract": "This article investigates whether the rapid deployment of artificial intelligence (AI) and large language models will lead to widespread job cuts across the global economy. Drawing on contemporary labor economics and international institutional forecasts, it distinguishes between task-level automation and full occupational displacement, analyzing vulnerable routine and clerical professions alongside emerging AI-augmented roles. The paper further examines skills transformation in language and knowledge industries, cross-country disparities between advanced and emerging economies, and risks of wage polarization, demonstrating that proactive reskilling, inclusive governance, and human-AI collaboration are essential to prevent structural unemployment.",
+      "authors": "Boboqulov O'rol Chori o'g'li",
+      "published": "2026-11-23",
+      "venue": "Innovative Research in the Modern World",
+      "doi": "10.70413/zdit-v05-i34-a11398",
+      "arxiv_id": "",
+      "kind": "conference-paper",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://www.in-academy.uz/index.php/ZDIT/article/download/93884/66054",
+      "oa_url": "https://www.in-academy.uz/index.php/ZDIT/article/download/93884/66054",
+      "topic_ids": [
+        "productivity"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及human-AI collaboration",
+      "fetched_at": "2026-11-25T01:27:07.465694+00:00",
+      "digest_day": "2026-11-25",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
       "id": "doi:10.58425/ajt.v5i14.650",
       "title": "Observability-Driven Platform Engineering for Cloud-Native Distributed Systems: Improving Developer Productivity, Incident Detection, and Mean Time to Restore (MTTR)",
       "abstract": "Aim: This study aimed to examine whether platform engineering can effectively integrate modern observability practices to improve the development, management, and operation of cloud enterprise software. Methods: The study adopted an analytical approach based on a comparative literature review to examine how quickly developers can introduce and utilize Telemetry-as-Code for automated template creation. The findings were compared with established industry frameworks, including DORA and SPACE. Results: The findings indicate that self-service platform engineering and integrated observability can reduce operational toil and improve developer productivity across different organizational contexts. The reviewed studies further demonstrate that observability, automation, and Site Reliability Engineering (SRE) contribute to reducing incident-handling time. Centralized monitoring of internal development tools also supports the development and management of large-scale distributed systems. Conclusion: The study concludes that observability-driven platform engineering can improve enterprise operational efficiency, system consistency, and usability while enhancing developer experience. Recommendation: Organizations should incrementally implement observability-enabled Internal Developer Platforms (IDPs) through standardized golden paths. They should also evaluate implementation outcomes using operational performance indicators, particularly Mean Time to Recovery (MTTR), alongside developer-experience measures.",
@@ -2329,8 +2410,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及literature review",
-      "fetched_at": "2026-11-24T03:21:00.781240+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:27:02.797136+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -6406,8 +6487,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -6433,8 +6514,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -6460,8 +6541,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -6487,8 +6568,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     },
@@ -6514,20 +6595,20 @@
       ],
       "relevance": 46,
       "reason": "摘要提及long-term memory",
-      "fetched_at": "2026-11-24T03:20:57.005941+00:00",
-      "digest_day": "2026-11-24",
+      "fetched_at": "2026-11-25T01:26:56.947147+00:00",
+      "digest_day": "2026-11-25",
       "vote": 0,
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-24T03:21:08.262642+00:00",
+  "last_refresh": "2026-11-25T01:27:10.559999+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-24T03:20:50.228210+00:00",
-    "finished": "2026-11-24T03:21:08.263098+00:00",
+    "started": "2026-11-25T01:26:47.711547+00:00",
+    "finished": "2026-11-25T01:27:10.560252+00:00",
     "sources": {
-      "OpenAlex": 6,
-      "Crossref": 1,
+      "OpenAlex": 9,
+      "Crossref": 0,
       "arXiv": 9
     },
     "error": null
@@ -6540,5 +6621,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-24T11:21:08.300761+08:00"
+  "generated_at": "2026-11-25T09:27:10.593940+08:00"
 }
