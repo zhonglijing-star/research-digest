@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "topics": [
     {
       "id": "governance",
@@ -601,8 +601,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-25T01:26:58.024638+00:00",
-      "digest_day": "2026-11-25",
+      "fetched_at": "2026-11-26T01:02:20.007155+00:00",
+      "digest_day": "2026-11-26",
       "vote": 0,
       "rank_score": 58
     },
@@ -628,8 +628,35 @@
       ],
       "relevance": 58,
       "reason": "标题涉及scientific discovery",
-      "fetched_at": "2026-11-25T01:27:02.797136+00:00",
-      "digest_day": "2026-11-25",
+      "fetched_at": "2026-11-26T01:02:55.696597+00:00",
+      "digest_day": "2026-11-26",
+      "vote": 0,
+      "rank_score": 58
+    },
+    {
+      "id": "doi:10.64898/2026.11.22.768453",
+      "title": "GinsengMind: An evidence-grounded AI research agent for integrative molecular research in Panax ginseng",
+      "abstract": "Panax ginseng C. A. Meyer is one of the most extensively studied medicinal plants, with substantial pharmaceutical and economic importance owing to its diverse bioactive constituents, particularly ginsenosides. Despite considerable advances in ginseng molecular research, the fragmentation of genomic, transcriptomic, protein structural, and biochemical information remains a major challenge for investigating gene function and specialized metabolism. Here, we developed GinsengMind (https://ginsengai.nrc.ac.cn), an evidence-grounded AI research agent that integrates species-specific molecular knowledge with large language model (LLM)-guided tool orchestration and structured retrieval-augmented generation. Built upon the telomere-to-telomere reference genome of P. ginseng, GinsengMind integrates 77,266 genes, 154,754 transcripts, and 77,266 protein records. Comprehensive functional annotation using Swiss-Prot, eggNOG, and InterProScan covered 97.00% of the 76,947 quality-controlled proteins. The platform further incorporates 71,046 ESMFold-predicted protein structures, 7,263,004 gene expression records across 94 RNA-seq samples, and 4,813 bibliographic records. Six specialized research tools enable autonomous evidence retrieval and source-linked scientific interpretation through natural-language interaction. To evaluate its performance, we established GinsengBench, comprising 50 curated questions across six research categories. In a blinded evaluation by three experts, GinsengMind achieved a mean weighted composite score of 96.18 across ten core questions, substantially exceeding GLM-5.3 without database access (23.24; mean paired difference, 72.94; 95% confidence interval, 65.19-79.87). Across five shared questions, GinsengMind outperformed nine general-purpose LLMs on average and achieved a score (96.56) close to that of GLM-5.3 supplied with predefined evidence packages (96.88), highlighting the importance of domain-specific knowledge and autonomous evidence retrieval. A case study of the ginsenoside biosynthetic enzyme PgUGT94Q2 further illustrates how integrated molecular evidence can reveal unresolved biological relationships and identify priorities for subsequent experimental investigation. Beyond conventional database querying, GinsengMind provides a foundation for exploring potential biological associations, prioritizing candidate biosynthetic genes, and formulating experimentally testable hypotheses. We anticipate that GinsengMind will facilitate research on medicinal plant specialized metabolism, natural product biosynthesis, enzyme discovery and engineering, and synthetic biology, while offering an adaptable framework for developing domain-specialized AI research agents across other medicinal plants and scientific disciplines.",
+      "authors": "Yuru Tong, Rong Zhang, Chuanzhi Kang, Zeqian Chang, Kang Chen",
+      "published": "2026-11-24",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "doi": "10.64898/2026.11.22.768453",
+      "arxiv_id": "",
+      "kind": "preprint",
+      "review_status": "评审状态未知",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://doi.org/10.64898/2026.11.22.768453",
+      "oa_url": "https://doi.org/10.64898/2026.11.22.768453",
+      "topic_ids": [
+        "research"
+      ],
+      "relevance": 58,
+      "reason": "标题涉及research agent",
+      "fetched_at": "2026-11-26T01:02:55.696597+00:00",
+      "digest_day": "2026-11-26",
       "vote": 0,
       "rank_score": 58
     },
@@ -655,8 +682,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及literature review",
-      "fetched_at": "2026-11-25T01:27:02.797136+00:00",
-      "digest_day": "2026-11-25",
+      "fetched_at": "2026-11-26T01:02:55.696597+00:00",
+      "digest_day": "2026-11-26",
       "vote": 0,
       "rank_score": 58
     },
@@ -844,8 +871,8 @@
       ],
       "relevance": 58,
       "reason": "标题涉及personalization",
-      "fetched_at": "2026-11-25T01:26:58.024638+00:00",
-      "digest_day": "2026-11-25",
+      "fetched_at": "2026-11-26T01:02:20.007155+00:00",
+      "digest_day": "2026-11-26",
       "vote": 0,
       "rank_score": 58
     },
@@ -2275,8 +2302,8 @@
       ],
       "relevance": 46,
       "reason": "摘要提及human-AI collaboration",
-      "fetched_at": "2026-11-25T01:27:07.465694+00:00",
-      "digest_day": "2026-11-25",
+      "fetched_at": "2026-11-26T01:03:11.964017+00:00",
+      "digest_day": "2026-11-26",
       "vote": 0,
       "rank_score": 46
     },
@@ -2385,6 +2412,33 @@
       "reason": "摘要提及human-AI collaboration",
       "fetched_at": "2026-11-25T01:27:07.465694+00:00",
       "digest_day": "2026-11-25",
+      "vote": 0,
+      "rank_score": 46
+    },
+    {
+      "id": "doi:10.1111/jpm.70219",
+      "title": "The Experience of an Adult With a Mental Disorder Using Artificial Intelligence to Support Mental Health Recovery: A Constructivist Qualitative Single‐Case Study",
+      "abstract": "INTRODUCTION: People with mental disorders increasingly use artificial intelligence chatbots to support their recovery because of their accessibility. Despite their growing use, limited research has explored how, when and why people with mental disorders engage with artificial intelligence chatbots during mental health recovery. Understanding these experiences could inform artificially intelligent enhanced self-management interventions that strengthen, rather than replace, therapeutic nurse-patient relationships. AIM: This study explored the experience of an adult with mental disorders in using AI chatbots as a tool to support their mental health recovery. METHODS: A single-case study qualitative design, guided by constructivism, was employed. A semi-structured interview, followed by research notes of the participant's verbatim post-interview explanations, was conducted with an adult diagnosed with a mental disorder. Elena (pseudonym) had been using the ChatGPT chatbot for 10 months before this interview to support her recovery journey. Data were analysed using inductive thematic analysis as a data-driven method of understanding Elena's experience with the platform. FINDINGS: Elena's case unfolded in six themes: Theme 1: The Illusion of a Safe AI Space; Theme 2: An Aid for Cognitive and Emotional Processing; Theme 3: Immediate Emotional Relief and Post Crisis Psychological Comfort; Theme 4: Perceived Limitations of Human Psychotherapy; Theme 5: AI Personalisation and User Control in ChatGPT 5.5 and Theme 6: Existential Exploration Through AI. CONCLUSION: Elena's case indicated that artificial intelligence could be used for self-management, from emotional naming to philosophical existential discussions. Although similar research evaluated people with mental disorders' responses to hypothetical artificial intelligence-generated scenarios, Elena's case may be the first naturalistic study to illuminate this evolving experience. However, its transferability is necessarily bounded by Elena's individual experience. Future research should therefore examine people with mental disorders' use of artificial intelligence in mental health recovery through larger qualitative studies and empirical quantitative designs. METHODOLOGICAL RIGOUR: The study was reported in accordance with the Consolidated Criteria for Reporting Qualitative Research. A prior practice interview with the qualitative expert was conducted to evaluate the interview questions' credibility. Follow-up questions clarified the participant's account, supporting credibility, whereas findings were reviewed by a qualitative research expert supporting dependability. A detailed description of the narrative context helped in assessing transferability. Quotations grounded the interpretations in the participant's account, and reflexive journaling documented how the researchers' assumptions shaped the analysis, supporting confirmability. RELEVANCE FOR MENTAL HEALTH NURSING: This lived experience suggests that mental health nurses should be aware of the possibility that people with mental disorders coming to the service are using generic artificial intelligence. Therefore, mental status examination and other history assessment tools should be updated to account for people with mental disorders' use of any type of artificial intelligence.",
+      "authors": "Rand Oudah Aljadani, Refal Ayman Thulli, Raneem Abdullah Alalawi, Tahani Hawsawi",
+      "published": "2026-11-23",
+      "venue": "Journal of Psychiatric and Mental Health Nursing",
+      "doi": "10.1111/jpm.70219",
+      "arxiv_id": "",
+      "kind": "article",
+      "review_status": "已发表；评审状态未核实",
+      "source": "OpenAlex",
+      "sources": [
+        "OpenAlex"
+      ],
+      "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jpm.70219",
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jpm.70219",
+      "topic_ids": [
+        "governance"
+      ],
+      "relevance": 46,
+      "reason": "摘要提及user control",
+      "fetched_at": "2026-11-26T01:00:14.832923+00:00",
+      "digest_day": "2026-11-26",
       "vote": 0,
       "rank_score": 46
     },
@@ -6601,17 +6655,17 @@
       "rank_score": 46
     }
   ],
-  "last_refresh": "2026-11-25T01:27:10.559999+00:00",
+  "last_refresh": "2026-11-26T01:03:26.060384+00:00",
   "refresh": {
     "running": false,
-    "started": "2026-11-25T01:26:47.711547+00:00",
-    "finished": "2026-11-25T01:27:10.560252+00:00",
+    "started": "2026-11-26T01:00:13.838630+00:00",
+    "finished": "2026-11-26T01:03:26.062154+00:00",
     "sources": {
-      "OpenAlex": 9,
+      "OpenAlex": 10,
       "Crossref": 0,
-      "arXiv": 9
+      "arXiv": 0
     },
-    "error": null
+    "error": "arXiv: a bytes-like object is required, not 'NoneType'"
   },
   "configured_sources": [
     "OpenAlex",
@@ -6621,5 +6675,5 @@
   "semantic_scholar_enabled": false,
   "hosted": true,
   "pending_first_run": false,
-  "generated_at": "2026-11-25T09:27:10.593940+08:00"
+  "generated_at": "2026-11-26T09:03:26.111138+08:00"
 }
